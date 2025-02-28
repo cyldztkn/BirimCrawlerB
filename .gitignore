@@ -44,7 +44,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # Exported data directories
-/exports/
+# /exports/
 
 # Package manager specific files
 package-lock.json
