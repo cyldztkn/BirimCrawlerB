@@ -28,7 +28,7 @@ async function instagramOrganic() {
       const organicdata = { followerData, data };
 
       if (organicdata) {
-        const dir = `./exports/competitors/${name}`;
+        const dir = `./data/competitors/${name}`;
         if (!fs.existsSync(dir)) {
           fs.mkdirSync(dir, { recursive: true });
         }
@@ -43,9 +43,14 @@ async function instagramOrganic() {
   }
 
   saveJsonToFile(instagramData, "instagramOrganic");
+  fs.writeFileSync(
+    "./data/platforms/instagramOrganic.json",
+    JSON.stringify(instagramData, null, 2),
+    "utf8"
+  );
 }
 async function facebookOrganic() {
-  let instagramData = [];
+  let facebookData = [];
 
   for (let competitor of competitors) {
     const { name, faceId } = competitor;
@@ -62,10 +67,10 @@ async function facebookOrganic() {
       }));
 
       // console.log(`Data for ${name}:`, JSON.stringify(data, null, 2));
-      instagramData.push({ name, followerData, data });
+      facebookData.push({ name, followerData, data });
       const organicdata = { followerData, data };
       if (organicdata) {
-        const dir = `./exports/competitors/${name}`;
+        const dir = `./data/competitors/${name}`;
         if (!fs.existsSync(dir)) {
           fs.mkdirSync(dir, { recursive: true });
         }
@@ -79,10 +84,15 @@ async function facebookOrganic() {
     }
   }
 
-  saveJsonToFile(instagramData, "facebookOrganic");
+  saveJsonToFile(facebookData, "facebookOrganic");
+  fs.writeFileSync(
+    "./data/platforms/facebookOrganic.json",
+    JSON.stringify(facebookData, null, 2),
+    "utf8"
+  );
 }
 async function youtubeOrganic() {
-  let instagramData = [];
+  let youtubeData = [];
 
   for (let competitor of competitors) {
     const { name, youtubeId } = competitor;
@@ -99,11 +109,11 @@ async function youtubeOrganic() {
         date: addStandardizedDates("youtube", post.time),
       }));
 
-      instagramData.push({ name, followerData, data });
+      youtubeData.push({ name, followerData, data });
       const organicdata = { followerData, data };
 
       if (organicdata) {
-        const dir = `./exports/competitors/${name}`;
+        const dir = `./data/competitors/${name}`;
         if (!fs.existsSync(dir)) {
           fs.mkdirSync(dir, { recursive: true });
         }
@@ -116,7 +126,12 @@ async function youtubeOrganic() {
     }
   }
 
-  saveJsonToFile(instagramData, "youtubeOrganic");
+  saveJsonToFile(youtubeData, "youtubeOrganic");
+  fs.writeFileSync(
+    "./data/platforms/youtubeOrganic.json",
+    JSON.stringify(youtubeData, null, 2),
+    "utf8"
+  );
 }
 
 async function getLinkedinOrganics() {
@@ -146,7 +161,7 @@ async function getLinkedinOrganics() {
           console.log("rawData var, if bloğuna düştü");
 
           linkedinData.push({ name, data });
-          const dir = `./exports/competitors/${name}`;
+          const dir = `./data/competitors/${name}`;
           if (!fs.existsSync(dir)) {
             fs.mkdirSync(dir, { recursive: true });
           }
@@ -167,6 +182,11 @@ async function getLinkedinOrganics() {
   }
 
   saveJsonToFile(linkedinData, "linkedinOrganic");
+  fs.writeFileSync(
+    "./data/platforms/linkedinOrganic.json",
+    JSON.stringify(linkedinData, null, 2),
+    "utf8"
+  );
 }
 
 async function getAllData() {

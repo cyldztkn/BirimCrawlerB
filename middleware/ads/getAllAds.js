@@ -19,7 +19,7 @@ async function getMetaAdsData() {
 
         metaAdsData.push({ name, data });
         if (data) {
-          const dir = `./exports/competitors/${name}`;
+          const dir = `./data/competitors/${name}`;
           if (!fs.existsSync(dir)) {
             fs.mkdirSync(dir, { recursive: true });
           }
@@ -33,6 +33,11 @@ async function getMetaAdsData() {
     }
 
     saveJsonToFile(metaAdsData, "metaAdsData");
+    fs.writeFileSync(
+      "./data/platforms/metaAds.json",
+      JSON.stringify(metaAdsData, null, 2),
+      "utf8"
+    );
   } catch (error) {
     console.error("Hata:", error.message);
   }
@@ -51,7 +56,7 @@ async function getAllLinkedinAdsData() {
           const data = await getLinkedinAdsList(linkedinUrl, name);
           linkedinAdsData.push({ name, data });
           if (data) {
-            const dir = `./exports/competitors/${name}`;
+            const dir = `./data/competitors/${name}`;
             if (!fs.existsSync(dir)) {
               fs.mkdirSync(dir, { recursive: true });
             }
@@ -68,6 +73,11 @@ async function getAllLinkedinAdsData() {
     }
 
     saveJsonToFile(linkedinAdsData, "linkedinAdsData");
+    fs.writeFileSync(
+      "./data/platforms/linkedinAds.json",
+      JSON.stringify(linkedinAdsData, null, 2),
+      "utf8"
+    );
   } catch (error) {}
 }
 
@@ -81,7 +91,7 @@ async function getGoogleAds() {
       if (googleAdsId) {
         for (let googleAds of googleAdsId) {
           let data;
-          
+
           if (googleAds.type === "id") {
             console.log(`Fetching Google Ads data for ${name}...`);
             data = await getGoogleAdsById(googleAds.id, name);
@@ -93,7 +103,7 @@ async function getGoogleAds() {
           }
 
           if (data) {
-            const dir = `./exports/competitors/${name}`;
+            const dir = `./data/competitors/${name}`;
             if (!fs.existsSync(dir)) {
               fs.mkdirSync(dir, { recursive: true });
             }
@@ -108,6 +118,11 @@ async function getGoogleAds() {
     }
     // const formattedData = formatGoogleAdsData(googleAdsData);
     saveJsonToFile(googleAdsData, "googleAdsData");
+    fs.writeFileSync(
+      "./data/platforms/googleAds.json",
+      JSON.stringify(googleAdsData, null, 2),
+      "utf8"
+    );
   } catch (error) {
     console.error("Hata:", error.message);
   }

@@ -3,7 +3,7 @@ import {
   getMetaAdsData,
   getAllLinkedinAdsData,
   getGoogleAds,
-  getAllAdsData,
+  
 } from "./middleware/ads/getAllAds.js";
 
 import {

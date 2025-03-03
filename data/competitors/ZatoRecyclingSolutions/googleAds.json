@@ -1,0 +1,86 @@
+[
+  {
+    "advertiserId": "AR07568579308743032833",
+    "adsId": "CR11020093711609495553",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/12070878042171932515",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Zato Spa",
+    "website": "zatoshredder.com",
+    "startDate": "2024-04-15T22:07:50.000Z",
+    "lastView": "2024-05-17T21:59:24.000Z",
+    "countries": [
+      {
+        "country": "Finland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Norway",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Sweden",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR07568579308743032833",
+    "adsId": "CR15733442224408494081",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/902545824010966821",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Zato Spa",
+    "website": "zatoshredder.com",
+    "startDate": "2024-04-04T16:05:39.000Z",
+    "lastView": "2024-04-17T07:38:01.000Z",
+    "countries": [
+      {
+        "country": "Sweden",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Norway",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Finland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  }
+]
