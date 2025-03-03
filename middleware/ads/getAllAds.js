@@ -19,12 +19,12 @@ async function getMetaAdsData() {
 
         metaAdsData.push({ name, data });
         if (data) {
-          const dir = `./data/competitors/${name}`;
+          const dir = `./data/competitors/${name}/meta`;
           if (!fs.existsSync(dir)) {
             fs.mkdirSync(dir, { recursive: true });
           }
           fs.writeFileSync(
-            `${dir}/metaAds.json`,
+            `${dir}/ads.json`,
             JSON.stringify(data, null, 2),
             "utf8"
           );
@@ -56,12 +56,12 @@ async function getAllLinkedinAdsData() {
           const data = await getLinkedinAdsList(linkedinUrl, name);
           linkedinAdsData.push({ name, data });
           if (data) {
-            const dir = `./data/competitors/${name}`;
+            const dir = `./data/competitors/${name}/linkedin`;
             if (!fs.existsSync(dir)) {
               fs.mkdirSync(dir, { recursive: true });
             }
             fs.writeFileSync(
-              `${dir}/linkedinAds.json`,
+              `${dir}/ads.json`,
               JSON.stringify(data, null, 2),
               "utf8"
             );
@@ -103,12 +103,12 @@ async function getGoogleAds() {
           }
 
           if (data) {
-            const dir = `./data/competitors/${name}`;
+            const dir = `./data/competitors/${name}/google`;
             if (!fs.existsSync(dir)) {
               fs.mkdirSync(dir, { recursive: true });
             }
             fs.writeFileSync(
-              `${dir}/googleAds.json`,
+              `${dir}/ads.json`,
               JSON.stringify(data, null, 2),
               "utf8"
             );

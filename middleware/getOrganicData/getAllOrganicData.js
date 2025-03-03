@@ -23,12 +23,37 @@ async function instagramOrganic() {
         date: addStandardizedDates("instagram", post.time),
       }));
 
+      if (data) {
+        const dir = `./data/competitors/${name}/instagram`;
+        if (!fs.existsSync(dir)) {
+          fs.mkdirSync(dir, { recursive: true });
+        }
+
+        fs.writeFileSync(
+          `${dir}/posts.json`,
+          JSON.stringify(data, null, 2),
+          "utf8"
+        );
+      }
+
       const followerData = await fetchFollowerData(instaId);
-      // console.log(`Data for ${name}:`, JSON.stringify(data, null, 2));
+
+      if (followerData) {
+        const dir = `./data/competitors/${name}/instagram`;
+        if (!fs.existsSync(dir)) {
+          fs.mkdirSync(dir, { recursive: true });
+        }
+
+        fs.writeFileSync(
+          `${dir}/follower.json`,
+          JSON.stringify(followerData, null, 2),
+          "utf8"
+        );
+      }
       const organicdata = { followerData, data };
 
       if (organicdata) {
-        const dir = `./data/competitors/${name}`;
+        const dir = `./data/competitors/${name}/instagram`;
         if (!fs.existsSync(dir)) {
           fs.mkdirSync(dir, { recursive: true });
         }
@@ -61,16 +86,43 @@ async function facebookOrganic() {
         "facebookOrganic"
       );
       const followerData = await fetchFollowerData(faceId);
+
+      if (followerData) {
+        const dir = `./data/competitors/${name}/facebook`;
+        if (!fs.existsSync(dir)) {
+          fs.mkdirSync(dir, { recursive: true });
+        }
+
+        fs.writeFileSync(
+          `${dir}/follower.json`,
+          JSON.stringify(followerData, null, 2),
+          "utf8"
+        );
+      }
+
       const data = rawData.map((post) => ({
         ...post,
         date: addStandardizedDates("instagram", post.time),
       }));
 
+      if (data) {
+        const dir = `./data/competitors/${name}/facebook`;
+        if (!fs.existsSync(dir)) {
+          fs.mkdirSync(dir, { recursive: true });
+        }
+
+        fs.writeFileSync(
+          `${dir}/posts.json`,
+          JSON.stringify(data, null, 2),
+          "utf8"
+        );
+      }
+
       // console.log(`Data for ${name}:`, JSON.stringify(data, null, 2));
       facebookData.push({ name, followerData, data });
       const organicdata = { followerData, data };
       if (organicdata) {
-        const dir = `./data/competitors/${name}`;
+        const dir = `./data/competitors/${name}/facebook`;
         if (!fs.existsSync(dir)) {
           fs.mkdirSync(dir, { recursive: true });
         }
@@ -104,16 +156,42 @@ async function youtubeOrganic() {
       );
       // console.log(`Data for ${name}:`, JSON.stringify(data, null, 2));
       const followerData = await fetchFollowerData(youtubeId);
+
+      if (followerData) {
+        const dir = `./data/competitors/${name}/youtube`;
+        if (!fs.existsSync(dir)) {
+          fs.mkdirSync(dir, { recursive: true });
+        }
+
+        fs.writeFileSync(
+          `${dir}/follower.json`,
+          JSON.stringify(followerData, null, 2),
+          "utf8"
+        );
+      }
       const data = rawData.map((post) => ({
         ...post,
         date: addStandardizedDates("youtube", post.time),
       }));
 
+      if (data) {
+        const dir = `./data/competitors/${name}/youtube`;
+        if (!fs.existsSync(dir)) {
+          fs.mkdirSync(dir, { recursive: true });
+        }
+
+        fs.writeFileSync(
+          `${dir}/posts.json`,
+          JSON.stringify(data, null, 2),
+          "utf8"
+        );
+      }
+
       youtubeData.push({ name, followerData, data });
       const organicdata = { followerData, data };
 
       if (organicdata) {
-        const dir = `./data/competitors/${name}`;
+        const dir = `./data/competitors/${name}/youtube`;
         if (!fs.existsSync(dir)) {
           fs.mkdirSync(dir, { recursive: true });
         }
@@ -158,16 +236,25 @@ async function getLinkedinOrganics() {
         const data = await scrapLinkednAtMobile(url, name);
 
         if (data) {
-          console.log("rawData var, if bloğuna düştü");
-
           linkedinData.push({ name, data });
-          const dir = `./data/competitors/${name}`;
+          const dir = `./data/competitors/${name}/linkedin`;
           if (!fs.existsSync(dir)) {
             fs.mkdirSync(dir, { recursive: true });
           }
           fs.writeFileSync(
-            `${dir}/linkednOrganic_DATETEST.json`,
+            `${dir}/posts.json`,
+            JSON.stringify(data.data, null, 2),
+            "utf8"
+          );
+          fs.writeFileSync(
+            `${dir}/linkedinOrganic.json`,
             JSON.stringify(data, null, 2),
+            "utf8"
+          );
+
+          fs.writeFileSync(
+            `${dir}/follower.json`,
+            JSON.stringify(data.followerCount, null, 2),
             "utf8"
           );
         } else {
