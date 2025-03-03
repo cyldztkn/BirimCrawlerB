@@ -908,26 +908,26 @@
             },
             {
               "age_range": "25-34",
-              "male": 650,
+              "male": 654,
               "female": 32,
               "unknown": 2
             },
             {
               "age_range": "35-44",
-              "male": 492,
-              "female": 35,
+              "male": 498,
+              "female": 36,
               "unknown": 6
             },
             {
               "age_range": "45-54",
-              "male": 259,
+              "male": 262,
               "female": 31,
               "unknown": 1
             },
             {
               "age_range": "55-64",
-              "male": 62,
-              "female": 7
+              "male": 63,
+              "female": 8
             },
             {
               "age_range": "65+",
@@ -937,7 +937,7 @@
           ]
         }
       ],
-      "eu_total_reach": 1809,
+      "eu_total_reach": 1833,
       "target_ages": [
         "18",
         "65"

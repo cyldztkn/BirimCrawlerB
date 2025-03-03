@@ -252,9 +252,33 @@ async function getLinkedinOrganics() {
             "utf8"
           );
 
+          // Follower verisi için yeni format
+          const currentTimestamp = Date.now();
+          const newFollowerData = [currentTimestamp, data.followerCount];
+
+          // Mevcut veriyi oku ve yeni veriyi ekle
+          let existingData = { followerData: [] };
+          const followerFilePath = `${dir}/follower.json`;
+          
+          if (fs.existsSync(followerFilePath)) {
+            try {
+              const fileContent = fs.readFileSync(followerFilePath, 'utf8');
+              existingData = JSON.parse(fileContent);
+              if (!existingData.followerData) {
+                existingData.followerData = [];
+              }
+            } catch (error) {
+              console.error(`Error reading existing follower data: ${error}`);
+            }
+          }
+
+          // Yeni veriyi ekle
+          existingData.followerData.push(newFollowerData);
+
+          // Dosyaya yaz
           fs.writeFileSync(
-            `${dir}/follower.json`,
-            JSON.stringify(data.followerCount, null, 2),
+            followerFilePath,
+            JSON.stringify(existingData, null, 2),
             "utf8"
           );
         } else {
