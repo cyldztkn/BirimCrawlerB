@@ -66,26 +66,21 @@ async function instagramOrganic() {
       }
 
       // Yeni follower verisini ekle (aynı timestamp kontrolü)
-      if (followerData) {
-        const combinedData = [...existingFollowers, ...followerData];
-
-        const uniqueMap = new Map();
-
-        combinedData.forEach((item) => {
-          uniqueMap.set(item[0], item);
-        });
-        const uniqueArray = Array.from(uniqueMap.values());
-
+      if (
+        followerData &&
+        !existingFollowers.some((f) => f[0] === followerData[0])
+      ) {
+        existingFollowers.push(followerData);
         fs.writeFileSync(
           followerFilePath,
-          JSON.stringify(uniqueArray, null, 2),
+          JSON.stringify(existingFollowers, null, 2),
           "utf8"
         );
       }
 
       // InstagramOrganic.json güncelleme
       const organicData = {
-        followerData: uniqueArray,
+        followerData: existingFollowers,
         data: updatedPosts,
       };
       fs.writeFileSync(
@@ -96,7 +91,7 @@ async function instagramOrganic() {
 
       instagramData.push({
         name,
-        followerData: uniqueArray,
+        followerData: existingFollowers,
         data: updatedPosts,
       });
     }
@@ -167,26 +162,21 @@ async function facebookOrganic() {
       }
 
       // Yeni follower verisini ekle (aynı timestamp kontrolü)
-      if (followerData) {
-        const combinedData = [...existingFollowers, ...followerData];
-
-        const uniqueMap = new Map();
-
-        combinedData.forEach((item) => {
-          uniqueMap.set(item[0], item);
-        });
-        const uniqueArray = Array.from(uniqueMap.values());
-
+      if (
+        followerData &&
+        !existingFollowers.some((f) => f[0] === followerData[0])
+      ) {
+        existingFollowers.push(followerData);
         fs.writeFileSync(
           followerFilePath,
-          JSON.stringify(uniqueArray, null, 2),
+          JSON.stringify(existingFollowers, null, 2),
           "utf8"
         );
       }
 
       // FacebookOrganic.json güncelleme
       const organicData = {
-        followerData: uniqueArray,
+        followerData: existingFollowers,
         data: updatedPosts,
       };
       fs.writeFileSync(
@@ -197,7 +187,7 @@ async function facebookOrganic() {
 
       facebookData.push({
         name,
-        followerData: uniqueArray,
+        followerData: existingFollowers,
         data: updatedPosts,
       });
     }
@@ -268,26 +258,21 @@ async function youtubeOrganic() {
       }
 
       // Yeni follower verisini ekle (aynı timestamp kontrolü)
-      if (followerData) {
-        const combinedData = [...existingFollowers, ...followerData];
-
-        const uniqueMap = new Map();
-
-        combinedData.forEach((item) => {
-          uniqueMap.set(item[0], item);
-        });
-        const uniqueArray = Array.from(uniqueMap.values());
-
+      if (
+        followerData &&
+        !existingFollowers.some((f) => f[0] === followerData[0])
+      ) {
+        existingFollowers.push(followerData);
         fs.writeFileSync(
           followerFilePath,
-          JSON.stringify(uniqueArray, null, 2),
+          JSON.stringify(existingFollowers, null, 2),
           "utf8"
         );
       }
 
       // YoutubeOrganic.json güncelleme
       const organicData = {
-        followerData: uniqueArray,
+        followerData: existingFollowers,
         data: updatedPosts,
       };
       fs.writeFileSync(
@@ -298,7 +283,7 @@ async function youtubeOrganic() {
 
       youtubeData.push({
         name,
-        followerData: uniqueArray,
+        followerData: existingFollowers,
         data: updatedPosts,
       });
     }
