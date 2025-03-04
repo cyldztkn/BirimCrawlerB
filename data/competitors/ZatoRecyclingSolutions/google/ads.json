@@ -53,15 +53,7 @@
     "lastView": "2024-04-17T07:38:01.000Z",
     "countries": [
       {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Belgium",
+        "country": "Sweden",
         "averageClicks": "1000"
       },
       {
@@ -69,7 +61,15 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Sweden",
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Netherlands",
         "averageClicks": "1000"
       },
       {
@@ -77,7 +77,7 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Netherlands",
+        "country": "Poland",
         "averageClicks": "1000"
       }
     ],

@@ -151,7 +151,7 @@ async function getLinkedinAdsList(url, companyName) {
             : Math.floor(endDate.getTime() / 1000),
         };
       } catch (error) {
-        console.log("run Time error", error.message);
+        // console.log("run Time error", error.message);
         singleAds.runTime = {
           humanize: null,
           startTime: null,

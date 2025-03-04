@@ -19,6 +19,9 @@ import { getAllAdsData } from "./middleware/ads/getAllAds.js";
 // Utility
 import { saveJsonToFile } from "./utility/createJson.js";
 
+// Api Endpoint Route
+import competitorsRouter from "./api/competitors.js";
+
 const app = express();
 app.use(express.json());
 app.use(cors());
@@ -26,17 +29,19 @@ const port = process.env.PORT || 3000;
 
 // Data yenileme İsteği
 app.get("/refresh-data", (req, res) => {
-  // getAllData();
-  // getAllAdsData();
+  getAllData();
+  getAllAdsData();
   res.status(200).json({ message: "Refresh Start" });
 });
 
-// competitors Listesi İsteği
-app.get("/competitors", (req, res) => {
-  // Sadece name'leri çıkarıp döndürüyoruz
-  const competitorNames = competitors.map((competitor) => competitor.name);
-  res.json(competitors);
-});
+// // competitors Listesi İsteği
+// app.get("/competitors", (req, res) => {
+//   // Sadece name'leri çıkarıp döndürüyoruz
+//   const competitorNames = competitors.map((competitor) => competitor.name);
+//   res.json(competitors);
+// });
+
+app.use("/competitors", competitorsRouter);
 
 // Belirli Rakibin Belirli Platform Dataları
 app.get("/competitors/:competitor/:platform", (req, res) => {

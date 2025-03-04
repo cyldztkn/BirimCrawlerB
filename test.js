@@ -17,6 +17,6 @@ import {
 // getAllData();
 // facebookOrganic();
 getAllData();
-// getAllAdsData();
+getAllAdsData();
 
 // Test
