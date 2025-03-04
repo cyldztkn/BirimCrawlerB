@@ -73,7 +73,7 @@ async function scrapLinkednAtMobile(url, companyName) {
     await page.evaluate(async () => {
       await new Promise((resolve) => {
         let totalHeight = 0;
-        const distance = 350;
+        const distance = 500;
         let retries = 0;
         const maxRetries = 5; // 5 kez bekleyip tekrar kontrol etmesini sağlıyoruz.
 
@@ -89,7 +89,7 @@ async function scrapLinkednAtMobile(url, companyName) {
                 `Waiting for more content... (${retries}/${maxRetries})`
               );
               totalHeight -= distance; // Son kaydırmayı geri al
-              await new Promise((r) => setTimeout(r, 1000)); // 1 saniye bekle
+              await new Promise((r) => setTimeout(r, 600)); // 1 saniye bekle
             } else {
               console.log("No more content loaded, stopping scroll.");
               clearInterval(timer);

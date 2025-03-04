@@ -18,52 +18,87 @@ async function instagramOrganic() {
         "instagramOrganic"
       );
       // Tarihleri standardize et
-      const data = rawData.map((post) => ({
+      const newData = rawData.map((post) => ({
         ...post,
         date: addStandardizedDates("instagram", post.time),
       }));
 
-      if (data) {
-        const dir = `./data/competitors/${name}/instagram`;
-        if (!fs.existsSync(dir)) {
-          fs.mkdirSync(dir, { recursive: true });
-        }
-
-        fs.writeFileSync(
-          `${dir}/posts.json`,
-          JSON.stringify(data, null, 2),
-          "utf8"
-        );
+      const dir = `./data/competitors/${name}/instagram`;
+      if (!fs.existsSync(dir)) {
+        fs.mkdirSync(dir, { recursive: true });
       }
 
+      // Mevcut post verilerini oku
+      let existingPosts = [];
+      const postsFilePath = `${dir}/posts.json`;
+      if (fs.existsSync(postsFilePath)) {
+        existingPosts = JSON.parse(fs.readFileSync(postsFilePath, "utf8"));
+      }
+
+      // Yeni verileri mevcut verilere ekle (aynı olanları atla)
+
+      const updatedPosts = [...existingPosts];
+      newData.forEach((newPost) => {
+        if (
+          !existingPosts.some(
+            (existingPost) => existingPost.link === newPost.link
+          )
+        ) {
+          updatedPosts.push(newPost);
+        }
+      });
+
+      // Güncellenmiş verileri yaz
+      fs.writeFileSync(
+        postsFilePath,
+        JSON.stringify(updatedPosts, null, 2),
+        "utf8"
+      );
+
+      // Follower verilerini işle
       const followerData = await fetchFollowerData(instaId);
+      let existingFollowers = [];
+      const followerFilePath = `${dir}/follower.json`;
+      if (fs.existsSync(followerFilePath)) {
+        existingFollowers = JSON.parse(
+          fs.readFileSync(followerFilePath, "utf8")
+        );
+      }
 
+      // Yeni follower verisini ekle (aynı timestamp kontrolü)
       if (followerData) {
-        const dir = `./data/competitors/${name}/instagram`;
-        if (!fs.existsSync(dir)) {
-          fs.mkdirSync(dir, { recursive: true });
-        }
+        const combinedData = [...existingFollowers, ...followerData];
+
+        const uniqueMap = new Map();
+
+        combinedData.forEach((item) => {
+          uniqueMap.set(item[0], item);
+        });
+        const uniqueArray = Array.from(uniqueMap.values());
 
         fs.writeFileSync(
-          `${dir}/follower.json`,
-          JSON.stringify(followerData, null, 2),
+          followerFilePath,
+          JSON.stringify(uniqueArray, null, 2),
           "utf8"
         );
       }
-      const organicdata = { followerData, data };
 
-      if (organicdata) {
-        const dir = `./data/competitors/${name}/instagram`;
-        if (!fs.existsSync(dir)) {
-          fs.mkdirSync(dir, { recursive: true });
-        }
-        fs.writeFileSync(
-          `${dir}/instagramOrganic.json`,
-          JSON.stringify(organicdata, null, 2),
-          "utf8"
-        );
-      }
-      instagramData.push({ name, followerData, data });
+      // InstagramOrganic.json güncelleme
+      const organicData = {
+        followerData: uniqueArray,
+        data: updatedPosts,
+      };
+      fs.writeFileSync(
+        `${dir}/instagramOrganic.json`,
+        JSON.stringify(organicData, null, 2),
+        "utf8"
+      );
+
+      instagramData.push({
+        name,
+        followerData: uniqueArray,
+        data: updatedPosts,
+      });
     }
   }
 
@@ -85,54 +120,86 @@ async function facebookOrganic() {
         faceId,
         "facebookOrganic"
       );
-      const followerData = await fetchFollowerData(faceId);
-
-      if (followerData) {
-        const dir = `./data/competitors/${name}/facebook`;
-        if (!fs.existsSync(dir)) {
-          fs.mkdirSync(dir, { recursive: true });
-        }
-
-        fs.writeFileSync(
-          `${dir}/follower.json`,
-          JSON.stringify(followerData, null, 2),
-          "utf8"
-        );
-      }
-
-      const data = rawData.map((post) => ({
+      const newData = rawData.map((post) => ({
         ...post,
         date: addStandardizedDates("instagram", post.time),
       }));
 
-      if (data) {
-        const dir = `./data/competitors/${name}/facebook`;
-        if (!fs.existsSync(dir)) {
-          fs.mkdirSync(dir, { recursive: true });
+      const dir = `./data/competitors/${name}/facebook`;
+      if (!fs.existsSync(dir)) {
+        fs.mkdirSync(dir, { recursive: true });
+      }
+
+      // Mevcut post verilerini oku
+      let existingPosts = [];
+      const postsFilePath = `${dir}/posts.json`;
+      if (fs.existsSync(postsFilePath)) {
+        existingPosts = JSON.parse(fs.readFileSync(postsFilePath, "utf8"));
+      }
+
+      // Yeni verileri mevcut verilere ekle (aynı olanları atla)
+      const updatedPosts = [...existingPosts];
+      newData.forEach((newPost) => {
+        if (
+          !existingPosts.some(
+            (existingPost) => existingPost.link === newPost.link
+          )
+        ) {
+          updatedPosts.push(newPost);
         }
+      });
+
+      // Güncellenmiş verileri yaz
+      fs.writeFileSync(
+        postsFilePath,
+        JSON.stringify(updatedPosts, null, 2),
+        "utf8"
+      );
+
+      // Follower verilerini işle
+      const followerData = await fetchFollowerData(faceId);
+      let existingFollowers = [];
+      const followerFilePath = `${dir}/follower.json`;
+      if (fs.existsSync(followerFilePath)) {
+        existingFollowers = JSON.parse(
+          fs.readFileSync(followerFilePath, "utf8")
+        );
+      }
+
+      // Yeni follower verisini ekle (aynı timestamp kontrolü)
+      if (followerData) {
+        const combinedData = [...existingFollowers, ...followerData];
+
+        const uniqueMap = new Map();
+
+        combinedData.forEach((item) => {
+          uniqueMap.set(item[0], item);
+        });
+        const uniqueArray = Array.from(uniqueMap.values());
 
         fs.writeFileSync(
-          `${dir}/posts.json`,
-          JSON.stringify(data, null, 2),
+          followerFilePath,
+          JSON.stringify(uniqueArray, null, 2),
           "utf8"
         );
       }
 
-      // console.log(`Data for ${name}:`, JSON.stringify(data, null, 2));
-      facebookData.push({ name, followerData, data });
-      const organicdata = { followerData, data };
-      if (organicdata) {
-        const dir = `./data/competitors/${name}/facebook`;
-        if (!fs.existsSync(dir)) {
-          fs.mkdirSync(dir, { recursive: true });
-        }
+      // FacebookOrganic.json güncelleme
+      const organicData = {
+        followerData: uniqueArray,
+        data: updatedPosts,
+      };
+      fs.writeFileSync(
+        `${dir}/facebookOrganic.json`,
+        JSON.stringify(organicData, null, 2),
+        "utf8"
+      );
 
-        fs.writeFileSync(
-          `${dir}/facebookOrganic.json`,
-          JSON.stringify(organicdata, null, 2),
-          "utf8"
-        );
-      }
+      facebookData.push({
+        name,
+        followerData: uniqueArray,
+        data: updatedPosts,
+      });
     }
   }
 
@@ -154,53 +221,86 @@ async function youtubeOrganic() {
         youtubeId,
         "youtubeOrganic"
       );
-      // console.log(`Data for ${name}:`, JSON.stringify(data, null, 2));
-      const followerData = await fetchFollowerData(youtubeId);
-
-      if (followerData) {
-        const dir = `./data/competitors/${name}/youtube`;
-        if (!fs.existsSync(dir)) {
-          fs.mkdirSync(dir, { recursive: true });
-        }
-
-        fs.writeFileSync(
-          `${dir}/follower.json`,
-          JSON.stringify(followerData, null, 2),
-          "utf8"
-        );
-      }
-      const data = rawData.map((post) => ({
+      const newData = rawData.map((post) => ({
         ...post,
         date: addStandardizedDates("youtube", post.time),
       }));
 
-      if (data) {
-        const dir = `./data/competitors/${name}/youtube`;
-        if (!fs.existsSync(dir)) {
-          fs.mkdirSync(dir, { recursive: true });
+      const dir = `./data/competitors/${name}/youtube`;
+      if (!fs.existsSync(dir)) {
+        fs.mkdirSync(dir, { recursive: true });
+      }
+
+      // Mevcut post verilerini oku
+      let existingPosts = [];
+      const postsFilePath = `${dir}/posts.json`;
+      if (fs.existsSync(postsFilePath)) {
+        existingPosts = JSON.parse(fs.readFileSync(postsFilePath, "utf8"));
+      }
+
+      // Yeni verileri mevcut verilere ekle (aynı olanları atla)
+      const updatedPosts = [...existingPosts];
+      newData.forEach((newPost) => {
+        if (
+          !existingPosts.some(
+            (existingPost) => existingPost.link === newPost.link
+          )
+        ) {
+          updatedPosts.push(newPost);
         }
+      });
+
+      // Güncellenmiş verileri yaz
+      fs.writeFileSync(
+        postsFilePath,
+        JSON.stringify(updatedPosts, null, 2),
+        "utf8"
+      );
+
+      // Follower verilerini işle
+      const followerData = await fetchFollowerData(youtubeId);
+      let existingFollowers = [];
+      const followerFilePath = `${dir}/follower.json`;
+      if (fs.existsSync(followerFilePath)) {
+        existingFollowers = JSON.parse(
+          fs.readFileSync(followerFilePath, "utf8")
+        );
+      }
+
+      // Yeni follower verisini ekle (aynı timestamp kontrolü)
+      if (followerData) {
+        const combinedData = [...existingFollowers, ...followerData];
+
+        const uniqueMap = new Map();
+
+        combinedData.forEach((item) => {
+          uniqueMap.set(item[0], item);
+        });
+        const uniqueArray = Array.from(uniqueMap.values());
 
         fs.writeFileSync(
-          `${dir}/posts.json`,
-          JSON.stringify(data, null, 2),
+          followerFilePath,
+          JSON.stringify(uniqueArray, null, 2),
           "utf8"
         );
       }
 
-      youtubeData.push({ name, followerData, data });
-      const organicdata = { followerData, data };
+      // YoutubeOrganic.json güncelleme
+      const organicData = {
+        followerData: uniqueArray,
+        data: updatedPosts,
+      };
+      fs.writeFileSync(
+        `${dir}/youtubeOrganic.json`,
+        JSON.stringify(organicData, null, 2),
+        "utf8"
+      );
 
-      if (organicdata) {
-        const dir = `./data/competitors/${name}/youtube`;
-        if (!fs.existsSync(dir)) {
-          fs.mkdirSync(dir, { recursive: true });
-        }
-        fs.writeFileSync(
-          `${dir}/youtubeOrganic.json`,
-          JSON.stringify(organicdata, null, 2),
-          "utf8"
-        );
-      }
+      youtubeData.push({
+        name,
+        followerData: uniqueArray,
+        data: updatedPosts,
+      });
     }
   }
 
@@ -227,60 +327,84 @@ async function getLinkedinOrganics() {
     if (linkedinId) {
       try {
         const url = `https://www.linkedin.com/company/${linkedinId}/`;
-
-        // Add random delay between requests (2-5 seconds)
         const delay = Math.floor(Math.random() * 3000) + 2000;
-
         await new Promise((resolve) => setTimeout(resolve, delay));
 
         const data = await scrapLinkednAtMobile(url, name);
 
         if (data) {
-          linkedinData.push({ name, data });
           const dir = `./data/competitors/${name}/linkedin`;
           if (!fs.existsSync(dir)) {
             fs.mkdirSync(dir, { recursive: true });
           }
+
+          // Mevcut post verilerini oku
+          let existingPosts = [];
+          const postsFilePath = `${dir}/posts.json`;
+          if (fs.existsSync(postsFilePath)) {
+            existingPosts = JSON.parse(fs.readFileSync(postsFilePath, "utf8"));
+          }
+
+          // Yeni verileri mevcut verilere ekle (aynı olanları atla)
+          const combinedData = [...existingPosts, ...data.data];
+
+          const uniqueMap = new Map();
+
+          combinedData.forEach((item) => {
+            uniqueMap.set(item.captions, item);
+          });
+
+          const uniqueArray = Array.from(uniqueMap.values());
+
+          // Güncellenmiş verileri yaz
           fs.writeFileSync(
-            `${dir}/posts.json`,
-            JSON.stringify(data.data, null, 2),
-            "utf8"
-          );
-          fs.writeFileSync(
-            `${dir}/linkedinOrganic.json`,
-            JSON.stringify(data, null, 2),
+            postsFilePath,
+            JSON.stringify(uniqueArray, null, 2),
             "utf8"
           );
 
-          // Follower verisi için yeni format
+          // Follower verilerini işle
           const currentTimestamp = Date.now();
           const newFollowerData = [currentTimestamp, data.followerCount];
 
-          // Mevcut veriyi oku ve yeni veriyi ekle
-          let existingData = { followerData: [] };
+          let existingFollowers = { followerData: [] };
           const followerFilePath = `${dir}/follower.json`;
-          
           if (fs.existsSync(followerFilePath)) {
-            try {
-              const fileContent = fs.readFileSync(followerFilePath, 'utf8');
-              existingData = JSON.parse(fileContent);
-              if (!existingData.followerData) {
-                existingData.followerData = [];
-              }
-            } catch (error) {
-              console.error(`Error reading existing follower data: ${error}`);
-            }
+            existingFollowers = JSON.parse(
+              fs.readFileSync(followerFilePath, "utf8")
+            );
           }
 
-          // Yeni veriyi ekle
-          existingData.followerData.push(newFollowerData);
+          // Yeni follower verisini ekle (aynı timestamp kontrolü)
+          if (
+            !existingFollowers.followerData.some(
+              (f) => f[0] === newFollowerData[0]
+            )
+          ) {
+            existingFollowers.followerData.push(newFollowerData);
+            fs.writeFileSync(
+              followerFilePath,
+              JSON.stringify(existingFollowers, null, 2),
+              "utf8"
+            );
+          }
 
-          // Dosyaya yaz
+          // LinkedinOrganic.json güncelleme
+          const organicData = {
+            followerData: existingFollowers.followerData,
+            data: uniqueArray,
+          };
           fs.writeFileSync(
-            followerFilePath,
-            JSON.stringify(existingData, null, 2),
+            `${dir}/linkedinOrganic.json`,
+            JSON.stringify(organicData, null, 2),
             "utf8"
           );
+
+          linkedinData.push({
+            name,
+            followerData: existingFollowers.followerData,
+            data: uniqueArray,
+          });
         } else {
           console.log(`No data found for ${name}`);
         }
