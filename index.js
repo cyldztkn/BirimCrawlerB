@@ -1,124 +1,72 @@
-// İmport Server Staff
+// Temel importlar
 import express from "express";
-import competitors from "./Competitors/competitors.js";
-import cors from "cors"; // CORS paketini import ediyoruz
+import cors from "cors";
+import cron from "node-cron";
 
-import fs from "fs";
-import path from "path";
-import { fileURLToPath } from "url";
+// Yapılandırma
+import config from "./config/config.js";
 
-import jwt from "jsonwebtoken";
+// Rotalar
+import authRoutes from "./api/authRoutes.js";
+import competitorRoutes from "./api/competitors.js";
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-
-// Import Crawler functions
+// Middleware'ler
 import { getAllData } from "./middleware/getOrganicData/getAllOrganicData.js";
 import { getAllAdsData } from "./middleware/ads/getAllAds.js";
 
-// Utility
-import { saveJsonToFile } from "./utility/createJson.js";
-
-// Api Endpoint Route
-import competitorsRouter from "./api/competitors.js";
-
 const app = express();
+
+// Middleware kurulumu
 app.use(express.json());
-app.use(cors());
-const port = process.env.PORT || 3000;
+app.use(cors(config.security.cors));
 
-// Data yenileme İsteği
-app.get("/refresh-data", (req, res) => {
-  getAllData();
-  getAllAdsData();
-  res.status(200).json({ message: "Refresh Start" });
-});
+// Rotaları bağlama
+app.use("/auth", authRoutes);
+app.use("/competitors", competitorRoutes);
 
-// // competitors Listesi İsteği
-// app.get("/competitors", (req, res) => {
-//   // Sadece name'leri çıkarıp döndürüyoruz
-//   const competitorNames = competitors.map((competitor) => competitor.name);
-//   res.json(competitors);
-// });
-
-app.use("/competitors", competitorsRouter);
-
-// Belirli Rakibin Belirli Platform Dataları
-app.get("/competitors/:competitor/:platform", (req, res) => {
-  const { competitor, platform } = req.params;
-  console.log(competitor, platform);
-
-  // Dosya yolu oluştur
-  const filePath = path.join(
-    __dirname,
-    "exports",
-    "competitors",
-    competitor,
-    `${platform}Organic.json`
-  );
-
-  // Dosyanın olup olmadığını kontrol et
-  if (fs.existsSync(filePath)) {
-    res.sendFile(filePath);
-  } else {
-    res.status(404).json({ error: "Dosya bulunamadı" });
-  }
-});
-
-// Son Hafta Bilgileri
-
-// Auth işlemleri
-const SECRET_KEY = process.env.JWT_SECRET_KEY;
-
-// Fake kullanıcı verisi
-const FAKE_USER = {
-  email: process.env.ADMIN_EMAIL,
-  password: process.env.ADMIN_PASSWORD,
-};
-
-app.post("/auth/login", (req, res) => {
-  console.log(req.body);
-  const { email, password } = req.body;
-  console.log(email, password, req.body);
-
-  // Basit kullanıcı kontrolü
-  if (email === FAKE_USER.email && password == FAKE_USER.password) {
-    const token = jwt.sign({ email }, SECRET_KEY, { expiresIn: "1h" });
-
-    console.log("generated token", token);
-
-    return res.json({ success: true, user: { email }, token });
-  }
-
-  return res
-    .status(401)
-    .json({ success: false, message: "Invalid credentials" });
-});
-
-app.get("/auth", (req, res) => {
-  res.status(200).json({ data: { user: "asd" } });
-});
-
-app.get("/auth/me", (req, res) => {
-  const token = req.headers.authorization?.split(" ")[1];
-
-  if (!token) {
-    return res
-      .status(401)
-      .json({ success: false, message: "No token provided" });
-  }
-
+// Veri yenileme endpoint'i
+app.get("/refresh-data", async (req, res) => {
   try {
-    const decoded = jwt.verify(token, SECRET_KEY);
-    return res.json({ success: true, user: { email: decoded.email } });
+    getAllData();
+    getAllAdsData();
+    res.status(200).json({ message: "Veri yenileme başarıyla tamamlandı" });
   } catch (error) {
-    return res.status(401).json({ success: false, message: "Invalid token" });
+    console.error("Veri yenileme hatası:", error);
+    res
+      .status(500)
+      .json({ message: "Veri yenileme sırasında bir hata oluştu" });
   }
+});
+
+// Zamanlanmış görevler
+if (config.cron.enabled) {
+  cron.schedule(config.cron.schedule, () => {
+    console.log("Otomatik tarama başlatılıyor...");
+    getAllData();
+    getAllAdsData();
+  });
+}
+
+// Hata yönetimi middleware'i
+app.use((err, req, res, next) => {
+  console.error(err.stack);
+  res.status(500).json({
+    success: false,
+    message: "Bir hata oluştu",
+    error: config.app.env === "development" ? err.message : null,
+  });
+});
+
+// 404 handler
+app.use((req, res) => {
+  res.status(404).json({
+    success: false,
+    message: "Endpoint bulunamadı",
+  });
 });
 
 // Sunucuyu başlat
-app.listen(port, () => {
-  console.log(`API http://localhost:${port} adresinde çalışıyor`);
+app.listen(config.app.port, () => {
+  console.log(`API http://localhost:${config.app.port} adresinde çalışıyor`);
+  console.log(`Ortam: ${config.app.env}`);
 });
-
-// Branch Test

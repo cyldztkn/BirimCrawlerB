@@ -129,9 +129,9 @@ async function getGoogleAds() {
 }
 
 async function getAllAdsData() {
-  await getMetaAdsData();
-  await getGoogleAds();
-  await getAllLinkedinAdsData();
+  getMetaAdsData();
+  getGoogleAds();
+  getAllLinkedinAdsData();
 }
 
 export { getAllAdsData, getMetaAdsData, getAllLinkedinAdsData, getGoogleAds };

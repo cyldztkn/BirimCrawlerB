@@ -89,7 +89,7 @@ async function getLinkedinAdsList(url, companyName) {
           singleAds.creative.content = null;
         }
       } catch (error) {
-        console.log("creative error", error.message);
+        // console.log("creative error", error.message);
         singleAds.creative = {
           type: "unknown",
           content: null,
