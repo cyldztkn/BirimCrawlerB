@@ -59,18 +59,21 @@ async function instagramOrganic() {
       const followerData = await fetchFollowerData(instaId);
       let existingFollowers = [];
       const followerFilePath = `${dir}/follower.json`;
+
       if (fs.existsSync(followerFilePath)) {
         existingFollowers = JSON.parse(
           fs.readFileSync(followerFilePath, "utf8")
         );
       }
 
-      // Yeni follower verisini ekle (aynı timestamp kontrolü)
-      if (
-        followerData &&
-        !existingFollowers.some((f) => f[0] === followerData[0])
-      ) {
-        existingFollowers.push(followerData);
+      // Yeni follower verilerini tek tek kontrol edip ekle
+      const newFollowers = followerData.filter(
+        (newEntry) =>
+          !existingFollowers.some((existing) => existing[0] === newEntry[0])
+      );
+
+      if (newFollowers.length > 0) {
+        existingFollowers.push(...newFollowers); // Yeni verileri ekle
         fs.writeFileSync(
           followerFilePath,
           JSON.stringify(existingFollowers, null, 2),
@@ -155,18 +158,21 @@ async function facebookOrganic() {
       const followerData = await fetchFollowerData(faceId);
       let existingFollowers = [];
       const followerFilePath = `${dir}/follower.json`;
+
       if (fs.existsSync(followerFilePath)) {
         existingFollowers = JSON.parse(
           fs.readFileSync(followerFilePath, "utf8")
         );
       }
 
-      // Yeni follower verisini ekle (aynı timestamp kontrolü)
-      if (
-        followerData &&
-        !existingFollowers.some((f) => f[0] === followerData[0])
-      ) {
-        existingFollowers.push(followerData);
+      // Yeni follower verilerini tek tek kontrol edip ekle
+      const newFollowers = followerData.filter(
+        (newEntry) =>
+          !existingFollowers.some((existing) => existing[0] === newEntry[0])
+      );
+
+      if (newFollowers.length > 0) {
+        existingFollowers.push(...newFollowers); // Yeni verileri ekle
         fs.writeFileSync(
           followerFilePath,
           JSON.stringify(existingFollowers, null, 2),
@@ -251,25 +257,27 @@ async function youtubeOrganic() {
       const followerData = await fetchFollowerData(youtubeId);
       let existingFollowers = [];
       const followerFilePath = `${dir}/follower.json`;
+
       if (fs.existsSync(followerFilePath)) {
         existingFollowers = JSON.parse(
           fs.readFileSync(followerFilePath, "utf8")
         );
       }
 
-      // Yeni follower verisini ekle (aynı timestamp kontrolü)
-      if (
-        followerData &&
-        !existingFollowers.some((f) => f[0] === followerData[0])
-      ) {
-        existingFollowers.push(followerData);
+      // Yeni follower verilerini tek tek kontrol edip ekle
+      const newFollowers = followerData.filter(
+        (newEntry) =>
+          !existingFollowers.some((existing) => existing[0] === newEntry[0])
+      );
+
+      if (newFollowers.length > 0) {
+        existingFollowers.push(...newFollowers); // Yeni verileri ekle
         fs.writeFileSync(
           followerFilePath,
           JSON.stringify(existingFollowers, null, 2),
           "utf8"
         );
       }
-
       // YoutubeOrganic.json güncelleme
       const organicData = {
         followerData: existingFollowers,

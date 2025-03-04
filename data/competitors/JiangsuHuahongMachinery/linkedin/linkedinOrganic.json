@@ -1,20 +1,60 @@
 {
-  "followerCount": "101",
-  "employeeCount": "1.001-5.000 çalışan",
+  "followerData": [
+    [
+      20250225,
+      100
+    ],
+    [
+      20250225,
+      100
+    ],
+    [
+      20250225,
+      100
+    ],
+    [
+      20250228,
+      102
+    ],
+    [
+      20250228,
+      102
+    ],
+    [
+      20250228,
+      102
+    ],
+    [
+      20250228,
+      102
+    ],
+    [
+      20250303,
+      101
+    ],
+    [
+      1741011655199,
+      "101"
+    ],
+    [
+      1741076630559,
+      "101"
+    ]
+  ],
   "data": [
     {
       "captions": "scrap rebar Baler machine, export to Asia customer today.scrap rebar Baler machine, export to Asia customer today.",
       "shares": "1",
       "time": {
-        "raw": "3g",
+        "raw": "4g",
         "parsed": "28.02.2025",
-        "isoString": "2025-02-28T14:20:54.936Z"
+        "isoString": "2025-02-28T08:23:50.298Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4E22AQEATgr2DMNMKA/feedshare-shrink_800/B4EZVLbg0hHgAg-/0/1740727261342?e=1743638400&v=beta&t=CkBYfYKk6RwGfo6HwsjCcqDoLYAhZMtET8rhPePdCQg"
+        "https://media.licdn.com/dms/image/v2/D4E22AQEATgr2DMNMKA/feedshare-shrink_800/B4EZVLbg0hHgAg-/0/1740727261342?e=1744243200&v=beta&t=UnjsQeJcLlTUX5rkQOzKmSHRx5kCUYrwYk2sCozRU6s"
       ],
-      "date": "2025-02-28T14:20:54.936Z"
+      "date": "2025-02-28T08:23:50.298Z"
     },
     {
       "captions": "120ton scrap metal shear to Asia customer120ton scrap metal shear to Asia customer",
@@ -22,29 +62,29 @@
       "shares": "1",
       "time": {
         "raw": "4g",
-        "parsed": "27.02.2025",
-        "isoString": "2025-02-27T14:20:54.937Z"
+        "parsed": "28.02.2025",
+        "isoString": "2025-02-28T08:23:50.299Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D5622AQFSFXAvV417oQ/feedshare-shrink_800/B56ZVGnXCnHEAg-/0/1740646479734?e=1743638400&v=beta&t=ad2M0m9ccfqkVOtfGfvz5Lv5ZPs8zj8B3bsrDQvqUvw"
+        "https://media.licdn.com/dms/image/v2/D5622AQFSFXAvV417oQ/feedshare-shrink_800/B56ZVGnXCnHEAg-/0/1740646479734?e=1744243200&v=beta&t=iiA-Fcb2sqlA3N9Bs4niz-8gdG4omFykG70n6oA5_fY"
       ],
-      "date": "2025-02-27T14:20:54.937Z"
+      "date": "2025-02-28T08:23:50.299Z"
     },
     {
       "captions": "135ton scrap aluminum baler, export to middle east today.135ton scrap aluminum baler, export to middle east today.",
       "likes": "4",
       "shares": "1",
       "time": {
-        "raw": "4g",
+        "raw": "5g",
         "parsed": "27.02.2025",
-        "isoString": "2025-02-27T14:20:54.939Z"
+        "isoString": "2025-02-27T08:23:50.300Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D5622AQFbZLG5Aoq8mg/feedshare-shrink_800/B56ZVGf7.6GUAg-/0/1740644535381?e=1743638400&v=beta&t=fIRn_J1fkuGGyfPgaV666g2IRqnNZeIdP8gZMaj6VI0"
+        "https://media.licdn.com/dms/image/v2/D5622AQFbZLG5Aoq8mg/feedshare-shrink_800/B56ZVGf7.6GUAg-/0/1740644535381?e=1744243200&v=beta&t=M25LMi7qQELoY0HzAvThR1ggL2Q7HbYKPy3yy8Lb1wU"
       ],
-      "date": "2025-02-27T14:20:54.939Z"
+      "date": "2025-02-27T08:23:50.300Z"
     },
     {
       "captions": "315ton scrap metal Baler, export to America today.315ton scrap metal Baler, export to America today.",
@@ -52,14 +92,14 @@
       "shares": "1",
       "time": {
         "raw": "1h",
-        "parsed": "24.02.2025",
-        "isoString": "2025-02-24T14:20:54.941Z"
+        "parsed": "25.02.2025",
+        "isoString": "2025-02-25T08:23:50.303Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D5622AQHeXQsx-U7Yow/feedshare-shrink_800/B56ZUrwKUvHoAg-/0/1740195808223?e=1743638400&v=beta&t=_kH92MOJ3ySqnL_z3so-VcJ4EHCE2q2buk2K357jL0k"
+        "https://media.licdn.com/dms/image/v2/D5622AQHeXQsx-U7Yow/feedshare-shrink_800/B56ZUrwKUvHoAg-/0/1740195808223?e=1744243200&v=beta&t=ozPEJ2kbAkO4I29f6SqpcFuvT7NwBe8yhXsWRDzL2zk"
       ],
-      "date": "2025-02-24T14:20:54.941Z"
+      "date": "2025-02-25T08:23:50.303Z"
     },
     {
       "captions": "one more big baler, export to Africa today.one more big baler, export to Africa today.",
@@ -67,14 +107,14 @@
       "shares": "1",
       "time": {
         "raw": "1h",
-        "parsed": "24.02.2025",
-        "isoString": "2025-02-24T14:20:54.944Z"
+        "parsed": "25.02.2025",
+        "isoString": "2025-02-25T08:23:50.310Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D5622AQFXL-lgwSoC0A/feedshare-shrink_800/B56ZUiGuDUHQAo-/0/1740033944148?e=1743638400&v=beta&t=duQenzg1TXxEFsqwhegRj9FReOi39IHp2fPRNHoaOcU"
+        "https://media.licdn.com/dms/image/v2/D5622AQFXL-lgwSoC0A/feedshare-shrink_800/B56ZUiGuDUHQAo-/0/1740033944148?e=1744243200&v=beta&t=7mXhyJiW428OPOD6WsOlrWU22rZ4Zw9EdDuITqdveUQ"
       ],
-      "date": "2025-02-24T14:20:54.944Z"
+      "date": "2025-02-25T08:23:50.310Z"
     },
     {
       "captions": "plastic baler, ship to customer today.",
@@ -82,26 +122,26 @@
       "shares": "1",
       "time": {
         "raw": "2h",
-        "parsed": "17.02.2025",
-        "isoString": "2025-02-17T14:20:54.945Z"
+        "parsed": "18.02.2025",
+        "isoString": "2025-02-18T08:23:50.311Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQG0MR4XDBd_Qw/mp4-720p-30fp-crf28/B56ZUH0xHMGsBg-/0/1739593036416?e=1741618800&v=beta&t=pI33Xa1QTcJe7c4MULwsrAYIfHcftB8vYhXSFtD-9wM",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQG0MR4XDBd_Qw/mp4-720p-30fp-crf28/B56ZUH0xHMGsBg-/0/1739593036416?e=1741683600&v=beta&t=BtNt9Yerifica7dq0A1jf_qPj6af1haUEwCfveuK4wk",
             "type": "video/mp4",
             "data-bitrate": 1707766
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQG0MR4XDBd_Qw/mp4-640p-30fp-crf28/B56ZUH0xHMGsBc-/0/1739593036495?e=1741618800&v=beta&t=zIjzcmf4Rw6GcDV6dOg9p4rGauaGVpjZ7dyDR6qOKKE",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQG0MR4XDBd_Qw/mp4-640p-30fp-crf28/B56ZUH0xHMGsBc-/0/1739593036495?e=1741683600&v=beta&t=YHplqjKJ8rXs-6gjoZuhMRC5FJowFzTSWDHMeNYzGPM",
             "type": "video/mp4",
             "data-bitrate": 1103266
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D5605AQG0MR4XDBd_Qw/videocover-high/B56ZUH0xHMGsBs-/0/1739593036020?e=1741618800&v=beta&t=fqFHf6asqolg674dcQXrShsGXiR5WKRcTGWMRQQoeAc"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D5605AQG0MR4XDBd_Qw/videocover-high/B56ZUH0xHMGsBs-/0/1739593036020?e=1741683600&v=beta&t=RJWAB2YurkqFqLuCGHEi9Y6YOkrn61Jj4rb_PpaqqOk"
       },
-      "date": "2025-02-17T14:20:54.945Z"
+      "date": "2025-02-18T08:23:50.311Z"
     },
     {
       "captions": "old model of 450 hammer shredder, export to Asia today.old model of 450 hammer shredder, export to Asia today.",
@@ -110,14 +150,14 @@
       "shares": "1",
       "time": {
         "raw": "2h",
-        "parsed": "17.02.2025",
-        "isoString": "2025-02-17T14:20:54.946Z"
+        "parsed": "18.02.2025",
+        "isoString": "2025-02-18T08:23:50.312Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D5622AQFi3cNVbJX3wA/feedshare-shrink_800/B56ZT.LxRvHQAg-/0/1739431290261?e=1743638400&v=beta&t=rDhMaDr80ju0QqW-9hihLmelIQEyW-Ii-6m0BLPpfyM"
+        "https://media.licdn.com/dms/image/v2/D5622AQFi3cNVbJX3wA/feedshare-shrink_800/B56ZT.LxRvHQAg-/0/1739431290261?e=1744243200&v=beta&t=uxaRzfWwN-UEd73POdPtDF8QA8AlItL8j6Qz9zpIHQk"
       ],
-      "date": "2025-02-17T14:20:54.946Z"
+      "date": "2025-02-18T08:23:50.312Z"
     },
     {
       "captions": "800hp hammer mill shredder, export to customer today. this line will include PDM magnet sorting.800hp hammer mill shredder, export to customer today. this line will include PDM magnet sorting.",
@@ -125,14 +165,14 @@
       "shares": "1",
       "time": {
         "raw": "1ay",
-        "parsed": "03.02.2025",
-        "isoString": "2025-02-03T14:20:54.948Z"
+        "parsed": "04.02.2025",
+        "isoString": "2025-02-04T08:23:50.313Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D5622AQFtBK2TRXdCgw/feedshare-shrink_800/B56ZSHTofMH0As-/0/1737436861732?e=1743638400&v=beta&t=ZbVPh6EH7iJLohCUNUA1K29efzV4JI6Nb0mUGkbHcG0"
+        "https://media.licdn.com/dms/image/v2/D5622AQFtBK2TRXdCgw/feedshare-shrink_800/B56ZSHTofMH0As-/0/1737436861732?e=1744243200&v=beta&t=DOFs-FOJ4LS-tS85FzrrwXLZwa_YRDDb4Iir404_7fo"
       ],
-      "date": "2025-02-03T14:20:54.948Z"
+      "date": "2025-02-04T08:23:50.313Z"
     },
     {
       "captions": "630ton scrap metal baler, with diesel engine, export to customer today.630ton scrap metal baler, with diesel engine, export to customer today.",
@@ -140,14 +180,14 @@
       "shares": "1",
       "time": {
         "raw": "1ay",
-        "parsed": "03.02.2025",
-        "isoString": "2025-02-03T14:20:54.949Z"
+        "parsed": "04.02.2025",
+        "isoString": "2025-02-04T08:23:50.314Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D5622AQEbSIxjxSTgsg/feedshare-shrink_800/B56ZSHS479H0Ag-/0/1737436667560?e=1743638400&v=beta&t=rfA7x68UcXNeAeImvFdDi3ukYb_RtWBw3OecBCXqNBM"
+        "https://media.licdn.com/dms/image/v2/D5622AQEbSIxjxSTgsg/feedshare-shrink_800/B56ZSHS479H0Ag-/0/1737436667560?e=1744243200&v=beta&t=MHeUjwuWLYLBkYfHQFJ-ex0ibawziCaBQ8cw-uoVVXA"
       ],
-      "date": "2025-02-03T14:20:54.949Z"
+      "date": "2025-02-04T08:23:50.314Z"
     },
     {
       "captions": "before Chinese new year holiday, export one Baler machine to India.before Chinese new year holiday, export one Baler machine to India.",
@@ -155,14 +195,14 @@
       "shares": "1",
       "time": {
         "raw": "1ay",
-        "parsed": "03.02.2025",
-        "isoString": "2025-02-03T14:20:54.950Z"
+        "parsed": "04.02.2025",
+        "isoString": "2025-02-04T08:23:50.316Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D5622AQHMMc2cRRDpBA/feedshare-shrink_800/B56ZR9bmZXGsAg-/0/1737271176715?e=1743638400&v=beta&t=R7fwMH-LXm9hwXCbtWFs0x9HuSXaFTM5JcztaCAC8GE"
+        "https://media.licdn.com/dms/image/v2/D5622AQHMMc2cRRDpBA/feedshare-shrink_800/B56ZR9bmZXGsAg-/0/1737271176715?e=1744243200&v=beta&t=JRAuBUQPTqmYxisPIt_Gf6P0koJI4fXVe_dDng1RpoQ"
       ],
-      "date": "2025-02-03T14:20:54.950Z"
+      "date": "2025-02-04T08:23:50.316Z"
     },
     {
       "captions": "630ton scrap metal baler, customized with Royal yellow painting, ship to Asia customer today.630ton scrap metal baler, customized with Royal yellow painting, ship to Asia customer today.",
@@ -170,14 +210,14 @@
       "shares": "1",
       "time": {
         "raw": "1ay",
-        "parsed": "03.02.2025",
-        "isoString": "2025-02-03T14:20:54.952Z"
+        "parsed": "04.02.2025",
+        "isoString": "2025-02-04T08:23:50.318Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D5622AQFkY2RhrTNoew/feedshare-shrink_800/B56ZRy5b38GoAg-/0/1737094454529?e=1743638400&v=beta&t=4dWIcHJH3NuH61QHQd6PMbZ5fR1FcsUK1v2WAKg1HbQ"
+        "https://media.licdn.com/dms/image/v2/D5622AQFkY2RhrTNoew/feedshare-shrink_800/B56ZRy5b38GoAg-/0/1737094454529?e=1744243200&v=beta&t=9XPjCBg06MDLRN5uRY_mj0-f4VJ71dyaBEwFUq9JAtU"
       ],
-      "date": "2025-02-03T14:20:54.952Z"
+      "date": "2025-02-04T08:23:50.318Z"
     },
     {
       "captions": "250ton Baler machine, export to America today.250ton Baler machine, export to America today.",
@@ -186,14 +226,14 @@
       "shares": "1",
       "time": {
         "raw": "1ay",
-        "parsed": "03.02.2025",
-        "isoString": "2025-02-03T14:20:54.953Z"
+        "parsed": "04.02.2025",
+        "isoString": "2025-02-04T08:23:50.319Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D5622AQEpFtb7tC7qUw/feedshare-shrink_800/B56ZRyKUxjG8Ag-/0/1737082099793?e=1743638400&v=beta&t=HRryT6-GKOoVKgMjJxGbkS4Us0W9oyFJM-6T-FahwDs"
+        "https://media.licdn.com/dms/image/v2/D5622AQEpFtb7tC7qUw/feedshare-shrink_800/B56ZRyKUxjG8Ag-/0/1737082099793?e=1744243200&v=beta&t=J8FkghSZU14YBAhIqOzVyS6IeHkHZiQfqCdjTq4xebk"
       ],
-      "date": "2025-02-03T14:20:54.953Z"
+      "date": "2025-02-04T08:23:50.319Z"
     },
     {
       "captions": "scrap aluminum baler machine, export to Africa today.scrap aluminum baler machine, export to Africa today.",
@@ -201,14 +241,14 @@
       "shares": "1",
       "time": {
         "raw": "1ay",
-        "parsed": "03.02.2025",
-        "isoString": "2025-02-03T14:20:54.954Z"
+        "parsed": "04.02.2025",
+        "isoString": "2025-02-04T08:23:50.320Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D5622AQFzZzUmmZy9mw/feedshare-shrink_800/B56ZRooi19G8Ag-/0/1736922248856?e=1743638400&v=beta&t=7a8zDxh-2nkF7JJezCM54wFxum3twKG-ctAzlDcsRiE"
+        "https://media.licdn.com/dms/image/v2/D5622AQFzZzUmmZy9mw/feedshare-shrink_800/B56ZRooi19G8Ag-/0/1736922248856?e=1744243200&v=beta&t=6c6dxWvxAPr7R7XGS_jROpuv_vJUCP15JDbs5ta42No"
       ],
-      "date": "2025-02-03T14:20:54.954Z"
+      "date": "2025-02-04T08:23:50.320Z"
     },
     {
       "captions": "scrap bale pre shredder, export to customer today.scrap bale pre shredder, export to customer today.",
@@ -216,14 +256,14 @@
       "shares": "1",
       "time": {
         "raw": "1ay",
-        "parsed": "03.02.2025",
-        "isoString": "2025-02-03T14:20:54.956Z"
+        "parsed": "04.02.2025",
+        "isoString": "2025-02-04T08:23:50.321Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D5622AQFdXtCc3LpB0Q/feedshare-shrink_800/B56ZRklWMiHQAg-/0/1736854301460?e=1743638400&v=beta&t=dojdIaN112oQiYMBJ8PW5GdPXxdTbome8ophZ6uZpOk"
+        "https://media.licdn.com/dms/image/v2/D5622AQFdXtCc3LpB0Q/feedshare-shrink_800/B56ZRklWMiHQAg-/0/1736854301460?e=1744243200&v=beta&t=8o9R5TumxXEtR703lDXyjFVJXl_ugkBu2tnPSpy5T-E"
       ],
-      "date": "2025-02-03T14:20:54.956Z"
+      "date": "2025-02-04T08:23:50.321Z"
     },
     {
       "captions": "160ton scrap metal baler, export to Indonesia today.160ton scrap metal baler, export to Indonesia today.",
@@ -231,29 +271,29 @@
       "shares": "1",
       "time": {
         "raw": "1ay",
-        "parsed": "03.02.2025",
-        "isoString": "2025-02-03T14:20:54.958Z"
+        "parsed": "04.02.2025",
+        "isoString": "2025-02-04T08:23:50.323Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D5622AQEGpuNInq8Z5A/feedshare-shrink_800/B56ZRkOikcGQAo-/0/1736848322661?e=1743638400&v=beta&t=WClq5y2Jjb9OOEhBkwLEjUfAHsoTSitkawY_Raoezyw"
+        "https://media.licdn.com/dms/image/v2/D5622AQEGpuNInq8Z5A/feedshare-shrink_800/B56ZRkOikcGQAo-/0/1736848322661?e=1744243200&v=beta&t=Xs41pmNA_Hwl5tO2TpdLyHVo7muQYT_vHoabSB6xoyE"
       ],
-      "date": "2025-02-03T14:20:54.958Z"
+      "date": "2025-02-04T08:23:50.323Z"
     },
     {
       "captions": "2025year: 3rd container, one more 800ton container shear machine, ship to our customer.2025year: 3rd container, one more 800ton container shear machine, ship to our customer.",
       "likes": "1",
       "shares": "1",
       "time": {
-        "raw": "1ay",
-        "parsed": "03.02.2025",
-        "isoString": "2025-02-03T14:20:54.959Z"
+        "raw": "2ay",
+        "parsed": "04.01.2025",
+        "isoString": "2025-01-04T08:23:50.324Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D5622AQFMhye6E5AjXg/feedshare-shrink_800/B56ZQqsXefHQAk-/0/1735883064021?e=1743638400&v=beta&t=Eqye2O56NDf3WOh82vipfEmVyKLUzeH0t_yfdJDn5lM"
+        "https://media.licdn.com/dms/image/v2/D5622AQFMhye6E5AjXg/feedshare-shrink_800/B56ZQqsXefHQAk-/0/1735883064021?e=1744243200&v=beta&t=-vXxlDAzh45HoVVl4t4XCWs38_ATWb1x_LX3w63pweg"
       ],
-      "date": "2025-02-03T14:20:54.959Z"
+      "date": "2025-01-04T08:23:50.324Z"
     },
     {
       "captions": "2025 year 2nd container: 200ton alligator shear shipping to rolling mill customer.2025 year 2nd container: 200ton alligator shear shipping to rolling mill customer.",
@@ -261,14 +301,14 @@
       "shares": "1",
       "time": {
         "raw": "2ay",
-        "parsed": "03.01.2025",
-        "isoString": "2025-01-03T14:20:54.960Z"
+        "parsed": "04.01.2025",
+        "isoString": "2025-01-04T08:23:50.325Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D5622AQGDVlI55OecNQ/feedshare-shrink_800/B56ZQlhe2PGsAk-/0/1735796324730?e=1743638400&v=beta&t=FYcIUDIbbP-913ehzR4mIBsiPK78GXpdT2wxMOEFO6o"
+        "https://media.licdn.com/dms/image/v2/D5622AQGDVlI55OecNQ/feedshare-shrink_800/B56ZQlhe2PGsAk-/0/1735796324730?e=1744243200&v=beta&t=LB_1GjbEynTTx__ysCK9ZQSvTaSuMAcvON29ZGMqjew"
       ],
-      "date": "2025-01-03T14:20:54.960Z"
+      "date": "2025-01-04T08:23:50.325Z"
     },
     {
       "captions": "2025 year first container: 800ton container shear shipping to my old customer.2025 year first container: 800ton container shear shipping to my old customer.",
@@ -276,14 +316,14 @@
       "shares": "1",
       "time": {
         "raw": "2ay",
-        "parsed": "03.01.2025",
-        "isoString": "2025-01-03T14:20:54.962Z"
+        "parsed": "04.01.2025",
+        "isoString": "2025-01-04T08:23:50.326Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D5622AQGlFLHYZ8IPbg/feedshare-shrink_800/B56ZQlg1uEH0Ak-/0/1735796159220?e=1743638400&v=beta&t=r9JiS0yPVlPax93PTn9dy8Y2YNj3ffREFbpUBvLyDw4"
+        "https://media.licdn.com/dms/image/v2/D5622AQGlFLHYZ8IPbg/feedshare-shrink_800/B56ZQlg1uEH0Ak-/0/1735796159220?e=1744243200&v=beta&t=BJj4wtMWE1Ky904FjMxFK0kiIsVb-FfBwGkRnuOzmYI"
       ],
-      "date": "2025-01-03T14:20:54.962Z"
+      "date": "2025-01-04T08:23:50.326Z"
     },
     {
       "captions": "3 shear machines finished inspection, and ready for shipment to Africa.3 shear machines finished inspection, and ready for shipment to Africa.",
@@ -291,14 +331,14 @@
       "shares": "1",
       "time": {
         "raw": "2ay",
-        "parsed": "03.01.2025",
-        "isoString": "2025-01-03T14:20:54.963Z"
+        "parsed": "04.01.2025",
+        "isoString": "2025-01-04T08:23:50.327Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D5622AQHTR37IFLn7wQ/feedshare-shrink_800/B56ZPhrb6lGsAk-/0/1734658082554?e=1743638400&v=beta&t=oyAAwf_4hYIDHv78dhqyGXrPnpMqmKB4UwhXezeR8Y4"
+        "https://media.licdn.com/dms/image/v2/D5622AQHTR37IFLn7wQ/feedshare-shrink_800/B56ZPhrb6lGsAk-/0/1734658082554?e=1744243200&v=beta&t=iSn7YXiS-Hz00FixODdkG3ULOrFPsHywSkdkv0cVBho"
       ],
-      "date": "2025-01-03T14:20:54.963Z"
+      "date": "2025-01-04T08:23:50.327Z"
     },
     {
       "captions": "new design of 500ton gantry shear, all parts dismantled to load normal container for our Asian customer.new design of 500ton gantry shear, all parts dismantled to load normal container for our Asian customer.",
@@ -306,14 +346,14 @@
       "shares": "1",
       "time": {
         "raw": "2ay",
-        "parsed": "03.01.2025",
-        "isoString": "2025-01-03T14:20:54.964Z"
+        "parsed": "04.01.2025",
+        "isoString": "2025-01-04T08:23:50.328Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D5622AQEyB5uE81hJlg/feedshare-shrink_800/feedshare-shrink_800/0/1733816582167?e=1743638400&v=beta&t=NXOm4BOsAL2kKdrEs4-ymjJtWhg5u0pQ8A07hmb96mU"
+        "https://media.licdn.com/dms/image/v2/D5622AQEyB5uE81hJlg/feedshare-shrink_800/feedshare-shrink_800/0/1733816582167?e=1744243200&v=beta&t=18eeziIjIT14r5TYWyTO3AOZA2scXXMHtX9yzf7ZgOc"
       ],
-      "date": "2025-01-03T14:20:54.964Z"
+      "date": "2025-01-04T08:23:50.328Z"
     }
   ]
 }

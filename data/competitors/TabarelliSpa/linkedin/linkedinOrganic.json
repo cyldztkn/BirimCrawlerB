@@ -1,6 +1,46 @@
 {
-  "followerCount": "928",
-  "employeeCount": "11 - 50 çalışan",
+  "followerData": [
+    [
+      20250225,
+      926
+    ],
+    [
+      20250225,
+      926
+    ],
+    [
+      20250225,
+      926
+    ],
+    [
+      20250228,
+      927
+    ],
+    [
+      20250228,
+      927
+    ],
+    [
+      20250228,
+      927
+    ],
+    [
+      20250228,
+      927
+    ],
+    [
+      20250303,
+      928
+    ],
+    [
+      1741011738663,
+      "928"
+    ],
+    [
+      1741076701818,
+      "929"
+    ]
+  ],
   "data": [
     {
       "captions": "Saremo presenti ad ECOMONDO - ITALIAN EXHIBITION GROUP  2024, dal 5 all’8 Novembre. Ci troverete al Rimini Expo Centre, Hall C3, Stand 301. Venite a scoprire il nuovo T815 e la nuova cabina!Non mancate!\n\nWe will be at Ecomondo 2024, from 5th to 8th November. You will find us at Rimini Expo Centre, Hall C3, Stand 301. Come and discover the new T815 and the new cab there!\n\n#ecomondo #tabarelli #materialhandler #recycling",
@@ -8,41 +48,41 @@
       "shares": "3",
       "time": {
         "raw": "3ay",
-        "parsed": "03.12.2024",
-        "isoString": "2024-12-03T14:22:18.400Z"
+        "parsed": "04.12.2024",
+        "isoString": "2024-12-04T08:25:01.566Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQF3IwOSh1uWhQ/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1730814532848?e=1741618800&v=beta&t=GQYf2AKSLhYAhcSlwn4vwIrDapBxHJ2vK_0afcclJZA",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQF3IwOSh1uWhQ/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1730814532848?e=1741683600&v=beta&t=iCtLsObSTSNiJAPVsZmqx_5k26T9jMCgUArUBVhiez0",
             "type": "video/mp4",
             "data-bitrate": 699053
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQF3IwOSh1uWhQ/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1730814532477?e=1741618800&v=beta&t=ghPxu52xa5JPT7TkAdQl2B8s_zD1vBOKvdi206FYEGw",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQF3IwOSh1uWhQ/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1730814532477?e=1741683600&v=beta&t=gzTIroJfwDi7NP5XgrjuxbCMJh1NxSOXbJXiYF8OVZI",
             "type": "video/mp4",
             "data-bitrate": 994330
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQF3IwOSh1uWhQ/videocover-high/videocover-high/0/1730814528608?e=1741618800&v=beta&t=P9U9HcOX_LNFzLVM3wdJLpuFGD6VH951RA0Q5VcCd2o"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQF3IwOSh1uWhQ/videocover-high/videocover-high/0/1730814528608?e=1741683600&v=beta&t=HTesVU-i5YvDDQ2vOctgIPNhlrNTe5RrvwAA96LhJxU"
       },
-      "date": "2024-12-03T14:22:18.400Z"
+      "date": "2024-12-04T08:25:01.566Z"
     },
     {
       "captions": "Saremo presenti ad Ecomondo 2024, dal 5 all’8 Novembre. Ci troverete al Rimini Expo Centre, Hall C3, Stand 301. Non mancate!\n\nWe will be at Ecomondo 2024, from 5th to 8th November. You will find us at Rimini Expo Centre, Hall C3, Stand 301. Be there!\n\n#ecomondo #tabarelli #materialhandler #recyclingSaremo presenti ad Ecomondo 2024, dal 5 all’8 Novembre. Ci troverete al Rimini Expo Centre, Hall C3, Stand 301. Non mancate!\n\nWe will be at Ecomondo 2024, from 5th to 8th November. You will find us at Rimini Expo Centre, Hall C3, Stand 301. Be there!\n\n#ecomondo #tabarelli #materialhandler #recycling",
       "likes": "15",
       "shares": "2",
       "time": {
-        "raw": "3ay",
-        "parsed": "03.12.2024",
-        "isoString": "2024-12-03T14:22:18.401Z"
+        "raw": "4ay",
+        "parsed": "04.11.2024",
+        "isoString": "2024-11-04T08:25:01.568Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQHeMPL6gYAoEA/feedshare-shrink_800/feedshare-shrink_800/0/1730667100300?e=1743638400&v=beta&t=L-xUDcvaWBGf-W3goEopl1G9g6JdOoXEj8SslzhtycY"
+        "https://media.licdn.com/dms/image/v2/D4D22AQHeMPL6gYAoEA/feedshare-shrink_800/feedshare-shrink_800/0/1730667100300?e=1744243200&v=beta&t=IfsunVKSjo2Y19mVGeg-fKlWI2vNjA7Ol_cV1ePdeUM"
       ],
-      "date": "2024-12-03T14:22:18.401Z"
+      "date": "2024-11-04T08:25:01.568Z"
     },
     {
       "captions": "Nuova cabina 2024:\n-   Design moderno\n- Maggior sicurezza (questa cabina è molto più solida e le griglie protettive superiori e frontali sono più robuste rispetto alla precedente)\n- Comfort (cabina più grande come abitacolo, visibilità lato destro aumentata, climatizzatore con potenza doppia rispetto alla precedente)\n- Sistema di filtraggio aria ottimizzato (doppio filtro)\n- Display touch screen 7”\n- Estintore in cabina\n- Nuovo cruscotto con porta telefono, porta bottiglie e vasca porta oggetti dietro al sedile che permette di mettere un piccolo frigo\n- Cambio filtro aria esterna e rabbocco liquido tergi cristalli molto agevole aprendo la portellina in ABS\n- Griglia anteriore e superiore sono apribili per consentire la pulizia dei vetri\n- Assistenza remota\n \nNew Cab 2024: \n- Modern design:\n- Better security: the front and upper protective grilles have been reinforced, providing additional protection for the operator\n- Enhanced comfort: the cockpit is more spacious; side visibility, particularly on the right side, has been improved; air conditioning system has doubled its power.\n- Optimised air filter system: improved by adding a double filter.\n- 7-inch touch screen display:\n- Cab fire extinguisher\n- New multifunctional dashboard with a telephone holder, a bottle holder and a storage tub located behind the seat, that can also be used to store a refrigerator\n- Ease of maintenance:** easily allows access to components without having to remove parts of the cab.\n- Accessibility for window cleaning:** Both the front and top grille are designed to be openable.\n- Remote assistance\n #tabarelli #materialhandler #recycling #newcab",
@@ -51,53 +91,40 @@
       "shares": "9",
       "time": {
         "raw": "4ay",
-        "parsed": "03.11.2024",
-        "isoString": "2024-11-03T14:22:18.402Z"
+        "parsed": "04.11.2024",
+        "isoString": "2024-11-04T08:25:01.569Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQFX9R2-yJIHyw/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1729772915824?e=1741618800&v=beta&t=2595aeWrslXlj9FUlbXKWwJkx_RbHy0v8ALn677naC0",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQFX9R2-yJIHyw/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1729772915824?e=1741683600&v=beta&t=rO27sCWev1qutyySm_r1TIzOwHjWksV_FzYf2AnoZSA",
             "type": "video/mp4",
             "data-bitrate": 917714
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQFX9R2-yJIHyw/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1729772915250?e=1741618800&v=beta&t=TutOIOaPbMahGCiNfasKxhmo5_PxhwVap2Q0Sa8zVC0",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQFX9R2-yJIHyw/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1729772915250?e=1741683600&v=beta&t=-55CIor3eYlkFIVRfDoO3q06Rw7ndb8QLoogB5m2GBc",
             "type": "video/mp4",
             "data-bitrate": 1210063
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQFX9R2-yJIHyw/videocover-high/videocover-high/0/1729772911754?e=1741618800&v=beta&t=oj57jSR4raAIxFf-2I8KzOmxm3_PjNK_X8zqUIssvHE"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQFX9R2-yJIHyw/videocover-high/videocover-high/0/1729772911754?e=1741683600&v=beta&t=dWQEUkFbB70Fg27lyDHNTcSDr-8J8LoEd2MFqGM6udo"
       },
-      "date": "2024-11-03T14:22:18.402Z"
-    },
-    {
-      "likes": "3",
-      "time": {
-        "raw": "6ay",
-        "parsed": "03.09.2024",
-        "isoString": "2024-09-03T14:22:18.411Z"
-      },
-      "mediaType": "image",
-      "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQE8yjZ0WWajdg/feedshare-shrink_800/feedshare-shrink_800/0/1723218208591?e=1743638400&v=beta&t=Itzy24wiSB3D07AN08RC3IOKKTWiFcjKRGkW9JmTio0"
-      ],
-      "date": "2024-09-03T14:22:18.411Z"
+      "date": "2024-11-04T08:25:01.569Z"
     },
     {
       "likes": "8",
       "comments": "1",
       "time": {
-        "raw": "6ay",
-        "parsed": "03.09.2024",
-        "isoString": "2024-09-03T14:22:18.412Z"
+        "raw": "7ay",
+        "parsed": "04.08.2024",
+        "isoString": "2024-08-04T08:25:01.571Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQGw9jFEIJWWdw/feedshare-shrink_800/feedshare-shrink_800/0/1722880496475?e=1743638400&v=beta&t=lr92I3o0cncM4UfbAaCmqSvpStQg892T0AG8t-AK2Tc"
+        "https://media.licdn.com/dms/image/v2/D4D22AQGw9jFEIJWWdw/feedshare-shrink_800/feedshare-shrink_800/0/1722880496475?e=1744243200&v=beta&t=8nSLJDElhl0e2FvAWSrXDWHtFd6ciBFGvTSS7m5tiqM"
       ],
-      "date": "2024-09-03T14:22:18.412Z"
+      "date": "2024-08-04T08:25:01.571Z"
     },
     {
       "captions": "T510 material handler for Sierra International Machinery  :\n- Stage V Cummins engine (129 kw/175 hp)\n- 13 m boom\n- 4 outriggers\n#recycling #tabarelli #materialhandler",
@@ -105,31 +132,31 @@
       "shares": "4",
       "time": {
         "raw": "7ay",
-        "parsed": "03.08.2024",
-        "isoString": "2024-08-03T14:22:18.414Z"
+        "parsed": "04.08.2024",
+        "isoString": "2024-08-04T08:25:01.573Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGo4UPJaIchuA/feedshare-ambry-analyzed_servable_progressive_video/feedshare-ambry-analyzed_servable_progressive_video/0/1722504270783?e=1741618800&v=beta&t=yIXmv07LGfMR7mQF5zX4ZbqNJa2mZRO40sosVwihkLc",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGo4UPJaIchuA/feedshare-ambry-analyzed_servable_progressive_video/feedshare-ambry-analyzed_servable_progressive_video/0/1722504270783?e=1741683600&v=beta&t=KJ5NBXOauy4FQPkAVSx63O3v9JcPrVm99TtZOXiedsc",
             "type": "video/mp4",
             "data-bitrate": 3138128
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGo4UPJaIchuA/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1722504275976?e=1741618800&v=beta&t=7j8g3wMdGaErvQQhaKlEVbj5I-f4TDZa7NEqqJD5VII",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGo4UPJaIchuA/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1722504275976?e=1741683600&v=beta&t=5vun9dvhYf1vEhH0g8IkYdCqNhYhKwOFZVSbOHyfLBE",
             "type": "video/mp4",
             "data-bitrate": 1013523
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGo4UPJaIchuA/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1722504274618?e=1741618800&v=beta&t=e_02UbQREsYGOCduv0EJh5OLavK_lMteEiHX0NSSBUk",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGo4UPJaIchuA/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1722504274618?e=1741683600&v=beta&t=1NQI5fzTq-TU3Ml-oYIphC2nIRebVgI7UXHwbAoFf2I",
             "type": "video/mp4",
             "data-bitrate": 1306626
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQGo4UPJaIchuA/videocover-high/videocover-high/0/1722504271387?e=1741618800&v=beta&t=hfggrR_L4W-CjeDfTzjz7zjyTTugk3fx2qWlP2lU2Qg"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQGo4UPJaIchuA/videocover-high/videocover-high/0/1722504271387?e=1741683600&v=beta&t=hCrjlvNc-_UV3o6p3QiWaxNpw33yneXWGwGqXChsGnA"
       },
-      "date": "2024-08-03T14:22:18.414Z"
+      "date": "2024-08-04T08:25:01.573Z"
     },
     {
       "captions": "On  Recycling Magazine this month…\n#tabarelli #materialhandler #recycling",
@@ -137,31 +164,31 @@
       "shares": "1",
       "time": {
         "raw": "7ay",
-        "parsed": "03.08.2024",
-        "isoString": "2024-08-03T14:22:18.414Z"
+        "parsed": "04.08.2024",
+        "isoString": "2024-08-04T08:25:01.573Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGELldvToELdQ/feedshare-ambry-analyzed_servable_progressive_video/feedshare-ambry-analyzed_servable_progressive_video/0/1721067218079?e=1741618800&v=beta&t=WNhFYIi_fOeMDNYp4HD15dUhIFmymC4ATauLpPAGbKg",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGELldvToELdQ/feedshare-ambry-analyzed_servable_progressive_video/feedshare-ambry-analyzed_servable_progressive_video/0/1721067218079?e=1741683600&v=beta&t=Q9Xp9S21PzIK3pYNOuB3sPoTKF_4VFg6aQja6Jovj18",
             "type": "video/quicktime",
             "data-bitrate": 15076204
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGELldvToELdQ/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1721067233850?e=1741618800&v=beta&t=dn5hPpPUXOQEip6gojan_IlVhUKAgxPRm7Qo_RV22FI",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGELldvToELdQ/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1721067233850?e=1741683600&v=beta&t=faufglkvFbjEqJVgXN1CIVfas-4CkYx07UG33_i2fTg",
             "type": "video/mp4",
             "data-bitrate": 1071767
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGELldvToELdQ/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1721067233365?e=1741618800&v=beta&t=mR6N9L3DcswsdCxEvDi13ohEPwm7Ssmz3AeGwx6bKzQ",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGELldvToELdQ/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1721067233365?e=1741683600&v=beta&t=BseMApSymB_lOUSZyxYvIQgK0W32zoGQuVsEIlbnZQc",
             "type": "video/mp4",
             "data-bitrate": 1417740
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQGELldvToELdQ/videocover-high/videocover-high/0/1721067219607?e=1741618800&v=beta&t=WUaxheH7e7ZoxFfu8H9MRU3PQ0NQAQEFFkkgIhM4vtA"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQGELldvToELdQ/videocover-high/videocover-high/0/1721067219607?e=1741683600&v=beta&t=gUOuzdtPNdawGlDtV-bXLH3xdjKBILPR4khP9Bmo1ck"
       },
-      "date": "2024-08-03T14:22:18.414Z"
+      "date": "2024-08-04T08:25:01.573Z"
     },
     {
       "captions": "4th day at IFAT 2024! Visit us at Hall C5, stand 328!\n#ifat #materialhandler #tabarelli #recycling4th day at IFAT 2024! Visit us at Hall C5, stand 328!\n#ifat #materialhandler #tabarelli #recycling",
@@ -169,16 +196,16 @@
       "shares": "2",
       "time": {
         "raw": "9ay",
-        "parsed": "03.06.2024",
-        "isoString": "2024-06-03T14:22:18.415Z"
+        "parsed": "04.06.2024",
+        "isoString": "2024-06-04T08:25:01.574Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQGIasDUzNltqg/feedshare-shrink_800/feedshare-shrink_800/0/1715872379360?e=1743638400&v=beta&t=AoKJZE4dr7rdhWRocKZOalj-j2TBu0BvGhntgPYt_SI",
-        "https://media.licdn.com/dms/image/v2/D4D22AQFvW5WPGWwfUQ/feedshare-shrink_800/feedshare-shrink_800/0/1715872379801?e=1743638400&v=beta&t=nee3VynwQySfWBHmDESfV5oLiybZuce40Guu85VHlgk",
-        "https://media.licdn.com/dms/image/v2/D4D22AQFa9Y3OzH_F6Q/feedshare-shrink_800/feedshare-shrink_800/0/1715872379322?e=1743638400&v=beta&t=XszvmwVBWJBjV6ETVusfzAXojt-GfX2-I2DB93xXuVI"
+        "https://media.licdn.com/dms/image/v2/D4D22AQGIasDUzNltqg/feedshare-shrink_800/feedshare-shrink_800/0/1715872379360?e=1744243200&v=beta&t=6iC6y2Rcwgq_DyDLQANp8nV4tdQsDw6K4ha9RqBtyYU",
+        "https://media.licdn.com/dms/image/v2/D4D22AQFvW5WPGWwfUQ/feedshare-shrink_800/feedshare-shrink_800/0/1715872379801?e=1744243200&v=beta&t=ULmMrigsWdW2pggToUdYGzhoiYEjdk5wEJATDlMWqIE",
+        "https://media.licdn.com/dms/image/v2/D4D22AQFa9Y3OzH_F6Q/feedshare-shrink_800/feedshare-shrink_800/0/1715872379322?e=1744243200&v=beta&t=ckdL2aUe1ZPZP5f1OtG4yWDrPhhDm6eYfQAG-COOANY"
       ],
-      "date": "2024-06-03T14:22:18.415Z"
+      "date": "2024-06-04T08:25:01.574Z"
     },
     {
       "captions": "Huge support for our Material Handler\nBusiness from our US Colleague Thomas Hickson  from Sierra International Machinery  and DE colleague Ingo Niksic  from BMA Maschinenvertrieb  \n#ifat #materialhandler #tabarelli #recyclingHuge support for our Material Handler\nBusiness from our US Colleague Thomas Hickson  from Sierra International Machinery  and DE colleague Ingo Niksic  from BMA Maschinenvertrieb  \n#ifat #materialhandler #tabarelli #recycling",
@@ -187,33 +214,33 @@
       "shares": "4",
       "time": {
         "raw": "9ay",
-        "parsed": "03.06.2024",
-        "isoString": "2024-06-03T14:22:18.416Z"
+        "parsed": "04.06.2024",
+        "isoString": "2024-06-04T08:25:01.576Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQFUUljVhTnczQ/feedshare-shrink_800/feedshare-shrink_800/0/1715768063809?e=1743638400&v=beta&t=l0yc-9zzCvCJ8Dtxn2fNxhMVp-3TC7Td4y-HBn7DXaQ",
-        "https://media.licdn.com/dms/image/v2/D4D22AQFlouhnVhbzAA/feedshare-shrink_800/feedshare-shrink_800/0/1715768063849?e=1743638400&v=beta&t=VTpN7J9xI27cz-hsWDEhpQTu9MMlKy5uYAewRNArPlc",
-        "https://media.licdn.com/dms/image/v2/D4D22AQFYZZ_QA-vI6Q/feedshare-shrink_800/feedshare-shrink_800/0/1715768063644?e=1743638400&v=beta&t=47mqVMDmEYV4kz_txKWzIJm4ppwJ4vSvzB38HLcLewg"
+        "https://media.licdn.com/dms/image/v2/D4D22AQFUUljVhTnczQ/feedshare-shrink_800/feedshare-shrink_800/0/1715768063809?e=1744243200&v=beta&t=IpCRHFe9bCkePCzJNYWx-P51rA9EygQNww-YiVDIPlw",
+        "https://media.licdn.com/dms/image/v2/D4D22AQFlouhnVhbzAA/feedshare-shrink_800/feedshare-shrink_800/0/1715768063849?e=1744243200&v=beta&t=LKGQGiSyVD2W7_u0k91YPsjnf9WkmkQUF8C33rFSSmY",
+        "https://media.licdn.com/dms/image/v2/D4D22AQFYZZ_QA-vI6Q/feedshare-shrink_800/feedshare-shrink_800/0/1715768063644?e=1744243200&v=beta&t=gisonz3-N5_6udvGCnaEpj2tkbb_w45yZrr6B8V-HsA"
       ],
-      "date": "2024-06-03T14:22:18.416Z"
+      "date": "2024-06-04T08:25:01.576Z"
     },
     {
       "captions": "IFAT day 2: visit us at Hall C5 stand 328! We will show you our electric and diesel material handlers!\n#ifat #materialhandler #tabarelli #recyclingIFAT day 2: visit us at Hall C5 stand 328! We will show you our electric and diesel material handlers!\n#ifat #materialhandler #tabarelli #recycling",
       "likes": "8",
       "time": {
         "raw": "9ay",
-        "parsed": "03.06.2024",
-        "isoString": "2024-06-03T14:22:18.418Z"
+        "parsed": "04.06.2024",
+        "isoString": "2024-06-04T08:25:01.577Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQGqUOtPmORFDA/feedshare-shrink_800/feedshare-shrink_800/0/1715691490262?e=1743638400&v=beta&t=Sb2oMEQU7S3yZgk2HKFOjSOmUB-M4WoDT-3oov_Sl20",
-        "https://media.licdn.com/dms/image/v2/D4D22AQGYx5AkXt9FUA/feedshare-shrink_800/feedshare-shrink_800/0/1715691490265?e=1743638400&v=beta&t=0GummkRPu3glIgNamvnddBpOdOR5KVjNiTDNUR5Osdw",
-        "https://media.licdn.com/dms/image/v2/D4D22AQHMfs7bhpFWCA/feedshare-shrink_800/feedshare-shrink_800/0/1715691490284?e=1743638400&v=beta&t=Vf9FrKiLCSJCeVkHsnLSP_R8oa1dzx69vOWKKK0-sKk",
-        "https://media.licdn.com/dms/image/v2/D4D22AQHUZwYN0jd6ow/feedshare-shrink_800/feedshare-shrink_800/0/1715691489092?e=1743638400&v=beta&t=cSXqWVj7rioldyUqUAeixsA3ma7SK5igEEWJULB0T9I"
+        "https://media.licdn.com/dms/image/v2/D4D22AQGqUOtPmORFDA/feedshare-shrink_800/feedshare-shrink_800/0/1715691490262?e=1744243200&v=beta&t=0LWJYvNIMR7W8jOgY7gk_bl06jDKmK0Y-5XgOn_mUqI",
+        "https://media.licdn.com/dms/image/v2/D4D22AQGYx5AkXt9FUA/feedshare-shrink_800/feedshare-shrink_800/0/1715691490265?e=1744243200&v=beta&t=8P-UzJirMbOd7ckgxE88xponxFDWPQifJo0bz1YGBJw",
+        "https://media.licdn.com/dms/image/v2/D4D22AQHMfs7bhpFWCA/feedshare-shrink_800/feedshare-shrink_800/0/1715691490284?e=1744243200&v=beta&t=9KtcePVfiQMa1ItvQO6oJn3Tc3nD0YyRidtp7vk613c",
+        "https://media.licdn.com/dms/image/v2/D4D22AQHUZwYN0jd6ow/feedshare-shrink_800/feedshare-shrink_800/0/1715691489092?e=1744243200&v=beta&t=EHW7TaUX5C48cuDOajTi6oIRSSdXj6mC47MxRrkiC4Y"
       ],
-      "date": "2024-06-03T14:22:18.418Z"
+      "date": "2024-06-04T08:25:01.577Z"
     },
     {
       "captions": "Are you ready? You can find us at Hall C5 stand 328!\n\n#tabarelli #materialhandler #ifat #recyclingAre you ready? You can find us at Hall C5 stand 328!\n\n#tabarelli #materialhandler #ifat #recycling",
@@ -221,15 +248,15 @@
       "shares": "1",
       "time": {
         "raw": "9ay",
-        "parsed": "03.06.2024",
-        "isoString": "2024-06-03T14:22:18.419Z"
+        "parsed": "04.06.2024",
+        "isoString": "2024-06-04T08:25:01.578Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQET0VfNDho3qQ/feedshare-shrink_800/feedshare-shrink_800/0/1715588552932?e=1743638400&v=beta&t=ZXjsD6M2myTe9PFDxHxRUcQHRF7h4wvLS5EduKv3ZPs",
-        "https://media.licdn.com/dms/image/v2/D4D22AQH3e-_BNajS1A/feedshare-shrink_800/feedshare-shrink_800/0/1715588553350?e=1743638400&v=beta&t=NuRzAlWkZv8SP0f9qo5Wo5wZv7vtrMl-sMkkScc8NY0"
+        "https://media.licdn.com/dms/image/v2/D4D22AQET0VfNDho3qQ/feedshare-shrink_800/feedshare-shrink_800/0/1715588552932?e=1744243200&v=beta&t=AarCtt00UzhwfYMhPqMpvSS6vFDQZTO8x7QeY8KG2uQ",
+        "https://media.licdn.com/dms/image/v2/D4D22AQH3e-_BNajS1A/feedshare-shrink_800/feedshare-shrink_800/0/1715588553350?e=1744243200&v=beta&t=ozPebZDskc8_7AwTEv9mHNZ0FksNVyN77Rnv17lAi3I"
       ],
-      "date": "2024-06-03T14:22:18.419Z"
+      "date": "2024-06-04T08:25:01.578Z"
     },
     {
       "captions": "IFAT 2024 | 13-17 Maggio\nEccoci anche quest’anno alla fiera internazionale leader per la gestione dei rifiuti e delle materie prime. Venite a trovarci al Centro Fieristico di Monaco di Baviera, Hall C5 – Stand 328!\n \nIFAT 2024 | May 13-17\nHere we are once again at the world’s leading trade fair for waste and raw materials management.\nCome and visit us at the Munich Trade Fair Center, Hall C5 – Booth 328!\n\n#ifat #tabarelli #materialhandler #recyclingIFAT 2024 | 13-17 Maggio\nEccoci anche quest’anno alla fiera internazionale leader per la gestione dei rifiuti e delle materie prime. Venite a trovarci al Centro Fieristico di Monaco di Baviera, Hall C5 – Stand 328!\n \nIFAT 2024 | May 13-17\nHere we are once again at the world’s leading trade fair for waste and raw materials management.\nCome and visit us at the Munich Trade Fair Center, Hall C5 – Booth 328!\n\n#ifat #tabarelli #materialhandler #recycling",
@@ -237,15 +264,15 @@
       "comments": "1",
       "shares": "2",
       "time": {
-        "raw": "9ay",
-        "parsed": "03.06.2024",
-        "isoString": "2024-06-03T14:22:18.421Z"
+        "raw": "10ay",
+        "parsed": "04.05.2024",
+        "isoString": "2024-05-04T08:25:01.580Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4E22AQGoBtUYlH5ljQ/feedshare-shrink_800/feedshare-shrink_800/0/1715092147985?e=1743638400&v=beta&t=vEbxXSCKRI8J-twewCsorB8CklL05vdO-lhVKUznb5A"
+        "https://media.licdn.com/dms/image/v2/D4E22AQGoBtUYlH5ljQ/feedshare-shrink_800/feedshare-shrink_800/0/1715092147985?e=1744243200&v=beta&t=tBNZbWaUQRFsSl6qRVOaahxo0Vc1rvrwuX0549zlL0U"
       ],
-      "date": "2024-06-03T14:22:18.421Z"
+      "date": "2024-05-04T08:25:01.580Z"
     },
     {
       "captions": "Visit us at Booth B6!\n#isri #tabarelli #materialhandler #recyclingVisit us at Booth B6!\n#isri #tabarelli #materialhandler #recycling",
@@ -253,76 +280,76 @@
       "shares": "1",
       "time": {
         "raw": "10ay",
-        "parsed": "03.05.2024",
-        "isoString": "2024-05-03T14:22:18.423Z"
+        "parsed": "04.05.2024",
+        "isoString": "2024-05-04T08:25:01.581Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQFA2Qw3hCv5Ww/feedshare-shrink_800/feedshare-shrink_800/0/1713381857573?e=1743638400&v=beta&t=CJSTprNCuKuMAgZyGBcAVSaZHrG9-ATYXHO-b7EMmMA",
-        "https://media.licdn.com/dms/image/v2/D4D22AQHs27QyZSqwlA/feedshare-shrink_800/feedshare-shrink_800/0/1713381857399?e=1743638400&v=beta&t=hmHvI4TR7HTXUI25Q7sSlCKlPJnkY-ylVtuZaUyc2v4"
+        "https://media.licdn.com/dms/image/v2/D4D22AQFA2Qw3hCv5Ww/feedshare-shrink_800/feedshare-shrink_800/0/1713381857573?e=1744243200&v=beta&t=i8XqgzQYQiJ_vg9UEftigdqZnikyzEqjm_CAdtdbtv0",
+        "https://media.licdn.com/dms/image/v2/D4D22AQHs27QyZSqwlA/feedshare-shrink_800/feedshare-shrink_800/0/1713381857399?e=1744243200&v=beta&t=8BfP-6JxAlQPSxreebXU8pwpo3fXmuD7C6520f-oAKc"
       ],
-      "date": "2024-05-03T14:22:18.423Z"
+      "date": "2024-05-04T08:25:01.581Z"
     },
     {
       "captions": "Ready to startViva ISRI! We are ready for you!",
       "likes": "2",
       "time": {
         "raw": "10ay10ay",
-        "parsed": "03.03.2025",
-        "isoString": "2025-03-03T14:22:18.424Z"
+        "parsed": "04.03.2025",
+        "isoString": "2025-03-04T08:25:01.582Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQHjtUsPOmWqKg/feedshare-ambry-analyzed_servable_progressive_video/feedshare-ambry-analyzed_servable_progressive_video/0/1713225575593?e=1741618800&v=beta&t=HQPG228Jia2-6DJ10tXtnzIoKP9eU7fktBF4Tjhd4Nc",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQHjtUsPOmWqKg/feedshare-ambry-analyzed_servable_progressive_video/feedshare-ambry-analyzed_servable_progressive_video/0/1713225575593?e=1741683600&v=beta&t=S3y5EPURRw3m4uoy3OPsCwHgI_k57qkN-Wx-WYI8LH8",
             "type": "video/quicktime",
             "data-bitrate": 12784870
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQHjtUsPOmWqKg/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1713225578724?e=1741618800&v=beta&t=3Y9EWdCSvnFRTqgwgDJSrjnTvARAHJc8lVYIR5Sst8Y",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQHjtUsPOmWqKg/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1713225578724?e=1741683600&v=beta&t=7JFSeGL4WHAIbchjPNbiGx9ZIzyqk47VbqADP0YQLP4",
             "type": "video/mp4",
             "data-bitrate": 1176888
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQHjtUsPOmWqKg/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1713225579450?e=1741618800&v=beta&t=3TLYFFeIq3muCeoLtIpALYFV6Wxkfqpmdqau2LKh47I",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQHjtUsPOmWqKg/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1713225579450?e=1741683600&v=beta&t=11fdobgCyh6a37xuWaErRh2HfG_43dOA_tOtn06lbG4",
             "type": "video/mp4",
             "data-bitrate": 1547287
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D5605AQHjtUsPOmWqKg/videocover-high/videocover-high/0/1713225574224?e=1741618800&v=beta&t=WKXer-QguqF1HnYyLU97T9FjdOqzv7rHxvjjX5bYC2U"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D5605AQHjtUsPOmWqKg/videocover-high/videocover-high/0/1713225574224?e=1741683600&v=beta&t=m-Y1f9Lwno2ykhlQhUka3rpc_27yZv1xshiCd3XQDF8"
       },
-      "date": "2025-03-03T14:22:18.424Z"
+      "date": "2025-03-04T08:25:01.582Z"
     },
     {
       "captions": "Viva ISRI! We are ready for you!",
       "time": {
         "raw": "10ay",
-        "parsed": "03.05.2024",
-        "isoString": "2024-05-03T14:22:18.425Z"
+        "parsed": "04.05.2024",
+        "isoString": "2024-05-04T08:25:01.583Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQHjtUsPOmWqKg/feedshare-ambry-analyzed_servable_progressive_video/feedshare-ambry-analyzed_servable_progressive_video/0/1713225575593?e=1741618800&v=beta&t=HQPG228Jia2-6DJ10tXtnzIoKP9eU7fktBF4Tjhd4Nc",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQHjtUsPOmWqKg/feedshare-ambry-analyzed_servable_progressive_video/feedshare-ambry-analyzed_servable_progressive_video/0/1713225575593?e=1741683600&v=beta&t=S3y5EPURRw3m4uoy3OPsCwHgI_k57qkN-Wx-WYI8LH8",
             "type": "video/quicktime",
             "data-bitrate": 12784870
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQHjtUsPOmWqKg/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1713225578724?e=1741618800&v=beta&t=3Y9EWdCSvnFRTqgwgDJSrjnTvARAHJc8lVYIR5Sst8Y",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQHjtUsPOmWqKg/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1713225578724?e=1741683600&v=beta&t=7JFSeGL4WHAIbchjPNbiGx9ZIzyqk47VbqADP0YQLP4",
             "type": "video/mp4",
             "data-bitrate": 1176888
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQHjtUsPOmWqKg/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1713225579450?e=1741618800&v=beta&t=3TLYFFeIq3muCeoLtIpALYFV6Wxkfqpmdqau2LKh47I",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQHjtUsPOmWqKg/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1713225579450?e=1741683600&v=beta&t=11fdobgCyh6a37xuWaErRh2HfG_43dOA_tOtn06lbG4",
             "type": "video/mp4",
             "data-bitrate": 1547287
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D5605AQHjtUsPOmWqKg/videocover-high/videocover-high/0/1713225574224?e=1741618800&v=beta&t=WKXer-QguqF1HnYyLU97T9FjdOqzv7rHxvjjX5bYC2U"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D5605AQHjtUsPOmWqKg/videocover-high/videocover-high/0/1713225574224?e=1741683600&v=beta&t=m-Y1f9Lwno2ykhlQhUka3rpc_27yZv1xshiCd3XQDF8"
       },
-      "date": "2024-05-03T14:22:18.425Z"
+      "date": "2024-05-04T08:25:01.583Z"
     },
     {
       "captions": "Almost ready to start at the Mandalay Bay Convention Center !!Almost ready to start at the Mandalay Bay Convention Center !!",
@@ -330,30 +357,30 @@
       "shares": "4",
       "time": {
         "raw": "10ay",
-        "parsed": "03.05.2024",
-        "isoString": "2024-05-03T14:22:18.425Z"
+        "parsed": "04.05.2024",
+        "isoString": "2024-05-04T08:25:01.583Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQGAIuSZCRAquw/feedshare-shrink_800/feedshare-shrink_800/0/1713180144563?e=1743638400&v=beta&t=3ezoTFFUd1WRbG7_P8QM4FpfDBIVPNQ4SPYHBiRiN_4",
-        "https://media.licdn.com/dms/image/v2/D4D22AQEKy9GQxGUiXA/feedshare-shrink_800/feedshare-shrink_800/0/1713180144374?e=1743638400&v=beta&t=Syx4QaHtb5aBBUk9ZypoV7Pr08Y9hAHd3ZqICcYhIME",
-        "https://media.licdn.com/dms/image/v2/D4D22AQG4OWNine0dfA/feedshare-shrink_800/feedshare-shrink_800/0/1713180143605?e=1743638400&v=beta&t=s1muwiVBYLQrFygbgRc4A-GPXyMkzSbNKyuWHQ60Gf4"
+        "https://media.licdn.com/dms/image/v2/D4D22AQGAIuSZCRAquw/feedshare-shrink_800/feedshare-shrink_800/0/1713180144563?e=1744243200&v=beta&t=HSfjjSSc2-TsxSkQC53-KLPM4DLdIpRTo4uDGhEVBRs",
+        "https://media.licdn.com/dms/image/v2/D4D22AQEKy9GQxGUiXA/feedshare-shrink_800/feedshare-shrink_800/0/1713180144374?e=1744243200&v=beta&t=vDOY_c99asnVk5GKXAitXbbG7COytgH9LFQmOEERark",
+        "https://media.licdn.com/dms/image/v2/D4D22AQG4OWNine0dfA/feedshare-shrink_800/feedshare-shrink_800/0/1713180143605?e=1744243200&v=beta&t=PKzTbm0T7z1lma-23P3U8ey9saTZBUpv-m8o6aIDrOU"
       ],
-      "date": "2024-05-03T14:22:18.425Z"
+      "date": "2024-05-04T08:25:01.583Z"
     },
     {
       "captions": "Happy Easter!\n#tabarelli #materialhandler #recycling #peaceHappy Easter!\n#tabarelli #materialhandler #recycling #peace",
       "likes": "5",
       "time": {
         "raw": "11ay",
-        "parsed": "03.04.2024",
-        "isoString": "2024-04-03T14:22:18.426Z"
+        "parsed": "04.04.2024",
+        "isoString": "2024-04-04T08:25:01.584Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQHXMafl8TgEnQ/feedshare-shrink_800/feedshare-shrink_800/0/1711874212678?e=1743638400&v=beta&t=6TltLRPV4nqC41vrYKJNWv6leU1kgHNiYHrAE58aH3g"
+        "https://media.licdn.com/dms/image/v2/D4D22AQHXMafl8TgEnQ/feedshare-shrink_800/feedshare-shrink_800/0/1711874212678?e=1744243200&v=beta&t=f8wKFctf2zNNn-Zjmkfni5EpbnuN8pbPZC44Cus5TCg"
       ],
-      "date": "2024-04-03T14:22:18.426Z"
+      "date": "2024-04-04T08:25:01.584Z"
     },
     {
       "captions": "Der BMA Maschinenvertrieb Tabarelli Material Handler bewirbt sich mit einem Beitrag zum Erreichen der Klimaziele für den Innovationspreis der Region Göttingen Northeim. Mit rein für den Batteriebetrieb entwickelten Materialumschlagmaschinen helfen die Hannoveraner der kommunalen und privaten Recyclingbranche bei der Transformation hin zur Elektrifizierung des Maschinenparks.\n\n#innovationspreis #gemeinsamzukunftgestalten #wirtschaftsförderung #göttingen #landkreisgöttingen #northeim #regiongöttingennortheim #wrg #klimainnovationspreis #niedersachsenDer BMA Maschinenvertrieb Tabarelli Material Handler bewirbt sich mit einem Beitrag zum Erreichen der Klimaziele für den Innovationspreis der Region Göttingen Northeim. Mit rein für den Batteriebetrieb entwickelten Materialumschlagmaschinen helfen die Hannoveraner der kommunalen und privaten Recyclingbranche bei der Transformation hin zur Elektrifizierung des Maschinenparks.\n\n#innovationspreis #gemeinsamzukunftgestalten #wirtschaftsförderung #göttingen #landkreisgöttingen #northeim #regiongöttingennortheim #wrg #klimainnovationspreis #niedersachsen",
@@ -361,14 +388,14 @@
       "shares": "4",
       "time": {
         "raw": "11ay",
-        "parsed": "03.04.2024",
-        "isoString": "2024-04-03T14:22:18.428Z"
+        "parsed": "04.04.2024",
+        "isoString": "2024-04-04T08:25:01.586Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4E10AQEWKq3RNrmMNg/image-shrink_800/image-shrink_800/0/1711354042915?e=1741618800&v=beta&t=7_R_hfM5gUtPafpRKZFoZ6Xc1dQMrK35iTv8Ak1KXKg"
+        "https://media.licdn.com/dms/image/v2/D4E10AQEWKq3RNrmMNg/image-shrink_800/image-shrink_800/0/1711354042915?e=1741683600&v=beta&t=_PY0aiu964DFzNLwez8UtS696DZErtR-linU8jfo9-U"
       ],
-      "date": "2024-04-03T14:22:18.428Z"
+      "date": "2024-04-04T08:25:01.586Z"
     }
   ]
 }

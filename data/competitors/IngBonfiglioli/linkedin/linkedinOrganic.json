@@ -1,176 +1,216 @@
 {
-  "followerCount": "1.251",
-  "employeeCount": "51 - 200 çalışan",
+  "followerData": [
+    [
+      20250225,
+      1247
+    ],
+    [
+      20250225,
+      1247
+    ],
+    [
+      20250225,
+      1247
+    ],
+    [
+      20250228,
+      1249
+    ],
+    [
+      20250228,
+      1249
+    ],
+    [
+      20250228,
+      1249
+    ],
+    [
+      20250228,
+      1249
+    ],
+    [
+      20250303,
+      1251
+    ],
+    [
+      1741011580872,
+      "1.251"
+    ],
+    [
+      1741076571083,
+      "1.251"
+    ]
+  ],
   "data": [
     {
       "captions": "#ingbonfiglioli #squalo1000 #mobilitymatter #allovertheworld #mostpowerfulshears",
       "likes": "4",
       "time": {
-        "raw": "6g",
+        "raw": "1h",
         "parsed": "25.02.2025",
-        "isoString": "2025-02-25T14:19:40.635Z"
+        "isoString": "2025-02-25T08:22:50.852Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHIgJVRDBZkUw/mp4-720p-30fp-crf28/B4DZU7QgaRG8Bk-/0/1740456227032?e=1741618800&v=beta&t=N8neYorzk1aqTV7yX0wfjl3Ibp0OZcAAwWMl-0aYZ-I",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHIgJVRDBZkUw/mp4-720p-30fp-crf28/B4DZU7QgaRG8Bk-/0/1740456227032?e=1741683600&v=beta&t=v3DEhiOEfdrnfaBO9U4v6ezlwEVW8vAbU8tx40Znp9k",
             "type": "video/mp4",
             "data-bitrate": 1063619
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHIgJVRDBZkUw/mp4-640p-30fp-crf28/B4DZU7QgaRG8Bg-/0/1740456222968?e=1741618800&v=beta&t=Iz7ynvM-HxGBxBL9PZsypNmY8-0ryX27z80tN5LtRGo",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHIgJVRDBZkUw/mp4-640p-30fp-crf28/B4DZU7QgaRG8Bg-/0/1740456222968?e=1741683600&v=beta&t=fIZyVK-l3g5Vwj5YSwOW-Sk_qfGFTiWjgjj4oxOe6hU",
             "type": "video/mp4",
             "data-bitrate": 817531
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQHIgJVRDBZkUw/videocover-low/B4DZU7QgaRG8CQ-/0/1740456210568?e=1741618800&v=beta&t=yyEf4VnlAmerWM0aHHU7qdiKMc4NrJ0uNuGZJz9f_os"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQHIgJVRDBZkUw/videocover-low/B4DZU7QgaRG8CQ-/0/1740456210568?e=1741683600&v=beta&t=cuXSYrpluQs8Cild4AWEORqXARpRijBsNJxSVLsyBNs"
       },
-      "date": "2025-02-25T14:19:40.635Z"
+      "date": "2025-02-25T08:22:50.852Z"
     },
     {
       "captions": "Ing,Bonfiglioli SQUALO 4000 Vertical Inclined Shear on duty in New Mexico - USA.  #nomercy #thebeast #mostpowerfulshear #hms #ingbonfiglioli #nocompromises #allovertheworldIng,Bonfiglioli SQUALO 4000 Vertical Inclined Shear on duty in New Mexico - USA.  #nomercy #thebeast #mostpowerfulshear #hms #ingbonfiglioli #nocompromises #allovertheworld",
       "likes": "2",
       "shares": "1",
       "time": {
-        "raw": "6g",
+        "raw": "1h",
         "parsed": "25.02.2025",
-        "isoString": "2025-02-25T14:19:40.636Z"
+        "isoString": "2025-02-25T08:22:50.853Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQGqJMZzvf5ngg/feedshare-shrink_800/B4DZU7P_NwG8Ag-/0/1740455802087?e=1743638400&v=beta&t=qxz2hFNcj-0t4ihyvygLp8vvbiSppUPloPH-X5JGAu8"
+        "https://media.licdn.com/dms/image/v2/D4D22AQGqJMZzvf5ngg/feedshare-shrink_800/B4DZU7P_NwG8Ag-/0/1740455802087?e=1744243200&v=beta&t=sxsIEAGQtSVq8B5M2d5fUlRti0JTa0XW1qCtpeTOJGI"
       ],
-      "date": "2025-02-25T14:19:40.636Z"
+      "date": "2025-02-25T08:22:50.853Z"
     },
     {
       "captions": "Ing.Bonfiglioli SQUALO 2000 High Speed Vertical Inclined Shear running in the cold winter of Colorado - USA. #wintertime #ingbonfiglioli #mostpowerfulshears #onestepahead #builtolastIng.Bonfiglioli SQUALO 2000 High Speed Vertical Inclined Shear running in the cold winter of Colorado - USA. #wintertime #ingbonfiglioli #mostpowerfulshears #onestepahead #builtolast",
       "likes": "3",
       "time": {
-        "raw": "6g",
+        "raw": "1h",
         "parsed": "25.02.2025",
-        "isoString": "2025-02-25T14:19:40.639Z"
+        "isoString": "2025-02-25T08:22:50.855Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQG4GxOFKtnHZg/feedshare-shrink_800/B4DZU7Krk3GkAg-/0/1740454413928?e=1743638400&v=beta&t=FmgQNg5OY-KYdUn_q1-2n9p_3z9s7Bno_9wrJnjnKZc"
+        "https://media.licdn.com/dms/image/v2/D4D22AQG4GxOFKtnHZg/feedshare-shrink_800/B4DZU7Krk3GkAg-/0/1740454413928?e=1744243200&v=beta&t=_sxcm4_aexIu9l7AuuIOCVdZbZa2esTKc4u4iNo_PUY"
       ],
-      "date": "2025-02-25T14:19:40.639Z"
+      "date": "2025-02-25T08:22:50.855Z"
     },
     {
       "captions": "#ingbonfiglioli #scrapmetalrecycling #onestepahead #allovertheworld",
       "likes": "3",
       "time": {
         "raw": "1h",
-        "parsed": "24.02.2025",
-        "isoString": "2025-02-24T14:19:40.640Z"
+        "parsed": "25.02.2025",
+        "isoString": "2025-02-25T08:22:50.856Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGkqmsqEyJuYg/mp4-640p-30fp-crf28/B4DZUrnrSaGkBg-/0/1740193578763?e=1741618800&v=beta&t=Hss6USVuAUOjd7tw9CmgyP-jFrvslm_sFys0AS_64hY",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGkqmsqEyJuYg/mp4-640p-30fp-crf28/B4DZUrnrSaGkBg-/0/1740193578763?e=1741683600&v=beta&t=S8mm2lQqUDXUa19Ilbh3zhkRjd7mp6HaqlCJSx0y-wg",
             "type": "video/mp4",
             "data-bitrate": 678474
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGkqmsqEyJuYg/mp4-720p-30fp-crf28/B4DZUrnrSaGkBk-/0/1740193578886?e=1741618800&v=beta&t=xNBQZk6Lxy0fDVFLY9SKaJ_r2ue0PeTBWnykVLtvPL0",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGkqmsqEyJuYg/mp4-720p-30fp-crf28/B4DZUrnrSaGkBk-/0/1740193578886?e=1741683600&v=beta&t=wrtS7vSIydXQF35lbLSg-gsqi4-nkemUSr_gtSX6Nnw",
             "type": "video/mp4",
             "data-bitrate": 871887
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQGkqmsqEyJuYg/videocover-high/B4DZUrnrSaGkBw-/0/1740193577943?e=1741618800&v=beta&t=F5AyyhVoUXxmbCpkHgnkJUmu8TiTRvOVzK4yuBH9fMs"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQGkqmsqEyJuYg/videocover-high/B4DZUrnrSaGkBw-/0/1740193577943?e=1741683600&v=beta&t=ButAQmZW1GiPTIT4RLUF7KqPJIPaXsJoKh_8oI_nlpo"
       },
-      "date": "2025-02-24T14:19:40.640Z"
+      "date": "2025-02-25T08:22:50.856Z"
     },
     {
       "captions": "It's a good winter morning for chopping up material in Colorado - USA for the Ing.Bonfiglioli SQUALO 3000 Vertical Inclined Shear. #northamericanfamily #ingbonfiglioli #allovertheworld #mostpowerfulshears #nocompromisesIt's a good winter morning for chopping up material in Colorado - USA for the Ing.Bonfiglioli SQUALO 3000 Vertical Inclined Shear. #northamericanfamily #ingbonfiglioli #allovertheworld #mostpowerfulshears #nocompromises",
       "likes": "5",
       "time": {
         "raw": "1h",
-        "parsed": "24.02.2025",
-        "isoString": "2025-02-24T14:19:40.647Z"
+        "parsed": "25.02.2025",
+        "isoString": "2025-02-25T08:22:50.857Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4E22AQHPmAgv8Hm6qA/feedshare-shrink_800/B4EZUofKUmHgAk-/0/1740141013899?e=1743638400&v=beta&t=2wxFHsAXT5jMqzwP7jhIBHqR_ZzypkG0vxrMORqf0lc"
+        "https://media.licdn.com/dms/image/v2/D4E22AQHPmAgv8Hm6qA/feedshare-shrink_800/B4EZUofKUmHgAk-/0/1740141013899?e=1744243200&v=beta&t=ppHx_kaFptyknd6QP2eXMHPUopF-pESAG4SKaMHPwbY"
       ],
-      "date": "2025-02-24T14:19:40.647Z"
+      "date": "2025-02-25T08:22:50.857Z"
     },
     {
       "captions": "Ing.Bonfiglioli DRAKE 10 Hammermill Shredder on duty in New Zealand. #kiwifamily #ingbonfiglioli #allovertheworld #onestepahead #shreddingtherightway",
       "likes": "2",
       "time": {
         "raw": "1h",
-        "parsed": "24.02.2025",
-        "isoString": "2025-02-24T14:19:40.649Z"
+        "parsed": "25.02.2025",
+        "isoString": "2025-02-25T08:22:50.858Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQFXfiTLL_n_6Q/mp4-640p-30fp-crf28/B4DZUmZNVGGcBc-/0/1740105900696?e=1741618800&v=beta&t=GWWrH_nsgVGx-L42s2RDaoV49OGa6MtySa1AV9Okj0Q",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQFXfiTLL_n_6Q/mp4-640p-30fp-crf28/B4DZUmZNVGGcBc-/0/1740105900696?e=1741683600&v=beta&t=f3tkt2ZJ1odPDSASIW8j4qDeahv50WiZcJhP0Kxzwq8",
             "type": "video/mp4",
             "data-bitrate": 837841
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQFXfiTLL_n_6Q/videocover-high/B4DZUmZNVGGcBs-/0/1740105899495?e=1741618800&v=beta&t=q30Bm4YeBKt_bFUK8r_geoVboS_mkbwUc-SGC7rzuq4"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQFXfiTLL_n_6Q/videocover-high/B4DZUmZNVGGcBs-/0/1740105899495?e=1741683600&v=beta&t=4D6Gx0GcChmocvJQNlzg4Wn8_Ed82h358dYHL4pup10"
       },
-      "date": "2025-02-24T14:19:40.649Z"
+      "date": "2025-02-25T08:22:50.858Z"
     },
     {
       "captions": "Ing.Bonfiglioli SQUALO 2000 High Speed Vertical Inclined Shear running in Utah - USA. #northamericanfamily #aljon #ingbonfiglioli #mostpowerfulshears #nocompromisesIng.Bonfiglioli SQUALO 2000 High Speed Vertical Inclined Shear running in Utah - USA. #northamericanfamily #aljon #ingbonfiglioli #mostpowerfulshears #nocompromises",
       "likes": "1",
       "time": {
         "raw": "1h",
-        "parsed": "24.02.2025",
-        "isoString": "2025-02-24T14:19:40.650Z"
+        "parsed": "25.02.2025",
+        "isoString": "2025-02-25T08:22:50.859Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQGLjnpMEvAPUA/feedshare-shrink_800/B4DZUd9QNfHkAk-/0/1739964352323?e=1743638400&v=beta&t=GxbWy6Y6RKisc23uvxAkJUjFPZLdgTlekuR_RL2o8ow"
+        "https://media.licdn.com/dms/image/v2/D4D22AQGLjnpMEvAPUA/feedshare-shrink_800/B4DZUd9QNfHkAk-/0/1739964352323?e=1744243200&v=beta&t=j9JSyTgUY3SmYyK_bBMs3PHPZEPB4ftM8qeGX8lHnJw"
       ],
-      "date": "2025-02-24T14:19:40.650Z"
+      "date": "2025-02-25T08:22:50.859Z"
     },
     {
       "captions": "#ingbonfiglioli #aussiefamily #drake #shreddingtherightway #squalo #mostpowerfulshears",
       "likes": "4",
       "time": {
         "raw": "1h",
-        "parsed": "24.02.2025",
-        "isoString": "2025-02-24T14:19:40.652Z"
+        "parsed": "25.02.2025",
+        "isoString": "2025-02-25T08:22:50.860Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQFPeTE4vC5Eog/mp4-720p-30fp-crf28/B4DZUd8nE8GkBg-/0/1739964192084?e=1741618800&v=beta&t=vxnuDHf36dRTpN_51mpLUPAsKHgbiFBf_PJy1BzPt-o",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQFPeTE4vC5Eog/mp4-720p-30fp-crf28/B4DZUd8nE8GkBg-/0/1739964192084?e=1741683600&v=beta&t=PJG_YuVhEA4c9xUHF3wUUPBv-Z1vChZ1GP-LLpXr84Y",
             "type": "video/mp4",
             "data-bitrate": 1393147
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQFPeTE4vC5Eog/mp4-640p-30fp-crf28/B4DZUd8nE8GkBc-/0/1739964192367?e=1741618800&v=beta&t=llqtFkc5gxsumdHYdsvseS562mwCRIE2l7KZtBV1CdA",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQFPeTE4vC5Eog/mp4-640p-30fp-crf28/B4DZUd8nE8GkBc-/0/1739964192367?e=1741683600&v=beta&t=nERs7V-EtEbfkgtT20QM1aN38coUc_sHaTzeyQQYIwQ",
             "type": "video/mp4",
             "data-bitrate": 1083446
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQFPeTE4vC5Eog/videocover-low/B4DZUd8nE8GkCM-/0/1739964186411?e=1741618800&v=beta&t=VFXc1219mco7hndF9hcnV_Cf6V-h7Sxj7ize2a4AqYU"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQFPeTE4vC5Eog/videocover-low/B4DZUd8nE8GkCM-/0/1739964186411?e=1741683600&v=beta&t=4x7baGZyvjWygmLW6jKJhojbKpR6zwJFi4U0-HXOhuk"
       },
-      "date": "2025-02-24T14:19:40.652Z"
+      "date": "2025-02-25T08:22:50.860Z"
     },
     {
       "captions": "Installation in progress in the United States for another Ing.Bonfiglioli SQUALO 4000 Vertical Inclined Shear. More units on the way soon, stay tuned.\n#ingbonfiglioli #aljon #northamericanfamily #mostpowerfulshear #thebeast #nomercyInstallation in progress in the United States for another Ing.Bonfiglioli SQUALO 4000 Vertical Inclined Shear. More units on the way soon, stay tuned.\n#ingbonfiglioli #aljon #northamericanfamily #mostpowerfulshear #thebeast #nomercy",
       "likes": "2",
       "time": {
         "raw": "2h",
-        "parsed": "17.02.2025",
-        "isoString": "2025-02-17T14:19:40.653Z"
+        "parsed": "18.02.2025",
+        "isoString": "2025-02-18T08:22:50.861Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQFMW4qHg8COEQ/feedshare-shrink_800/B4DZUNsMNzGcAg-/0/1739691444520?e=1743638400&v=beta&t=kFWX7Hvu8m-Q2H1dDU7xJuuOHRPLPtb-TY1edGizAuc"
+        "https://media.licdn.com/dms/image/v2/D4D22AQFMW4qHg8COEQ/feedshare-shrink_800/B4DZUNsMNzGcAg-/0/1739691444520?e=1744243200&v=beta&t=QI3vcSHvTR2dE-iPJH3D608VFOcrZ8IvrcvRAEOOJ5s"
       ],
-      "date": "2025-02-17T14:19:40.653Z"
+      "date": "2025-02-18T08:22:50.861Z"
     },
     {
       "captions": "Full throttle production at the factory this week! The family keeps growing...stay tuned for more!\n#ingbonfiglioli #allovertheworld\n#scrapmetalrecycling #onestepaheadFull throttle production at the factory this week! The family keeps growing...stay tuned for more!\n#ingbonfiglioli #allovertheworld\n#scrapmetalrecycling #onestepahead",
@@ -178,14 +218,14 @@
       "shares": "1",
       "time": {
         "raw": "3h",
-        "parsed": "10.02.2025",
-        "isoString": "2025-02-10T14:19:40.654Z"
+        "parsed": "11.02.2025",
+        "isoString": "2025-02-11T08:22:50.862Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQF8G16wcqLQTA/feedshare-shrink_800/B4DZTgzwwsGcAg-/0/1738938455741?e=1743638400&v=beta&t=B1fpmAJyPuohhza2yA26GpKjwwFgOrPZGincTgG4tuo"
+        "https://media.licdn.com/dms/image/v2/D4D22AQF8G16wcqLQTA/feedshare-shrink_800/B4DZTgzwwsGcAg-/0/1738938455741?e=1744243200&v=beta&t=5w4fdw1z_W0A1orV1vOi6fbUvi99HVnWRICVX3zxV2U"
       ],
-      "date": "2025-02-10T14:19:40.654Z"
+      "date": "2025-02-11T08:22:50.862Z"
     },
     {
       "captions": "Next level shredding. No compromises. #ingbonfiglioli #metalrecycling #shreddingtherightway",
@@ -193,40 +233,40 @@
       "shares": "1",
       "time": {
         "raw": "3h",
-        "parsed": "10.02.2025",
-        "isoString": "2025-02-10T14:19:40.655Z"
+        "parsed": "11.02.2025",
+        "isoString": "2025-02-11T08:22:50.863Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGDdibTlT6Kdg/mp4-640p-30fp-crf28/B4EZTUGeHfHUBc-/0/1738725267452?e=1741618800&v=beta&t=sMlWmuN5WRwgZ6zoH4uWaKPz_EsShnrL1WjFgxrLecM",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGDdibTlT6Kdg/mp4-640p-30fp-crf28/B4EZTUGeHfHUBc-/0/1738725267452?e=1741683600&v=beta&t=ZSKNcx9_aGwWdKz8NnlrH5yUd-9QhkInx8EbTGasau8",
             "type": "video/mp4",
             "data-bitrate": 1103392
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGDdibTlT6Kdg/mp4-720p-30fp-crf28/B4EZTUGeHfHUBg-/0/1738725268088?e=1741618800&v=beta&t=SoREMRzkGwp6s_qARg3mNtx5TsqEWNtnfjTmhR-M38E",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGDdibTlT6Kdg/mp4-720p-30fp-crf28/B4EZTUGeHfHUBg-/0/1738725268088?e=1741683600&v=beta&t=uycHElamWQgGgoT-5Bl0aMZm0D0Smb5szKczz-ILAII",
             "type": "video/mp4",
             "data-bitrate": 1417703
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQGDdibTlT6Kdg/videocover-high/B4EZTUGeHfHUBs-/0/1738725264487?e=1741618800&v=beta&t=dDvW-BhGbGulw1sGvNatS1X6HsTJ4PgB_kn47yQDvoo"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQGDdibTlT6Kdg/videocover-high/B4EZTUGeHfHUBs-/0/1738725264487?e=1741683600&v=beta&t=Xp0TpHdmVkOI8uU1ZtGekLC-KQwGTC6bg7AfKzOA7HM"
       },
-      "date": "2025-02-10T14:19:40.655Z"
+      "date": "2025-02-11T08:22:50.863Z"
     },
     {
       "captions": "Ing.Bonfiglioli ARIETE portable baler on duty in Europe. #Ingbonfiglioli #scrapmetalrecycling #mobilitymatter #allovertheworldIng.Bonfiglioli ARIETE portable baler on duty in Europe. #Ingbonfiglioli #scrapmetalrecycling #mobilitymatter #allovertheworld",
       "likes": "4",
       "time": {
         "raw": "3h",
-        "parsed": "10.02.2025",
-        "isoString": "2025-02-10T14:19:40.656Z"
+        "parsed": "11.02.2025",
+        "isoString": "2025-02-11T08:22:50.864Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4E22AQE_mwdGbNo2Fg/feedshare-shrink_2048_1536/B4EZTUGAMzHgAs-/0/1738725131720?e=1743638400&v=beta&t=lGN-pDBeSXIh9kVJ_4fPHV66bid15MZ3k37ROzVj3Bg"
+        "https://media.licdn.com/dms/image/v2/D4E22AQE_mwdGbNo2Fg/feedshare-shrink_2048_1536/B4EZTUGAMzHgAs-/0/1738725131720?e=1744243200&v=beta&t=JA9Du8Zc6BFm_9K9-Sveczge3xTzP9UYtS1V0EEzFO0"
       ],
-      "date": "2025-02-10T14:19:40.656Z"
+      "date": "2025-02-11T08:22:50.864Z"
     },
     {
       "captions": "It's a good morning for this Ing.Bonfiglioli SQUALO 2000 High Speed Inclined Shear running in South America. #thesqualo #onestepahead #ingbonfiglioli #mobilitymatter #mostpowerfulshears",
@@ -234,21 +274,21 @@
       "shares": "1",
       "time": {
         "raw": "3h",
-        "parsed": "10.02.2025",
-        "isoString": "2025-02-10T14:19:40.657Z"
+        "parsed": "11.02.2025",
+        "isoString": "2025-02-11T08:22:50.865Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHZoEbL1oGQzQ/mp4-640p-30fp-crf28/B4EZTUFuwXGgBc-/0/1738725064507?e=1741618800&v=beta&t=hgn6GM0RwDTqAQiou6ViiBP1ro-HWz-u3uIGTQvq11k",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHZoEbL1oGQzQ/mp4-640p-30fp-crf28/B4EZTUFuwXGgBc-/0/1738725064507?e=1741683600&v=beta&t=B6aXkkvhSsPEsTaQIBA1-JgVF2Soqe7nR2qtQ51VXQE",
             "type": "video/mp4",
             "data-bitrate": 625804
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQHZoEbL1oGQzQ/videocover-low/B4EZTUFuwXGgCM-/0/1738725062676?e=1741618800&v=beta&t=OCsnjhNIOvJpxZaVx55zk7Wu3ar7ZUBIGkq-svraqP8"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQHZoEbL1oGQzQ/videocover-low/B4EZTUFuwXGgCM-/0/1738725062676?e=1741683600&v=beta&t=7WyY_F669TEc71LmUqfQT3yY4s2j8gvV6fXXu1ie-c4"
       },
-      "date": "2025-02-10T14:19:40.657Z"
+      "date": "2025-02-11T08:22:50.865Z"
     },
     {
       "captions": "Ing.Bonfiglioli DRAKE 16 HP Hammermill Shredder running in South America.\n#ingbonfiglioli #shreddingtherightway #allovertheworld #onestepahead",
@@ -256,89 +296,89 @@
       "shares": "1",
       "time": {
         "raw": "1ay",
-        "parsed": "03.02.2025",
-        "isoString": "2025-02-03T14:19:40.658Z"
+        "parsed": "04.02.2025",
+        "isoString": "2025-02-04T08:22:50.866Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHmuOOBvh7QNg/mp4-640p-30fp-crf28/B4DZS_5MvyG4Bc-/0/1738386235937?e=1741618800&v=beta&t=VzPzEGrOdW2EnRG2Crbl6SElx7UUmIWt-ehO-kDB8Y8",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHmuOOBvh7QNg/mp4-640p-30fp-crf28/B4DZS_5MvyG4Bc-/0/1738386235937?e=1741683600&v=beta&t=n8Iuwdh7mVEJamv1FRB5UclainWM6mpaWrEtXhURJOw",
             "type": "video/mp4",
             "data-bitrate": 519468
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQHmuOOBvh7QNg/videocover-high/B4DZS_5MvyG4Bs-/0/1738386234505?e=1741618800&v=beta&t=HfD-eFNVrn_BATYFh47ge7dmZv2fu7Q67HUbMyjbk1I"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQHmuOOBvh7QNg/videocover-high/B4DZS_5MvyG4Bs-/0/1738386234505?e=1741683600&v=beta&t=n8RkmYt13rFSOsXM36JyZKNZJKOb2OjMrRLYXab_52o"
       },
-      "date": "2025-02-03T14:19:40.658Z"
+      "date": "2025-02-04T08:22:50.866Z"
     },
     {
       "captions": "Ing.Bonfiglioli SQUALO 3000 Vertical Inclined Shear working in Ontario - Canada. #northamericanfamily #mostpowerfulshears #nocompromises #allovertheworld #onestepaheadIng.Bonfiglioli SQUALO 3000 Vertical Inclined Shear working in Ontario - Canada. #northamericanfamily #mostpowerfulshears #nocompromises #allovertheworld #onestepahead",
       "likes": "4",
       "time": {
         "raw": "1ay",
-        "parsed": "03.02.2025",
-        "isoString": "2025-02-03T14:19:40.659Z"
+        "parsed": "04.02.2025",
+        "isoString": "2025-02-04T08:22:50.867Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQHRaCMJw7kCHw/feedshare-shrink_800/B4DZSrFSdtHUAg-/0/1738037078586?e=1743638400&v=beta&t=rv2V2zn2bnweI-IYocJBDsEADoMNc72qBd5fdAymA0o"
+        "https://media.licdn.com/dms/image/v2/D4D22AQHRaCMJw7kCHw/feedshare-shrink_800/B4DZSrFSdtHUAg-/0/1738037078586?e=1744243200&v=beta&t=NAJ9kq9Z0a2ehCmUu-RQmYa-KuBF1xBwBOliPxRYD1s"
       ],
-      "date": "2025-02-03T14:19:40.659Z"
+      "date": "2025-02-04T08:22:50.867Z"
     },
     {
       "captions": "Ing.Bonfiglioli ARIETE portable baler ready for another productive day in this recycling facility in Tasmania - Australia. #aussiefamily #mobilityisthekey #scrapmetalrecycling Ing.Bonfiglioli ARIETE portable baler ready for another productive day in this recycling facility in Tasmania - Australia. #aussiefamily #mobilityisthekey #scrapmetalrecycling",
       "likes": "1",
       "time": {
         "raw": "1ay",
-        "parsed": "03.02.2025",
-        "isoString": "2025-02-03T14:19:40.661Z"
+        "parsed": "04.02.2025",
+        "isoString": "2025-02-04T08:22:50.868Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQH8K-qXrwIIUA/feedshare-shrink_800/B4DZSrDk73HIAk-/0/1738036639064?e=1743638400&v=beta&t=4POJ-pZwzvbL1-MoilHAERLerfR2wt0Bnd-YrKOS3iM"
+        "https://media.licdn.com/dms/image/v2/D4D22AQH8K-qXrwIIUA/feedshare-shrink_800/B4DZSrDk73HIAk-/0/1738036639064?e=1744243200&v=beta&t=TX3p58HT9TN-RNoJ-6GZ-8hu0rkprD3jG0_PfxW62cE"
       ],
-      "date": "2025-02-03T14:19:40.661Z"
+      "date": "2025-02-04T08:22:50.868Z"
     },
     {
       "captions": "Ing.Bonfiglioli SQUALO 1500 Vertical Inclined Shear running in Sweden. #ingbonfiglioli #nocompromises #mostpowerfulshears #allovertheworld",
       "likes": "2",
       "time": {
         "raw": "1ay",
-        "parsed": "03.02.2025",
-        "isoString": "2025-02-03T14:19:40.662Z"
+        "parsed": "04.02.2025",
+        "isoString": "2025-02-04T08:22:50.869Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGlHWSS3PAHqg/mp4-640p-30fp-crf28/B4DZSrDFvfHABg-/0/1738036525529?e=1741618800&v=beta&t=6XubtcVluU2xWY-9B1WYomloxp6sXxF2NyfQf3WBGao",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGlHWSS3PAHqg/mp4-640p-30fp-crf28/B4DZSrDFvfHABg-/0/1738036525529?e=1741683600&v=beta&t=WyB2rfUbQ6a3She6hQpA7xydhc2QykHyKU8WJ6eOHBg",
             "type": "video/mp4",
             "data-bitrate": 1058201
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGlHWSS3PAHqg/mp4-720p-30fp-crf28/B4DZSrDFvfHABk-/0/1738036526001?e=1741618800&v=beta&t=ZiYS-7z9UnytiMbo7keR3Kc40x_M0ZUKJiOmgdUbF58",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGlHWSS3PAHqg/mp4-720p-30fp-crf28/B4DZSrDFvfHABk-/0/1738036526001?e=1741683600&v=beta&t=t_m3UsLKjBG9oXHAgJ9UiiPRYlvp7YidnLUgxpa5OQs",
             "type": "video/mp4",
             "data-bitrate": 1380911
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQGlHWSS3PAHqg/videocover-low/B4DZSrDFvfHACQ-/0/1738036521871?e=1741618800&v=beta&t=e3IQZRVOuhfePYpcMy5VsBBQnvUBNy-eMrpBbsogjF4"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQGlHWSS3PAHqg/videocover-low/B4DZSrDFvfHACQ-/0/1738036521871?e=1741683600&v=beta&t=GzROr5KCrmmcjBT_kAsouUFPUXjdngUGItM-yQ-MKQ4"
       },
-      "date": "2025-02-03T14:19:40.662Z"
+      "date": "2025-02-04T08:22:50.869Z"
     },
     {
       "captions": "Ing.Bonfiglioli SQUALO 3000 Vertical Inclined Shear working in Oregon - USA this week.  #northamericanfamily #ingbonfiglioli #mostpowerfulshears #mobilityisthekeyIng.Bonfiglioli SQUALO 3000 Vertical Inclined Shear working in Oregon - USA this week.  #northamericanfamily #ingbonfiglioli #mostpowerfulshears #mobilityisthekey",
       "likes": "3",
       "time": {
         "raw": "1ay",
-        "parsed": "03.02.2025",
-        "isoString": "2025-02-03T14:19:40.663Z"
+        "parsed": "04.02.2025",
+        "isoString": "2025-02-04T08:22:50.870Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQG6xNBafc20EQ/feedshare-shrink_800/B4DZShAL_cHkAo-/0/1737867971280?e=1743638400&v=beta&t=55HfdyYFvD4wgQyV2fDuKXj53PT_Pkd8tjmrUDQpJO0"
+        "https://media.licdn.com/dms/image/v2/D4D22AQG6xNBafc20EQ/feedshare-shrink_800/B4DZShAL_cHkAo-/0/1737867971280?e=1744243200&v=beta&t=ycnwFq6sM9VKQXFMIdjG0aNhcCaXaWCaZbnyxyENkDU"
       ],
-      "date": "2025-02-03T14:19:40.663Z"
+      "date": "2025-02-04T08:22:50.870Z"
     },
     {
       "captions": "Nice top view for the yard of one of our customers in Eastern Europe running the Ing.Bonfiglioli DRAKE 16 HP Hammermill Shredder. Top productivity at the lowest running cost on its category! #ingbonfiglioli #shreddingtherightway #allovertheworldNice top view for the yard of one of our customers in Eastern Europe running the Ing.Bonfiglioli DRAKE 16 HP Hammermill Shredder. Top productivity at the lowest running cost on its category! #ingbonfiglioli #shreddingtherightway #allovertheworld",
@@ -346,14 +386,14 @@
       "shares": "1",
       "time": {
         "raw": "1ay",
-        "parsed": "03.02.2025",
-        "isoString": "2025-02-03T14:19:40.665Z"
+        "parsed": "04.02.2025",
+        "isoString": "2025-02-04T08:22:50.872Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQG9vTRETd7x5Q/feedshare-shrink_800/B4DZSg.2jfHIAk-/0/1737867618937?e=1743638400&v=beta&t=-sQ9-5OfQhtcntn5DWdyUx8T4GMSVBSBgMjrmmkMUCc"
+        "https://media.licdn.com/dms/image/v2/D4D22AQG9vTRETd7x5Q/feedshare-shrink_800/B4DZSg.2jfHIAk-/0/1737867618937?e=1744243200&v=beta&t=IGgtFNeanWuU2DBoYyMru7nfCGK9JbI57g28TB9HzJI"
       ],
-      "date": "2025-02-03T14:19:40.665Z"
+      "date": "2025-02-04T08:22:50.872Z"
     },
     {
       "captions": "Ing.Bonfiglioli SQUALO 3000 Vertical Inclined Shear in operation in a top company in Saudi Arabia. #nocompromises #mostpowerfulshears #onestepahead #heavydutyshear #ingbonfiglioli",
@@ -361,21 +401,21 @@
       "comments": "1",
       "time": {
         "raw": "1ay",
-        "parsed": "03.02.2025",
-        "isoString": "2025-02-03T14:19:40.666Z"
+        "parsed": "04.02.2025",
+        "isoString": "2025-02-04T08:22:50.873Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGM5XBhnMUgpQ/mp4-640p-30fp-crf28/B4DZSg9ZX8H0Bc-/0/1737867244558?e=1741618800&v=beta&t=ZQ-b13qdwqJBBmMDTOYxUrsrjXRrMObbS53w3HIDdCc",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGM5XBhnMUgpQ/mp4-640p-30fp-crf28/B4DZSg9ZX8H0Bc-/0/1737867244558?e=1741683600&v=beta&t=7q3akETkJ0cr9Df2GneXCll14Y7djXaUtT7W7gZgwXE",
             "type": "video/mp4",
             "data-bitrate": 944895
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQGM5XBhnMUgpQ/videocover-high/B4DZSg9ZX8H0Bs-/0/1737867240443?e=1741618800&v=beta&t=GFG6JfYyTzZYnMUYhZdHqsCQH7zuNxSDkudrPv7QweA"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQGM5XBhnMUgpQ/videocover-high/B4DZSg9ZX8H0Bs-/0/1737867240443?e=1741683600&v=beta&t=x4238l_607KfS_Apqxu6VdcoI70qH3Z1TbTXnyIp9BI"
       },
-      "date": "2025-02-03T14:19:40.666Z"
+      "date": "2025-02-04T08:22:50.873Z"
     }
   ]
 }
