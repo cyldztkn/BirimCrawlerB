@@ -9,6 +9,7 @@ import config from "./config/config.js";
 // Rotalar
 import authRoutes from "./api/authRoutes.js";
 import competitorRoutes from "./api/competitors.js";
+import platformRoutes from "./api/platforms.js";
 
 // Middleware'ler
 import { getAllData } from "./middleware/getOrganicData/getAllOrganicData.js";
@@ -23,6 +24,7 @@ app.use(cors(config.security.cors));
 // Rotaları bağlama
 app.use("/auth", authRoutes);
 app.use("/competitors", competitorRoutes);
+app.use("/platforms", platformRoutes);
 
 // Veri yenileme endpoint'i
 app.get("/refresh-data", async (req, res) => {
