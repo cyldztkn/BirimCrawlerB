@@ -358,7 +358,10 @@ async function getLinkedinOrganics() {
 
           // Follower verilerini işle
           const currentTimestamp = Date.now();
-          const newFollowerData = [currentTimestamp, data.followerCount];
+          const newFollowerData = [
+            currentTimestamp,
+            Number(data.followerCount.replace(".", "")),
+          ];
 
           let existingFollowers = { followerData: [] };
           const followerFilePath = `${dir}/follower.json`;
