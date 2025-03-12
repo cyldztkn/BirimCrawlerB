@@ -1,10 +1,389 @@
 {
   "data": [
     {
+      "id": "1274541620314190",
+      "page_name": "Lindemann International",
+      "ad_creation_time": "2025-03-07",
+      "ad_delivery_start_time": "2025-03-07",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1274541620314190&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "ad_creative_bodies": [
+        "Communication, reliability, and transparency: Committed to ensuring your success,\nproviding proactive assistance, and tailoring solutions to meet your evolving needs.\nTrust me to be your reliable business ally, focused on your growth and satisfaction."
+      ],
+      "ad_creative_link_captions": [
+        "lindemann-metalrecycling.com"
+      ],
+      "ad_creative_link_descriptions": [
+        "LINDEMANN offers a wide range of efficient solutions for shearing, baling, briquetting, shredding and pre-shredding of virtually every type of metal scrap."
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "DK",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "45-54",
+              "male": 1
+            }
+          ]
+        },
+        {
+          "country": "SE",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "45-54",
+              "male": 1
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 2,
+      "target_ages": [
+        "18",
+        "65"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "İsveç",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Finlandiya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Danimarka",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": "922369736448868",
+      "page_name": "Lindemann International",
+      "ad_creation_time": "2025-03-07",
+      "ad_delivery_start_time": "2025-03-07",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=922369736448868&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "ad_creative_bodies": [
+        "We believe in the power of collaboration. We’re not just a service provider, we’re your\nteam, working side-by-side with you to achieve shared goals. Together, we navigate challenges and celebrate successes, ensuring a seamless partnership that propels your endeavors to new heights."
+      ],
+      "ad_creative_link_captions": [
+        "lindemann-metalrecycling.com"
+      ],
+      "ad_creative_link_descriptions": [
+        "LINDEMANN offers a wide range of efficient solutions for shearing, baling, briquetting, shredding and pre-shredding of virtually every type of metal scrap."
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "DK",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "45-54",
+              "male": 1
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 1,
+      "target_ages": [
+        "18",
+        "65"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "İsveç",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Finlandiya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Danimarka",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": "641600482143854",
+      "page_name": "Lindemann International",
+      "ad_creation_time": "2025-03-07",
+      "ad_delivery_start_time": "2025-03-07",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=641600482143854&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "ad_creative_bodies": [
+        "We believe in the power of collaboration. We’re not just a service provider, we’re your\nteam, working side-by-side with you to achieve shared goals. Together, we navigate challenges and celebrate successes, ensuring a seamless partnership that propels your endeavors to new heights."
+      ],
+      "ad_creative_link_captions": [
+        "lindemann-metalrecycling.com"
+      ],
+      "ad_creative_link_descriptions": [
+        "LINDEMANN offers a wide range of efficient solutions for shearing, baling, briquetting, shredding and pre-shredding of virtually every type of metal scrap."
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "SE",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "45-54",
+              "male": 1
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 1,
+      "target_ages": [
+        "18",
+        "65"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "İsveç",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Finlandiya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Danimarka",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": "648193134244542",
+      "page_name": "Lindemann International",
+      "ad_creation_time": "2025-03-07",
+      "ad_delivery_start_time": "2025-03-07",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=648193134244542&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "ad_creative_bodies": [
+        "We believe in the power of collaboration. We’re not just a service provider, we’re your\nteam, working side-by-side with you to achieve shared goals. Together, we navigate challenges and celebrate successes, ensuring a seamless partnership that propels your endeavors to new heights."
+      ],
+      "ad_creative_link_captions": [
+        "lindemann-metalrecycling.com"
+      ],
+      "ad_creative_link_descriptions": [
+        "LINDEMANN offers a wide range of efficient solutions for shearing, baling, briquetting, shredding and pre-shredding of virtually every type of metal scrap."
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "SE",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "35-44",
+              "male": 1
+            },
+            {
+              "age_range": "45-54",
+              "female": 2
+            }
+          ]
+        },
+        {
+          "country": "DK",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "45-54",
+              "male": 1
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 4,
+      "target_ages": [
+        "18",
+        "65"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "İsveç",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Finlandiya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Danimarka",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": "656326370128847",
+      "page_name": "Lindemann International",
+      "ad_creation_time": "2025-03-07",
+      "ad_delivery_start_time": "2025-03-07",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=656326370128847&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "ad_creative_bodies": [
+        "We are always working side-by-side with integrity to build lasting relationships with\nour customers. Come join our journey!"
+      ],
+      "ad_creative_link_captions": [
+        "lindemann-metalrecycling.com"
+      ],
+      "ad_creative_link_descriptions": [
+        "LINDEMANN offers a wide range of efficient solutions for shearing, baling, briquetting, shredding and pre-shredding of virtually every type of metal scrap."
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "SE",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "45-54",
+              "male": 1
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 1,
+      "target_ages": [
+        "18",
+        "65"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "İsveç",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Finlandiya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Danimarka",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": "28929765329970123",
+      "page_name": "Lindemann International",
+      "ad_creation_time": "2025-03-07",
+      "ad_delivery_start_time": "2025-03-07",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=28929765329970123&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "ad_creative_bodies": [
+        "We are always working side-by-side with integrity to build lasting relationships with\nour customers. Come join our journey!"
+      ],
+      "ad_creative_link_captions": [
+        "lindemann-metalrecycling.com"
+      ],
+      "ad_creative_link_descriptions": [
+        "LINDEMANN offers a wide range of efficient solutions for shearing, baling, briquetting, shredding and pre-shredding of virtually every type of metal scrap."
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "SE",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "25-34",
+              "female": 1
+            },
+            {
+              "age_range": "65+",
+              "male": 1
+            },
+            {
+              "age_range": "45-54",
+              "male": 1,
+              "female": 2
+            },
+            {
+              "age_range": "35-44",
+              "male": 1,
+              "female": 2
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 8,
+      "target_ages": [
+        "18",
+        "65"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "İsveç",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Finlandiya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Danimarka",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
       "id": "9739382322781005",
       "page_name": "Lindemann International",
       "ad_creation_time": "2025-03-02",
       "ad_delivery_start_time": "2025-03-02",
+      "ad_delivery_stop_time": "2025-03-06",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=9739382322781005&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "facebook",
@@ -62,6 +441,7 @@
       "page_name": "Lindemann International",
       "ad_creation_time": "2025-03-02",
       "ad_delivery_start_time": "2025-03-02",
+      "ad_delivery_stop_time": "2025-03-07",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=620225517469487&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "facebook",
@@ -151,6 +531,7 @@
       "page_name": "Lindemann International",
       "ad_creation_time": "2025-03-02",
       "ad_delivery_start_time": "2025-03-02",
+      "ad_delivery_stop_time": "2025-03-06",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=983636916613699&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "facebook",
@@ -208,6 +589,7 @@
       "page_name": "Lindemann International",
       "ad_creation_time": "2025-03-02",
       "ad_delivery_start_time": "2025-03-02",
+      "ad_delivery_stop_time": "2025-03-07",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=602806325609484&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "facebook",
@@ -265,6 +647,7 @@
       "page_name": "Lindemann International",
       "ad_creation_time": "2025-03-02",
       "ad_delivery_start_time": "2025-03-02",
+      "ad_delivery_stop_time": "2025-03-07",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=650440174016653&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "facebook",
@@ -331,6 +714,7 @@
       "page_name": "Lindemann International",
       "ad_creation_time": "2025-03-02",
       "ad_delivery_start_time": "2025-03-02",
+      "ad_delivery_stop_time": "2025-03-07",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=608851638789329&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "facebook",
@@ -352,11 +736,15 @@
             {
               "age_range": "35-44",
               "male": 1
+            },
+            {
+              "age_range": "45-54",
+              "female": 1
             }
           ]
         }
       ],
-      "eu_total_reach": 1,
+      "eu_total_reach": 2,
       "target_ages": [
         "18",
         "65"

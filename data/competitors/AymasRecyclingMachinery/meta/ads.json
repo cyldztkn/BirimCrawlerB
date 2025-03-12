@@ -79,6 +79,7 @@
       "page_name": "aymasrecyclingmachinery",
       "ad_creation_time": "2025-02-12",
       "ad_delivery_start_time": "2025-02-12",
+      "ad_delivery_stop_time": "2025-03-06",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=645506538003944&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "instagram"
@@ -95,44 +96,44 @@
           "age_gender_breakdowns": [
             {
               "age_range": "18-24",
-              "male": 8078,
-              "female": 3998,
-              "unknown": 107
+              "male": 8329,
+              "female": 4067,
+              "unknown": 109
             },
             {
               "age_range": "45-54",
-              "male": 1495,
-              "female": 638,
-              "unknown": 11
+              "male": 1566,
+              "female": 653,
+              "unknown": 12
             },
             {
               "age_range": "65+",
-              "male": 716,
-              "female": 392,
+              "male": 749,
+              "female": 403,
               "unknown": 8
             },
             {
               "age_range": "55-64",
-              "male": 964,
-              "female": 430,
-              "unknown": 3
+              "male": 1021,
+              "female": 453,
+              "unknown": 4
             },
             {
               "age_range": "35-44",
-              "male": 2889,
-              "female": 983,
-              "unknown": 28
+              "male": 3005,
+              "female": 1024,
+              "unknown": 29
             },
             {
               "age_range": "25-34",
-              "male": 6941,
-              "female": 2463,
-              "unknown": 46
+              "male": 7300,
+              "female": 2517,
+              "unknown": 47
             }
           ]
         }
       ],
-      "eu_total_reach": 28937,
+      "eu_total_reach": 30256,
       "target_ages": [
         "18",
         "65"

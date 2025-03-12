@@ -3,7 +3,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/600605516?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D5610AQEiZxBK64QGcg/image-shrink_1280/image-shrink_1280/0/1734307235001?e=1741777200&v=beta&t=4t3pIs1qIef526zA8ZkyyQvtbhKPlpVrfU-elRSsqWI"
+      "content": "https://media.licdn.com/dms/image/v2/D5610AQEiZxBK64QGcg/image-shrink_1280/image-shrink_1280/0/1734307235001?e=1742364000&v=beta&t=EREiTY6fGDgmesQua_zWU8Vt48Xfyr2O2oWCakbe1bU"
     },
     "caption": "Tanıtılan We are always working side-by-side with integrity to build lasting relationships with\nour customers. Come join our journey!",
     "runTime": {
@@ -27,7 +27,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/600651876?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D5610AQEiZxBK64QGcg/image-shrink_1280/image-shrink_1280/0/1734307235001?e=1741777200&v=beta&t=4t3pIs1qIef526zA8ZkyyQvtbhKPlpVrfU-elRSsqWI"
+      "content": "https://media.licdn.com/dms/image/v2/D5610AQEiZxBK64QGcg/image-shrink_1280/image-shrink_1280/0/1734307235001?e=1742364000&v=beta&t=EREiTY6fGDgmesQua_zWU8Vt48Xfyr2O2oWCakbe1bU"
     },
     "caption": "Tanıtılan We are always working side-by-side with integrity to build lasting relationships with\nour customers. Come join our journey!",
     "runTime": {
@@ -42,54 +42,42 @@
     "url": "https://www.linkedin.com/ad-library/detail/590898773?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQG7uv_7gu3fGA/image-shrink_1280/B4DZT5T221HIAM-/0/1739349524505/B1_VP4_1200x6281png?e=1741777200&v=beta&t=qh1rHP-JxTzTmibEaRLW9xg7i-J3-Jb6mVCYM9s-RxY"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQG7uv_7gu3fGA/image-shrink_1280/B4DZT5T221HIAM-/0/1739349524505/B1_VP4_1200x6281png?e=1742364000&v=beta&t=M0OYIOzvKA4TOPLhVhZA4s_ZvCXgHezVrpqeMpM4Rqc"
     },
     "caption": "Tanıtılan We are always working side-by-side with integrity to build lasting relationships with our customers. Come join our journey!",
     "runTime": {
-      "humanize": "13 Şub 2025 - 3 Mar 2025",
+      "humanize": "13 Şub 2025 - 9 Mar 2025",
       "startTime": 1739394000,
-      "finishTime": 1740949200
+      "finishTime": 1741467600
     },
     "impression": "Bin - 5 bin",
     "countryList": [
       {
         "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 70
+        "impressionPercent": 67
       },
       {
         "country": "Kanada",
-        "impressionPercent": 10
+        "impressionPercent": 9
       },
       {
         "country": "Meksika",
-        "impressionPercent": 6
+        "impressionPercent": 7
       },
       {
         "country": "Brezilya",
-        "impressionPercent": 5
+        "impressionPercent": 6
       },
       {
         "country": "İsveç",
-        "impressionPercent": 4
-      },
-      {
-        "country": "Bermuda",
-        "impressionPercent": 1
+        "impressionPercent": 5
       },
       {
         "country": "Finlandiya",
         "impressionPercent": 1
       },
       {
-        "country": "Danimarka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Norveç",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Peru",
+        "country": "Bermuda",
         "impressionPercent": 1
       },
       {
@@ -97,15 +85,15 @@
         "impressionPercent": 1
       },
       {
-        "country": "Arjantin",
+        "country": "Norveç",
         "impressionPercent": 1
       },
       {
-        "country": "Birleşik Krallık",
+        "country": "Danimarka",
         "impressionPercent": 1
       },
       {
-        "country": "Şili",
+        "country": "Peru",
         "impressionPercent": 1
       },
       {
@@ -117,11 +105,31 @@
         "impressionPercent": 1
       },
       {
-        "country": "Barbados",
+        "country": "Arjantin",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Almanya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Birleşik Krallık",
         "impressionPercent": 1
       },
       {
         "country": "Hindistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Şili",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Uruguay",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Barbados",
         "impressionPercent": 1
       },
       {
@@ -131,10 +139,6 @@
       {
         "country": "Trinidad ve Tobago",
         "impressionPercent": 1
-      },
-      {
-        "country": "Uruguay",
-        "impressionPercent": 1
       }
     ]
   },
@@ -142,7 +146,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/600651846?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D5610AQGx5m5XPKMeDg/image-shrink_1280/image-shrink_1280/0/1734307212754?e=1741777200&v=beta&t=yeu-C43pEqavIoS44j-Bk3ZbV9tcNj70GxB7GrYiebY"
+      "content": "https://media.licdn.com/dms/image/v2/D5610AQGx5m5XPKMeDg/image-shrink_1280/image-shrink_1280/0/1734307212754?e=1742364000&v=beta&t=PoCfp2uyw1YOCZPqyror9YTuVLOBdCvhBG-tWK8NfRA"
     },
     "caption": "Tanıtılan Communication, reliability, and transparency: Committed to ensuring your success,\nproviding proactive assistance, and tailoring solutions to meet your evolving needs.\nTrust me to be your reliable business ally, focused on your growth and satisfaction.",
     "runTime": {
@@ -156,8 +160,8 @@
   {
     "url": "https://www.linkedin.com/ad-library/detail/600605556?trk=ad_library_ad_preview_content_image",
     "creative": {
-      "type": "unknown",
-      "content": null
+      "type": "img",
+      "content": "https://media.licdn.com/dms/image/v2/D5610AQHwbKH9Zax_SQ/image-shrink_1280/image-shrink_1280/0/1734307220349?e=1742364000&v=beta&t=dBbv4wcF9bDzZsFC60FFZs9bNJPGuP-jhSrnwFhb30c"
     },
     "caption": "Tanıtılan We believe in the power of collaboration. We’re not just a service provider, we’re your\nteam, working side-by-side with you to achieve shared goals. Together, we navigate challenges and celebrate successes, ensuring a seamless partnership that propels your endeavors to new heights.",
     "runTime": {
@@ -171,8 +175,8 @@
   {
     "url": "https://www.linkedin.com/ad-library/detail/600605546?trk=ad_library_ad_preview_content_image",
     "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D5610AQHkB91aUjuxTQ/image-shrink_1280/image-shrink_1280/0/1734307227650?e=1741777200&v=beta&t=5EvPwqt9lfEEv8rFeLMg8Ukjxb_sMwAXCb5f_al3Jzw"
+      "type": "unknown",
+      "content": null
     },
     "caption": "Tanıtılan We are always working side-by-side with integrity to build lasting relationships with\nour customers. Come join our journey!",
     "runTime": {
@@ -187,7 +191,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/600624316?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D5610AQGx5m5XPKMeDg/image-shrink_1280/image-shrink_1280/0/1734307212754?e=1741777200&v=beta&t=yeu-C43pEqavIoS44j-Bk3ZbV9tcNj70GxB7GrYiebY"
+      "content": "https://media.licdn.com/dms/image/v2/D5610AQGx5m5XPKMeDg/image-shrink_1280/image-shrink_1280/0/1734307212754?e=1742364000&v=beta&t=PoCfp2uyw1YOCZPqyror9YTuVLOBdCvhBG-tWK8NfRA"
     },
     "caption": "Tanıtılan Communication, reliability, and transparency: Committed to ensuring your success,\nproviding proactive assistance, and tailoring solutions to meet your evolving needs.\nTrust me to be your reliable business ally, focused on your growth and satisfaction.",
     "runTime": {
@@ -202,7 +206,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/600651856?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D5610AQHkB91aUjuxTQ/image-shrink_1280/image-shrink_1280/0/1734307227650?e=1741777200&v=beta&t=5EvPwqt9lfEEv8rFeLMg8Ukjxb_sMwAXCb5f_al3Jzw"
+      "content": "https://media.licdn.com/dms/image/v2/D5610AQHkB91aUjuxTQ/image-shrink_1280/image-shrink_1280/0/1734307227650?e=1742364000&v=beta&t=PDybvbKXN3FUyuVg8Exad8E4VK1nTVwKHCaAz0SnYbw"
     },
     "caption": "Tanıtılan We are always working side-by-side with integrity to build lasting relationships with\nour customers. Come join our journey!",
     "runTime": {
@@ -217,7 +221,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/600624306?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D5610AQHkB91aUjuxTQ/image-shrink_1280/image-shrink_1280/0/1734307227650?e=1741777200&v=beta&t=5EvPwqt9lfEEv8rFeLMg8Ukjxb_sMwAXCb5f_al3Jzw"
+      "content": "https://media.licdn.com/dms/image/v2/D5610AQHkB91aUjuxTQ/image-shrink_1280/image-shrink_1280/0/1734307227650?e=1742364000&v=beta&t=PDybvbKXN3FUyuVg8Exad8E4VK1nTVwKHCaAz0SnYbw"
     },
     "caption": "Tanıtılan We are always working side-by-side with integrity to build lasting relationships with\nour customers. Come join our journey!",
     "runTime": {
@@ -241,7 +245,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/600605576?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D5610AQHwbKH9Zax_SQ/image-shrink_1280/image-shrink_1280/0/1734307220349?e=1741777200&v=beta&t=tW4eYSpirbmC0DsS3bHSnSm2baLrSOew4PfyE-wG5Ag"
+      "content": "https://media.licdn.com/dms/image/v2/D5610AQHwbKH9Zax_SQ/image-shrink_1280/image-shrink_1280/0/1734307220349?e=1742364000&v=beta&t=dBbv4wcF9bDzZsFC60FFZs9bNJPGuP-jhSrnwFhb30c"
     },
     "caption": "Tanıtılan We believe in the power of collaboration. We’re not just a service provider, we’re your\nteam, working side-by-side with you to achieve shared goals. Together, we navigate challenges and celebrate successes, ensuring a seamless partnership that propels your endeavors to new heights.",
     "runTime": {
@@ -256,31 +260,31 @@
     "url": "https://www.linkedin.com/ad-library/detail/590951263?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQHVpGeLHUDMng/image_627_1200/B56ZT5TtOIGUAc-/0/1739349480515/B1_VP3_1200x6282png?e=1741777200&v=beta&t=tnNzSSC1f6maS6hDZE0PSONmAmNXzahv60I3o6I0sLM"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQHVpGeLHUDMng/image_627_1200/B56ZT5TtOIGUAc-/0/1739349480515/B1_VP3_1200x6282png?e=1742364000&v=beta&t=11EXNsQLJGadQkWaDCVECS8DQtjOPZRpnCUjBCSOMFU"
     },
     "caption": "Tanıtılan We are always working side-by-side with integrity to build lasting relationships with our customers. Come join our journey!",
     "runTime": {
-      "humanize": "13 Şub 2025 - 3 Mar 2025",
+      "humanize": "13 Şub 2025 - 9 Mar 2025",
       "startTime": 1739394000,
-      "finishTime": 1740949200
+      "finishTime": 1741467600
     },
     "impression": "Bin - 5 bin",
     "countryList": [
       {
         "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 66
-      },
-      {
-        "country": "Kanada",
-        "impressionPercent": 9
-      },
-      {
-        "country": "Meksika",
-        "impressionPercent": 8
+        "impressionPercent": 65
       },
       {
         "country": "Brezilya",
-        "impressionPercent": 6
+        "impressionPercent": 8
+      },
+      {
+        "country": "Kanada",
+        "impressionPercent": 8
+      },
+      {
+        "country": "Meksika",
+        "impressionPercent": 7
       },
       {
         "country": "İsveç",
@@ -288,10 +292,14 @@
       },
       {
         "country": "Finlandiya",
-        "impressionPercent": 1
+        "impressionPercent": 2
       },
       {
         "country": "Bermuda",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Avustralya",
         "impressionPercent": 1
       },
       {
@@ -311,11 +319,11 @@
         "impressionPercent": 1
       },
       {
-        "country": "Peru",
+        "country": "Çin",
         "impressionPercent": 1
       },
       {
-        "country": "Avustralya",
+        "country": "Peru",
         "impressionPercent": 1
       },
       {
@@ -327,11 +335,11 @@
         "impressionPercent": 1
       },
       {
-        "country": "Çin",
+        "country": "Kolombiya",
         "impressionPercent": 1
       },
       {
-        "country": "Kolombiya",
+        "country": "Almanya",
         "impressionPercent": 1
       },
       {
@@ -348,7 +356,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/600624286?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D5610AQGx5m5XPKMeDg/image-shrink_1280/image-shrink_1280/0/1734307212754?e=1741777200&v=beta&t=yeu-C43pEqavIoS44j-Bk3ZbV9tcNj70GxB7GrYiebY"
+      "content": "https://media.licdn.com/dms/image/v2/D5610AQGx5m5XPKMeDg/image-shrink_1280/image-shrink_1280/0/1734307212754?e=1742364000&v=beta&t=PoCfp2uyw1YOCZPqyror9YTuVLOBdCvhBG-tWK8NfRA"
     },
     "caption": "Tanıtılan Communication, reliability, and transparency: Committed to ensuring your success,\nproviding proactive assistance, and tailoring solutions to meet your evolving needs.\nTrust me to be your reliable business ally, focused on your growth and satisfaction.",
     "runTime": {
@@ -376,38 +384,38 @@
     "url": "https://www.linkedin.com/ad-library/detail/590938053?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQFWEzz9K8fW4Q/image_627_1200/B4DZT5TaHfHAAc-/0/1739349402272/B1_VP2_1200x6281png?e=1741777200&v=beta&t=GHBsSKoHTGjKb4R7GE5xQK10vcWJUK5it1UOti37gJ4"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQFWEzz9K8fW4Q/image_627_1200/B4DZT5TaHfHAAc-/0/1739349402272/B1_VP2_1200x6281png?e=1742364000&v=beta&t=3V10aCnxXMnrfmdUBopzsKBKmra89y1juRDDpNrMKao"
     },
     "caption": "Tanıtılan We believe in the power of collaboration. We’re not just a service provider, we’re your team, working side-by-side with you to achieve shared goals. Together, we navigate challenges and celebrate successes, ensuring a seamless partnership that propels your endeavors to new heights.",
     "runTime": {
-      "humanize": "13 Şub 2025 - 3 Mar 2025",
+      "humanize": "13 Şub 2025 - 9 Mar 2025",
       "startTime": 1739394000,
-      "finishTime": 1740949200
+      "finishTime": 1741467600
     },
     "impression": "Bin - 5 bin",
     "countryList": [
       {
         "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 64
-      },
-      {
-        "country": "Kanada",
-        "impressionPercent": 8
-      },
-      {
-        "country": "Meksika",
-        "impressionPercent": 8
+        "impressionPercent": 63
       },
       {
         "country": "Brezilya",
         "impressionPercent": 7
       },
       {
-        "country": "İsveç",
-        "impressionPercent": 6
+        "country": "Meksika",
+        "impressionPercent": 7
       },
       {
-        "country": "Norveç",
+        "country": "Kanada",
+        "impressionPercent": 7
+      },
+      {
+        "country": "İsveç",
+        "impressionPercent": 7
+      },
+      {
+        "country": "Finlandiya",
         "impressionPercent": 2
       },
       {
@@ -415,8 +423,12 @@
         "impressionPercent": 2
       },
       {
-        "country": "Finlandiya",
+        "country": "Norveç",
         "impressionPercent": 2
+      },
+      {
+        "country": "Avustralya",
+        "impressionPercent": 1
       },
       {
         "country": "Danimarka",
@@ -424,10 +436,6 @@
       },
       {
         "country": "Arjantin",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Avustralya",
         "impressionPercent": 1
       },
       {
@@ -439,11 +447,15 @@
         "impressionPercent": 1
       },
       {
-        "country": "İsviçre",
+        "country": "Barbados",
         "impressionPercent": 1
       },
       {
         "country": "Kolombiya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "İsviçre",
         "impressionPercent": 1
       },
       {
@@ -456,7 +468,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/600605496?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D5610AQHwbKH9Zax_SQ/image-shrink_1280/image-shrink_1280/0/1734307220349?e=1741777200&v=beta&t=tW4eYSpirbmC0DsS3bHSnSm2baLrSOew4PfyE-wG5Ag"
+      "content": "https://media.licdn.com/dms/image/v2/D5610AQHwbKH9Zax_SQ/image-shrink_1280/image-shrink_1280/0/1734307220349?e=1742364000&v=beta&t=dBbv4wcF9bDzZsFC60FFZs9bNJPGuP-jhSrnwFhb30c"
     },
     "caption": "Tanıtılan We believe in the power of collaboration. We’re not just a service provider, we’re your\nteam, working side-by-side with you to achieve shared goals. Together, we navigate challenges and celebrate successes, ensuring a seamless partnership that propels your endeavors to new heights.",
     "runTime": {
@@ -484,7 +496,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/600660046?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D5610AQHwbKH9Zax_SQ/image-shrink_1280/image-shrink_1280/0/1734307220349?e=1741777200&v=beta&t=tW4eYSpirbmC0DsS3bHSnSm2baLrSOew4PfyE-wG5Ag"
+      "content": "https://media.licdn.com/dms/image/v2/D5610AQHwbKH9Zax_SQ/image-shrink_1280/image-shrink_1280/0/1734307220349?e=1742364000&v=beta&t=dBbv4wcF9bDzZsFC60FFZs9bNJPGuP-jhSrnwFhb30c"
     },
     "caption": "Tanıtılan We believe in the power of collaboration. We’re not just a service provider, we’re your\nteam, working side-by-side with you to achieve shared goals. Together, we navigate challenges and celebrate successes, ensuring a seamless partnership that propels your endeavors to new heights.",
     "runTime": {
@@ -499,23 +511,23 @@
     "url": "https://www.linkedin.com/ad-library/detail/590928923?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQHVpGeLHUDMng/image_627_1200/B56ZT5TtOIGUAc-/0/1739349480515/B1_VP3_1200x6282png?e=1741777200&v=beta&t=tnNzSSC1f6maS6hDZE0PSONmAmNXzahv60I3o6I0sLM"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQHVpGeLHUDMng/image_627_1200/B56ZT5TtOIGUAc-/0/1739349480515/B1_VP3_1200x6282png?e=1742364000&v=beta&t=11EXNsQLJGadQkWaDCVECS8DQtjOPZRpnCUjBCSOMFU"
     },
     "caption": "Tanıtılan We are always working side-by-side with integrity to build lasting relationships with our customers. Come join our journey!",
     "runTime": {
-      "humanize": "13 Şub 2025 - 3 Mar 2025",
+      "humanize": "13 Şub 2025 - 9 Mar 2025",
       "startTime": 1739394000,
-      "finishTime": 1740949200
+      "finishTime": 1741467600
     },
     "impression": "Bin - 5 bin",
     "countryList": [
       {
         "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 50
+        "impressionPercent": 48
       },
       {
         "country": "Brezilya",
-        "impressionPercent": 41
+        "impressionPercent": 42
       },
       {
         "country": "İsveç",
@@ -534,7 +546,15 @@
         "impressionPercent": 1
       },
       {
+        "country": "Peru",
+        "impressionPercent": 1
+      },
+      {
         "country": "Türkiye",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Şili",
         "impressionPercent": 1
       },
       {
@@ -543,14 +563,6 @@
       },
       {
         "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Peru",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Şili",
         "impressionPercent": 1
       },
       {
@@ -578,6 +590,10 @@
         "impressionPercent": 1
       },
       {
+        "country": "Kanada",
+        "impressionPercent": 1
+      },
+      {
         "country": "Ekvador",
         "impressionPercent": 1
       },
@@ -590,11 +606,19 @@
         "impressionPercent": 1
       },
       {
+        "country": "Filipinler",
+        "impressionPercent": 1
+      },
+      {
         "country": "Paraguay",
         "impressionPercent": 1
       },
       {
         "country": "Sırbistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Venezuela",
         "impressionPercent": 1
       },
       {
@@ -627,7 +651,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/600660066?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D5610AQEiZxBK64QGcg/image-shrink_1280/image-shrink_1280/0/1734307235001?e=1741777200&v=beta&t=4t3pIs1qIef526zA8ZkyyQvtbhKPlpVrfU-elRSsqWI"
+      "content": "https://media.licdn.com/dms/image/v2/D5610AQEiZxBK64QGcg/image-shrink_1280/image-shrink_1280/0/1734307235001?e=1742364000&v=beta&t=EREiTY6fGDgmesQua_zWU8Vt48Xfyr2O2oWCakbe1bU"
     },
     "caption": "Tanıtılan We are always working side-by-side with integrity to build lasting relationships with\nour customers. Come join our journey!",
     "runTime": {
@@ -642,7 +666,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/600660076?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D5610AQGx5m5XPKMeDg/image-shrink_1280/image-shrink_1280/0/1734307212754?e=1741777200&v=beta&t=yeu-C43pEqavIoS44j-Bk3ZbV9tcNj70GxB7GrYiebY"
+      "content": "https://media.licdn.com/dms/image/v2/D5610AQGx5m5XPKMeDg/image-shrink_1280/image-shrink_1280/0/1734307212754?e=1742364000&v=beta&t=PoCfp2uyw1YOCZPqyror9YTuVLOBdCvhBG-tWK8NfRA"
     },
     "caption": "Tanıtılan Communication, reliability, and transparency: Committed to ensuring your success,\nproviding proactive assistance, and tailoring solutions to meet your evolving needs.\nTrust me to be your reliable business ally, focused on your growth and satisfaction.",
     "runTime": {
@@ -657,23 +681,23 @@
     "url": "https://www.linkedin.com/ad-library/detail/590951323?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQFWEzz9K8fW4Q/image_627_1200/B4DZT5TaHfHAAc-/0/1739349402272/B1_VP2_1200x6281png?e=1741777200&v=beta&t=GHBsSKoHTGjKb4R7GE5xQK10vcWJUK5it1UOti37gJ4"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQFWEzz9K8fW4Q/image_627_1200/B4DZT5TaHfHAAc-/0/1739349402272/B1_VP2_1200x6281png?e=1742364000&v=beta&t=3V10aCnxXMnrfmdUBopzsKBKmra89y1juRDDpNrMKao"
     },
     "caption": "Tanıtılan We believe in the power of collaboration. We’re not just a service provider, we’re your team, working side-by-side with you to achieve shared goals. Together, we navigate challenges and celebrate successes, ensuring a seamless partnership that propels your endeavors to new heights.",
     "runTime": {
-      "humanize": "13 Şub 2025 - 3 Mar 2025",
+      "humanize": "13 Şub 2025 - 9 Mar 2025",
       "startTime": 1739394000,
-      "finishTime": 1740949200
+      "finishTime": 1741467600
     },
     "impression": "Bin - 5 bin",
     "countryList": [
       {
         "country": "Brezilya",
-        "impressionPercent": 44
+        "impressionPercent": 45
       },
       {
         "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 41
+        "impressionPercent": 39
       },
       {
         "country": "İsveç",
@@ -692,6 +716,10 @@
         "impressionPercent": 1
       },
       {
+        "country": "Hindistan",
+        "impressionPercent": 1
+      },
+      {
         "country": "Türkiye",
         "impressionPercent": 1
       },
@@ -704,19 +732,23 @@
         "impressionPercent": 1
       },
       {
-        "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
         "country": "Birleşik Arap Emirlikleri",
         "impressionPercent": 1
       },
       {
-        "country": "Kanada",
+        "country": "Kolombiya",
         "impressionPercent": 1
       },
       {
         "country": "Paraguay",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Ekvador",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Kanada",
         "impressionPercent": 1
       },
       {
@@ -728,15 +760,7 @@
         "impressionPercent": 1
       },
       {
-        "country": "Kolombiya",
-        "impressionPercent": 1
-      },
-      {
         "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ekvador",
         "impressionPercent": 1
       },
       {
@@ -757,30 +781,30 @@
     "url": "https://www.linkedin.com/ad-library/detail/590879473?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQG0d2GFMRmQgw/image-shrink_1280/B4DZT5S6ciGcAQ-/0/1739349277717/B1_VP1_1200x628png?e=1741777200&v=beta&t=RuhRO-002gUZHsMT7jcR5SGxgXUBalH9a8YQ4m2gGq0"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQG0d2GFMRmQgw/image-shrink_1280/B4DZT5S6ciGcAQ-/0/1739349277717/B1_VP1_1200x628png?e=1742364000&v=beta&t=qbyJ7RewOARqs6Z_6zEG5cv01hAHSPcx7h4bH1DiiNg"
     },
     "caption": "Tanıtılan Communication, reliability, and transparency: Committed to ensuring your success, providing proactive assistance, and tailoring solutions to meet your evolving needs.\n\nTrust me to be your reliable business ally, focused on your growth and satisfaction.\n",
     "runTime": {
-      "humanize": "13 Şub 2025 - 3 Mar 2025",
+      "humanize": "13 Şub 2025 - 9 Mar 2025",
       "startTime": 1739394000,
-      "finishTime": 1740949200
+      "finishTime": 1741467600
     },
     "impression": "Bin - 5 bin",
     "countryList": [
       {
         "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 75
+        "impressionPercent": 74
       },
       {
         "country": "Kanada",
         "impressionPercent": 9
       },
       {
-        "country": "Meksika",
+        "country": "Brezilya",
         "impressionPercent": 5
       },
       {
-        "country": "Brezilya",
+        "country": "Meksika",
         "impressionPercent": 5
       },
       {
@@ -808,6 +832,10 @@
         "impressionPercent": 1
       },
       {
+        "country": "Çin",
+        "impressionPercent": 1
+      },
+      {
         "country": "Arjantin",
         "impressionPercent": 1
       },
@@ -820,7 +848,7 @@
         "impressionPercent": 1
       },
       {
-        "country": "Çin",
+        "country": "Uruguay",
         "impressionPercent": 1
       },
       {
@@ -836,11 +864,11 @@
         "impressionPercent": 1
       },
       {
-        "country": "Uruguay",
+        "country": "Porto Riko",
         "impressionPercent": 1
       },
       {
-        "country": "Porto Riko",
+        "country": "Suudi Arabistan",
         "impressionPercent": 1
       }
     ]
@@ -849,7 +877,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/600632556?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D5610AQHkB91aUjuxTQ/image-shrink_1280/image-shrink_1280/0/1734307227650?e=1741777200&v=beta&t=5EvPwqt9lfEEv8rFeLMg8Ukjxb_sMwAXCb5f_al3Jzw"
+      "content": "https://media.licdn.com/dms/image/v2/D5610AQHkB91aUjuxTQ/image-shrink_1280/image-shrink_1280/0/1734307227650?e=1742364000&v=beta&t=PDybvbKXN3FUyuVg8Exad8E4VK1nTVwKHCaAz0SnYbw"
     },
     "caption": "Tanıtılan We are always working side-by-side with integrity to build lasting relationships with\nour customers. Come join our journey!",
     "runTime": {
@@ -864,7 +892,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/600587606?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D5610AQEiZxBK64QGcg/image-shrink_1280/image-shrink_1280/0/1734307235001?e=1741777200&v=beta&t=4t3pIs1qIef526zA8ZkyyQvtbhKPlpVrfU-elRSsqWI"
+      "content": "https://media.licdn.com/dms/image/v2/D5610AQEiZxBK64QGcg/image-shrink_1280/image-shrink_1280/0/1734307235001?e=1742364000&v=beta&t=EREiTY6fGDgmesQua_zWU8Vt48Xfyr2O2oWCakbe1bU"
     },
     "caption": "Tanıtılan We are always working side-by-side with integrity to build lasting relationships with\nour customers. Come join our journey!",
     "runTime": {
@@ -879,27 +907,27 @@
     "url": "https://www.linkedin.com/ad-library/detail/590879653?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQG7uv_7gu3fGA/image-shrink_1280/B4DZT5T221HIAM-/0/1739349524505/B1_VP4_1200x6281png?e=1741777200&v=beta&t=qh1rHP-JxTzTmibEaRLW9xg7i-J3-Jb6mVCYM9s-RxY"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQG7uv_7gu3fGA/image-shrink_1280/B4DZT5T221HIAM-/0/1739349524505/B1_VP4_1200x6281png?e=1742364000&v=beta&t=M0OYIOzvKA4TOPLhVhZA4s_ZvCXgHezVrpqeMpM4Rqc"
     },
     "caption": "Tanıtılan We are always working side-by-side with integrity to build lasting relationships with our customers. Come join our journey!",
     "runTime": {
-      "humanize": "13 Şub 2025 - 3 Mar 2025",
+      "humanize": "13 Şub 2025 - 9 Mar 2025",
       "startTime": 1739394000,
-      "finishTime": 1740949200
+      "finishTime": 1741467600
     },
     "impression": "Bin - 5 bin",
     "countryList": [
       {
-        "country": "Amerika Birleşik Devletleri",
+        "country": "Brezilya",
         "impressionPercent": 44
       },
       {
-        "country": "Brezilya",
+        "country": "Amerika Birleşik Devletleri",
         "impressionPercent": 42
       },
       {
         "country": "İsveç",
-        "impressionPercent": 6
+        "impressionPercent": 7
       },
       {
         "country": "Çin",
@@ -910,11 +938,11 @@
         "impressionPercent": 1
       },
       {
-        "country": "Şili",
+        "country": "Arjantin",
         "impressionPercent": 1
       },
       {
-        "country": "Arjantin",
+        "country": "Şili",
         "impressionPercent": 1
       },
       {
@@ -930,7 +958,15 @@
         "impressionPercent": 1
       },
       {
+        "country": "Kolombiya",
+        "impressionPercent": 1
+      },
+      {
         "country": "Almanya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "İspanya",
         "impressionPercent": 1
       },
       {
@@ -939,6 +975,10 @@
       },
       {
         "country": "Hindistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "İtalya",
         "impressionPercent": 1
       },
       {
@@ -954,15 +994,7 @@
         "impressionPercent": 1
       },
       {
-        "country": "Kolombiya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İtalya",
+        "country": "Avusturya",
         "impressionPercent": 1
       },
       {
@@ -975,23 +1007,23 @@
     "url": "https://www.linkedin.com/ad-library/detail/590898863?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQG0d2GFMRmQgw/image-shrink_1280/B4DZT5S6ciGcAQ-/0/1739349277717/B1_VP1_1200x628png?e=1741777200&v=beta&t=RuhRO-002gUZHsMT7jcR5SGxgXUBalH9a8YQ4m2gGq0"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQG0d2GFMRmQgw/image-shrink_1280/B4DZT5S6ciGcAQ-/0/1739349277717/B1_VP1_1200x628png?e=1742364000&v=beta&t=qbyJ7RewOARqs6Z_6zEG5cv01hAHSPcx7h4bH1DiiNg"
     },
     "caption": "Tanıtılan Communication, reliability, and transparency: Committed to ensuring your success, providing proactive assistance, and tailoring solutions to meet your evolving needs.\n\nTrust me to be your reliable business ally, focused on your growth and satisfaction.\n",
     "runTime": {
-      "humanize": "13 Şub 2025 - 3 Mar 2025",
+      "humanize": "13 Şub 2025 - 9 Mar 2025",
       "startTime": 1739394000,
-      "finishTime": 1740949200
+      "finishTime": 1741467600
     },
     "impression": "Bin - 5 bin",
     "countryList": [
       {
         "country": "Brezilya",
-        "impressionPercent": 48
+        "impressionPercent": 45
       },
       {
         "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 40
+        "impressionPercent": 43
       },
       {
         "country": "İsveç",
@@ -1006,23 +1038,11 @@
         "impressionPercent": 1
       },
       {
-        "country": "Peru",
-        "impressionPercent": 1
-      },
-      {
         "country": "Kolombiya",
         "impressionPercent": 1
       },
       {
-        "country": "Avustralya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
+        "country": "Peru",
         "impressionPercent": 1
       },
       {
@@ -1030,11 +1050,35 @@
         "impressionPercent": 1
       },
       {
-        "country": "Birleşik Arap Emirlikleri",
+        "country": "Birleşik Krallık",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Hindistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Avustralya",
         "impressionPercent": 1
       },
       {
         "country": "Şili",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Almanya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Birleşik Arap Emirlikleri",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Singapur",
+        "impressionPercent": 1
+      },
+      {
+        "country": "İspanya",
         "impressionPercent": 1
       },
       {
@@ -1043,6 +1087,10 @@
       },
       {
         "country": "İtalya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Meksika",
         "impressionPercent": 1
       },
       {
@@ -1055,10 +1103,6 @@
       },
       {
         "country": "Kanada",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
         "impressionPercent": 1
       },
       {

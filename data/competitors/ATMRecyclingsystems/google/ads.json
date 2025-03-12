@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "advertiserId": "AR08161006000673914881",
+    "adsId": "CR12426937445147213825",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/13896064286790622160",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "ATM Recyclingsystems GmbH",
+    "website": null,
+    "startDate": "2024-12-03T13:43:43.000Z",
+    "lastView": "2025-03-11T09:32:09.000Z",
+    "countries": [
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Switzerland",
+        "averageClicks": 0
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": 0
+      },
+      {
+        "country": "Luxembourg",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  }
+]
