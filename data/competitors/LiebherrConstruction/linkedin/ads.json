@@ -1,407 +1,15 @@
 [
   {
-    "url": "https://www.linkedin.com/ad-library/detail/593999546",
-    "creative": {
-      "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D5610AQHES3rmAD_4Hw/progressive-servable-video/progressive-servable-video/0/1734013599551/Imagefilm_CutDown_20Sekunden_16zu9mp4?e=1741690800&v=beta&t=wpmYeFuBKxP1O4J68rFHQGeQUkkPXn3HhoGz4LL6NRI"
-    },
-    "caption": "Tanıtılan 💡 Informieren Sie sich jetzt, zu Ihren Möglichkeiten bei Liebherr und welchen Freiraum Sie haben, Ihre Karriere selbst zu gestalten. Zahllose Entwicklungsprojekte warten auf Ihre Ideen und Expertise.\n\nIhre Vorteile:\n• Vielfältige Positionen in der Forschung & Entwicklung\n• Kollegialität: Arbeiten Sie in einem Team, das Zusammenarbeit und Familienunternehmen lebt\n• Entwicklungsmöglichkeiten: ein umfangreiches Weiterbildungsangebot und die Vielfältigkeit unserer Firmengruppe\n\nWerden Sie ein Teil des großen Ganzen!\n",
-    "runTime": {
-      "humanize": "13 Ara 2024 - 7 Şub 2025",
-      "startTime": 1734037200,
-      "finishTime": 1738875600
-    },
-    "impression": "50 bin - 100 bin",
-    "countryList": [
-      {
-        "country": "Almanya",
-        "impressionPercent": 98
-      },
-      {
-        "country": "Birleşik Krallık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hollanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İsviçre",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkiye",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fransa",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İtalya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Danimarka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Brezilya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Polonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Birleşik Arap Emirlikleri",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Avusturya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İsveç",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kanada",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İrlanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Portekiz",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Belçika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lüksemburg",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ukrayna",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Şili",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Yunanistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kolombiya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Meksika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çin",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Romanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Sırbistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hırvatistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Avustralya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Mısır",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Finlandiya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kenya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Litvanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Pakistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tunus",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kosova",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bulgaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çekya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İsrail",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Güney Afrika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ekvador",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Japonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Namibya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Nijerya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Norveç",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Nepal",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Yeni Zelanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Singapur",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Arnavutluk",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Arjantin",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Azerbaycan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bosna-Hersek",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ürdün",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fas",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Monako",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkmenistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bangladeş",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Cezayir",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çin Hong Kong ÖİB",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kuveyt",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lübnan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kuzey Makedonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Malezya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Katar",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Rusya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Slovenya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Slovakya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayvan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Andorra",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ermenistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bahreyn",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kıbrıs",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Estonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Etiyopya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gana",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Guadeloupe",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Liechtenstein",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Karadağ",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Malta",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Nikaragua",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Peru",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Filipinler",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Suudi Arabistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayland",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Uganda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Venezuela",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Vietnam",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kosta Rika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Cebelitarık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Irak",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kazakistan",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
     "url": "https://www.linkedin.com/ad-library/detail/586044624",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQHEujzgjzIogQ/progressive-servable-video/B4EZUkqFTxG0A0-/0/1740076771021/Liebherr_Bauma2025-Ad-Video_1-1_DEmp4?e=1741690800&v=beta&t=xcC7U9hJHVWInnhT2lAy2NnzhkrBAmWPPnIXsoiDsRM"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQHEujzgjzIogQ/progressive-servable-video/B4EZUkqFTxG0A0-/0/1740076771021/Liebherr_Bauma2025-Ad-Video_1-1_DEmp4?e=1741777200&v=beta&t=GBLlObiLCtdvLKj-M0SPbQ8M8T5GwtDcyOQQ5vB0bCg"
     },
     "caption": "Tanıtılan Hands on the future – tauche auf der Bauma 2025 in die Zukunft der Bauindustrie ein! Auf einer Fläche von 15.000 m² erwarten dich faszinierende Produktneuheiten und innovative Technologien von Liebherr. Besuche uns vom 7.–13. April in München – wir freuen uns auf dich! 👷🚧\n\n#bauma2025 #handsonliebherr #liebherr #liebherrgroup",
     "runTime": {
-      "humanize": "21 Şub 2025 - 2 Mar 2025",
+      "humanize": "21 Şub 2025 - 3 Mar 2025",
       "startTime": 1740085200,
-      "finishTime": 1740862800
+      "finishTime": 1740949200
     },
     "impression": "10 bin - 50 bin",
     "countryList": [
@@ -416,1389 +24,9 @@
       {
         "country": "Avusturya",
         "impressionPercent": 16
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/549313114",
-    "creative": {
-      "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D5610AQHES3rmAD_4Hw/progressive-servable-video/progressive-servable-video/0/1734013599551/Imagefilm_CutDown_20Sekunden_16zu9mp4?e=1741690800&v=beta&t=wpmYeFuBKxP1O4J68rFHQGeQUkkPXn3HhoGz4LL6NRI"
-    },
-    "caption": "Tanıtılan ✨ Was macht den Unterschied bei Liebherr? Innovation, ein starkes Team, zahlreiche Möglichkeiten. Sowie die Tatsache, dass wir ein unabhägiges Familienunternehmen sind.\n\nIhre Vorteile:\n• Vielfältige Positionen in der Elektrotechnik\n• Kollegialität: Arbeiten Sie in einem Team, das Zusammenarbeit und Familienunternehmen lebt\n• Entwicklungsmöglichkeiten: ein umfangreiches Weiterbildungsangebot und die Vielfältigkeit unserer Firmengruppe\n\nIn der Elektrotechnik bei Liebherr stellen Sie sicher, dass der Funke überspringt. Werden Sie Teil unseres Teams.\n",
-    "runTime": {
-      "humanize": "13 Ara 2024 - 7 Şub 2025",
-      "startTime": 1734037200,
-      "finishTime": 1738875600
-    },
-    "impression": "50 bin - 100 bin",
-    "countryList": [
-      {
-        "country": "Almanya",
-        "impressionPercent": 98
-      },
-      {
-        "country": "Birleşik Krallık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkiye",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hollanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İsviçre",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 1
       },
       {
         "country": "Fransa",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İtalya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Avusturya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Danimarka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Polonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Brezilya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İsveç",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kanada",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Birleşik Arap Emirlikleri",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Pakistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ukrayna",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Şili",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hırvatistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İrlanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Belçika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çin",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Avustralya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kolombiya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Yunanistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Meksika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Portekiz",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Mısır",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Finlandiya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Romanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Singapur",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tunus",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kosova",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Güney Afrika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İsrail",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Nijerya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Norveç",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Sırbistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Arnavutluk",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Etiyopya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Litvanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Azerbaycan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ürdün",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Japonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fas",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Malezya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bosna-Hersek",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bulgaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çekya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Nepal",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Filipinler",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Katar",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Rusya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayland",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayvan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Vietnam",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bangladeş",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bahreyn",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Benin",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kosta Rika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ekvador",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Estonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Güney Kore",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lüksemburg",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Letonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kuzey Makedonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Namibya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ermenistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Burkina Faso",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bolivya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kamerun",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kıbrıs",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Cezayir",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gana",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Cebelitarık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çin Hong Kong ÖİB",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Man Adası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İzlanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kenya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Liechtenstein",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Monako",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Moğolistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Malta",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Nikaragua",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Yeni Zelanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Umman",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Panama",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Peru",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Porto Riko",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Suudi Arabistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Slovenya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Slovakya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Togo",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Timor-Leste",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tanzanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Uruguay",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Zimbabve",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Afganistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Angola",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Arjantin",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/594044196?trk=ad_library_ad_preview_content_image",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E10AQFxNzUCncIgRw/image-shrink_1280/image-shrink_1280/0/1728633249336/EB-professionals-technical-44104524-7b0d-48f6-af40-ab5f598be9d5-Webjpg?e=1741690800&v=beta&t=mEKHCdThtB-TDD7sQRnLjvw8HaXLcVTFDv7_uzgJyxw"
-    },
-    "caption": "Tanıtılan 🤝 Was uns auszeichnet und hervorhebt?\nAls innovatives Familienunternehmen stellen wir gute Ideen vor Berufstitel. Wir leben eine Atmosphäre von gegenseitigem Respekt, Fair Play und der Leidenschaft für Technologie, die den Unterschied macht. \n\nIhre Vorteile:\n• Vielfältige Positionen in der Elektrotechnik\n• Kollegialität: Arbeiten Sie in einem Team, das Zusammenarbeit und Familienunternehmen lebt\n• Entwicklungsmöglichkeiten: ein umfangreiches Weiterbildungsangebot und die Vielfältigkeit unserer Firmengruppe\n\nWerden Sie ein Teil von uns.\n",
-    "runTime": {
-      "humanize": "13 Ara 2024 - 7 Şub 2025",
-      "startTime": 1734037200,
-      "finishTime": 1738875600
-    },
-    "impression": "100 bin - 200 bin",
-    "countryList": [
-      {
-        "country": "Almanya",
-        "impressionPercent": 98
-      },
-      {
-        "country": "Birleşik Krallık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İsviçre",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hollanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkiye",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fransa",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Danimarka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Avusturya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Polonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İtalya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Brezilya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İsveç",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Birleşik Arap Emirlikleri",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kanada",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Belçika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ukrayna",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Portekiz",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İrlanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Romanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Şili",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Meksika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lüksemburg",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Mısır",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Avustralya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çin",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kolombiya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kosova",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hırvatistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Pakistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Sırbistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bulgaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Yunanistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fas",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Güney Afrika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Japonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Singapur",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kenya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İsrail",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Litvanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Nijerya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Norveç",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Arnavutluk",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Arjantin",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Azerbaycan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çekya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Etiyopya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Liechtenstein",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Rusya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tunus",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bosna-Hersek",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ekvador",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Finlandiya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ürdün",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Katar",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Uganda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Cezayir",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Letonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Suudi Arabistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayland",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kıbrıs",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lübnan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Malezya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Nepal",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gana",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Endonezya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kuzey Makedonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Malta",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Yeni Zelanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Peru",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Filipinler",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Senegal",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Vietnam",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bangladeş",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bahreyn",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Belarus",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Estonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Guatemala",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çin Hong Kong ÖİB",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Monako",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Namibya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ruanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Sudan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Slovakya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkmenistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayvan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Özbekistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ermenistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Burundi",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bolivya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kosta Rika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Dominik Cumhuriyeti",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Faroe Adaları",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Guam",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Honduras",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Irak",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Jamaika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kamboçya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Güney Kore",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Libya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Karadağ",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Madagaskar",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Moğolistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Mozambik",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Umman",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Paraguay",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Reunion",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Slovenya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Togo",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tanzanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Uruguay",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Zambiya",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/594018096?trk=ad_library_ad_preview_content_image",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D5610AQFbGDGklWPWxQ/image-shrink_1280/image-shrink_1280/0/1734012541085/Ing_EB-professionals-technical-88b9c7b7-7a40-48d3-bc56-8526662bc04c-Screenjpg?e=1741690800&v=beta&t=xJZ4d9oPCKLiEPQ_zRPLeXFwbxcGqCZ9hAOHr9TmW3I"
-    },
-    "caption": "Tanıtılan 🤝 Was uns auszeichnet und hervorhebt?\nAls unabhängiges Familienunternehmen ist unser Denken und Handeln von langfristigen Zielen gesteuert - nicht von kurzfristigen Erfolgen.\n\nDies trifft auch auch die Zusammenarbeit mit Ihnen zu. Informieren Sie sich jetzt, wie eine Stelle bei Liebherr für Sie konkret aussehen kann.\n\nIhre Vorteile:\n• Vielfältige Positionen im Maschinenbau\n• Kollegialität: Ein Team, das Zusammenarbeit und Familienunternehmen lebt\n• Entwicklungsmöglichkeiten: ein umfangreiches Weiterbildungsangebot und die Vielfältigkeit unserer Firmengruppe\n\nWerden Sie ein Teil von uns.\n",
-    "runTime": {
-      "humanize": "13 Ara 2024 - 7 Şub 2025",
-      "startTime": 1734037200,
-      "finishTime": 1738875600
-    },
-    "impression": "100 bin - 200 bin",
-    "countryList": [
-      {
-        "country": "Almanya",
-        "impressionPercent": 98
-      },
-      {
-        "country": "Birleşik Krallık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İsviçre",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkiye",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hollanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fransa",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Avusturya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Danimarka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İtalya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Polonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İsveç",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Brezilya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kanada",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Birleşik Arap Emirlikleri",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İrlanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Belçika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ukrayna",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Portekiz",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Pakistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Avustralya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çin",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Meksika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Mısır",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hırvatistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lüksemburg",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Şili",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Romanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kosova",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bulgaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Sırbistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Arnavutluk",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Yunanistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Litvanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İsrail",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Norveç",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kolombiya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çekya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Finlandiya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Rusya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Güney Afrika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fas",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Singapur",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bosna-Hersek",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tunus",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çin Hong Kong ÖİB",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Japonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kenya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Azerbaycan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Etiyopya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kuzey Makedonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Nijerya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Suudi Arabistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Cezayir",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ekvador",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gana",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ürdün",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Afganistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lübnan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Katar",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Slovakya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Uruguay",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bangladeş",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kuveyt",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Liechtenstein",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Letonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Malta",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Malezya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Nepal",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Panama",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Filipinler",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Özbekistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Vietnam",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ermenistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Arjantin",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Benin",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Belarus",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Endonezya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Yeni Zelanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Slovenya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayland",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Andorra",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Angola",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Burkina Faso",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bahreyn",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bolivya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kosta Rika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kıbrıs",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Eritre",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gürcistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Guatemala",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Man Adası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Irak",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kamboçya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Sri Lanka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Libya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Monako",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Moldova",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Karadağ",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Myanmar (Burma)",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Mozambik",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Namibya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Nikaragua",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Porto Riko",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ruanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Sierra Leone",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Senegal",
-        "impressionPercent": 1
-      },
-      {
-        "country": "El Salvador",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Togo",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkmenistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayvan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tanzanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Uganda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Venezuela",
         "impressionPercent": 1
       }
     ]
@@ -1806,14 +34,14 @@
   {
     "url": "https://www.linkedin.com/ad-library/detail/589224904?trk=ad_library_ad_preview_content_image",
     "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E10AQHm_D9cA8TQ0w/image-shrink_1280/B4EZUktp9mHUAQ-/0/1740077704122/Liebherr_Bauma2025-Ad-Banner_1200x1200px_ENjpg?e=1741690800&v=beta&t=UxPOh50HCKJDjPvsQpGfNDetVFdqOt0gGViy6h4JVXI"
+      "type": "unknown",
+      "content": null
     },
     "caption": "Tanıtılan Hands on the future – dive into the future of the construction industry at Bauma 2025! Fascinating new products and innovative technologies from Liebherr await you across 15,000 m² of space. Visit us in Munich from 7.-13. April – we look forward to seeing you!👷 🚧\n#bauma2025 #handsonliebherr #liebherr #liebherrgroup",
     "runTime": {
-      "humanize": "21 Şub 2025 - 2 Mar 2025",
+      "humanize": "21 Şub 2025 - 3 Mar 2025",
       "startTime": 1740085200,
-      "finishTime": 1740862800
+      "finishTime": 1740949200
     },
     "impression": "50 bin - 100 bin",
     "countryList": [
@@ -1822,6 +50,10 @@
         "impressionPercent": 100
       },
       {
+        "country": "Avustralya",
+        "impressionPercent": 1
+      },
+      {
         "country": "Belçika",
         "impressionPercent": 1
       },
@@ -1832,16 +64,48 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/ad-library/detail/590061974",
+    "creative": {
+      "type": "video",
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQGOg6tERb8Mjg/mp4-640p-30fp-crf28/B4EZVGX5cLHUB0-/0/1740642438103/LBHR_TikTok_LAUNCH_01_HappytobeonTikTok_bearbeitet_MDmp4?e=1741777200&v=beta&t=dSFlaePULFkxsDUZcqdgysBv0VOsGlOyKh7-WYRlcAU"
+    },
+    "caption": "Tanıtılan Liebherr continues to push the boundaries of engineering excellence, delivering cutting-edge solutions for industries worldwide. ",
+    "runTime": {
+      "humanize": "3 Mar 2025 - 3 Mar 2025",
+      "startTime": 1740949200,
+      "finishTime": 1740949200
+    },
+    "impression": " Bin",
+    "countryList": [
+      {
+        "country": "Danimarka",
+        "impressionPercent": 99
+      },
+      {
+        "country": "Hırvatistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Güney Kore",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Amerika Birleşik Devletleri",
+        "impressionPercent": 1
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/ad-library/detail/589251774",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQHEujzgjzIogQ/progressive-servable-video/B4EZUkqFTxG0A0-/0/1740076771021/Liebherr_Bauma2025-Ad-Video_1-1_DEmp4?e=1741690800&v=beta&t=xcC7U9hJHVWInnhT2lAy2NnzhkrBAmWPPnIXsoiDsRM"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQHEujzgjzIogQ/progressive-servable-video/B4EZUkqFTxG0A0-/0/1740076771021/Liebherr_Bauma2025-Ad-Video_1-1_DEmp4?e=1741777200&v=beta&t=GBLlObiLCtdvLKj-M0SPbQ8M8T5GwtDcyOQQ5vB0bCg"
     },
     "caption": "Tanıtılan Erlebe die Zukunft der Bauindustrie live auf der Bauma 2025! Auf 15.000 m² gibt es spannende Produktneuheiten und innovative Technologien von Liebherr zu entdecken. Wir freuen uns auf dich vom 7.–13. April in München 👷🚧\n\n#bauma2025 #handsonliebherr #liebherr #liebherrgroup",
     "runTime": {
-      "humanize": "21 Şub 2025 - 2 Mar 2025",
+      "humanize": "21 Şub 2025 - 3 Mar 2025",
       "startTime": 1740085200,
-      "finishTime": 1740862800
+      "finishTime": 1740949200
     },
     "impression": "10 bin - 50 bin",
     "countryList": [
@@ -1856,6 +120,10 @@
       {
         "country": "Avusturya",
         "impressionPercent": 16
+      },
+      {
+        "country": "Hindistan",
+        "impressionPercent": 1
       },
       {
         "country": "Birleşik Krallık",
@@ -1875,13 +143,13 @@
     "url": "https://www.linkedin.com/ad-library/detail/589251994",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQEPMZo2PC6Zjw/mp4-360p-30fp-crf28/B4EZUkuFLlHMCc-/0/1740077819848/Liebherr_Bauma2025-Ad-Video_1-1_ENmp4?e=1741690800&v=beta&t=19lN-iXmEuXaqUhlAoBr7L4nrEbuSdItj9Bqg_p2uoc"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQEPMZo2PC6Zjw/mp4-360p-30fp-crf28/B4EZUkuFLlHMCc-/0/1740077819848/Liebherr_Bauma2025-Ad-Video_1-1_ENmp4?e=1741777200&v=beta&t=7mbOWbOK4-D6r-Za6JiUK0D0bRFctIPqvDIuvMDqXSs"
     },
     "caption": "Tanıtılan Experience the future of the construction industry live at Bauma 2025! Discover exciting new products and innovative technologies from Liebherr spread across 15,000 m² of space. We look forward to seeing you in Munich from 7.-13. April. 👷 🚧\n#bauma2025 #handsonliebherr #liebherr #liebherrgroup",
     "runTime": {
-      "humanize": "21 Şub 2025 - 2 Mar 2025",
+      "humanize": "21 Şub 2025 - 3 Mar 2025",
       "startTime": 1740085200,
-      "finishTime": 1740862800
+      "finishTime": 1740949200
     },
     "impression": "10 bin - 50 bin",
     "countryList": [
@@ -1904,16 +172,48 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/ad-library/detail/589995744",
+    "creative": {
+      "type": "video",
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQGn-n1VeaTWNQ/mp4-720p-30fp-crf28/B4EZVGX5b1HgCg-/0/1740642433053/lh-heritage_teaser_9by16_YT-Shorts1080p-ohneAbbindermp4?e=1741777200&v=beta&t=xihofxc0b6P0k3OxA54ImjhSBfW0gf-dk_krb9gK_fk"
+    },
+    "caption": "Tanıtılan Join us as we sharp the future - where innovation meets reliability and quality.",
+    "runTime": {
+      "humanize": "3 Mar 2025 - 3 Mar 2025",
+      "startTime": 1740949200,
+      "finishTime": 1740949200
+    },
+    "impression": " Bin",
+    "countryList": [
+      {
+        "country": "Danimarka",
+        "impressionPercent": 99
+      },
+      {
+        "country": "İsveç",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Bangladeş",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Almanya",
+        "impressionPercent": 1
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/ad-library/detail/586034994",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQEPMZo2PC6Zjw/mp4-360p-30fp-crf28/B4EZUkuFLlHMCc-/0/1740077819848/Liebherr_Bauma2025-Ad-Video_1-1_ENmp4?e=1741690800&v=beta&t=19lN-iXmEuXaqUhlAoBr7L4nrEbuSdItj9Bqg_p2uoc"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQEPMZo2PC6Zjw/mp4-360p-30fp-crf28/B4EZUkuFLlHMCc-/0/1740077819848/Liebherr_Bauma2025-Ad-Video_1-1_ENmp4?e=1741777200&v=beta&t=7mbOWbOK4-D6r-Za6JiUK0D0bRFctIPqvDIuvMDqXSs"
     },
     "caption": "Tanıtılan Hands on the future – dive into the future of the construction industry at Bauma 2025! Fascinating new products and innovative technologies from Liebherr await you across 15,000 m² of space. Visit us in Munich from 7.-13. April – we look forward to seeing you! 👷 🚧\n#bauma2025 #handsonliebherr #liebherr #liebherrgroup",
     "runTime": {
-      "humanize": "21 Şub 2025 - 2 Mar 2025",
+      "humanize": "21 Şub 2025 - 3 Mar 2025",
       "startTime": 1740085200,
-      "finishTime": 1740862800
+      "finishTime": 1740949200
     },
     "impression": "10 bin - 50 bin",
     "countryList": [
@@ -1935,13 +235,13 @@
     "url": "https://www.linkedin.com/ad-library/detail/589232624",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQFeA8wnvcOBtA/mp4-720p-30fp-crf28/B4EZUksdkrH0Cg-/0/1740077395417/Liebherr_Bauma2025-Ad_Video_1-1_FRmp4?e=1741690800&v=beta&t=_HfbWAG1DqK0FHRqE2TisHDG-e3CY2qVDFmIVhnfWr0"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQFeA8wnvcOBtA/mp4-720p-30fp-crf28/B4EZUksdkrH0Cg-/0/1740077395417/Liebherr_Bauma2025-Ad_Video_1-1_FRmp4?e=1741777200&v=beta&t=L3-X3qZAJxxkSgo8dhbPMU174fC23e6UV1-SwDo4LW0"
     },
     "caption": "Tanıtılan Découvrez l’avenir de l’industrie de la construction en direct lors du salon Bauma 2025 ! Sur 15 000 m², vous pourrez découvrir des nouveautés produits passionnantes et des technologies innovantes de Liebherr. Nous nous réjouissons de vous accueillir du 07 au 13 avril à Munich. 👷 🚧\n#bauma2025 #handsonliebherr #liebherr #liebherrgroup",
     "runTime": {
-      "humanize": "21 Şub 2025 - 2 Mar 2025",
+      "humanize": "21 Şub 2025 - 3 Mar 2025",
       "startTime": 1740085200,
-      "finishTime": 1740862800
+      "finishTime": 1740949200
     },
     "impression": "50 bin - 100 bin",
     "countryList": [
@@ -1963,13 +263,13 @@
     "url": "https://www.linkedin.com/ad-library/detail/586053424?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E10AQGf-wE2sgubvw/image-shrink_1280/B4EZUkrfy0GgAQ-/0/1740077138378/Liebherr_Bauma2025-Ad-Banner_1200x1200px_DEpng?e=1741690800&v=beta&t=4NBb-i4xPVxl5XPaor8NaK3Zo0E6yx4gvZUSgBncUlE"
+      "content": "https://media.licdn.com/dms/image/v2/D4E10AQGf-wE2sgubvw/image-shrink_1280/B4EZUkrfy0GgAQ-/0/1740077138378/Liebherr_Bauma2025-Ad-Banner_1200x1200px_DEpng?e=1741777200&v=beta&t=dNo2TRcqPBe6J_uNtf7rhD0qdNbHebBs4TROqch-3as"
     },
     "caption": "Tanıtılan Erlebe die Zukunft der Bauindustrie live auf der Bauma 2025! Auf 15.000 m² gibt es spannende Produktneuheiten und innovative Technologien von Liebherr zu entdecken. Wir freuen uns auf dich vom 7.–13. April in München 👷 🚧\n\n#bauma2025 #handsonliebherr #liebherr #liebherrgroup",
     "runTime": {
-      "humanize": "21 Şub 2025 - 2 Mar 2025",
+      "humanize": "21 Şub 2025 - 3 Mar 2025",
       "startTime": 1740085200,
-      "finishTime": 1740862800
+      "finishTime": 1740949200
     },
     "impression": "10 bin - 50 bin",
     "countryList": [
@@ -1979,18 +279,106 @@
       },
       {
         "country": "İsviçre",
-        "impressionPercent": 36
+        "impressionPercent": 35
       },
       {
         "country": "Avusturya",
-        "impressionPercent": 15
+        "impressionPercent": 14
       },
       {
         "country": "Danimarka",
         "impressionPercent": 1
       },
       {
+        "country": "Hindistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Amerika Birleşik Devletleri",
+        "impressionPercent": 1
+      },
+      {
         "country": "Çekya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Litvanya",
+        "impressionPercent": 1
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/ad-library/detail/590052134",
+    "creative": {
+      "type": "video",
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQGOg6tERb8Mjg/mp4-640p-30fp-crf28/B4EZVGX5cLHUB0-/0/1740642438103/LBHR_TikTok_LAUNCH_01_HappytobeonTikTok_bearbeitet_MDmp4?e=1741777200&v=beta&t=dSFlaePULFkxsDUZcqdgysBv0VOsGlOyKh7-WYRlcAU"
+    },
+    "caption": "Tanıtılan Liebherr continues to push the boundaries of engineering excellence, delivering cutting-edge solutions for industries worldwide. ",
+    "runTime": {
+      "humanize": "3 Mar 2025 - 3 Mar 2025",
+      "startTime": 1740949200,
+      "finishTime": 1740949200
+    },
+    "impression": "Bin - 5 bin",
+    "countryList": [
+      {
+        "country": "Danimarka",
+        "impressionPercent": 98
+      },
+      {
+        "country": "Birleşik Krallık",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Çin Hong Kong ÖİB",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Çin",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Hindistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Kenya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Birleşik Arap Emirlikleri",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Botsvana",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Grönland",
+        "impressionPercent": 1
+      },
+      {
+        "country": "İtalya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Lübnan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Letonya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Filipinler",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Türkiye",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Kuzey Makedonya",
         "impressionPercent": 1
       }
     ]
@@ -1999,7 +387,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/587111503?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQGWvfvopdh8rg/image-shrink_1280/image-shrink_1280/0/1737716402725?e=1741690800&v=beta&t=UailrJl7cgYZbX-ilt-Qg64k6kPAGMhkkRISMZHF6Zw"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQGWvfvopdh8rg/image-shrink_1280/image-shrink_1280/0/1737716402725?e=1741777200&v=beta&t=_bGz65N4rB48iJC5Ux7pV_AKLZpQ3BdVhpMpHQnodSk"
     },
     "caption": "Tanıtılan A success story – behind-the-scenes at #Liebherr!\n\nWhat accounts for our success over decades? \nIn an conversation, two members of the Liebherr-International AG board of directors, together with two contemporary witnesses, reflect on the courage to innovate, lived values, and the \"Liebherr spirit.\" \n\nThey share their experiences and insights that have shaped the success story and take a look at the visions for the future. A call to all those who want to actively shape change! 💡🔧 \n\nLearn more: https://lnkd.in/d-xW5aHe\n\n#liebherrgroup",
     "runTime": {
@@ -2351,6 +739,110 @@
       },
       {
         "country": "İsveç",
+        "impressionPercent": 1
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/ad-library/detail/590005784",
+    "creative": {
+      "type": "video",
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQGn-n1VeaTWNQ/mp4-720p-30fp-crf28/B4EZVGX5b1HgCg-/0/1740642433053/lh-heritage_teaser_9by16_YT-Shorts1080p-ohneAbbindermp4?e=1741777200&v=beta&t=xihofxc0b6P0k3OxA54ImjhSBfW0gf-dk_krb9gK_fk"
+    },
+    "caption": "Tanıtılan Join us as we sharp the future - where innovation meets reliability and quality.",
+    "runTime": {
+      "humanize": "3 Mar 2025 - 3 Mar 2025",
+      "startTime": 1740949200,
+      "finishTime": 1740949200
+    },
+    "impression": "Bin - 5 bin",
+    "countryList": [
+      {
+        "country": "Danimarka",
+        "impressionPercent": 99
+      },
+      {
+        "country": "Hindistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Çin",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Ukrayna",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Birleşik Arap Emirlikleri",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Avustralya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Bangladeş",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Belçika",
+        "impressionPercent": 1
+      },
+      {
+        "country": "İspanya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Faroe Adaları",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Fransa",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Birleşik Krallık",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Grönland",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Kenya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Norveç",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Polonya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Rusya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Singapur",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Somali",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Tunus",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Türkiye",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Kuzey Makedonya",
         "impressionPercent": 1
       }
     ]
@@ -2988,16 +1480,88 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/ad-library/detail/590005684",
+    "creative": {
+      "type": "video",
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQGOg6tERb8Mjg/mp4-640p-30fp-crf28/B4EZVGX5cLHUB0-/0/1740642438103/LBHR_TikTok_LAUNCH_01_HappytobeonTikTok_bearbeitet_MDmp4?e=1741777200&v=beta&t=dSFlaePULFkxsDUZcqdgysBv0VOsGlOyKh7-WYRlcAU"
+    },
+    "caption": "Tanıtılan Liebherr continues to push the boundaries of engineering excellence, delivering cutting-edge solutions for industries worldwide. \t",
+    "runTime": {
+      "humanize": "3 Mar 2025 - 3 Mar 2025",
+      "startTime": 1740949200,
+      "finishTime": 1740949200
+    },
+    "impression": " Bin",
+    "countryList": [
+      {
+        "country": "Danimarka",
+        "impressionPercent": 99
+      },
+      {
+        "country": "Çin",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Almanya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Hindistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Türkiye",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Bangladeş",
+        "impressionPercent": 1
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/ad-library/detail/590070224",
+    "creative": {
+      "type": "video",
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQGn-n1VeaTWNQ/mp4-720p-30fp-crf28/B4EZVGX5b1HgCg-/0/1740642433053/lh-heritage_teaser_9by16_YT-Shorts1080p-ohneAbbindermp4?e=1741777200&v=beta&t=xihofxc0b6P0k3OxA54ImjhSBfW0gf-dk_krb9gK_fk"
+    },
+    "caption": "Tanıtılan Join us as we sharp the future - where innovation meets reliability and quality.",
+    "runTime": {
+      "humanize": "3 Mar 2025 - 3 Mar 2025",
+      "startTime": 1740949200,
+      "finishTime": 1740949200
+    },
+    "impression": " Bin",
+    "countryList": [
+      {
+        "country": "Danimarka",
+        "impressionPercent": 100
+      },
+      {
+        "country": "Çin",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Hindistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Bangladeş",
+        "impressionPercent": 1
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/ad-library/detail/586082784?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E10AQF1pTq0Ec90vw/image-shrink_1280/B4EZUktMyVHcAM-/0/1740077584814/Liebherr_Bauma2025-Ad-Banner_1200x1200px_FRpng?e=1741690800&v=beta&t=c4LWzo3ugnolANdEC2yDpLcgG3tID5cMvPJfhSmlMDw"
+      "content": "https://media.licdn.com/dms/image/v2/D4E10AQF1pTq0Ec90vw/image-shrink_1280/B4EZUktMyVHcAM-/0/1740077584814/Liebherr_Bauma2025-Ad-Banner_1200x1200px_FRpng?e=1741777200&v=beta&t=RYWo6KJ4RSooWCWfjc9NQ8YeqngzRpQboUjpMfN-25o"
     },
     "caption": "Tanıtılan Découvrez l’avenir de l’industrie de la construction en direct lors du salon Bauma 2025 ! Sur 15 000 m², vous pourrez découvrir des nouveautés produits passionnantes et des technologies innovantes de Liebherr. Nous nous réjouissons de vous accueillir du 07 au 13 avril à Munich. 👷 🚧\n#bauma2025 #handsonliebherr #liebherr #liebherrgroup",
     "runTime": {
-      "humanize": "21 Şub 2025 - 2 Mar 2025",
+      "humanize": "21 Şub 2025 - 3 Mar 2025",
       "startTime": 1740085200,
-      "finishTime": 1740862800
+      "finishTime": 1740949200
     },
     "impression": "100 bin - 200 bin",
     "countryList": [
@@ -3027,13 +1591,13 @@
     "url": "https://www.linkedin.com/ad-library/detail/586015804?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E10AQHm_D9cA8TQ0w/image-shrink_1280/B4EZUktp9mHUAQ-/0/1740077704122/Liebherr_Bauma2025-Ad-Banner_1200x1200px_ENjpg?e=1741690800&v=beta&t=UxPOh50HCKJDjPvsQpGfNDetVFdqOt0gGViy6h4JVXI"
+      "content": "https://media.licdn.com/dms/image/v2/D4E10AQHm_D9cA8TQ0w/image-shrink_1280/B4EZUktp9mHUAQ-/0/1740077704122/Liebherr_Bauma2025-Ad-Banner_1200x1200px_ENjpg?e=1741777200&v=beta&t=EeXFCvhiyEU6Z7JCsFGhEDXp91Clt0dNX2XxUVLsN8E"
     },
     "caption": "Tanıtılan Experience the future of the construction industry live at Bauma 2025! Discover exciting new products and innovative technologies from Liebherr spread across 15,000 m² of space. We look forward to seeing you in Munich from 7.-13. April. 👷 🚧\n#bauma2025 #handsonliebherr #liebherr #liebherrgroup",
     "runTime": {
-      "humanize": "21 Şub 2025 - 2 Mar 2025",
+      "humanize": "21 Şub 2025 - 3 Mar 2025",
       "startTime": 1740085200,
-      "finishTime": 1740862800
+      "finishTime": 1740949200
     },
     "impression": "50 bin - 100 bin",
     "countryList": [
@@ -3042,127 +1606,35 @@
         "impressionPercent": 100
       },
       {
+        "country": "Birleşik Krallık",
+        "impressionPercent": 1
+      },
+      {
         "country": "Amerika Birleşik Devletleri",
         "impressionPercent": 1
       }
     ]
   },
   {
-    "url": "https://www.linkedin.com/ad-library/detail/549313084",
+    "url": "https://www.linkedin.com/ad-library/detail/590034244",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D5610AQHES3rmAD_4Hw/progressive-servable-video/progressive-servable-video/0/1734013599551/Imagefilm_CutDown_20Sekunden_16zu9mp4?e=1741690800&v=beta&t=wpmYeFuBKxP1O4J68rFHQGeQUkkPXn3HhoGz4LL6NRI"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQGOg6tERb8Mjg/mp4-640p-30fp-crf28/B4EZVGX5cLHUB0-/0/1740642438103/LBHR_TikTok_LAUNCH_01_HappytobeonTikTok_bearbeitet_MDmp4?e=1741777200&v=beta&t=dSFlaePULFkxsDUZcqdgysBv0VOsGlOyKh7-WYRlcAU"
     },
-    "caption": "Tanıtılan 💡 Was den Unterschied bei Liebherr macht?\nInnovation, ein starkes Team, zahlreiche Möglichkeiten. Sowie die Tatsache, dass wir ein unabhägiges Familienunternehmen sind.\n\nIhre Vorteile:\n• Vielfältige Positionen im Maschinenbau\n• Kollegialität: Ein Team, das Zusammenarbeit und Familienunternehmen lebt\n• Entwicklungsmöglichkeiten: ein umfangreiches Weiterbildungsangebot und die Vielfältigkeit unserer Firmengruppe\n\nWerden Sie ein Teil des großen Ganzen!",
+    "caption": "Tanıtılan Liebherr continues to push the boundaries of engineering excellence, delivering cutting-edge solutions for industries worldwide. \t",
     "runTime": {
-      "humanize": "13 Ara 2024 - 7 Şub 2025",
-      "startTime": 1734037200,
-      "finishTime": 1738875600
+      "humanize": "3 Mar 2025 - 3 Mar 2025",
+      "startTime": 1740949200,
+      "finishTime": 1740949200
     },
-    "impression": "50 bin - 100 bin",
+    "impression": "Bin - 5 bin",
     "countryList": [
       {
-        "country": "Almanya",
-        "impressionPercent": 98
-      },
-      {
-        "country": "Birleşik Krallık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İsviçre",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkiye",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hollanda",
-        "impressionPercent": 1
+        "country": "Danimarka",
+        "impressionPercent": 99
       },
       {
         "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fransa",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Avusturya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Danimarka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İtalya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Polonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Brezilya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İsveç",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Birleşik Arap Emirlikleri",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ukrayna",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kanada",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Portekiz",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Meksika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Şili",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Belçika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Mısır",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Finlandiya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lüksemburg",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kosova",
         "impressionPercent": 1
       },
       {
@@ -3170,35 +1642,11 @@
         "impressionPercent": 1
       },
       {
-        "country": "Norveç",
+        "country": "Birleşik Krallık",
         "impressionPercent": 1
       },
       {
-        "country": "Sırbistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Arnavutluk",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Yunanistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hırvatistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İrlanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Pakistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Romanya",
+        "country": "Kenya",
         "impressionPercent": 1
       },
       {
@@ -3206,299 +1654,7 @@
         "impressionPercent": 1
       },
       {
-        "country": "Bulgaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kolombiya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İsrail",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Japonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Avustralya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Litvanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bosna-Hersek",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lübnan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Katar",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çekya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kenya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fas",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Singapur",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayland",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Azerbaycan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Cezayir",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Etiyopya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Endonezya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Letonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Malta",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Malezya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tunus",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ekvador",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gana",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Güney Kore",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Liechtenstein",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Karadağ",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kuzey Makedonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Mozambik",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Nijerya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Filipinler",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Suudi Arabistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Senegal",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Uganda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Vietnam",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ermenistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bangladeş",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Burkina Faso",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Benin",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ürdün",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Moğolistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Nepal",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Peru",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Slovenya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Slovakya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "El Salvador",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Venezuela",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Güney Afrika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Arjantin",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Estonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kamboçya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kazakistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Panama",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/594018126?trk=ad_library_ad_preview_content_image",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D5610AQEcrTiwjiywrw/image-shrink_1280/image-shrink_1280/0/1734012844758/ET_EB-professionals-technical-5544fdfc-812d-4559-a02c-7f01cd32f0d3-Screenjpg?e=1741690800&v=beta&t=NQtwj5w8QiZFK6Ou57KomKSUFOQPaT2hXqDbYv-0a-Y"
-    },
-    "caption": "Tanıtılan ✨ Was macht den Unterschied bei Liebherr? Innovation, ein starkes Team, zahlreiche Möglichkeiten. Sowie die Tatsache, dass wir ein unabhägiges Familienunternehmen sind.\n\nIhre Vorteile:\n• Vielfältige Positionen in der Elektrotechnik\n• Kollegialität: Arbeiten Sie in einem Team, das Zusammenarbeit und Familienunternehmen lebt\n• Entwicklungsmöglichkeiten: ein umfangreiches Weiterbildungsangebot und die Vielfältigkeit unserer Firmengruppe\n\nIn der Elektrotechnik bei Liebherr stellen Sie sicher, dass der Funke überspringt. Werden Sie Teil unseres Teams.\n",
-    "runTime": {
-      "humanize": "13 Ara 2024 - 7 Şub 2025",
-      "startTime": 1734037200,
-      "finishTime": 1738875600
-    },
-    "impression": "50 bin - 100 bin",
-    "countryList": [
-      {
-        "country": "Almanya",
-        "impressionPercent": 98
-      },
-      {
-        "country": "Birleşik Krallık",
-        "impressionPercent": 1
-      },
-      {
         "country": "Türkiye",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İsviçre",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hollanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fransa",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Danimarka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İtalya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Avusturya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Polonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Brezilya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İsveç",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kanada",
         "impressionPercent": 1
       },
       {
@@ -3506,451 +1662,7 @@
         "impressionPercent": 1
       },
       {
-        "country": "Ukrayna",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Belçika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İrlanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hırvatistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Meksika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Mısır",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kosova",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tunus",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Şili",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Sırbistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Norveç",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Portekiz",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Romanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Finlandiya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Singapur",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çin",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Yunanistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lüksemburg",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kolombiya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Arnavutluk",
-        "impressionPercent": 1
-      },
-      {
         "country": "Avustralya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bulgaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Pakistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bosna-Hersek",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Rusya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Güney Afrika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Arjantin",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çekya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Etiyopya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kenya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lübnan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Litvanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fas",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Malezya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Nijerya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayland",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Azerbaycan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Endonezya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İsrail",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Nepal",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Peru",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Filipinler",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayvan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bangladeş",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Cezayir",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Liechtenstein",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Katar",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Uganda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ermenistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kosta Rika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gana",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Japonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Letonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kuzey Makedonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Suudi Arabistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ekvador",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İzlanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ürdün",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Karadağ",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Moğolistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Maldivler",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Paraguay",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkmenistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Venezuela",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Afganistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Burkina Faso",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bahreyn",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Benin",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bermuda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Belarus",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kamerun",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kıbrıs",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Grenada",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gürcistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Cebelitarık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çin Hong Kong ÖİB",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Honduras",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Man Adası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Irak",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Monako",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Moldova",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çin Makao ÖİB",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Malta",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Mozambik",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Namibya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Nijer",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Nikaragua",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Yeni Zelanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Umman",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Reunion",
-        "impressionPercent": 1
-      },
-      {
-        "country": "El Salvador",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Uruguay",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Vietnam",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Zambiya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Slovenya",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/549279154",
-    "creative": {
-      "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D5610AQFRVLkrikvw4A/progressive-servable-video/progressive-servable-video/0/1734013642856/Imagefilm_CutDown_20Sekunden_9zu16mp4?e=1741690800&v=beta&t=46okZ0AiwyIJYo19vJ4w5M_lUDvUTrl7gifpXpU_MF0"
-    },
-    "caption": "Tanıtılan 🤝 Was uns auszeichnet und hervorhebt?\nAls unabhängiges Familienunternehmen ist unser Denken und Handeln von langfristigen Zielen gesteuert - nicht von kurzfristigen Erfolgen.\n\nDies trifft auch auch die Zusammenarbeit mit Ihnen zu. Informieren Sie sich jetzt, wie eine Stelle bei Liebherr für Sie konkret aussehen kann.\n\nIhre Vorteile:\n• Vielfältige Positionen im Maschinenbau\n• Kollegialität: Ein Team, das Zusammenarbeit und Familienunternehmen lebt\n• Entwicklungsmöglichkeiten: ein umfangreiches Weiterbildungsangebot und die Vielfältigkeit unserer Firmengruppe\n\nWerden Sie ein Teil von uns.\n",
-    "runTime": {
-      "humanize": "13 Ara 2024 - 7 Şub 2025",
-      "startTime": 1734037200,
-      "finishTime": 1738875600
-    },
-    "impression": "50 bin - 100 bin",
-    "countryList": [
-      {
-        "country": "Almanya",
-        "impressionPercent": 98
-      },
-      {
-        "country": "Birleşik Krallık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkiye",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İsviçre",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hollanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fransa",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Avusturya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Danimarka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İtalya",
         "impressionPercent": 1
       },
       {
@@ -3958,147 +1670,11 @@
         "impressionPercent": 1
       },
       {
-        "country": "İsveç",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Polonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Portekiz",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Birleşik Arap Emirlikleri",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kanada",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Şili",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İrlanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Sırbistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ukrayna",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Belçika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çin",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Litvanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Meksika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kolombiya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Finlandiya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Pakistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Singapur",
-        "impressionPercent": 1
-      },
-      {
         "country": "Mısır",
         "impressionPercent": 1
       },
       {
-        "country": "İsrail",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kenya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Nijerya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Avustralya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çekya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ekvador",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Yunanistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hırvatistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Romanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kosova",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Güney Afrika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Arnavutluk",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Azerbaycan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bosna-Hersek",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bulgaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Etiyopya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lüksemburg",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Malezya",
+        "country": "Grönland",
         "impressionPercent": 1
       },
       {
@@ -4110,171 +1686,15 @@
         "impressionPercent": 1
       },
       {
-        "country": "Tunus",
+        "country": "Pakistan",
         "impressionPercent": 1
       },
       {
-        "country": "Vietnam",
+        "country": "Sırbistan",
         "impressionPercent": 1
       },
       {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ürdün",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Letonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Suudi Arabistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayland",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Benin",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çin Hong Kong ÖİB",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kamboçya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lübnan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kuzey Makedonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Nepal",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Katar",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkmenistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Uganda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ermenistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Arjantin",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bangladeş",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kosta Rika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kıbrıs",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Cezayir",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gürcistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Cebelitarık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Irak",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İzlanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Japonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kazakistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fas",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Karadağ",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Moğolistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Mozambik",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Peru",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Filipinler",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Rusya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Sudan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Venezuela",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Zambiya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kamerun",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Guatemala",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Liechtenstein",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tacikistan",
+        "country": "Güney Afrika",
         "impressionPercent": 1
       }
     ]
@@ -4283,7 +1703,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/555060623",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQFRGj92xM3o9A/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1734166812060?e=1741690800&v=beta&t=_4AeV6lMaA4XUCPrL8hPwOknhN4ZZhIzgUfjfg8hs_w"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQFRGj92xM3o9A/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1734166812060?e=1741777200&v=beta&t=vBzjGNa5zH6-eh_fLU9JaTJ2MWzOLALWHj4i52_ulag"
     },
     "caption": "Tanıtılan 🎉 75 years of #Liebherr. Our anniversary film combines tradition with innovation and shows how a special pioneering spirit shapes yesterday, today and tomorrow across all product segments. For 75 years now, our history has been written anew every day, following a timeless example.\n\n📽 Watch the anniversary film to experience the legacy:  https://lnkd.in/eeF55vFW\n\n#Liebherr #75YearsMovingForward #pioneeringspirit #heritage ",
     "runTime": {
@@ -5106,20 +2526,20 @@
   {
     "url": "https://www.linkedin.com/ad-library/detail/589242724?trk=ad_library_ad_preview_content_image",
     "creative": {
-      "type": "unknown",
-      "content": null
+      "type": "img",
+      "content": "https://media.licdn.com/dms/image/v2/D4E10AQGf-wE2sgubvw/image-shrink_1280/B4EZUkrfy0GgAQ-/0/1740077138378/Liebherr_Bauma2025-Ad-Banner_1200x1200px_DEpng?e=1741777200&v=beta&t=dNo2TRcqPBe6J_uNtf7rhD0qdNbHebBs4TROqch-3as"
     },
     "caption": "Tanıtılan Hands on the future – tauche auf der Bauma 2025 in die Zukunft der Bauindustrie ein! Auf einer Fläche von 15.000 m² erwarten dich faszinierende Produktneuheiten und innovative Technologien von Liebherr. Besuche uns uns vom 7.–13. April in München – wir freuen uns auf dich! 👷 🚧\n\n#bauma2025 #handsonliebherr #liebherr #liebherrgroup",
     "runTime": {
-      "humanize": "21 Şub 2025 - 2 Mar 2025",
+      "humanize": "21 Şub 2025 - 3 Mar 2025",
       "startTime": 1740085200,
-      "finishTime": 1740862800
+      "finishTime": 1740949200
     },
     "impression": "10 bin - 50 bin",
     "countryList": [
       {
         "country": "Almanya",
-        "impressionPercent": 49
+        "impressionPercent": 50
       },
       {
         "country": "İsviçre",
@@ -5128,6 +2548,10 @@
       {
         "country": "Avusturya",
         "impressionPercent": 15
+      },
+      {
+        "country": "İspanya",
+        "impressionPercent": 1
       },
       {
         "country": "Fransa",
@@ -5151,13 +2575,13 @@
     "url": "https://www.linkedin.com/ad-library/detail/589261874?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E10AQF1pTq0Ec90vw/image-shrink_1280/B4EZUktMyVHcAM-/0/1740077584814/Liebherr_Bauma2025-Ad-Banner_1200x1200px_FRpng?e=1741690800&v=beta&t=c4LWzo3ugnolANdEC2yDpLcgG3tID5cMvPJfhSmlMDw"
+      "content": "https://media.licdn.com/dms/image/v2/D4E10AQF1pTq0Ec90vw/image-shrink_1280/B4EZUktMyVHcAM-/0/1740077584814/Liebherr_Bauma2025-Ad-Banner_1200x1200px_FRpng?e=1741777200&v=beta&t=RYWo6KJ4RSooWCWfjc9NQ8YeqngzRpQboUjpMfN-25o"
     },
     "caption": "Tanıtılan Hands on the future : plongez-vous dans l’avenir de l’industrie de la construction lors du salon Bauma 2025 ! Les nouveautés produits passionnantes et les technologies innovantes de Liebherr vous attendent sur une surface de 15 000 m². Venez nous rendre visite du 07 au 13 avril à Munich, nous vous attendons avec impatience !👷 🚧\n#bauma2025 #handsonliebherr #liebherr #liebherrgroup",
     "runTime": {
-      "humanize": "21 Şub 2025 - 2 Mar 2025",
+      "humanize": "21 Şub 2025 - 3 Mar 2025",
       "startTime": 1740085200,
-      "finishTime": 1740862800
+      "finishTime": 1740949200
     },
     "impression": "100 bin - 200 bin",
     "countryList": [
@@ -5199,7 +2623,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/549279174",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D5610AQFRVLkrikvw4A/progressive-servable-video/progressive-servable-video/0/1734013642856/Imagefilm_CutDown_20Sekunden_9zu16mp4?e=1741690800&v=beta&t=46okZ0AiwyIJYo19vJ4w5M_lUDvUTrl7gifpXpU_MF0"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D5610AQFRVLkrikvw4A/progressive-servable-video/progressive-servable-video/0/1734013642856/Imagefilm_CutDown_20Sekunden_9zu16mp4?e=1741777200&v=beta&t=n5r4CVovqPltpPHIoH_aJcJaYki06UdwSgh-4Q6dkzk"
     },
     "caption": "Tanıtılan 🤝 Was uns auszeichnet und hervorhebt?\nAls innovatives Familienunternehmen stellen wir gute Ideen vor Berufstitel. Wir leben eine Atmosphäre von gegenseitigem Respekt, Fair Play und der Leidenschaft für Technologie, die den Unterschied macht. \n\nIhre Vorteile:\n• Vielfältige Positionen in der Elektrotechnik\n• Kollegialität: Arbeiten Sie in einem Team, das Zusammenarbeit und Familienunternehmen lebt\n• Entwicklungsmöglichkeiten: ein umfangreiches Weiterbildungsangebot und die Vielfältigkeit unserer Firmengruppe\n\nWerden Sie ein Teil von uns.\n",
     "runTime": {
@@ -5624,372 +3048,16 @@
     ]
   },
   {
-    "url": "https://www.linkedin.com/ad-library/detail/594008906",
-    "creative": {
-      "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D5610AQFRVLkrikvw4A/progressive-servable-video/progressive-servable-video/0/1734013642856/Imagefilm_CutDown_20Sekunden_9zu16mp4?e=1741690800&v=beta&t=46okZ0AiwyIJYo19vJ4w5M_lUDvUTrl7gifpXpU_MF0"
-    },
-    "caption": "Tanıtılan 🤝 Was uns auszeichnet und hervorhebt?\nAls unabhängiges Familienunternehmen ist unser Denken und Handeln von langfristigen Zielen gesteuert - nicht von kurzfristigen Erfolgen. \n\nDies trifft auch auch die Zusammenarbeit mit Ihnen zu. Informieren Sie sich jetzt, wie eine Stelle bei Liebherr für Sie konkret aussehen kann.\n\nIhre Vorteile:\n• Vielfältige Positionen in der F&E\n• Kollegialität: Ein Team, das Zusammenarbeit und Familienunternehmen lebt\n• Entwicklungsmöglichkeiten: ein umfangreiches Weiterbildungsangebot und die Vielfältigkeit unserer Firmengruppe\n\nWerden Sie ein Teil von uns.\n",
-    "runTime": {
-      "humanize": "13 Ara 2024 - 7 Şub 2025",
-      "startTime": 1734037200,
-      "finishTime": 1738875600
-    },
-    "impression": "50 bin - 100 bin",
-    "countryList": [
-      {
-        "country": "Almanya",
-        "impressionPercent": 98
-      },
-      {
-        "country": "Birleşik Krallık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkiye",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İsviçre",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hollanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fransa",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Danimarka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Avusturya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İtalya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Polonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İsveç",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Brezilya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kanada",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Portekiz",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İrlanda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Birleşik Arap Emirlikleri",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hırvatistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Belçika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çin",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Meksika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kosova",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Şili",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Mısır",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ukrayna",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kolombiya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Singapur",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bulgaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Yunanistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Litvanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Norveç",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Sırbistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Pakistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tunus",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lüksemburg",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fas",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Nijerya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Romanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Avustralya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Azerbaycan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kenya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Malta",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Uganda",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çekya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ekvador",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Etiyopya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Finlandiya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Çin Hong Kong ÖİB",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Endonezya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Japonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lübnan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Letonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Nepal",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Peru",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Filipinler",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Katar",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Rusya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Güney Afrika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Arnavutluk",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bosna-Hersek",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Bangladeş",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Estonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gana",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ürdün",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Liechtenstein",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kuzey Makedonya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Senegal",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayland",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Arjantin",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Burkina Faso",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Belarus",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kosta Rika",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gürcistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İsrail",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Güney Kore",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kazakistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Malezya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Mozambik",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Paraguay",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Sudan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Slovakya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Vietnam",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
     "url": "https://www.linkedin.com/ad-library/detail/586044794",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQFeA8wnvcOBtA/mp4-720p-30fp-crf28/B4EZUksdkrH0Cg-/0/1740077395417/Liebherr_Bauma2025-Ad_Video_1-1_FRmp4?e=1741690800&v=beta&t=_HfbWAG1DqK0FHRqE2TisHDG-e3CY2qVDFmIVhnfWr0"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQFeA8wnvcOBtA/mp4-720p-30fp-crf28/B4EZUksdkrH0Cg-/0/1740077395417/Liebherr_Bauma2025-Ad_Video_1-1_FRmp4?e=1741777200&v=beta&t=L3-X3qZAJxxkSgo8dhbPMU174fC23e6UV1-SwDo4LW0"
     },
     "caption": "Tanıtılan Hands on the future : plongez-vous dans l’avenir de l’industrie de la construction lors du salon Bauma 2025 ! Les nouveautés produits passionnantes et les technologies innovantes de Liebherr vous attendent sur une surface de 15 000 m². Venez nous rendre visite du 07 au 13 avril à Munich, nous vous attendons avec impatience ! 👷 🚧\n#bauma2025 #handsonliebherr #liebherr #liebherrgroup",
     "runTime": {
-      "humanize": "21 Şub 2025 - 2 Mar 2025",
+      "humanize": "21 Şub 2025 - 3 Mar 2025",
       "startTime": 1740085200,
-      "finishTime": 1740862800
+      "finishTime": 1740949200
     },
     "impression": "50 bin - 100 bin",
     "countryList": [
@@ -6002,6 +3070,10 @@
         "impressionPercent": 1
       },
       {
+        "country": "İspanya",
+        "impressionPercent": 1
+      },
+      {
         "country": "Guadeloupe",
         "impressionPercent": 1
       },
@@ -6011,6 +3083,94 @@
       },
       {
         "country": "Amerika Birleşik Devletleri",
+        "impressionPercent": 1
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/ad-library/detail/590034394",
+    "creative": {
+      "type": "video",
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQGn-n1VeaTWNQ/mp4-720p-30fp-crf28/B4EZVGX5b1HgCg-/0/1740642433053/lh-heritage_teaser_9by16_YT-Shorts1080p-ohneAbbindermp4?e=1741777200&v=beta&t=xihofxc0b6P0k3OxA54ImjhSBfW0gf-dk_krb9gK_fk"
+    },
+    "caption": "Tanıtılan Join us as we sharp the future - where innovation meets reliability and quality.",
+    "runTime": {
+      "humanize": "3 Mar 2025 - 3 Mar 2025",
+      "startTime": 1740949200,
+      "finishTime": 1740949200
+    },
+    "impression": "Bin - 5 bin",
+    "countryList": [
+      {
+        "country": "Danimarka",
+        "impressionPercent": 98
+      },
+      {
+        "country": "Birleşik Krallık",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Fransa",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Hindistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Estonya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Çin Hong Kong ÖİB",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Kenya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Amerika Birleşik Devletleri",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Türkiye",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Vietnam",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Çin",
+        "impressionPercent": 1
+      },
+      {
+        "country": "İsrail",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Malezya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Pakistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Tayland",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Birleşik Arap Emirlikleri",
+        "impressionPercent": 1
+      },
+      {
+        "country": "İsveç",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Uganda",
         "impressionPercent": 1
       }
     ]

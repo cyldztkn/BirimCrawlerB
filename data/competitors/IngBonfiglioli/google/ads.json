@@ -3,7 +3,7 @@
     "advertiserId": "AR08155627980064817153",
     "adsId": "CR08021522367891111937",
     "img": null,
-    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7278381352&creativeId=691501946570&uiFeatures=12,54&adGroupId=162689751241&assets=%3DH4sIAAAAAAAAAOMy4uLgmL9m5VsnASYg6-eunfecBHiArBVgMQ4gaxGYxQxkLQWzGKXYOL6_67kbDKQ_QukvUPoXiAYA1QPgU1QAAAA&sig=ACiVB_xb51Iopt_jrIJDGlsBJ9weeWn53A&htmlParentId=fletch-render-12589156283013436279&responseCallback=fletchCallback12589156283013436279",
+    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7278381352&creativeId=691501946570&uiFeatures=12,54&adGroupId=162689751241&assets=%3DH4sIAAAAAAAAAOMy4uLgmL9m5VsnASYg6-eunfecBHiArBVgMQ4gaxGYxQxkLQWzGKXYOL6_67kbDKQ_QukvUPoXiAYA1QPgU1QAAAA&sig=ACiVB_xb51Iopt_jrIJDGlsBJ9weeWn53A&htmlParentId=fletch-render-255365151854479717&responseCallback=fletchCallback255365151854479717",
     "type": 3,
     "advertiserName": "DEDA DIGITAL SRL",
     "website": "ingbonfiglioli.it",
@@ -11,59 +11,7 @@
     "lastView": "2024-07-01T07:31:03.000Z",
     "countries": [
       {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Morocco",
-        "averageClicks": 0
-      },
-      {
-        "country": "Madagascar",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ethiopia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Tunisia",
-        "averageClicks": 0
-      },
-      {
         "country": "Ghana",
-        "averageClicks": 0
-      },
-      {
-        "country": "Zimbabwe",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mozambique",
-        "averageClicks": 0
-      },
-      {
-        "country": "Senegal",
-        "averageClicks": 0
-      },
-      {
-        "country": "Democratic Republic of the Congo",
-        "averageClicks": 0
-      },
-      {
-        "country": "Libya",
-        "averageClicks": 0
-      },
-      {
-        "country": "Benin",
-        "averageClicks": 0
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
-      {
-        "country": "Angola",
         "averageClicks": 0
       },
       {
@@ -71,11 +19,63 @@
         "averageClicks": 0
       },
       {
-        "country": "Nigeria",
+        "country": "Zimbabwe",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Democratic Republic of the Congo",
         "averageClicks": 0
       },
       {
         "country": "Algeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mozambique",
+        "averageClicks": 0
+      },
+      {
+        "country": "Libya",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "Madagascar",
+        "averageClicks": 0
+      },
+      {
+        "country": "Angola",
+        "averageClicks": 0
+      },
+      {
+        "country": "Senegal",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ethiopia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Benin",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nigeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Morocco",
+        "averageClicks": 0
+      },
+      {
+        "country": "Tunisia",
         "averageClicks": 0
       }
     ],
@@ -85,7 +85,7 @@
     "advertiserId": "AR08155627980064817153",
     "adsId": "CR02383513713190633473",
     "img": null,
-    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7278381352&creativeId=691501946573&uiFeatures=12,54&adGroupId=162689751281&assets=%3DH4sIAAAAAAAAAOMy4uLgWDVp-1snAR4ga_30tfedBBiBrPlrVgLFmICsFWAWB5C1CMxilmLj-P6u524wkP4Ipb9A6V8gGgCAmxWtVAAAAA&sig=ACiVB_z6efC9g8h26gTA9YIG3VCS4K4ZkA&htmlParentId=fletch-render-3754394237566061251&responseCallback=fletchCallback3754394237566061251",
+    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7278381352&creativeId=691501946573&uiFeatures=12,54&adGroupId=162689751281&assets=%3DH4sIAAAAAAAAAOMy4uLgWDVp-1snAR4ga_30tfedBBiBrPlrVgLFmICsFWAWB5C1CMxilmLj-P6u524wkP4Ipb9A6V8gGgCAmxWtVAAAAA&sig=ACiVB_z6efC9g8h26gTA9YIG3VCS4K4ZkA&htmlParentId=fletch-render-15754165916058056614&responseCallback=fletchCallback15754165916058056614",
     "type": 3,
     "advertiserName": "DEDA DIGITAL SRL",
     "website": "ingbonfiglioli.it",
@@ -101,7 +101,7 @@
         "averageClicks": 0
       },
       {
-        "country": "Nigeria",
+        "country": "Egypt",
         "averageClicks": 0
       },
       {
@@ -109,11 +109,7 @@
         "averageClicks": 0
       },
       {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Zimbabwe",
+        "country": "Nigeria",
         "averageClicks": 0
       },
       {
@@ -121,15 +117,19 @@
         "averageClicks": 0
       },
       {
+        "country": "Zimbabwe",
+        "averageClicks": 0
+      },
+      {
         "country": "Morocco",
         "averageClicks": 0
       },
       {
-        "country": "Senegal",
+        "country": "Ghana",
         "averageClicks": 0
       },
       {
-        "country": "Ghana",
+        "country": "Senegal",
         "averageClicks": 0
       }
     ],
@@ -139,7 +139,7 @@
     "advertiserId": "AR08155627980064817153",
     "adsId": "CR05921167086792474625",
     "img": null,
-    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7278381352&creativeId=691501946597&uiFeatures=12,54&adGroupId=162689751961&assets=%3DH4sIAAAAAAAAAOMy4uLgWLRm5VsnAWYga9Wk7UAWD5A1HyzGBGStn772vpMAI5C1AizGIcXG8f1dz91gIP0RSn-B0r9ANAB69Td2VAAAAA&sig=ACiVB_y2IC-ImwXO4IRoK-HYL6rLJsKytg&htmlParentId=fletch-render-11500303238362120742&responseCallback=fletchCallback11500303238362120742",
+    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7278381352&creativeId=691501946597&uiFeatures=12,54&adGroupId=162689751961&assets=%3DH4sIAAAAAAAAAOMy4uLgWLRm5VsnAWYga9Wk7UAWD5A1HyzGBGStn772vpMAI5C1AizGIcXG8f1dz91gIP0RSn-B0r9ANAB69Td2VAAAAA&sig=ACiVB_y2IC-ImwXO4IRoK-HYL6rLJsKytg&htmlParentId=fletch-render-8479831027597295941&responseCallback=fletchCallback8479831027597295941",
     "type": 3,
     "advertiserName": "DEDA DIGITAL SRL",
     "website": "ingbonfiglioli.it",
@@ -147,11 +147,7 @@
     "lastView": "2024-06-30T21:59:58.000Z",
     "countries": [
       {
-        "country": "Lebanon",
-        "averageClicks": 0
-      },
-      {
-        "country": "Yemen",
+        "country": "Qatar",
         "averageClicks": 0
       },
       {
@@ -167,15 +163,15 @@
         "averageClicks": 0
       },
       {
-        "country": "Qatar",
-        "averageClicks": 0
-      },
-      {
         "country": "Oman",
         "averageClicks": 0
       },
       {
         "country": "United Arab Emirates",
+        "averageClicks": 0
+      },
+      {
+        "country": "Yemen",
         "averageClicks": 0
       },
       {
@@ -191,6 +187,10 @@
         "averageClicks": 0
       },
       {
+        "country": "Lebanon",
+        "averageClicks": 0
+      },
+      {
         "country": "Kuwait",
         "averageClicks": 0
       }
@@ -201,7 +201,7 @@
     "advertiserId": "AR08155627980064817153",
     "adsId": "CR10435097725417553921",
     "img": null,
-    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7278381352&creativeId=691501946582&uiFeatures=12,54&adGroupId=162689751521&assets=%3DH4sIAAAAAAAAAOMy4uLgWLRm5VsnAWYgaymYxQhkrQCzOICs-WAWE5D1c9fOe04CPFJsHN_f9dwNBtIfofQXKP0LRAMAp1b_QlQAAAA&sig=ACiVB_zcgK7khDNFUk5nRCC6JtqXxndyHg&htmlParentId=fletch-render-9557578582348362771&responseCallback=fletchCallback9557578582348362771",
+    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7278381352&creativeId=691501946582&uiFeatures=12,54&adGroupId=162689751521&assets=%3DH4sIAAAAAAAAAOMy4uLgWLRm5VsnAWYgaymYxQhkrQCzOICs-WAWE5D1c9fOe04CPFJsHN_f9dwNBtIfofQXKP0LRAMAp1b_QlQAAAA&sig=ACiVB_zcgK7khDNFUk5nRCC6JtqXxndyHg&htmlParentId=fletch-render-16573274907695276096&responseCallback=fletchCallback16573274907695276096",
     "type": 3,
     "advertiserName": "DEDA DIGITAL SRL",
     "website": "ingbonfiglioli.it",
@@ -209,11 +209,7 @@
     "lastView": "2024-06-30T21:59:58.000Z",
     "countries": [
       {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bangladesh",
+        "country": "Nepal",
         "averageClicks": 0
       },
       {
@@ -221,11 +217,15 @@
         "averageClicks": 0
       },
       {
-        "country": "Sri Lanka",
+        "country": "Bangladesh",
         "averageClicks": 0
       },
       {
-        "country": "Nepal",
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Sri Lanka",
         "averageClicks": 0
       }
     ],
@@ -243,23 +243,15 @@
     "lastView": "2024-06-30T21:59:58.000Z",
     "countries": [
       {
-        "country": "North Macedonia",
-        "averageClicks": 0
+        "country": "Sweden",
+        "averageClicks": "2000"
       },
       {
-        "country": "Spain",
-        "averageClicks": "5000"
+        "country": "Georgia",
+        "averageClicks": 0
       },
       {
         "country": "Malaysia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Estonia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Uganda",
         "averageClicks": 0
       },
       {
@@ -271,39 +263,7 @@
         "averageClicks": "3000"
       },
       {
-        "country": "Nepal",
-        "averageClicks": 0
-      },
-      {
         "country": "Curacao",
-        "averageClicks": 0
-      },
-      {
-        "country": "Qatar",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Libya",
-        "averageClicks": 0
-      },
-      {
-        "country": "Senegal",
-        "averageClicks": 0
-      },
-      {
-        "country": "Belarus",
-        "averageClicks": 0
-      },
-      {
-        "country": "South Korea",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ukraine",
         "averageClicks": 0
       },
       {
@@ -311,11 +271,15 @@
         "averageClicks": 0
       },
       {
-        "country": "Ireland",
-        "averageClicks": "1000"
+        "country": "Libya",
+        "averageClicks": 0
       },
       {
-        "country": "Guatemala",
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nepal",
         "averageClicks": 0
       },
       {
@@ -323,23 +287,39 @@
         "averageClicks": 0
       },
       {
+        "country": "Ukraine",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Korea",
+        "averageClicks": 0
+      },
+      {
+        "country": "Guatemala",
+        "averageClicks": 0
+      },
+      {
+        "country": "French Polynesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Paraguay",
+        "averageClicks": 0
+      },
+      {
         "country": "Yemen",
         "averageClicks": 0
       },
       {
-        "country": "Sweden",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Georgia",
+        "country": "Cambodia",
         "averageClicks": 0
       },
       {
-        "country": "Hungary",
-        "averageClicks": "1000"
+        "country": "Bilinmeyen",
+        "averageClicks": "2000"
       },
       {
-        "country": "Cambodia",
+        "country": "Sri Lanka",
         "averageClicks": 0
       },
       {
@@ -347,39 +327,19 @@
         "averageClicks": 0
       },
       {
+        "country": "Vietnam",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Bilinmeyen",
-        "averageClicks": "2000"
+        "averageClicks": "6000"
       },
       {
-        "country": "Paraguay",
-        "averageClicks": 0
-      },
-      {
-        "country": "Finland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "China",
-        "averageClicks": 0
-      },
-      {
-        "country": "Jamaica",
-        "averageClicks": 0
-      },
-      {
-        "country": "Lithuania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Algeria",
-        "averageClicks": 0
-      },
-      {
-        "country": "Austria",
+        "country": "Croatia",
         "averageClicks": "1000"
       },
       {
@@ -387,23 +347,7 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Montenegro",
-        "averageClicks": 0
-      },
-      {
-        "country": "Tanzania",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "El Salvador",
+        "country": "Uruguay",
         "averageClicks": 0
       },
       {
@@ -411,139 +355,15 @@
         "averageClicks": "2000"
       },
       {
-        "country": "Colombia",
+        "country": "Bilinmeyen",
         "averageClicks": 0
       },
       {
-        "country": "Honduras",
+        "country": "El Salvador",
         "averageClicks": 0
       },
       {
-        "country": "Bosnia and Herzegovina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ghana",
-        "averageClicks": 0
-      },
-      {
-        "country": "Saudi Arabia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Nicaragua",
-        "averageClicks": 0
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Venezuela",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Sint Maarten",
-        "averageClicks": 0
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
-      {
-        "country": "France",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Japan",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Canada",
-        "averageClicks": 0
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "United States",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Tunisia",
-        "averageClicks": 0
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Dominican Republic",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Philippines",
-        "averageClicks": 0
-      },
-      {
-        "country": "Albania",
-        "averageClicks": 0
-      },
-      {
-        "country": "Panama",
-        "averageClicks": 0
-      },
-      {
-        "country": "Thailand",
-        "averageClicks": 0
-      },
-      {
-        "country": "Moldova",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Suriname",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ecuador",
-        "averageClicks": 0
-      },
-      {
-        "country": "Singapore",
-        "averageClicks": 0
-      },
-      {
-        "country": "Oman",
+        "country": "Algeria",
         "averageClicks": 0
       },
       {
@@ -551,11 +371,115 @@
         "averageClicks": "2000"
       },
       {
-        "country": "Lebanon",
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "4000"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
         "averageClicks": 0
       },
       {
-        "country": "Papua New Guinea",
+        "country": "Tanzania",
+        "averageClicks": 0
+      },
+      {
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ghana",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Jamaica",
+        "averageClicks": 0
+      },
+      {
+        "country": "Venezuela",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Uganda",
+        "averageClicks": 0
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Nicaragua",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Montenegro",
+        "averageClicks": 0
+      },
+      {
+        "country": "Senegal",
+        "averageClicks": 0
+      },
+      {
+        "country": "Sint Maarten",
+        "averageClicks": 0
+      },
+      {
+        "country": "Belarus",
+        "averageClicks": 0
+      },
+      {
+        "country": "Qatar",
+        "averageClicks": 0
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "5000"
+      },
+      {
+        "country": "Japan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Honduras",
+        "averageClicks": 0
+      },
+      {
+        "country": "North Macedonia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Estonia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Panama",
+        "averageClicks": 0
+      },
+      {
+        "country": "Argentina",
         "averageClicks": 0
       },
       {
@@ -563,7 +487,63 @@
         "averageClicks": 0
       },
       {
+        "country": "United Kingdom",
+        "averageClicks": 0
+      },
+      {
+        "country": "Thailand",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Italy",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Malta",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Singapore",
+        "averageClicks": 0
+      },
+      {
+        "country": "Albania",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ecuador",
+        "averageClicks": 0
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "9000"
+      },
+      {
+        "country": "Suriname",
+        "averageClicks": 0
+      },
+      {
+        "country": "Moldova",
+        "averageClicks": 0
+      },
+      {
         "country": "Brazil",
+        "averageClicks": 0
+      },
+      {
+        "country": "United States",
+        "averageClicks": 0
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Papua New Guinea",
         "averageClicks": 0
       },
       {
@@ -575,23 +555,27 @@
         "averageClicks": 0
       },
       {
-        "country": "Uruguay",
+        "country": "Bilinmeyen",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Lebanon",
         "averageClicks": 0
       },
       {
-        "country": "Australia",
+        "country": "Oman",
         "averageClicks": 0
+      },
+      {
+        "country": "Colombia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": "1000"
       },
       {
         "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "9000"
-      },
-      {
-        "country": "Kazakhstan",
         "averageClicks": 0
       },
       {
@@ -599,28 +583,32 @@
         "averageClicks": 0
       },
       {
-        "country": "French Polynesia",
+        "country": "Australia",
         "averageClicks": 0
       },
       {
-        "country": "Netherlands",
-        "averageClicks": "2000"
+        "country": "Finland",
+        "averageClicks": "1000"
       },
       {
-        "country": "Vietnam",
+        "country": "China",
         "averageClicks": 0
       },
       {
-        "country": "Azerbaijan",
+        "country": "Kazakhstan",
         "averageClicks": 0
       },
       {
-        "country": "Jordan",
+        "country": "United Arab Emirates",
         "averageClicks": 0
       },
       {
-        "country": "Bilinmeyen",
-        "averageClicks": "6000"
+        "country": "Peru",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "3000"
       },
       {
         "country": "Bilinmeyen",
@@ -631,35 +619,19 @@
         "averageClicks": 0
       },
       {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Romania",
         "averageClicks": "3000"
       },
       {
-        "country": "Peru",
+        "country": "Jordan",
         "averageClicks": 0
       },
       {
-        "country": "Morocco",
-        "averageClicks": 0
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Sri Lanka",
-        "averageClicks": 0
-      },
-      {
-        "country": "Kuwait",
-        "averageClicks": 0
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
+        "country": "Hungary",
         "averageClicks": "1000"
       },
       {
@@ -667,7 +639,43 @@
         "averageClicks": 0
       },
       {
+        "country": "Cyprus",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Azerbaijan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "4000"
+      },
+      {
         "country": "Israel",
+        "averageClicks": 0
+      },
+      {
+        "country": "Saint Martin",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Nigeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Kuwait",
+        "averageClicks": 0
+      },
+      {
+        "country": "Morocco",
         "averageClicks": 0
       },
       {
@@ -683,36 +691,28 @@
         "averageClicks": "1000"
       },
       {
-        "country": "United Arab Emirates",
-        "averageClicks": 0
-      },
-      {
-        "country": "Nigeria",
-        "averageClicks": 0
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "3000"
-      },
-      {
         "country": "Laos",
         "averageClicks": 0
       },
       {
-        "country": "Malta",
+        "country": "Slovenia",
         "averageClicks": "1000"
       },
       {
-        "country": "Italy",
-        "averageClicks": "2000"
+        "country": "Philippines",
+        "averageClicks": 0
       },
       {
-        "country": "Saint Martin",
-        "averageClicks": "2000"
+        "country": "Canada",
+        "averageClicks": 0
       },
       {
-        "country": "Germany",
-        "averageClicks": "4000"
+        "country": "Dominican Republic",
+        "averageClicks": 0
+      },
+      {
+        "country": "Tunisia",
+        "averageClicks": 0
       }
     ],
     "typeLabel": "Video"
@@ -721,7 +721,7 @@
     "advertiserId": "AR08155627980064817153",
     "adsId": "CR04147791170631630849",
     "img": null,
-    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7278381352&creativeId=691501946579&uiFeatures=12,54&adGroupId=162689751481&assets=%3DH4sIAAAAAAAAAOMy4uLgWLFm5VsnAQ4gaz6YxQRkrZ--9r6TACOQtXzSdqAYD5C1CCzLLMXG8f1dz91gIP0RSn-B0r9ANAAno15OVAAAAA&sig=ACiVB_yNuO6eVd8Z4wjTI6B-jniP7nw1cg&htmlParentId=fletch-render-15028638559745982888&responseCallback=fletchCallback15028638559745982888",
+    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7278381352&creativeId=691501946579&uiFeatures=12,54&adGroupId=162689751481&assets=%3DH4sIAAAAAAAAAOMy4uLgWLFm5VsnAQ4gaz6YxQRkrZ--9r6TACOQtXzSdqAYD5C1CCzLLMXG8f1dz91gIP0RSn-B0r9ANAAno15OVAAAAA&sig=ACiVB_yNuO6eVd8Z4wjTI6B-jniP7nw1cg&htmlParentId=fletch-render-6459437378645012386&responseCallback=fletchCallback6459437378645012386",
     "type": 3,
     "advertiserName": "DEDA DIGITAL SRL",
     "website": "ingbonfiglioli.it",
@@ -733,7 +733,7 @@
         "averageClicks": 0
       },
       {
-        "country": "Pakistan",
+        "country": "India",
         "averageClicks": 0
       },
       {
@@ -741,7 +741,7 @@
         "averageClicks": 0
       },
       {
-        "country": "India",
+        "country": "Pakistan",
         "averageClicks": 0
       },
       {
@@ -755,7 +755,7 @@
     "advertiserId": "AR08155627980064817153",
     "adsId": "CR15188414035642023937",
     "img": null,
-    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7278381352&creativeId=691501946585&uiFeatures=12,54&adGroupId=162689751561&assets=%3DH4sIAAAAAAAAAOMy4uLgWLFm5VsnAQ4ga_30tfedBBiBrPlgMSYgaxGYxQxkrZq0HcjikWLj-P6u524wkP4Ipb9A6V8gGgDrFPvRVAAAAA&sig=ACiVB_wX0Av1i89pzXEPIIoa6kqEnp65TQ&htmlParentId=fletch-render-9068064833222984274&responseCallback=fletchCallback9068064833222984274",
+    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7278381352&creativeId=691501946585&uiFeatures=12,54&adGroupId=162689751561&assets=%3DH4sIAAAAAAAAAOMy4uLgWLFm5VsnAQ4ga_30tfedBBiBrPlgMSYgaxGYxQxkrZq0HcjikWLj-P6u524wkP4Ipb9A6V8gGgDrFPvRVAAAAA&sig=ACiVB_wX0Av1i89pzXEPIIoa6kqEnp65TQ&htmlParentId=fletch-render-5255866387357730732&responseCallback=fletchCallback5255866387357730732",
     "type": 3,
     "advertiserName": "DEDA DIGITAL SRL",
     "website": "ingbonfiglioli.it",
@@ -763,11 +763,7 @@
     "lastView": "2024-06-30T21:59:58.000Z",
     "countries": [
       {
-        "country": "Pakistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bangladesh",
+        "country": "Nepal",
         "averageClicks": 0
       },
       {
@@ -775,11 +771,15 @@
         "averageClicks": 0
       },
       {
-        "country": "Sri Lanka",
+        "country": "Bangladesh",
         "averageClicks": 0
       },
       {
-        "country": "Nepal",
+        "country": "Pakistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Sri Lanka",
         "averageClicks": 0
       }
     ],
@@ -789,7 +789,7 @@
     "advertiserId": "AR08155627980064817153",
     "adsId": "CR01590382100006043649",
     "img": null,
-    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7278381352&creativeId=691501946594&uiFeatures=12,54&adGroupId=162689751801&assets=%3DH4sIAAAAAAAAAOMy4uLg-Llr5z0nAR4ga-malW-dBBiBrPlgFhOQtQLM4gCyFoFZzFJsHN_f9dwNBtIfofQXKP0LRAMAHRAPRVQAAAA&sig=ACiVB_wXq-TmK9ASZs6EZg3GH3cIimRI3w&htmlParentId=fletch-render-12432798664666391392&responseCallback=fletchCallback12432798664666391392",
+    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7278381352&creativeId=691501946594&uiFeatures=12,54&adGroupId=162689751801&assets=%3DH4sIAAAAAAAAAOMy4uLg-Llr5z0nAR4ga-malW-dBBiBrPlgFhOQtQLM4gCyFoFZzFJsHN_f9dwNBtIfofQXKP0LRAMAHRAPRVQAAAA&sig=ACiVB_wXq-TmK9ASZs6EZg3GH3cIimRI3w&htmlParentId=fletch-render-4901490989805871824&responseCallback=fletchCallback4901490989805871824",
     "type": 3,
     "advertiserName": "DEDA DIGITAL SRL",
     "website": "ingbonfiglioli.it",
@@ -797,15 +797,15 @@
     "lastView": "2024-06-30T21:59:58.000Z",
     "countries": [
       {
-        "country": "Jordan",
+        "country": "Kuwait",
         "averageClicks": 0
       },
       {
-        "country": "Yemen",
+        "country": "United Arab Emirates",
         "averageClicks": 0
       },
       {
-        "country": "Egypt",
+        "country": "Iraq",
         "averageClicks": 0
       },
       {
@@ -813,7 +813,7 @@
         "averageClicks": 0
       },
       {
-        "country": "Iraq",
+        "country": "Egypt",
         "averageClicks": 0
       },
       {
@@ -825,7 +825,7 @@
         "averageClicks": 0
       },
       {
-        "country": "United Arab Emirates",
+        "country": "Yemen",
         "averageClicks": 0
       },
       {
@@ -837,11 +837,11 @@
         "averageClicks": 0
       },
       {
-        "country": "Lebanon",
+        "country": "Jordan",
         "averageClicks": 0
       },
       {
-        "country": "Kuwait",
+        "country": "Lebanon",
         "averageClicks": 0
       }
     ],
@@ -859,11 +859,7 @@
     "lastView": "2024-06-30T21:59:58.000Z",
     "countries": [
       {
-        "country": "Sweden",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bangladesh",
+        "country": "Cambodia",
         "averageClicks": 0
       },
       {
@@ -871,43 +867,7 @@
         "averageClicks": 0
       },
       {
-        "country": "Guatemala",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Georgia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Curacao",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Nepal",
-        "averageClicks": 0
-      },
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ukraine",
+        "country": "Paraguay",
         "averageClicks": 0
       },
       {
@@ -915,39 +875,55 @@
         "averageClicks": 0
       },
       {
-        "country": "Uganda",
+        "country": "Guatemala",
         "averageClicks": 0
       },
       {
-        "country": "Costa Rica",
+        "country": "French Polynesia",
         "averageClicks": 0
       },
       {
-        "country": "Malaysia",
+        "country": "Vietnam",
         "averageClicks": 0
       },
       {
-        "country": "Estonia",
+        "country": "Ireland",
         "averageClicks": "1000"
       },
       {
-        "country": "Portugal",
+        "country": "Bilinmeyen",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "Sri Lanka",
+        "averageClicks": 0
+      },
+      {
+        "country": "Cyprus",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Netherlands",
         "averageClicks": "2000"
       },
       {
-        "country": "South Africa",
+        "country": "Azerbaijan",
         "averageClicks": 0
       },
       {
-        "country": "Guam",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovakia",
+        "country": "Hungary",
         "averageClicks": "1000"
       },
       {
-        "country": "Senegal",
+        "country": "Taiwan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bolivia",
         "averageClicks": 0
       },
       {
@@ -955,87 +931,179 @@
         "averageClicks": 0
       },
       {
-        "country": "Belarus",
+        "country": "Romania",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Jordan",
         "averageClicks": 0
       },
       {
-        "country": "Libya",
-        "averageClicks": 0
-      },
-      {
-        "country": "Qatar",
-        "averageClicks": 0
-      },
-      {
-        "country": "North Macedonia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Iraq",
-        "averageClicks": 0
-      },
-      {
-        "country": "Montenegro",
-        "averageClicks": 0
-      },
-      {
-        "country": "Belgium",
+        "country": "Czechia",
         "averageClicks": "1000"
       },
       {
-        "country": "Croatia",
+        "country": "United Arab Emirates",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Peru",
+        "averageClicks": 0
+      },
+      {
+        "country": "Kuwait",
+        "averageClicks": 0
+      },
+      {
+        "country": "Morocco",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nigeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Israel",
+        "averageClicks": 0
+      },
+      {
+        "country": "Saint Martin",
         "averageClicks": "1000"
       },
       {
-        "country": "Norway",
+        "country": "Germany",
+        "averageClicks": "7000"
+      },
+      {
+        "country": "Latvia",
         "averageClicks": "1000"
       },
       {
-        "country": "Austria",
+        "country": "Luxembourg",
         "averageClicks": "1000"
       },
       {
-        "country": "Poland",
+        "country": "Iceland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Kenya",
+        "averageClicks": 0
+      },
+      {
+        "country": "Canada",
+        "averageClicks": 0
+      },
+      {
+        "country": "Dominican Republic",
+        "averageClicks": 0
+      },
+      {
+        "country": "Tunisia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Philippines",
+        "averageClicks": 0
+      },
+      {
+        "country": "Laos",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bahrain",
+        "averageClicks": 0
+      },
+      {
+        "country": "Malta",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Italy",
         "averageClicks": "3000"
       },
       {
-        "country": "Japan",
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Thailand",
         "averageClicks": 0
       },
       {
-        "country": "France",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Saudi Arabia",
+        "country": "United Kingdom",
         "averageClicks": 0
       },
       {
-        "country": "Honduras",
+        "country": "Mexico",
         "averageClicks": 0
       },
       {
-        "country": "Nicaragua",
+        "country": "Chile",
         "averageClicks": 0
       },
       {
-        "country": "Bosnia and Herzegovina",
+        "country": "Panama",
         "averageClicks": 0
       },
       {
-        "country": "Ghana",
+        "country": "Argentina",
+        "averageClicks": 0
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "United States",
+        "averageClicks": 0
+      },
+      {
+        "country": "Papua New Guinea",
+        "averageClicks": 0
+      },
+      {
+        "country": "Brazil",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ecuador",
+        "averageClicks": 0
+      },
+      {
+        "country": "Singapore",
+        "averageClicks": 0
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "60000"
+      },
+      {
+        "country": "Oman",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lebanon",
+        "averageClicks": 0
+      },
+      {
+        "country": "Zimbabwe",
         "averageClicks": 0
       },
       {
         "country": "Bilinmeyen",
-        "averageClicks": 0
+        "averageClicks": "1000"
       },
       {
-        "country": "Venezuela",
+        "country": "Cote d'Ivoire",
         "averageClicks": 0
       },
       {
@@ -1043,19 +1111,23 @@
         "averageClicks": 0
       },
       {
-        "country": "New Zealand",
+        "country": "Finland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Kazakhstan",
         "averageClicks": 0
       },
       {
-        "country": "Algeria",
+        "country": "Australia",
         "averageClicks": 0
       },
       {
-        "country": "Uruguay",
-        "averageClicks": 0
+        "country": "Denmark",
+        "averageClicks": "1000"
       },
       {
-        "country": "Zimbabwe",
+        "country": "Indonesia",
         "averageClicks": 0
       },
       {
@@ -1067,15 +1139,39 @@
         "averageClicks": 0
       },
       {
-        "country": "Bilinmeyen",
-        "averageClicks": "1000"
-      },
-      {
         "country": "El Salvador",
         "averageClicks": 0
       },
       {
-        "country": "Tanzania",
+        "country": "Poland",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "Algeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "New Zealand",
+        "averageClicks": 0
+      },
+      {
+        "country": "Uruguay",
+        "averageClicks": 0
+      },
+      {
+        "country": "Norway",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bilinmeyen",
         "averageClicks": 0
       },
       {
@@ -1087,27 +1183,23 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Finland",
+        "country": "Ghana",
+        "averageClicks": 0
+      },
+      {
+        "country": "Tanzania",
+        "averageClicks": 0
+      },
+      {
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Austria",
         "averageClicks": "1000"
       },
       {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Papua New Guinea",
-        "averageClicks": 0
-      },
-      {
-        "country": "Oman",
-        "averageClicks": 0
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Lebanon",
+        "country": "Bosnia and Herzegovina",
         "averageClicks": 0
       },
       {
@@ -1115,139 +1207,107 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Panama",
+        "country": "France",
+        "averageClicks": "4000"
+      },
+      {
+        "country": "Montenegro",
         "averageClicks": 0
       },
       {
-        "country": "Thailand",
-        "averageClicks": 0
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "60000"
-      },
-      {
-        "country": "Australia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Kazakhstan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Singapore",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ecuador",
-        "averageClicks": 0
-      },
-      {
-        "country": "Brazil",
-        "averageClicks": 0
-      },
-      {
-        "country": "Cote d'Ivoire",
-        "averageClicks": 0
-      },
-      {
-        "country": "Dominican Republic",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Malta",
+        "country": "Slovakia",
         "averageClicks": "1000"
       },
       {
-        "country": "Laos",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bahrain",
-        "averageClicks": 0
-      },
-      {
-        "country": "Tunisia",
-        "averageClicks": 0
-      },
-      {
-        "country": "United States",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Canada",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Philippines",
-        "averageClicks": 0
-      },
-      {
-        "country": "United Arab Emirates",
-        "averageClicks": 0
-      },
-      {
-        "country": "Nigeria",
-        "averageClicks": 0
-      },
-      {
-        "country": "Greece",
+        "country": "Portugal",
         "averageClicks": "2000"
       },
       {
-        "country": "Iceland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Luxembourg",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Peru",
+        "country": "South Africa",
         "averageClicks": 0
       },
       {
-        "country": "Latvia",
+        "country": "Uganda",
+        "averageClicks": 0
+      },
+      {
+        "country": "Venezuela",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nicaragua",
+        "averageClicks": 0
+      },
+      {
+        "country": "Costa Rica",
+        "averageClicks": 0
+      },
+      {
+        "country": "Honduras",
+        "averageClicks": 0
+      },
+      {
+        "country": "North Macedonia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Estonia",
         "averageClicks": "1000"
       },
       {
-        "country": "Taiwan",
+        "country": "Qatar",
+        "averageClicks": 0
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "4000"
+      },
+      {
+        "country": "Japan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Belarus",
+        "averageClicks": 0
+      },
+      {
+        "country": "Senegal",
+        "averageClicks": 0
+      },
+      {
+        "country": "Guam",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Malaysia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Iraq",
+        "averageClicks": 0
+      },
+      {
+        "country": "Georgia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Sweden",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ukraine",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nepal",
         "averageClicks": 0
       },
       {
@@ -1255,80 +1315,20 @@
         "averageClicks": 0
       },
       {
-        "country": "Bolivia",
+        "country": "Pakistan",
         "averageClicks": 0
       },
       {
-        "country": "Israel",
+        "country": "Libya",
         "averageClicks": 0
       },
       {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "7000"
-      },
-      {
-        "country": "Saint Martin",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Kenya",
+        "country": "Curacao",
         "averageClicks": 0
-      },
-      {
-        "country": "Jordan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Vietnam",
-        "averageClicks": 0
-      },
-      {
-        "country": "French Polynesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Azerbaijan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Cambodia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
       },
       {
         "country": "Bilinmeyen",
         "averageClicks": "1000"
-      },
-      {
-        "country": "Paraguay",
-        "averageClicks": 0
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Kuwait",
-        "averageClicks": 0
-      },
-      {
-        "country": "Morocco",
-        "averageClicks": 0
-      },
-      {
-        "country": "Sri Lanka",
-        "averageClicks": 0
       }
     ],
     "typeLabel": "Video"
@@ -1337,13 +1337,17 @@
     "advertiserId": "AR08155627980064817153",
     "adsId": "CR02100414757805752321",
     "img": null,
-    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7278381352&creativeId=691501946591&uiFeatures=12,54&adGroupId=162689751761&assets=%3DH4sIAAAAAAAAAOMy4uLgWD5p-1snAR4ga_6alUAWE5C1AsziALIWgVnMQNb66WvvOwkwSrFxfH_XczcYSH-E0l-g9C8QDQBhPYPyVAAAAA&sig=ACiVB_waMbxh8m7F67zupywLSNHo-50ecA&htmlParentId=fletch-render-1093943417368709681&responseCallback=fletchCallback1093943417368709681",
+    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7278381352&creativeId=691501946591&uiFeatures=12,54&adGroupId=162689751761&assets=%3DH4sIAAAAAAAAAOMy4uLgWD5p-1snAR4ga_6alUAWE5C1AsziALIWgVnMQNb66WvvOwkwSrFxfH_XczcYSH-E0l-g9C8QDQBhPYPyVAAAAA&sig=ACiVB_waMbxh8m7F67zupywLSNHo-50ecA&htmlParentId=fletch-render-7561847202747000745&responseCallback=fletchCallback7561847202747000745",
     "type": 3,
     "advertiserName": "DEDA DIGITAL SRL",
     "website": "ingbonfiglioli.it",
     "startDate": "2024-02-20T15:29:45.000Z",
     "lastView": "2024-06-30T21:59:57.000Z",
     "countries": [
+      {
+        "country": "Lebanon",
+        "averageClicks": 0
+      },
       {
         "country": "Oman",
         "averageClicks": 0
@@ -1370,10 +1374,6 @@
       },
       {
         "country": "Saudi Arabia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Lebanon",
         "averageClicks": 0
       },
       {
@@ -1395,199 +1395,7 @@
     "lastView": "2024-06-30T21:59:54.000Z",
     "countries": [
       {
-        "country": "Peru",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mauritius",
-        "averageClicks": 0
-      },
-      {
-        "country": "Laos",
-        "averageClicks": 0
-      },
-      {
-        "country": "Malta",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "15000"
-      },
-      {
-        "country": "Saint Martin",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Kenya",
-        "averageClicks": 0
-      },
-      {
-        "country": "Armenia",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Canada",
-        "averageClicks": 0
-      },
-      {
-        "country": "Dominican Republic",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Philippines",
-        "averageClicks": 0
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "20000"
-      },
-      {
-        "country": "Haiti",
-        "averageClicks": 0
-      },
-      {
-        "country": "Moldova",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "25000"
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Tunisia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "United States",
-        "averageClicks": 0
-      },
-      {
-        "country": "Turkmenistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Suriname",
-        "averageClicks": 0
-      },
-      {
-        "country": "Brazil",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Lebanon",
-        "averageClicks": 0
-      },
-      {
-        "country": "Papua New Guinea",
-        "averageClicks": 0
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Thailand",
-        "averageClicks": 0
-      },
-      {
-        "country": "Fiji",
-        "averageClicks": 0
-      },
-      {
-        "country": "Cote d'Ivoire",
-        "averageClicks": 0
-      },
-      {
-        "country": "Panama",
-        "averageClicks": 0
-      },
-      {
-        "country": "Albania",
-        "averageClicks": 0
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "150000"
-      },
-      {
-        "country": "New Caledonia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Australia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ecuador",
-        "averageClicks": 0
-      },
-      {
-        "country": "Singapore",
-        "averageClicks": 0
-      },
-      {
-        "country": "Kazakhstan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Finland",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "China",
-        "averageClicks": 0
-      },
-      {
-        "country": "Togo",
+        "country": "Saudi Arabia",
         "averageClicks": 0
       },
       {
@@ -1595,15 +1403,27 @@
         "averageClicks": 0
       },
       {
-        "country": "Algeria",
+        "country": "Cote d'Ivoire",
         "averageClicks": 0
       },
       {
-        "country": "Uruguay",
+        "country": "Ghana",
         "averageClicks": 0
       },
       {
-        "country": "Myanmar (Burma)",
+        "country": "Lithuania",
+        "averageClicks": "5000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Jamaica",
         "averageClicks": 0
       },
       {
@@ -1615,11 +1435,15 @@
         "averageClicks": "3000"
       },
       {
-        "country": "El Salvador",
+        "country": "Bosnia and Herzegovina",
         "averageClicks": 0
       },
       {
-        "country": "Colombia",
+        "country": "France",
+        "averageClicks": "20000"
+      },
+      {
+        "country": "Uruguay",
         "averageClicks": 0
       },
       {
@@ -1627,23 +1451,75 @@
         "averageClicks": "15000"
       },
       {
-        "country": "Jamaica",
+        "country": "El Salvador",
         "averageClicks": 0
       },
       {
-        "country": "Lithuania",
-        "averageClicks": "5000"
+        "country": "Algeria",
+        "averageClicks": 0
       },
       {
         "country": "Bilinmeyen",
         "averageClicks": 0
       },
       {
-        "country": "Ghana",
+        "country": "Croatia",
+        "averageClicks": "9000"
+      },
+      {
+        "country": "Norway",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Tajikistan",
         "averageClicks": 0
       },
       {
         "country": "Honduras",
+        "averageClicks": 0
+      },
+      {
+        "country": "Costa Rica",
+        "averageClicks": 0
+      },
+      {
+        "country": "North Macedonia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Estonia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belarus",
+        "averageClicks": 0
+      },
+      {
+        "country": "Sint Maarten",
+        "averageClicks": 0
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "70000"
+      },
+      {
+        "country": "Japan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Montenegro",
+        "averageClicks": 0
+      },
+      {
+        "country": "Venezuela",
+        "averageClicks": 0
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "7000"
+      },
+      {
+        "country": "Uganda",
         "averageClicks": 0
       },
       {
@@ -1655,111 +1531,15 @@
         "averageClicks": 0
       },
       {
-        "country": "Venezuela",
-        "averageClicks": 0
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "9000"
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Norway",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Montenegro",
-        "averageClicks": 0
-      },
-      {
         "country": "Slovakia",
         "averageClicks": "4000"
       },
       {
-        "country": "Sint Maarten",
+        "country": "Ukraine",
         "averageClicks": 0
       },
       {
-        "country": "Japan",
-        "averageClicks": 0
-      },
-      {
-        "country": "France",
-        "averageClicks": "20000"
-      },
-      {
-        "country": "Saudi Arabia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bosnia and Herzegovina",
-        "averageClicks": 0
-      },
-      {
-        "country": "North Macedonia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "70000"
-      },
-      {
-        "country": "Tajikistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Uganda",
-        "averageClicks": 0
-      },
-      {
-        "country": "Iraq",
-        "averageClicks": 0
-      },
-      {
-        "country": "Malaysia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mongolia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Costa Rica",
-        "averageClicks": 0
-      },
-      {
-        "country": "Guam",
-        "averageClicks": 0
-      },
-      {
-        "country": "Estonia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "7000"
-      },
-      {
-        "country": "Nepal",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Belarus",
-        "averageClicks": 0
-      },
-      {
-        "country": "Libya",
+        "country": "Bangladesh",
         "averageClicks": 0
       },
       {
@@ -1771,7 +1551,15 @@
         "averageClicks": 0
       },
       {
-        "country": "South Korea",
+        "country": "Curacao",
+        "averageClicks": 0
+      },
+      {
+        "country": "Libya",
+        "averageClicks": 0
+      },
+      {
+        "country": "Pakistan",
         "averageClicks": 0
       },
       {
@@ -1779,11 +1567,19 @@
         "averageClicks": 0
       },
       {
-        "country": "Bangladesh",
+        "country": "Nepal",
         "averageClicks": 0
       },
       {
-        "country": "Guatemala",
+        "country": "Guam",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": "4000"
+      },
+      {
+        "country": "Mongolia",
         "averageClicks": 0
       },
       {
@@ -1795,44 +1591,24 @@
         "averageClicks": 0
       },
       {
-        "country": "Curacao",
+        "country": "Iraq",
         "averageClicks": 0
       },
       {
-        "country": "Cambodia",
+        "country": "Malaysia",
         "averageClicks": 0
       },
       {
-        "country": "Angola",
+        "country": "Switzerland",
         "averageClicks": 0
       },
       {
-        "country": "Hungary",
-        "averageClicks": "7000"
-      },
-      {
-        "country": "Paraguay",
+        "country": "Vietnam",
         "averageClicks": 0
       },
       {
         "country": "Bilinmeyen",
-        "averageClicks": "5000"
-      },
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "South Sudan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ukraine",
-        "averageClicks": 0
+        "averageClicks": "4000"
       },
       {
         "country": "Ireland",
@@ -1843,75 +1619,47 @@
         "averageClicks": 0
       },
       {
-        "country": "Caribbean Netherlands",
+        "country": "Angola",
         "averageClicks": 0
-      },
-      {
-        "country": "Jordan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "7000"
-      },
-      {
-        "country": "French Polynesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Vietnam",
-        "averageClicks": 0
-      },
-      {
-        "country": "Azerbaijan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Niger",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bolivia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Israel",
-        "averageClicks": 0
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Kuwait",
-        "averageClicks": 0
-      },
-      {
-        "country": "Morocco",
-        "averageClicks": 0
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "5000"
       },
       {
         "country": "Sri Lanka",
         "averageClicks": 0
       },
       {
-        "country": "Uzbekistan",
+        "country": "Egypt",
         "averageClicks": 0
       },
       {
-        "country": "Switzerland",
+        "country": "Paraguay",
+        "averageClicks": 0
+      },
+      {
+        "country": "Cambodia",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Sudan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": "5000"
+      },
+      {
+        "country": "Niger",
+        "averageClicks": 0
+      },
+      {
+        "country": "Guatemala",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Korea",
+        "averageClicks": 0
+      },
+      {
+        "country": "French Polynesia",
         "averageClicks": 0
       },
       {
@@ -1919,28 +1667,280 @@
         "averageClicks": 0
       },
       {
-        "country": "United Arab Emirates",
+        "country": "Morocco",
         "averageClicks": 0
       },
       {
-        "country": "Iceland",
-        "averageClicks": "1000"
+        "country": "Kuwait",
+        "averageClicks": 0
       },
       {
-        "country": "Greece",
-        "averageClicks": "50000"
+        "country": "Latvia",
+        "averageClicks": "2000"
       },
       {
-        "country": "Luxembourg",
-        "averageClicks": "1000"
+        "country": "Armenia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "15000"
+      },
+      {
+        "country": "Uzbekistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Saint Martin",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "Israel",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bolivia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Caribbean Netherlands",
+        "averageClicks": 0
       },
       {
         "country": "Taiwan",
         "averageClicks": 0
       },
       {
+        "country": "Czechia",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "7000"
+      },
+      {
+        "country": "Azerbaijan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Cyprus",
+        "averageClicks": "5000"
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "7000"
+      },
+      {
+        "country": "Peru",
+        "averageClicks": 0
+      },
+      {
+        "country": "United Arab Emirates",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "50000"
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
         "country": "Romania",
         "averageClicks": "30000"
+      },
+      {
+        "country": "Philippines",
+        "averageClicks": 0
+      },
+      {
+        "country": "Jordan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Dominican Republic",
+        "averageClicks": 0
+      },
+      {
+        "country": "Canada",
+        "averageClicks": 0
+      },
+      {
+        "country": "Tunisia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "Laos",
+        "averageClicks": 0
+      },
+      {
+        "country": "Turkmenistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mauritius",
+        "averageClicks": 0
+      },
+      {
+        "country": "Kenya",
+        "averageClicks": 0
+      },
+      {
+        "country": "Luxembourg",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Iceland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Brazil",
+        "averageClicks": 0
+      },
+      {
+        "country": "Moldova",
+        "averageClicks": 0
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "United States",
+        "averageClicks": 0
+      },
+      {
+        "country": "Papua New Guinea",
+        "averageClicks": 0
+      },
+      {
+        "country": "Singapore",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ecuador",
+        "averageClicks": 0
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "150000"
+      },
+      {
+        "country": "Albania",
+        "averageClicks": 0
+      },
+      {
+        "country": "Suriname",
+        "averageClicks": 0
+      },
+      {
+        "country": "Thailand",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "25000"
+      },
+      {
+        "country": "Malta",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Italy",
+        "averageClicks": "20000"
+      },
+      {
+        "country": "Argentina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Chile",
+        "averageClicks": 0
+      },
+      {
+        "country": "Fiji",
+        "averageClicks": 0
+      },
+      {
+        "country": "United Kingdom",
+        "averageClicks": 0
+      },
+      {
+        "country": "Panama",
+        "averageClicks": 0
+      },
+      {
+        "country": "Australia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Kazakhstan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Finland",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "China",
+        "averageClicks": 0
+      },
+      {
+        "country": "Colombia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "New Caledonia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Haiti",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lebanon",
+        "averageClicks": 0
+      },
+      {
+        "country": "Togo",
+        "averageClicks": 0
+      },
+      {
+        "country": "Myanmar (Burma)",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": "3000"
       }
     ],
     "typeLabel": "Video"
@@ -1957,143 +1957,99 @@
     "lastView": "2024-06-30T21:59:44.000Z",
     "countries": [
       {
-        "country": "North Macedonia",
+        "country": "Israel",
         "averageClicks": 0
       },
       {
-        "country": "Spain",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Tajikistan",
+        "country": "Panama",
         "averageClicks": 0
       },
       {
-        "country": "Malaysia",
+        "country": "Mexico",
         "averageClicks": 0
       },
       {
-        "country": "Mongolia",
+        "country": "India",
         "averageClicks": 0
       },
       {
-        "country": "Costa Rica",
+        "country": "Papua New Guinea",
         "averageClicks": 0
       },
       {
-        "country": "Estonia",
+        "country": "Argentina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Thailand",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bulgaria",
         "averageClicks": "1000"
       },
       {
-        "country": "Uganda",
+        "country": "Chile",
         "averageClicks": 0
       },
       {
-        "country": "Iraq",
+        "country": "Fiji",
         "averageClicks": 0
       },
       {
-        "country": "Bilinmeyen",
+        "country": "United Kingdom",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovenia",
         "averageClicks": "1000"
       },
       {
-        "country": "Nepal",
+        "country": "Turkmenistan",
         "averageClicks": 0
       },
       {
-        "country": "Curacao",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Libya",
-        "averageClicks": 0
-      },
-      {
-        "country": "Senegal",
-        "averageClicks": 0
-      },
-      {
-        "country": "Belarus",
-        "averageClicks": 0
-      },
-      {
-        "country": "South Korea",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ukraine",
-        "averageClicks": 0
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ireland",
+        "country": "Malta",
         "averageClicks": "1000"
       },
       {
-        "country": "Kyrgyzstan",
+        "country": "Italy",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "Tunisia",
         "averageClicks": 0
       },
       {
-        "country": "Guatemala",
+        "country": "Philippines",
         "averageClicks": 0
       },
       {
-        "country": "Bangladesh",
+        "country": "Dominican Republic",
         "averageClicks": 0
       },
       {
-        "country": "Yemen",
+        "country": "Canada",
         "averageClicks": 0
       },
       {
-        "country": "Sweden",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Georgia",
+        "country": "Mozambique",
         "averageClicks": 0
       },
       {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Cambodia",
+        "country": "Guyana",
         "averageClicks": 0
       },
       {
-        "country": "Angola",
+        "country": "Laos",
         "averageClicks": 0
       },
       {
-        "country": "Niger",
+        "country": "Myanmar (Burma)",
         "averageClicks": 0
       },
       {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "South Sudan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Paraguay",
+        "country": "Togo",
         "averageClicks": 0
       },
       {
@@ -2105,43 +2061,11 @@
         "averageClicks": 0
       },
       {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Jamaica",
-        "averageClicks": 0
-      },
-      {
-        "country": "Lithuania",
-        "averageClicks": "1000"
-      },
-      {
         "country": "Timor-Leste",
         "averageClicks": 0
       },
       {
-        "country": "Algeria",
-        "averageClicks": 0
-      },
-      {
-        "country": "Togo",
-        "averageClicks": 0
-      },
-      {
-        "country": "Austria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Norway",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Montenegro",
-        "averageClicks": 0
-      },
-      {
-        "country": "Tanzania",
+        "country": "Zimbabwe",
         "averageClicks": 0
       },
       {
@@ -2149,136 +2073,12 @@
         "averageClicks": "1000"
       },
       {
-        "country": "El Salvador",
+        "country": "Cote d'Ivoire",
         "averageClicks": 0
       },
       {
-        "country": "Poland",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Colombia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Somalia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Honduras",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bosnia and Herzegovina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ghana",
-        "averageClicks": 0
-      },
-      {
-        "country": "Nicaragua",
-        "averageClicks": 0
-      },
-      {
-        "country": "Saudi Arabia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Venezuela",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
-      {
-        "country": "France",
-        "averageClicks": "8000"
-      },
-      {
-        "country": "Japan",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Canada",
-        "averageClicks": 0
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "United States",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Tunisia",
-        "averageClicks": 0
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Dominican Republic",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Philippines",
-        "averageClicks": 0
-      },
-      {
-        "country": "Haiti",
-        "averageClicks": 0
-      },
-      {
-        "country": "Panama",
-        "averageClicks": 0
-      },
-      {
-        "country": "Thailand",
-        "averageClicks": 0
-      },
-      {
-        "country": "Turkmenistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Suriname",
-        "averageClicks": 0
+        "country": "Turkey",
+        "averageClicks": "40000"
       },
       {
         "country": "Ecuador",
@@ -2293,23 +2093,11 @@
         "averageClicks": 0
       },
       {
-        "country": "Bilinmeyen",
-        "averageClicks": "1000"
-      },
-      {
         "country": "Lebanon",
         "averageClicks": 0
       },
       {
-        "country": "Papua New Guinea",
-        "averageClicks": 0
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Fiji",
+        "country": "Haiti",
         "averageClicks": 0
       },
       {
@@ -2317,19 +2105,51 @@
         "averageClicks": 0
       },
       {
-        "country": "Cote d'Ivoire",
+        "country": "United States",
         "averageClicks": 0
       },
       {
-        "country": "Zimbabwe",
+        "country": "Suriname",
         "averageClicks": 0
+      },
+      {
+        "country": "Norway",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Jamaica",
+        "averageClicks": 0
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
       },
       {
         "country": "Uruguay",
         "averageClicks": 0
       },
       {
-        "country": "Myanmar (Burma)",
+        "country": "El Salvador",
+        "averageClicks": 0
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Algeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Somalia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Colombia",
         "averageClicks": 0
       },
       {
@@ -2337,15 +2157,171 @@
         "averageClicks": 0
       },
       {
+        "country": "Kazakhstan",
+        "averageClicks": 0
+      },
+      {
         "country": "Indonesia",
         "averageClicks": 0
       },
       {
-        "country": "Turkey",
-        "averageClicks": "40000"
+        "country": "Denmark",
+        "averageClicks": "1000"
       },
       {
-        "country": "Kazakhstan",
+        "country": "Venezuela",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Uganda",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nicaragua",
+        "averageClicks": 0
+      },
+      {
+        "country": "North Macedonia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Honduras",
+        "averageClicks": 0
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Costa Rica",
+        "averageClicks": 0
+      },
+      {
+        "country": "Estonia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Tajikistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Montenegro",
+        "averageClicks": 0
+      },
+      {
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Ghana",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "averageClicks": 0
+      },
+      {
+        "country": "France",
+        "averageClicks": "8000"
+      },
+      {
+        "country": "Tanzania",
+        "averageClicks": 0
+      },
+      {
+        "country": "Georgia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Sweden",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Iraq",
+        "averageClicks": 0
+      },
+      {
+        "country": "Malaysia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Senegal",
+        "averageClicks": 0
+      },
+      {
+        "country": "Belarus",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Mongolia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "4000"
+      },
+      {
+        "country": "Japan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Guatemala",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Korea",
+        "averageClicks": 0
+      },
+      {
+        "country": "Niger",
+        "averageClicks": 0
+      },
+      {
+        "country": "Vietnam",
+        "averageClicks": 0
+      },
+      {
+        "country": "Kyrgyzstan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Paraguay",
+        "averageClicks": 0
+      },
+      {
+        "country": "Cambodia",
         "averageClicks": 0
       },
       {
@@ -2353,19 +2329,11 @@
         "averageClicks": 0
       },
       {
-        "country": "Netherlands",
-        "averageClicks": "7000"
-      },
-      {
-        "country": "Vietnam",
+        "country": "Yemen",
         "averageClicks": 0
       },
       {
-        "country": "Azerbaijan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Jordan",
+        "country": "Pakistan",
         "averageClicks": 0
       },
       {
@@ -2373,23 +2341,47 @@
         "averageClicks": "1000"
       },
       {
+        "country": "Curacao",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Sudan",
+        "averageClicks": 0
+      },
+      {
         "country": "Bilinmeyen",
         "averageClicks": 0
       },
       {
-        "country": "Taiwan",
+        "country": "Bangladesh",
         "averageClicks": 0
       },
       {
-        "country": "Romania",
-        "averageClicks": "2000"
+        "country": "Libya",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nepal",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ukraine",
+        "averageClicks": 0
       },
       {
         "country": "Peru",
         "averageClicks": 0
       },
       {
-        "country": "Cyprus",
+        "country": "United Arab Emirates",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
         "averageClicks": "1000"
       },
       {
@@ -2397,19 +2389,7 @@
         "averageClicks": 0
       },
       {
-        "country": "Sri Lanka",
-        "averageClicks": 0
-      },
-      {
         "country": "Kuwait",
-        "averageClicks": 0
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Uzbekistan",
         "averageClicks": 0
       },
       {
@@ -2417,7 +2397,7 @@
         "averageClicks": 0
       },
       {
-        "country": "Israel",
+        "country": "Taiwan",
         "averageClicks": 0
       },
       {
@@ -2425,23 +2405,47 @@
         "averageClicks": "1000"
       },
       {
+        "country": "Romania",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Jordan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Sri Lanka",
+        "averageClicks": 0
+      },
+      {
+        "country": "Angola",
+        "averageClicks": 0
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "7000"
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Cyprus",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Azerbaijan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
         "country": "Kenya",
-        "averageClicks": 0
-      },
-      {
-        "country": "Iceland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Arab Emirates",
-        "averageClicks": 0
-      },
-      {
-        "country": "Nigeria",
         "averageClicks": 0
       },
       {
@@ -2449,32 +2453,28 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Mozambique",
-        "averageClicks": 0
-      },
-      {
-        "country": "Laos",
-        "averageClicks": 0
-      },
-      {
-        "country": "Malta",
+        "country": "Iceland",
         "averageClicks": "1000"
       },
       {
-        "country": "Italy",
-        "averageClicks": "3000"
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "8000"
+      },
+      {
+        "country": "Nigeria",
+        "averageClicks": 0
       },
       {
         "country": "Saint Martin",
         "averageClicks": "1000"
       },
       {
-        "country": "Guyana",
+        "country": "Uzbekistan",
         "averageClicks": 0
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "8000"
       }
     ],
     "typeLabel": "Video"
@@ -2491,7 +2491,31 @@
     "lastView": "2024-06-30T21:59:13.000Z",
     "countries": [
       {
-        "country": "Romania",
+        "country": "Germany",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "United States",
+        "averageClicks": 0
+      },
+      {
+        "country": "Sweden",
         "averageClicks": "1000"
       },
       {
@@ -2503,15 +2527,15 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Greece",
+        "country": "United Kingdom",
+        "averageClicks": 0
+      },
+      {
+        "country": "Norway",
         "averageClicks": "1000"
       },
       {
-        "country": "Sweden",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Cyprus",
+        "country": "Romania",
         "averageClicks": "1000"
       },
       {
@@ -2519,27 +2543,23 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
         "country": "Bulgaria",
         "averageClicks": "1000"
       },
       {
-        "country": "Austria",
+        "country": "Czechia",
         "averageClicks": "1000"
       },
       {
-        "country": "Norway",
+        "country": "Greece",
         "averageClicks": "1000"
       },
       {
-        "country": "Latvia",
+        "country": "Malta",
         "averageClicks": "1000"
       },
       {
-        "country": "Portugal",
+        "country": "Cyprus",
         "averageClicks": "1000"
       },
       {
@@ -2547,23 +2567,19 @@
         "averageClicks": "1000"
       },
       {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Netherlands",
         "averageClicks": "1000"
-      },
-      {
-        "country": "Estonia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
       },
       {
         "country": "Thailand",
         "averageClicks": 0
       },
       {
-        "country": "Finland",
+        "country": "Spain",
         "averageClicks": "1000"
       },
       {
@@ -2571,27 +2587,7 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United States",
-        "averageClicks": 0
-      },
-      {
-        "country": "Lithuania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
         "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
         "averageClicks": "1000"
       },
       {
@@ -2599,19 +2595,23 @@
         "averageClicks": 0
       },
       {
-        "country": "Germany",
-        "averageClicks": "2000"
+        "country": "Estonia",
+        "averageClicks": "1000"
       },
       {
-        "country": "Malta",
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Finland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Portugal",
         "averageClicks": "1000"
       },
       {
         "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Hungary",
         "averageClicks": "1000"
       }
     ],
@@ -2629,59 +2629,7 @@
     "lastView": "2024-06-30T21:54:51.000Z",
     "countries": [
       {
-        "country": "Sweden",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Malta",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United States",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Finland",
+        "country": "Spain",
         "averageClicks": "1000"
       },
       {
@@ -2689,7 +2637,7 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Spain",
+        "country": "Finland",
         "averageClicks": "1000"
       },
       {
@@ -2697,11 +2645,15 @@
         "averageClicks": "1000"
       },
       {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Portugal",
         "averageClicks": "1000"
       },
       {
-        "country": "Italy",
+        "country": "Romania",
         "averageClicks": "1000"
       },
       {
@@ -2709,19 +2661,7 @@
         "averageClicks": 0
       },
       {
-        "country": "Austria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Norway",
+        "country": "Bulgaria",
         "averageClicks": "1000"
       },
       {
@@ -2729,11 +2669,31 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Bulgaria",
+        "country": "Czechia",
         "averageClicks": "1000"
       },
       {
-        "country": "Czechia",
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Cyprus",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Italy",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Malta",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovenia",
         "averageClicks": "1000"
       },
       {
@@ -2741,7 +2701,47 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Cyprus",
+        "country": "United States",
+        "averageClicks": 0
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Sweden",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Norway",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
         "averageClicks": "1000"
       }
     ],
@@ -2759,47 +2759,7 @@
     "lastView": "2024-06-29T21:59:57.000Z",
     "countries": [
       {
-        "country": "Rwanda",
-        "averageClicks": 0
-      },
-      {
-        "country": "Democratic Republic of the Congo",
-        "averageClicks": 0
-      },
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Madagascar",
-        "averageClicks": 0
-      },
-      {
         "country": "Ethiopia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Kenya",
-        "averageClicks": 0
-      },
-      {
-        "country": "Liberia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Angola",
-        "averageClicks": 0
-      },
-      {
-        "country": "Zimbabwe",
-        "averageClicks": 0
-      },
-      {
-        "country": "Eswatini",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mozambique",
         "averageClicks": 0
       },
       {
@@ -2807,11 +2767,43 @@
         "averageClicks": 0
       },
       {
-        "country": "Nigeria",
+        "country": "Malawi",
+        "averageClicks": 0
+      },
+      {
+        "country": "Democratic Republic of the Congo",
+        "averageClicks": 0
+      },
+      {
+        "country": "Burkina Faso",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mauritius",
+        "averageClicks": 0
+      },
+      {
+        "country": "Zimbabwe",
+        "averageClicks": 0
+      },
+      {
+        "country": "Cote d'Ivoire",
+        "averageClicks": 0
+      },
+      {
+        "country": "Eswatini",
         "averageClicks": 0
       },
       {
         "country": "Cameroon",
+        "averageClicks": 0
+      },
+      {
+        "country": "Namibia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lesotho",
         "averageClicks": 0
       },
       {
@@ -2823,7 +2815,7 @@
         "averageClicks": 0
       },
       {
-        "country": "Zambia",
+        "country": "Nigeria",
         "averageClicks": 0
       },
       {
@@ -2831,11 +2823,11 @@
         "averageClicks": 0
       },
       {
-        "country": "Cote d'Ivoire",
+        "country": "Morocco",
         "averageClicks": 0
       },
       {
-        "country": "Senegal",
+        "country": "Guinea",
         "averageClicks": 0
       },
       {
@@ -2847,35 +2839,19 @@
         "averageClicks": 0
       },
       {
-        "country": "Morocco",
-        "averageClicks": 0
-      },
-      {
         "country": "Mali",
         "averageClicks": 0
       },
       {
-        "country": "Mauritius",
+        "country": "Angola",
         "averageClicks": 0
       },
       {
-        "country": "Malawi",
+        "country": "Mozambique",
         "averageClicks": 0
       },
       {
-        "country": "Somalia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Burkina Faso",
-        "averageClicks": 0
-      },
-      {
-        "country": "Togo",
-        "averageClicks": 0
-      },
-      {
-        "country": "Uganda",
+        "country": "Senegal",
         "averageClicks": 0
       },
       {
@@ -2883,7 +2859,27 @@
         "averageClicks": 0
       },
       {
+        "country": "Somalia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Uganda",
+        "averageClicks": 0
+      },
+      {
         "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Zambia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Rwanda",
+        "averageClicks": 0
+      },
+      {
+        "country": "Togo",
         "averageClicks": 0
       },
       {
@@ -2891,19 +2887,23 @@
         "averageClicks": 0
       },
       {
+        "country": "Kenya",
+        "averageClicks": 0
+      },
+      {
         "country": "Tunisia",
         "averageClicks": 0
       },
       {
-        "country": "Guinea",
+        "country": "Liberia",
         "averageClicks": 0
       },
       {
-        "country": "Namibia",
+        "country": "Madagascar",
         "averageClicks": 0
       },
       {
-        "country": "Lesotho",
+        "country": "Egypt",
         "averageClicks": 0
       }
     ],
@@ -2921,11 +2921,7 @@
     "lastView": "2024-06-29T21:57:49.000Z",
     "countries": [
       {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bangladesh",
+        "country": "Nepal",
         "averageClicks": 0
       },
       {
@@ -2933,11 +2929,15 @@
         "averageClicks": 0
       },
       {
-        "country": "Sri Lanka",
+        "country": "Bangladesh",
         "averageClicks": 0
       },
       {
-        "country": "Nepal",
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Sri Lanka",
         "averageClicks": 0
       }
     ],
@@ -2955,63 +2955,7 @@
     "lastView": "2024-06-29T21:49:15.000Z",
     "countries": [
       {
-        "country": "Botswana",
-        "averageClicks": 0
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Algeria",
-        "averageClicks": 0
-      },
-      {
-        "country": "Togo",
-        "averageClicks": 0
-      },
-      {
-        "country": "Uganda",
-        "averageClicks": 0
-      },
-      {
-        "country": "The Gambia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Eswatini",
-        "averageClicks": 0
-      },
-      {
         "country": "Angola",
-        "averageClicks": 0
-      },
-      {
-        "country": "Zimbabwe",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mozambique",
-        "averageClicks": 0
-      },
-      {
-        "country": "Tanzania",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mali",
-        "averageClicks": 0
-      },
-      {
-        "country": "Libya",
-        "averageClicks": 0
-      },
-      {
-        "country": "Morocco",
         "averageClicks": 0
       },
       {
@@ -3019,15 +2963,15 @@
         "averageClicks": 0
       },
       {
-        "country": "Rwanda",
+        "country": "Egypt",
         "averageClicks": 0
       },
       {
-        "country": "Lesotho",
+        "country": "Madagascar",
         "averageClicks": 0
       },
       {
-        "country": "Namibia",
+        "country": "Mozambique",
         "averageClicks": 0
       },
       {
@@ -3039,12 +2983,96 @@
         "averageClicks": 0
       },
       {
-        "country": "Sierra Leone",
+        "country": "Liberia",
         "averageClicks": 0
       },
       {
-        "country": "Romania",
-        "averageClicks": "1000"
+        "country": "Rwanda",
+        "averageClicks": 0
+      },
+      {
+        "country": "Kenya",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Zambia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Uganda",
+        "averageClicks": 0
+      },
+      {
+        "country": "Togo",
+        "averageClicks": 0
+      },
+      {
+        "country": "Botswana",
+        "averageClicks": 0
+      },
+      {
+        "country": "Zimbabwe",
+        "averageClicks": 0
+      },
+      {
+        "country": "Cote d'Ivoire",
+        "averageClicks": 0
+      },
+      {
+        "country": "Eswatini",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mauritius",
+        "averageClicks": 0
+      },
+      {
+        "country": "Democratic Republic of the Congo",
+        "averageClicks": 0
+      },
+      {
+        "country": "The Gambia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Malawi",
+        "averageClicks": 0
+      },
+      {
+        "country": "Burkina Faso",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ethiopia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Libya",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mali",
+        "averageClicks": 0
+      },
+      {
+        "country": "Tanzania",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ghana",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nigeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Morocco",
+        "averageClicks": 0
       },
       {
         "country": "Benin",
@@ -3055,11 +3083,19 @@
         "averageClicks": 0
       },
       {
-        "country": "Nigeria",
+        "country": "Sierra Leone",
         "averageClicks": 0
       },
       {
-        "country": "Poland",
+        "country": "Lesotho",
+        "averageClicks": 0
+      },
+      {
+        "country": "Namibia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
         "averageClicks": "1000"
       },
       {
@@ -3067,52 +3103,16 @@
         "averageClicks": 0
       },
       {
-        "country": "Burkina Faso",
+        "country": "Algeria",
         "averageClicks": 0
       },
       {
-        "country": "Malawi",
-        "averageClicks": 0
+        "country": "Poland",
+        "averageClicks": "1000"
       },
       {
-        "country": "Mauritius",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ethiopia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Kenya",
-        "averageClicks": 0
-      },
-      {
-        "country": "Madagascar",
-        "averageClicks": 0
-      },
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Democratic Republic of the Congo",
-        "averageClicks": 0
-      },
-      {
-        "country": "Liberia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Cote d'Ivoire",
-        "averageClicks": 0
-      },
-      {
-        "country": "Zambia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ghana",
-        "averageClicks": 0
+        "country": "Italy",
+        "averageClicks": "1000"
       }
     ],
     "typeLabel": "Metin"
@@ -3159,11 +3159,7 @@
     "lastView": "2024-06-29T20:32:36.000Z",
     "countries": [
       {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Iraq",
+        "country": "Saudi Arabia",
         "averageClicks": 0
       },
       {
@@ -3171,7 +3167,11 @@
         "averageClicks": 0
       },
       {
-        "country": "Saudi Arabia",
+        "country": "Iraq",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
         "averageClicks": 0
       }
     ],

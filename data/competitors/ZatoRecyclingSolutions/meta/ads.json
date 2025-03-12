@@ -25,32 +25,32 @@
           "age_gender_breakdowns": [
             {
               "age_range": "25-34",
-              "male": 110,
-              "female": 8,
+              "male": 130,
+              "female": 10,
               "unknown": 3
             },
             {
               "age_range": "35-44",
-              "male": 204,
-              "female": 18,
-              "unknown": 12
+              "male": 230,
+              "female": 19,
+              "unknown": 13
             },
             {
               "age_range": "45-54",
-              "male": 139,
-              "female": 9,
+              "male": 151,
+              "female": 11,
               "unknown": 3
             },
             {
               "age_range": "55-64",
-              "male": 45,
-              "female": 2,
+              "male": 51,
+              "female": 3,
               "unknown": 1
             }
           ]
         }
       ],
-      "eu_total_reach": 560,
+      "eu_total_reach": 629,
       "target_ages": [
         "30",
         "60"
@@ -154,44 +154,44 @@
           "age_gender_breakdowns": [
             {
               "age_range": "18-24",
-              "male": 324,
-              "female": 16,
+              "male": 347,
+              "female": 21,
               "unknown": 3
             },
             {
               "age_range": "45-54",
-              "male": 453,
-              "female": 27,
-              "unknown": 5
+              "male": 493,
+              "female": 29,
+              "unknown": 6
             },
             {
               "age_range": "65+",
-              "male": 117,
+              "male": 128,
               "female": 12,
               "unknown": 3
             },
             {
               "age_range": "55-64",
-              "male": 273,
+              "male": 286,
               "female": 14,
               "unknown": 2
             },
             {
               "age_range": "35-44",
-              "male": 645,
-              "female": 39,
-              "unknown": 13
+              "male": 692,
+              "female": 41,
+              "unknown": 16
             },
             {
               "age_range": "25-34",
-              "male": 623,
-              "female": 30,
+              "male": 669,
+              "female": 32,
               "unknown": 9
             }
           ]
         }
       ],
-      "eu_total_reach": 2640,
+      "eu_total_reach": 2826,
       "target_ages": [
         "18",
         "65"
@@ -231,44 +231,44 @@
           "age_gender_breakdowns": [
             {
               "age_range": "18-24",
-              "male": 185,
-              "female": 17,
+              "male": 197,
+              "female": 18,
               "unknown": 3
             },
             {
               "age_range": "45-54",
-              "male": 353,
-              "female": 15,
+              "male": 385,
+              "female": 17,
               "unknown": 6
             },
             {
               "age_range": "65+",
-              "male": 109,
-              "female": 9,
+              "male": 115,
+              "female": 10,
               "unknown": 4
             },
             {
               "age_range": "55-64",
-              "male": 221,
+              "male": 230,
               "female": 16,
               "unknown": 3
             },
             {
               "age_range": "35-44",
-              "male": 448,
-              "female": 30,
-              "unknown": 4
+              "male": 476,
+              "female": 31,
+              "unknown": 5
             },
             {
               "age_range": "25-34",
-              "male": 423,
-              "female": 29,
+              "male": 457,
+              "female": 32,
               "unknown": 3
             }
           ]
         }
       ],
-      "eu_total_reach": 1913,
+      "eu_total_reach": 2032,
       "target_ages": [
         "18",
         "65"
@@ -689,44 +689,44 @@
           "age_gender_breakdowns": [
             {
               "age_range": "55-64",
-              "male": 12682,
-              "female": 4075,
-              "unknown": 128
+              "male": 13037,
+              "female": 4215,
+              "unknown": 130
             },
             {
               "age_range": "45-54",
-              "male": 12121,
-              "female": 3112,
-              "unknown": 141
+              "male": 12478,
+              "female": 3214,
+              "unknown": 145
             },
             {
               "age_range": "65+",
-              "male": 7797,
-              "female": 3919,
-              "unknown": 115
+              "male": 8024,
+              "female": 4031,
+              "unknown": 118
             },
             {
               "age_range": "18-24",
-              "male": 4581,
-              "female": 2357,
-              "unknown": 231
+              "male": 4661,
+              "female": 2395,
+              "unknown": 233
             },
             {
               "age_range": "25-34",
-              "male": 7983,
-              "female": 2395,
-              "unknown": 121
+              "male": 8216,
+              "female": 2485,
+              "unknown": 124
             },
             {
               "age_range": "35-44",
-              "male": 12065,
-              "female": 3113,
-              "unknown": 166
+              "male": 12450,
+              "female": 3271,
+              "unknown": 172
             }
           ]
         }
       ],
-      "eu_total_reach": 75981,
+      "eu_total_reach": 77991,
       "target_ages": [
         "18",
         "65"
@@ -1032,44 +1032,44 @@
           "age_gender_breakdowns": [
             {
               "age_range": "55-64",
-              "male": 32436,
-              "female": 10473,
-              "unknown": 270
+              "male": 32599,
+              "female": 10556,
+              "unknown": 281
             },
             {
               "age_range": "45-54",
-              "male": 33049,
-              "female": 8008,
-              "unknown": 383
+              "male": 33329,
+              "female": 8042,
+              "unknown": 387
             },
             {
               "age_range": "65+",
-              "male": 18841,
-              "female": 9248,
-              "unknown": 232
+              "male": 18993,
+              "female": 9301,
+              "unknown": 234
             },
             {
               "age_range": "18-24",
-              "male": 14894,
-              "female": 8594,
-              "unknown": 662
+              "male": 14946,
+              "female": 8660,
+              "unknown": 665
             },
             {
               "age_range": "25-34",
-              "male": 23610,
-              "female": 6831,
-              "unknown": 330
+              "male": 23838,
+              "female": 6866,
+              "unknown": 335
             },
             {
               "age_range": "35-44",
-              "male": 31220,
-              "female": 8151,
-              "unknown": 429
+              "male": 31465,
+              "female": 8197,
+              "unknown": 431
             }
           ]
         }
       ],
-      "eu_total_reach": 203441,
+      "eu_total_reach": 205601,
       "target_ages": [
         "18",
         "65"
