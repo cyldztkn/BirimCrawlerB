@@ -91,9 +91,27 @@
   },
   {
     "advertiserId": "AR17803636183570317313",
+    "adsId": "CR06195348023623548929",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/1324327650159097944",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Bronneberg BV",
+    "website": null,
+    "startDate": "2024-04-23T21:18:15.000Z",
+    "lastView": "2024-04-30T19:20:54.000Z",
+    "countries": [
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR17803636183570317313",
     "adsId": "CR12324469094651789313",
     "img": null,
-    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=2021103041&creativeId=697293513750&uiFeatures=12,54&adGroupId=159282899737&sig=ACiVB_zL8FNQ7YiR8SCyP77tJKu-zKD3xA&htmlParentId=fletch-render-2375785894891135774&responseCallback=fletchCallback2375785894891135774",
+    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=2021103041&creativeId=697293513750&uiFeatures=12,54&adGroupId=159282899737&sig=ACiVB_zL8FNQ7YiR8SCyP77tJKu-zKD3xA&htmlParentId=fletch-render-11625103843886977680&responseCallback=fletchCallback11625103843886977680",
     "type": 3,
     "advertiserName": "Bronneberg BV",
     "website": null,
@@ -111,7 +129,7 @@
     "advertiserId": "AR17803636183570317313",
     "adsId": "CR10183253762441740289",
     "img": null,
-    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=2021103041&creativeId=697293907158&uiFeatures=12,54&adGroupId=164166367609&sig=ACiVB_zcX2eOK3rsImx5S3rNZXdCVkCVVQ&htmlParentId=fletch-render-10868283426909590473&responseCallback=fletchCallback10868283426909590473",
+    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=2021103041&creativeId=697293907158&uiFeatures=12,54&adGroupId=164166367609&sig=ACiVB_zcX2eOK3rsImx5S3rNZXdCVkCVVQ&htmlParentId=fletch-render-15802245685289059549&responseCallback=fletchCallback15802245685289059549",
     "type": 3,
     "advertiserName": "Bronneberg BV",
     "website": null,

@@ -8,14 +8,10 @@
     "advertiserName": "ATM Recyclingsystems GmbH",
     "website": null,
     "startDate": "2024-12-03T13:43:43.000Z",
-    "lastView": "2025-03-11T09:32:09.000Z",
+    "lastView": "2025-03-16T14:57:51.000Z",
     "countries": [
       {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "India",
+        "country": "Switzerland",
         "averageClicks": 0
       },
       {
@@ -23,27 +19,27 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
         "country": "Slovenia",
         "averageClicks": "1000"
       },
       {
-        "country": "Switzerland",
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
         "averageClicks": 0
       },
       {
         "country": "Germany",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Hungary",
         "averageClicks": "1000"
       },
       {
-        "country": "Austria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Netherlands",
+        "country": "Slovakia",
         "averageClicks": "1000"
       },
       {
@@ -55,15 +51,23 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Hungary",
+        "country": "Poland",
         "averageClicks": "1000"
       },
       {
-        "country": "Spain",
-        "averageClicks": 0
+        "country": "Croatia",
+        "averageClicks": "1000"
       },
       {
         "country": "Luxembourg",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Austria",
         "averageClicks": "1000"
       }
     ],

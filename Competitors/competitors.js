@@ -1,5 +1,9 @@
 let competitors = [
   {
+    name: "Birim-Makina",
+    linkedinId: "birim-makina",
+  },
+  {
     name: "JainHydraulics",
     instaId: 253447,
     linkedinId: "jain-hydraulics-recycling",
