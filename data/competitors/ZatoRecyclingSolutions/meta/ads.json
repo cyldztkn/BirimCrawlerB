@@ -1,10 +1,196 @@
 {
   "data": [
     {
+      "id": "1019645930262470",
+      "page_name": "ZATO",
+      "ad_creation_time": "2025-03-24",
+      "ad_delivery_start_time": "2025-03-24",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1019645930262470&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "instagram"
+      ],
+      "ad_creative_link_captions": [
+        "zatoshredder.com",
+        "zatoshredder.com",
+        "zatoshredder.com",
+        "zatoshredder.com"
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "DE",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "25-34",
+              "male": 67,
+              "female": 28,
+              "unknown": 1
+            },
+            {
+              "age_range": "45-54",
+              "male": 66,
+              "female": 20
+            },
+            {
+              "age_range": "55-64",
+              "male": 50,
+              "female": 32,
+              "unknown": 1
+            },
+            {
+              "age_range": "35-44",
+              "male": 93,
+              "female": 35,
+              "unknown": 1
+            }
+          ]
+        },
+        {
+          "country": "FR",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "55-64",
+              "male": 77,
+              "female": 39,
+              "unknown": 1
+            },
+            {
+              "age_range": "45-54",
+              "male": 124,
+              "female": 63,
+              "unknown": 1
+            },
+            {
+              "age_range": "35-44",
+              "male": 171,
+              "female": 77,
+              "unknown": 9
+            },
+            {
+              "age_range": "25-34",
+              "male": 163,
+              "female": 76,
+              "unknown": 3
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 1178,
+      "target_ages": [
+        "27",
+        "64"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "Fransa",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Almanya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": "651431654183914",
+      "page_name": "ZATO",
+      "ad_creation_time": "2025-03-24",
+      "ad_delivery_start_time": "2025-03-24",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=651431654183914&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "facebook"
+      ],
+      "ad_creative_bodies": [
+        "White goods don’t belong in landfills—they belong back in the production cycle!\n\nWith the right process, fridges, washing machines, and dishwashers can turn into valuable secondary raw materials. But first, they must be properly treated. Zato’s technology ensures safe and efficient recovery of steel, aluminum and copper transforming waste into new resources.\n\nUpgrade your white goods recycling today!\n \n#ZATO #ZatoShredder #RecyclingSolutions #WhiteGoodsRecycling  #TwinShaftShredder #HammerMills #SeparationLines"
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "DE",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "25-34",
+              "male": 101,
+              "female": 16
+            },
+            {
+              "age_range": "45-54",
+              "male": 103,
+              "female": 22,
+              "unknown": 1
+            },
+            {
+              "age_range": "55-64",
+              "male": 101,
+              "female": 51
+            },
+            {
+              "age_range": "35-44",
+              "male": 151,
+              "female": 26
+            }
+          ]
+        },
+        {
+          "country": "FR",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "55-64",
+              "male": 820,
+              "female": 598,
+              "unknown": 12
+            },
+            {
+              "age_range": "45-54",
+              "male": 909,
+              "female": 510,
+              "unknown": 21
+            },
+            {
+              "age_range": "35-44",
+              "male": 1056,
+              "female": 435,
+              "unknown": 13
+            },
+            {
+              "age_range": "25-34",
+              "male": 517,
+              "female": 224,
+              "unknown": 2
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 5686,
+      "target_ages": [
+        "27",
+        "64"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "Fransa",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Almanya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
       "id": "941812304774708",
       "page_name": "ZATO",
       "ad_creation_time": "2025-03-07",
       "ad_delivery_start_time": "2025-03-07",
+      "ad_delivery_stop_time": "2025-03-20",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=941812304774708&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "facebook",
@@ -25,44 +211,44 @@
           "age_gender_breakdowns": [
             {
               "age_range": "18-24",
-              "male": 69,
-              "female": 5,
+              "male": 111,
+              "female": 9,
               "unknown": 1
             },
             {
               "age_range": "45-54",
-              "male": 736,
-              "female": 18,
-              "unknown": 4
+              "male": 995,
+              "female": 29,
+              "unknown": 10
             },
             {
               "age_range": "65+",
-              "male": 153,
-              "female": 8,
-              "unknown": 3
-            },
-            {
-              "age_range": "55-64",
-              "male": 451,
+              "male": 194,
               "female": 9,
               "unknown": 4
             },
             {
+              "age_range": "55-64",
+              "male": 560,
+              "female": 17,
+              "unknown": 4
+            },
+            {
               "age_range": "35-44",
-              "male": 1069,
-              "female": 50,
-              "unknown": 11
+              "male": 1552,
+              "female": 74,
+              "unknown": 17
             },
             {
               "age_range": "25-34",
-              "male": 794,
-              "female": 49,
-              "unknown": 11
+              "male": 1198,
+              "female": 72,
+              "unknown": 16
             }
           ]
         }
       ],
-      "eu_total_reach": 3648,
+      "eu_total_reach": 4962,
       "target_ages": [
         "24",
         "65"
@@ -82,6 +268,7 @@
       "page_name": "ZATO",
       "ad_creation_time": "2025-03-07",
       "ad_delivery_start_time": "2025-03-07",
+      "ad_delivery_stop_time": "2025-03-19",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2784197258432448&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "facebook",
@@ -102,40 +289,41 @@
           "age_gender_breakdowns": [
             {
               "age_range": "18-24",
-              "male": 11,
+              "male": 12,
               "female": 1
             },
             {
               "age_range": "25-34",
-              "male": 93,
+              "male": 113,
               "female": 3
             },
             {
               "age_range": "35-44",
-              "male": 83,
-              "female": 5,
+              "male": 85,
+              "female": 6,
               "unknown": 2
             },
             {
               "age_range": "45-54",
-              "male": 63,
+              "male": 68,
               "female": 1,
               "unknown": 2
             },
             {
               "age_range": "55-64",
-              "male": 38,
-              "female": 2
+              "male": 40,
+              "female": 2,
+              "unknown": 1
             },
             {
               "age_range": "65+",
-              "male": 13,
+              "male": 14,
               "female": 5
             }
           ]
         }
       ],
-      "eu_total_reach": 319,
+      "eu_total_reach": 352,
       "target_ages": [
         "24",
         "65"
@@ -155,6 +343,7 @@
       "page_name": "ZATO",
       "ad_creation_time": "2025-03-07",
       "ad_delivery_start_time": "2025-03-07",
+      "ad_delivery_stop_time": "2025-03-19",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=627930863373674&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "facebook",
@@ -175,41 +364,41 @@
           "age_gender_breakdowns": [
             {
               "age_range": "18-24",
-              "male": 78,
-              "female": 6,
+              "male": 103,
+              "female": 7,
               "unknown": 1
             },
             {
               "age_range": "25-34",
-              "male": 83,
+              "male": 90,
               "female": 5
             },
             {
               "age_range": "35-44",
-              "male": 94,
-              "female": 6,
-              "unknown": 4
+              "male": 102,
+              "female": 8,
+              "unknown": 5
             },
             {
               "age_range": "45-54",
-              "male": 59,
+              "male": 63,
               "female": 1,
-              "unknown": 1
+              "unknown": 2
             },
             {
               "age_range": "55-64",
-              "male": 46,
+              "male": 50,
               "female": 1
             },
             {
               "age_range": "65+",
-              "male": 22,
+              "male": 25,
               "female": 4
             }
           ]
         }
       ],
-      "eu_total_reach": 418,
+      "eu_total_reach": 476,
       "target_ages": [
         "18",
         "65"
@@ -229,6 +418,7 @@
       "page_name": "ZATO",
       "ad_creation_time": "2025-03-07",
       "ad_delivery_start_time": "2025-03-07",
+      "ad_delivery_stop_time": "2025-03-19",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1044516014153671&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "facebook",
@@ -249,42 +439,43 @@
           "age_gender_breakdowns": [
             {
               "age_range": "18-24",
-              "male": 423,
-              "female": 14,
-              "unknown": 14
-            },
-            {
-              "age_range": "25-34",
-              "male": 525,
-              "female": 20,
-              "unknown": 12
-            },
-            {
-              "age_range": "35-44",
-              "male": 521,
-              "female": 38,
-              "unknown": 5
+              "male": 1047,
+              "female": 29,
+              "unknown": 25
             },
             {
               "age_range": "45-54",
-              "male": 296,
-              "female": 15,
-              "unknown": 4
-            },
-            {
-              "age_range": "55-64",
-              "male": 175,
-              "female": 9
+              "male": 426,
+              "female": 19,
+              "unknown": 8
             },
             {
               "age_range": "65+",
-              "male": 89,
-              "female": 10
+              "male": 121,
+              "female": 12,
+              "unknown": 1
+            },
+            {
+              "age_range": "55-64",
+              "male": 237,
+              "female": 14
+            },
+            {
+              "age_range": "35-44",
+              "male": 783,
+              "female": 48,
+              "unknown": 8
+            },
+            {
+              "age_range": "25-34",
+              "male": 1084,
+              "female": 31,
+              "unknown": 18
             }
           ]
         }
       ],
-      "eu_total_reach": 2160,
+      "eu_total_reach": 3908,
       "target_ages": [
         "18",
         "65"
@@ -304,6 +495,7 @@
       "page_name": "ZATO",
       "ad_creation_time": "2025-02-21",
       "ad_delivery_start_time": "2025-02-21",
+      "ad_delivery_stop_time": "2025-03-19",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=653184407281102&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "facebook",
@@ -324,32 +516,32 @@
           "age_gender_breakdowns": [
             {
               "age_range": "25-34",
-              "male": 234,
+              "male": 250,
               "female": 14,
               "unknown": 4
             },
             {
               "age_range": "35-44",
-              "male": 477,
-              "female": 29,
+              "male": 506,
+              "female": 34,
               "unknown": 15
             },
             {
               "age_range": "45-54",
-              "male": 350,
+              "male": 357,
               "female": 19,
-              "unknown": 5
+              "unknown": 6
             },
             {
               "age_range": "55-64",
-              "male": 123,
+              "male": 126,
               "female": 11,
               "unknown": 2
             }
           ]
         }
       ],
-      "eu_total_reach": 1297,
+      "eu_total_reach": 1346,
       "target_ages": [
         "30",
         "60"
@@ -369,6 +561,7 @@
       "page_name": "ZATO",
       "ad_creation_time": "2025-02-21",
       "ad_delivery_start_time": "2025-02-21",
+      "ad_delivery_stop_time": "2025-03-17",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1342502313839414&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "facebook",
@@ -395,7 +588,7 @@
             },
             {
               "age_range": "35-44",
-              "male": 139,
+              "male": 141,
               "female": 7,
               "unknown": 3
             },
@@ -407,13 +600,13 @@
             },
             {
               "age_range": "55-64",
-              "male": 47,
+              "male": 50,
               "female": 2
             }
           ]
         }
       ],
-      "eu_total_reach": 370,
+      "eu_total_reach": 374,
       "target_ages": [
         "30",
         "60"
@@ -972,6 +1165,7 @@
       "page_name": "ZATO",
       "ad_creation_time": "2025-01-22",
       "ad_delivery_start_time": "2025-01-22",
+      "ad_delivery_stop_time": "2025-03-18",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=594823566594231&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "facebook",
@@ -990,44 +1184,44 @@
           "age_gender_breakdowns": [
             {
               "age_range": "55-64",
-              "male": 13744,
-              "female": 4566,
-              "unknown": 136
+              "male": 13871,
+              "female": 4609,
+              "unknown": 138
             },
             {
               "age_range": "45-54",
-              "male": 13377,
-              "female": 3535,
-              "unknown": 156
+              "male": 13589,
+              "female": 3591,
+              "unknown": 157
             },
             {
               "age_range": "65+",
-              "male": 8501,
-              "female": 4371,
+              "male": 8606,
+              "female": 4430,
               "unknown": 123
             },
             {
               "age_range": "18-24",
-              "male": 5014,
-              "female": 2595,
-              "unknown": 246
+              "male": 5094,
+              "female": 2664,
+              "unknown": 252
             },
             {
               "age_range": "25-34",
-              "male": 8955,
-              "female": 2749,
-              "unknown": 131
+              "male": 9131,
+              "female": 2794,
+              "unknown": 135
             },
             {
               "age_range": "35-44",
-              "male": 13512,
-              "female": 3589,
-              "unknown": 182
+              "male": 13749,
+              "female": 3663,
+              "unknown": 185
             }
           ]
         }
       ],
-      "eu_total_reach": 84070,
+      "eu_total_reach": 85394,
       "target_ages": [
         "18",
         "65"
@@ -1315,6 +1509,7 @@
       "page_name": "ZATO",
       "ad_creation_time": "2025-01-21",
       "ad_delivery_start_time": "2025-01-21",
+      "ad_delivery_stop_time": "2025-03-19",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=511018888168424&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "facebook",
@@ -1333,44 +1528,44 @@
           "age_gender_breakdowns": [
             {
               "age_range": "55-64",
-              "male": 35671,
-              "female": 12107,
-              "unknown": 313
+              "male": 36244,
+              "female": 12329,
+              "unknown": 317
             },
             {
               "age_range": "45-54",
-              "male": 37735,
-              "female": 9594,
-              "unknown": 419
+              "male": 38443,
+              "female": 9743,
+              "unknown": 426
             },
             {
               "age_range": "65+",
-              "male": 20883,
-              "female": 10478,
-              "unknown": 271
+              "male": 21155,
+              "female": 10656,
+              "unknown": 277
             },
             {
               "age_range": "18-24",
-              "male": 16567,
-              "female": 9730,
-              "unknown": 713
+              "male": 16941,
+              "female": 9949,
+              "unknown": 720
             },
             {
               "age_range": "25-34",
-              "male": 27055,
-              "female": 7796,
-              "unknown": 367
+              "male": 27593,
+              "female": 7948,
+              "unknown": 369
             },
             {
               "age_range": "35-44",
-              "male": 35123,
-              "female": 9455,
-              "unknown": 473
+              "male": 35787,
+              "female": 9610,
+              "unknown": 479
             }
           ]
         }
       ],
-      "eu_total_reach": 231361,
+      "eu_total_reach": 236153,
       "target_ages": [
         "18",
         "65"

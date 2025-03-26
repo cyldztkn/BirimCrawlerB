@@ -56,7 +56,7 @@
   {
     "advertiserId": "AR17803636183570317313",
     "adsId": "CR05571991605746860033",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/6293641608208133617",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/2433963617838467211",
     "videoCode": null,
     "type": 2,
     "advertiserName": "Bronneberg BV",
@@ -67,6 +67,10 @@
       {
         "country": "United Kingdom",
         "averageClicks": 0
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
       }
     ],
     "typeLabel": "Resim"
@@ -82,6 +86,10 @@
     "startDate": "2024-04-22T23:12:32.000Z",
     "lastView": "2024-04-30T19:26:46.000Z",
     "countries": [
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
       {
         "country": "United Kingdom",
         "averageClicks": 0
@@ -111,7 +119,7 @@
     "advertiserId": "AR17803636183570317313",
     "adsId": "CR12324469094651789313",
     "img": null,
-    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=2021103041&creativeId=697293513750&uiFeatures=12,54&adGroupId=159282899737&sig=ACiVB_zL8FNQ7YiR8SCyP77tJKu-zKD3xA&htmlParentId=fletch-render-11625103843886977680&responseCallback=fletchCallback11625103843886977680",
+    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=2021103041&creativeId=697293513750&uiFeatures=12,54&adGroupId=159282899737&sig=ACiVB_zL8FNQ7YiR8SCyP77tJKu-zKD3xA&htmlParentId=fletch-render-4386119356348084204&responseCallback=fletchCallback4386119356348084204",
     "type": 3,
     "advertiserName": "Bronneberg BV",
     "website": null,
@@ -129,7 +137,7 @@
     "advertiserId": "AR17803636183570317313",
     "adsId": "CR10183253762441740289",
     "img": null,
-    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=2021103041&creativeId=697293907158&uiFeatures=12,54&adGroupId=164166367609&sig=ACiVB_zcX2eOK3rsImx5S3rNZXdCVkCVVQ&htmlParentId=fletch-render-15802245685289059549&responseCallback=fletchCallback15802245685289059549",
+    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=2021103041&creativeId=697293907158&uiFeatures=12,54&adGroupId=164166367609&sig=ACiVB_zcX2eOK3rsImx5S3rNZXdCVkCVVQ&htmlParentId=fletch-render-12527976909890418805&responseCallback=fletchCallback12527976909890418805",
     "type": 3,
     "advertiserName": "Bronneberg BV",
     "website": null,

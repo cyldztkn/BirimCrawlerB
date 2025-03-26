@@ -8,14 +8,18 @@
     "advertiserName": "ATM Recyclingsystems GmbH",
     "website": null,
     "startDate": "2024-12-03T13:43:43.000Z",
-    "lastView": "2025-03-16T14:57:51.000Z",
+    "lastView": "2025-03-25T22:35:15.000Z",
     "countries": [
       {
-        "country": "Switzerland",
-        "averageClicks": 0
+        "country": "France",
+        "averageClicks": "1000"
       },
       {
-        "country": "Czechia",
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Hungary",
         "averageClicks": "1000"
       },
       {
@@ -23,39 +27,19 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Spain",
+        "country": "Switzerland",
         "averageClicks": 0
       },
       {
         "country": "Germany",
-        "averageClicks": "2000"
+        "averageClicks": "5000"
       },
       {
-        "country": "Hungary",
+        "country": "Czechia",
         "averageClicks": "1000"
       },
       {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Croatia",
+        "country": "Netherlands",
         "averageClicks": "1000"
       },
       {
@@ -63,11 +47,35 @@
         "averageClicks": "1000"
       },
       {
+        "country": "Italy",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
         "country": "India",
         "averageClicks": 0
       },
       {
-        "country": "Austria",
+        "country": "Romania",
         "averageClicks": "1000"
       }
     ],
