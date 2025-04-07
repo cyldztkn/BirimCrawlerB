@@ -65,12 +65,12 @@
     "lastView": "2024-04-30T19:29:40.000Z",
     "countries": [
       {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
         "country": "Ireland",
         "averageClicks": "1000"
+      },
+      {
+        "country": "United Kingdom",
+        "averageClicks": 0
       }
     ],
     "typeLabel": "Resim"
@@ -119,7 +119,7 @@
     "advertiserId": "AR17803636183570317313",
     "adsId": "CR12324469094651789313",
     "img": null,
-    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=2021103041&creativeId=697293513750&uiFeatures=12,54&adGroupId=159282899737&sig=ACiVB_zL8FNQ7YiR8SCyP77tJKu-zKD3xA&htmlParentId=fletch-render-4386119356348084204&responseCallback=fletchCallback4386119356348084204",
+    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=2021103041&creativeId=697293513750&uiFeatures=12,54&adGroupId=159282899737&sig=ACiVB_zL8FNQ7YiR8SCyP77tJKu-zKD3xA&htmlParentId=fletch-render-11337072964681833910&responseCallback=fletchCallback11337072964681833910",
     "type": 3,
     "advertiserName": "Bronneberg BV",
     "website": null,
@@ -137,7 +137,7 @@
     "advertiserId": "AR17803636183570317313",
     "adsId": "CR10183253762441740289",
     "img": null,
-    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=2021103041&creativeId=697293907158&uiFeatures=12,54&adGroupId=164166367609&sig=ACiVB_zcX2eOK3rsImx5S3rNZXdCVkCVVQ&htmlParentId=fletch-render-12527976909890418805&responseCallback=fletchCallback12527976909890418805",
+    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=2021103041&creativeId=697293907158&uiFeatures=12,54&adGroupId=164166367609&sig=ACiVB_zcX2eOK3rsImx5S3rNZXdCVkCVVQ&htmlParentId=fletch-render-10026836640062270541&responseCallback=fletchCallback10026836640062270541",
     "type": 3,
     "advertiserName": "Bronneberg BV",
     "website": null,
@@ -161,24 +161,6 @@
     "website": null,
     "startDate": "2023-10-04T07:00:00.000Z",
     "lastView": "2024-04-30T17:16:34.000Z",
-    "countries": [
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR17803636183570317313",
-    "adsId": "CR15142336801856815105",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/15862818629426506060",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Bronneberg BV",
-    "website": null,
-    "startDate": "2024-03-01T09:13:04.000Z",
-    "lastView": "2024-04-04T06:44:15.000Z",
     "countries": [
       {
         "country": "United Kingdom",

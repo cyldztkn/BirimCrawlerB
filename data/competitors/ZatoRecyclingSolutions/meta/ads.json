@@ -1,10 +1,202 @@
 {
   "data": [
     {
+      "id": "668365952269140",
+      "page_name": "ZATO",
+      "ad_creation_time": "2025-04-03",
+      "ad_delivery_start_time": "2025-04-03",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=668365952269140&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "instagram"
+      ],
+      "ad_creative_bodies": [
+        "Old appliances may be heavy and complex—but inside, they’re packed with value.\n\nAt a specialised facility in Spain, end-of-life white goods like fridges and washing machines are transformed into high-quality scrap. How? With Zato’s Blue Devil, Blue Shark and Blue Sorter working in perfect sync.\n\nWatch how white goods go from bulky waste to valuable resources!\n\n#ZATO #ZatoShredder #RecyclingSolutions #WhiteGoodsRecycling  #TwinShaftShredder #HammerMills #SeparationLines"
+      ],
+      "ad_creative_link_captions": [
+        "www.zatoshredder.com"
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "DE",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "25-34",
+              "male": 475,
+              "female": 85,
+              "unknown": 1
+            },
+            {
+              "age_range": "45-54",
+              "male": 962,
+              "female": 174,
+              "unknown": 4
+            },
+            {
+              "age_range": "55-64",
+              "male": 932,
+              "female": 219,
+              "unknown": 8
+            },
+            {
+              "age_range": "35-44",
+              "male": 1022,
+              "female": 169,
+              "unknown": 8
+            }
+          ]
+        },
+        {
+          "country": "FR",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "55-64",
+              "male": 650,
+              "female": 306,
+              "unknown": 17
+            },
+            {
+              "age_range": "45-54",
+              "male": 879,
+              "female": 300,
+              "unknown": 23
+            },
+            {
+              "age_range": "35-44",
+              "male": 970,
+              "female": 273,
+              "unknown": 20
+            },
+            {
+              "age_range": "25-34",
+              "male": 646,
+              "female": 164,
+              "unknown": 6
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 8465,
+      "target_ages": [
+        "27",
+        "64"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "Fransa",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Almanya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": "991376869851416",
+      "page_name": "ZATO",
+      "ad_creation_time": "2025-04-03",
+      "ad_delivery_start_time": "2025-04-03",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=991376869851416&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "facebook"
+      ],
+      "ad_creative_bodies": [
+        "Old appliances may be heavy and complex—but inside, they’re packed with value.\n\nAt a specialised facility in Spain, end-of-life white goods like fridges and washing machines are transformed into high-quality scrap. How? With Zato’s Blue Devil, Blue Shark and Blue Sorter working in perfect sync.\n\nWatch how white goods go from bulky waste to valuable resources!\n\n#ZATO #ZatoShredder #RecyclingSolutions #WhiteGoodsRecycling  #TwinShaftShredder #HammerMills #SeparationLines"
+      ],
+      "ad_creative_link_captions": [
+        "www.zatoshredder.com"
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "DE",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "25-34",
+              "male": 50,
+              "female": 3
+            },
+            {
+              "age_range": "45-54",
+              "male": 327,
+              "female": 28,
+              "unknown": 2
+            },
+            {
+              "age_range": "55-64",
+              "male": 459,
+              "female": 32,
+              "unknown": 3
+            },
+            {
+              "age_range": "35-44",
+              "male": 178,
+              "female": 16,
+              "unknown": 1
+            }
+          ]
+        },
+        {
+          "country": "FR",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "55-64",
+              "male": 1123,
+              "female": 469,
+              "unknown": 15
+            },
+            {
+              "age_range": "45-54",
+              "male": 1217,
+              "female": 335,
+              "unknown": 19
+            },
+            {
+              "age_range": "35-44",
+              "male": 982,
+              "female": 281,
+              "unknown": 13
+            },
+            {
+              "age_range": "25-34",
+              "male": 362,
+              "female": 90,
+              "unknown": 1
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 6151,
+      "target_ages": [
+        "27",
+        "64"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "Fransa",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Almanya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
       "id": "1019645930262470",
       "page_name": "ZATO",
       "ad_creation_time": "2025-03-24",
       "ad_delivery_start_time": "2025-03-24",
+      "ad_delivery_stop_time": "2025-04-03",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1019645930262470&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "instagram"
@@ -21,26 +213,26 @@
           "age_gender_breakdowns": [
             {
               "age_range": "25-34",
-              "male": 67,
-              "female": 28,
-              "unknown": 1
+              "male": 463,
+              "female": 134,
+              "unknown": 2
             },
             {
               "age_range": "45-54",
-              "male": 66,
-              "female": 20
+              "male": 323,
+              "female": 117
             },
             {
               "age_range": "55-64",
-              "male": 50,
-              "female": 32,
-              "unknown": 1
+              "male": 216,
+              "female": 103,
+              "unknown": 3
             },
             {
               "age_range": "35-44",
-              "male": 93,
-              "female": 35,
-              "unknown": 1
+              "male": 527,
+              "female": 163,
+              "unknown": 6
             }
           ]
         },
@@ -49,32 +241,32 @@
           "age_gender_breakdowns": [
             {
               "age_range": "55-64",
-              "male": 77,
-              "female": 39,
-              "unknown": 1
+              "male": 363,
+              "female": 251,
+              "unknown": 10
             },
             {
               "age_range": "45-54",
-              "male": 124,
-              "female": 63,
-              "unknown": 1
+              "male": 576,
+              "female": 278,
+              "unknown": 16
             },
             {
               "age_range": "35-44",
-              "male": 171,
-              "female": 77,
-              "unknown": 9
+              "male": 810,
+              "female": 429,
+              "unknown": 27
             },
             {
               "age_range": "25-34",
-              "male": 163,
-              "female": 76,
-              "unknown": 3
+              "male": 756,
+              "female": 327,
+              "unknown": 14
             }
           ]
         }
       ],
-      "eu_total_reach": 1178,
+      "eu_total_reach": 5827,
       "target_ages": [
         "27",
         "64"
@@ -100,6 +292,7 @@
       "page_name": "ZATO",
       "ad_creation_time": "2025-03-24",
       "ad_delivery_start_time": "2025-03-24",
+      "ad_delivery_stop_time": "2025-04-03",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=651431654183914&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "facebook"
@@ -113,24 +306,27 @@
           "age_gender_breakdowns": [
             {
               "age_range": "25-34",
-              "male": 101,
-              "female": 16
-            },
-            {
-              "age_range": "45-54",
-              "male": 103,
-              "female": 22,
+              "male": 191,
+              "female": 53,
               "unknown": 1
             },
             {
+              "age_range": "45-54",
+              "male": 328,
+              "female": 120,
+              "unknown": 2
+            },
+            {
               "age_range": "55-64",
-              "male": 101,
-              "female": 51
+              "male": 362,
+              "female": 188,
+              "unknown": 2
             },
             {
               "age_range": "35-44",
-              "male": 151,
-              "female": 26
+              "male": 343,
+              "female": 123,
+              "unknown": 1
             }
           ]
         },
@@ -139,32 +335,32 @@
           "age_gender_breakdowns": [
             {
               "age_range": "55-64",
-              "male": 820,
-              "female": 598,
-              "unknown": 12
+              "male": 1730,
+              "female": 1378,
+              "unknown": 31
             },
             {
               "age_range": "45-54",
-              "male": 909,
-              "female": 510,
-              "unknown": 21
+              "male": 1931,
+              "female": 1288,
+              "unknown": 45
             },
             {
               "age_range": "35-44",
-              "male": 1056,
-              "female": 435,
-              "unknown": 13
+              "male": 2149,
+              "female": 1064,
+              "unknown": 32
             },
             {
               "age_range": "25-34",
-              "male": 517,
-              "female": 224,
-              "unknown": 2
+              "male": 1024,
+              "female": 538,
+              "unknown": 5
             }
           ]
         }
       ],
-      "eu_total_reach": 5686,
+      "eu_total_reach": 13504,
       "target_ages": [
         "27",
         "64"
@@ -9980,1784 +10176,12 @@
           "excluded": true
         }
       ]
-    },
-    {
-      "id": "335005919560223",
-      "page_name": "ZATO",
-      "ad_creation_time": "2024-04-02",
-      "ad_delivery_start_time": "2024-04-02",
-      "ad_delivery_stop_time": "2024-04-05",
-      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=335005919560223&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
-      "publisher_platforms": [
-        "instagram"
-      ],
-      "ad_creative_bodies": [
-        "Recycling sounds good with Zato Twin Shaft Shredder!\n\nKAABS GROUP is making the most out of our Blue Devil GF4000\n⚙️ Increasing the density of scrap metal\n🌱 Reducing emissions and CO2 impact\n♻️ Optimizing metal recycling\n\nTurn up the volume and hear what a positive impact on the environment sounds like!\n\n#ZATO #ZatoShredder #Recycling #CircularEconomy #Shredder #DemolitionShear #BlueDevil"
-      ],
-      "ad_creative_link_captions": [
-        "fb.com"
-      ],
-      "age_country_gender_reach_breakdown": [
-        {
-          "country": "SI",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 3
-            },
-            {
-              "age_range": "45-54",
-              "male": 1
-            },
-            {
-              "age_range": "25-34",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "CY",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 6
-            },
-            {
-              "age_range": "45-54",
-              "male": 3
-            },
-            {
-              "age_range": "25-34",
-              "male": 3
-            }
-          ]
-        },
-        {
-          "country": "BG",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 3
-            },
-            {
-              "age_range": "25-34",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "PT",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 15
-            },
-            {
-              "age_range": "55-64",
-              "male": 2
-            },
-            {
-              "age_range": "45-54",
-              "male": 10
-            },
-            {
-              "age_range": "25-34",
-              "male": 14
-            }
-          ]
-        },
-        {
-          "country": "PL",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 20
-            },
-            {
-              "age_range": "45-54",
-              "male": 6
-            },
-            {
-              "age_range": "55-64",
-              "male": 1
-            },
-            {
-              "age_range": "25-34",
-              "male": 11
-            }
-          ]
-        },
-        {
-          "country": "RO",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 9
-            },
-            {
-              "age_range": "45-54",
-              "male": 3
-            },
-            {
-              "age_range": "25-34",
-              "male": 11
-            }
-          ]
-        },
-        {
-          "country": "MT",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 8
-            },
-            {
-              "age_range": "45-54",
-              "male": 5
-            },
-            {
-              "age_range": "25-34",
-              "male": 3
-            }
-          ]
-        },
-        {
-          "country": "DE",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 6
-            },
-            {
-              "age_range": "45-54",
-              "male": 1
-            },
-            {
-              "age_range": "55-64",
-              "male": 2
-            }
-          ]
-        },
-        {
-          "country": "LV",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 2
-            },
-            {
-              "age_range": "25-34",
-              "male": 3
-            }
-          ]
-        },
-        {
-          "country": "FR",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 14
-            },
-            {
-              "age_range": "55-64",
-              "male": 1
-            },
-            {
-              "age_range": "45-54",
-              "male": 7
-            },
-            {
-              "age_range": "25-34",
-              "male": 10
-            }
-          ]
-        },
-        {
-          "country": "IT",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 58
-            },
-            {
-              "age_range": "45-54",
-              "male": 29
-            },
-            {
-              "age_range": "55-64",
-              "male": 20
-            },
-            {
-              "age_range": "25-34",
-              "male": 30
-            }
-          ]
-        },
-        {
-          "country": "IE",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 10
-            },
-            {
-              "age_range": "55-64",
-              "male": 2
-            },
-            {
-              "age_range": "25-34",
-              "male": 2
-            }
-          ]
-        },
-        {
-          "country": "SE",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 4
-            },
-            {
-              "age_range": "55-64",
-              "male": 2
-            },
-            {
-              "age_range": "45-54",
-              "male": 4
-            },
-            {
-              "age_range": "25-34",
-              "male": 2
-            }
-          ]
-        },
-        {
-          "country": "GR",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 18
-            },
-            {
-              "age_range": "45-54",
-              "male": 5
-            },
-            {
-              "age_range": "55-64",
-              "male": 2
-            },
-            {
-              "age_range": "25-34",
-              "male": 5
-            }
-          ]
-        },
-        {
-          "country": "BE",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 6
-            },
-            {
-              "age_range": "55-64",
-              "male": 2
-            },
-            {
-              "age_range": "45-54",
-              "male": 4
-            },
-            {
-              "age_range": "25-34",
-              "male": 3
-            }
-          ]
-        },
-        {
-          "country": "ES",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 16
-            },
-            {
-              "age_range": "55-64",
-              "male": 3
-            },
-            {
-              "age_range": "45-54",
-              "male": 6
-            },
-            {
-              "age_range": "25-34",
-              "male": 5
-            }
-          ]
-        },
-        {
-          "country": "NL",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 13
-            },
-            {
-              "age_range": "45-54",
-              "male": 2
-            },
-            {
-              "age_range": "25-34",
-              "male": 4
-            }
-          ]
-        },
-        {
-          "country": "CZ",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "55-64",
-              "male": 1
-            },
-            {
-              "age_range": "35-44",
-              "male": 4
-            },
-            {
-              "age_range": "45-54",
-              "male": 1
-            },
-            {
-              "age_range": "25-34",
-              "male": 7
-            }
-          ]
-        },
-        {
-          "country": "DK",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "55-64",
-              "male": 1
-            },
-            {
-              "age_range": "25-34",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "HR",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "45-54",
-              "male": 3
-            },
-            {
-              "age_range": "25-34",
-              "male": 1
-            },
-            {
-              "age_range": "35-44",
-              "male": 3
-            }
-          ]
-        },
-        {
-          "country": "HU",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "55-64",
-              "male": 2
-            },
-            {
-              "age_range": "35-44",
-              "male": 2
-            },
-            {
-              "age_range": "25-34",
-              "male": 9
-            }
-          ]
-        },
-        {
-          "country": "FI",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "55-64",
-              "male": 1
-            },
-            {
-              "age_range": "35-44",
-              "male": 4
-            },
-            {
-              "age_range": "25-34",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "LT",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "45-54",
-              "male": 1
-            },
-            {
-              "age_range": "25-34",
-              "male": 4
-            }
-          ]
-        },
-        {
-          "country": "AT",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 3
-            }
-          ]
-        },
-        {
-          "country": "LU",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "25-34",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "SK",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "45-54",
-              "male": 1
-            },
-            {
-              "age_range": "35-44",
-              "male": 1
-            },
-            {
-              "age_range": "25-34",
-              "male": 4
-            }
-          ]
-        }
-      ],
-      "eu_total_reach": 504,
-      "target_ages": [
-        "30",
-        "64"
-      ],
-      "target_gender": "Men",
-      "target_locations": [
-        {
-          "name": "Worldwide",
-          "num_obfuscated": 0,
-          "type": "country_groups",
-          "excluded": false
-        },
-        {
-          "name": "Africa",
-          "num_obfuscated": 0,
-          "type": "country_groups",
-          "excluded": true
-        }
-      ]
-    },
-    {
-      "id": "313926934771412",
-      "page_name": "ZATO",
-      "ad_creation_time": "2024-04-02",
-      "ad_delivery_start_time": "2024-04-02",
-      "ad_delivery_stop_time": "2024-04-05",
-      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=313926934771412&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
-      "publisher_platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "ad_creative_bodies": [
-        "Recycling sounds good with Zato Twin Shaft Shredder!\n\nKAABS GROUP is making the most out of our Blue Devil GF4000\n⚙️ Increasing the density of scrap metal\n🌱 Reducing emissions and CO2 impact\n♻️ Optimizing metal recycling\n\nTurn up the volume and hear what a positive impact on the environment sounds like!\n\n#ZATO #ZatoShredder #Recycling #CircularEconomy #Shredder #DemolitionShear #BlueDevil"
-      ],
-      "age_country_gender_reach_breakdown": [
-        {
-          "country": "PT",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 6
-            },
-            {
-              "age_range": "25-34",
-              "male": 3
-            },
-            {
-              "age_range": "45-54",
-              "male": 7
-            },
-            {
-              "age_range": "55-64",
-              "male": 3
-            }
-          ]
-        },
-        {
-          "country": "PL",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 12
-            },
-            {
-              "age_range": "45-54",
-              "male": 9
-            },
-            {
-              "age_range": "25-34",
-              "male": 10
-            }
-          ]
-        },
-        {
-          "country": "HR",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 3
-            },
-            {
-              "age_range": "25-34",
-              "male": 1
-            },
-            {
-              "age_range": "45-54",
-              "male": 4
-            }
-          ]
-        },
-        {
-          "country": "CZ",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 6
-            },
-            {
-              "age_range": "25-34",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "GR",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 8
-            },
-            {
-              "age_range": "45-54",
-              "male": 4
-            },
-            {
-              "age_range": "25-34",
-              "male": 3
-            },
-            {
-              "age_range": "55-64",
-              "male": 5
-            }
-          ]
-        },
-        {
-          "country": "BG",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 6
-            },
-            {
-              "age_range": "45-54",
-              "male": 4
-            },
-            {
-              "age_range": "25-34",
-              "male": 2
-            },
-            {
-              "age_range": "55-64",
-              "male": 2
-            }
-          ]
-        },
-        {
-          "country": "MT",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 5
-            },
-            {
-              "age_range": "45-54",
-              "male": 7
-            }
-          ]
-        },
-        {
-          "country": "FR",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 7
-            },
-            {
-              "age_range": "25-34",
-              "male": 1
-            },
-            {
-              "age_range": "55-64",
-              "male": 2
-            },
-            {
-              "age_range": "45-54",
-              "male": 2
-            }
-          ]
-        },
-        {
-          "country": "RO",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 17
-            },
-            {
-              "age_range": "25-34",
-              "male": 7
-            },
-            {
-              "age_range": "45-54",
-              "male": 3
-            }
-          ]
-        },
-        {
-          "country": "HU",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 6
-            },
-            {
-              "age_range": "25-34",
-              "male": 5
-            },
-            {
-              "age_range": "55-64",
-              "male": 2
-            },
-            {
-              "age_range": "45-54",
-              "male": 5
-            }
-          ]
-        },
-        {
-          "country": "IT",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 14
-            },
-            {
-              "age_range": "55-64",
-              "male": 18
-            },
-            {
-              "age_range": "45-54",
-              "male": 9
-            },
-            {
-              "age_range": "25-34",
-              "male": 7
-            }
-          ]
-        },
-        {
-          "country": "DE",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 2
-            }
-          ]
-        },
-        {
-          "country": "IE",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "55-64",
-              "male": 2
-            },
-            {
-              "age_range": "35-44",
-              "male": 2
-            },
-            {
-              "age_range": "25-34",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "BE",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "55-64",
-              "male": 2
-            },
-            {
-              "age_range": "35-44",
-              "male": 2
-            },
-            {
-              "age_range": "25-34",
-              "male": 2
-            },
-            {
-              "age_range": "45-54",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "SE",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "55-64",
-              "male": 3
-            },
-            {
-              "age_range": "45-54",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "ES",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "45-54",
-              "male": 1
-            },
-            {
-              "age_range": "35-44",
-              "male": 2
-            },
-            {
-              "age_range": "55-64",
-              "male": 2
-            }
-          ]
-        },
-        {
-          "country": "FI",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "45-54",
-              "male": 1
-            },
-            {
-              "age_range": "35-44",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "SK",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "45-54",
-              "male": 1
-            },
-            {
-              "age_range": "25-34",
-              "male": 2
-            },
-            {
-              "age_range": "35-44",
-              "male": 2
-            }
-          ]
-        },
-        {
-          "country": "LU",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "45-54",
-              "male": 1
-            },
-            {
-              "age_range": "35-44",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "CY",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "25-34",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "SI",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "DK",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "AT",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 1
-            }
-          ]
-        }
-      ],
-      "eu_total_reach": 252,
-      "target_ages": [
-        "30",
-        "64"
-      ],
-      "target_gender": "Men",
-      "target_locations": [
-        {
-          "name": "Worldwide",
-          "num_obfuscated": 0,
-          "type": "country_groups",
-          "excluded": false
-        },
-        {
-          "name": "Africa",
-          "num_obfuscated": 0,
-          "type": "country_groups",
-          "excluded": true
-        }
-      ]
-    },
-    {
-      "id": "7169016413206462",
-      "page_name": "ZATO",
-      "ad_creation_time": "2024-03-19",
-      "ad_delivery_start_time": "2024-03-19",
-      "ad_delivery_stop_time": "2024-04-02",
-      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=7169016413206462&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
-      "publisher_platforms": [
-        "instagram"
-      ],
-      "ad_creative_bodies": [
-        "Reliable performance and more cutting power – introducing Blue Devil! ⚡️\nThe ultimate pre-shredder, boosting productivity by 50% and optimizing bulky scrap size for maximum plant efficiency. \nDiscover more about our metal shredder at link in bio🔗\n\n#ZATO #ZatoShredder #Recycling #CircularEconomy #RecyclingSolutions #BlueDevil"
-      ],
-      "age_country_gender_reach_breakdown": [
-        {
-          "country": "DK",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 11
-            },
-            {
-              "age_range": "55-64",
-              "male": 1
-            },
-            {
-              "age_range": "25-34",
-              "male": 8
-            },
-            {
-              "age_range": "45-54",
-              "male": 6
-            }
-          ]
-        },
-        {
-          "country": "SE",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 6
-            },
-            {
-              "age_range": "55-64",
-              "male": 4
-            },
-            {
-              "age_range": "45-54",
-              "male": 4
-            },
-            {
-              "age_range": "25-34",
-              "male": 3
-            }
-          ]
-        },
-        {
-          "country": "ES",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 25
-            },
-            {
-              "age_range": "55-64",
-              "male": 3
-            },
-            {
-              "age_range": "45-54",
-              "male": 10
-            },
-            {
-              "age_range": "25-34",
-              "male": 14
-            }
-          ]
-        },
-        {
-          "country": "NL",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 14
-            },
-            {
-              "age_range": "55-64",
-              "male": 5
-            },
-            {
-              "age_range": "25-34",
-              "male": 20
-            },
-            {
-              "age_range": "45-54",
-              "male": 8
-            }
-          ]
-        },
-        {
-          "country": "GR",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 30
-            },
-            {
-              "age_range": "55-64",
-              "male": 12
-            },
-            {
-              "age_range": "45-54",
-              "male": 14
-            },
-            {
-              "age_range": "25-34",
-              "male": 10
-            }
-          ]
-        },
-        {
-          "country": "CY",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 11
-            },
-            {
-              "age_range": "45-54",
-              "male": 4
-            },
-            {
-              "age_range": "25-34",
-              "male": 3
-            }
-          ]
-        },
-        {
-          "country": "HU",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 6
-            },
-            {
-              "age_range": "55-64",
-              "male": 2
-            },
-            {
-              "age_range": "45-54",
-              "male": 4
-            },
-            {
-              "age_range": "25-34",
-              "male": 9
-            }
-          ]
-        },
-        {
-          "country": "SK",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 6
-            },
-            {
-              "age_range": "45-54",
-              "male": 3
-            },
-            {
-              "age_range": "25-34",
-              "male": 4
-            },
-            {
-              "age_range": "55-64",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "SI",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 4
-            },
-            {
-              "age_range": "25-34",
-              "male": 3
-            },
-            {
-              "age_range": "45-54",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "CZ",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 6
-            },
-            {
-              "age_range": "25-34",
-              "male": 17
-            },
-            {
-              "age_range": "45-54",
-              "male": 4
-            },
-            {
-              "age_range": "55-64",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "PT",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 24
-            },
-            {
-              "age_range": "25-34",
-              "male": 17
-            },
-            {
-              "age_range": "45-54",
-              "male": 18
-            },
-            {
-              "age_range": "55-64",
-              "male": 2
-            }
-          ]
-        },
-        {
-          "country": "PL",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 22
-            },
-            {
-              "age_range": "25-34",
-              "male": 25
-            },
-            {
-              "age_range": "45-54",
-              "male": 10
-            },
-            {
-              "age_range": "55-64",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "HR",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 4
-            },
-            {
-              "age_range": "25-34",
-              "male": 4
-            },
-            {
-              "age_range": "45-54",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "AT",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 3
-            },
-            {
-              "age_range": "55-64",
-              "male": 1
-            },
-            {
-              "age_range": "25-34",
-              "male": 3
-            },
-            {
-              "age_range": "45-54",
-              "male": 3
-            }
-          ]
-        },
-        {
-          "country": "RO",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "25-34",
-              "male": 9
-            },
-            {
-              "age_range": "35-44",
-              "male": 14
-            },
-            {
-              "age_range": "55-64",
-              "male": 3
-            },
-            {
-              "age_range": "45-54",
-              "male": 4
-            }
-          ]
-        },
-        {
-          "country": "LT",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "25-34",
-              "male": 6
-            },
-            {
-              "age_range": "45-54",
-              "male": 2
-            },
-            {
-              "age_range": "35-44",
-              "male": 3
-            }
-          ]
-        },
-        {
-          "country": "BG",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "25-34",
-              "male": 5
-            },
-            {
-              "age_range": "45-54",
-              "male": 3
-            },
-            {
-              "age_range": "35-44",
-              "male": 8
-            }
-          ]
-        },
-        {
-          "country": "IT",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 73
-            },
-            {
-              "age_range": "55-64",
-              "male": 23
-            },
-            {
-              "age_range": "45-54",
-              "male": 32
-            },
-            {
-              "age_range": "25-34",
-              "male": 51
-            }
-          ]
-        },
-        {
-          "country": "IE",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 13
-            },
-            {
-              "age_range": "55-64",
-              "male": 3
-            },
-            {
-              "age_range": "25-34",
-              "male": 7
-            },
-            {
-              "age_range": "45-54",
-              "male": 4
-            }
-          ]
-        },
-        {
-          "country": "FR",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "25-34",
-              "male": 10
-            },
-            {
-              "age_range": "45-54",
-              "male": 8
-            },
-            {
-              "age_range": "35-44",
-              "male": 15
-            },
-            {
-              "age_range": "55-64",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "DE",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "25-34",
-              "male": 12
-            },
-            {
-              "age_range": "35-44",
-              "male": 20
-            },
-            {
-              "age_range": "45-54",
-              "male": 9
-            },
-            {
-              "age_range": "55-64",
-              "male": 2
-            }
-          ]
-        },
-        {
-          "country": "EE",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "25-34",
-              "male": 1
-            },
-            {
-              "age_range": "35-44",
-              "male": 3
-            },
-            {
-              "age_range": "45-54",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "MT",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "25-34",
-              "male": 4
-            },
-            {
-              "age_range": "55-64",
-              "male": 1
-            },
-            {
-              "age_range": "35-44",
-              "male": 5
-            },
-            {
-              "age_range": "45-54",
-              "male": 5
-            }
-          ]
-        },
-        {
-          "country": "BE",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "55-64",
-              "male": 3
-            },
-            {
-              "age_range": "45-54",
-              "male": 6
-            },
-            {
-              "age_range": "35-44",
-              "male": 9
-            },
-            {
-              "age_range": "25-34",
-              "male": 2
-            }
-          ]
-        },
-        {
-          "country": "FI",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "55-64",
-              "male": 5
-            },
-            {
-              "age_range": "45-54",
-              "male": 3
-            },
-            {
-              "age_range": "35-44",
-              "male": 4
-            },
-            {
-              "age_range": "25-34",
-              "male": 3
-            }
-          ]
-        },
-        {
-          "country": "LV",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "45-54",
-              "male": 2
-            },
-            {
-              "age_range": "55-64",
-              "male": 1
-            },
-            {
-              "age_range": "25-34",
-              "male": 1
-            },
-            {
-              "age_range": "35-44",
-              "male": 1
-            }
-          ]
-        }
-      ],
-      "eu_total_reach": 843,
-      "target_ages": [
-        "30",
-        "64"
-      ],
-      "target_gender": "Men",
-      "target_locations": [
-        {
-          "name": "Worldwide",
-          "num_obfuscated": 0,
-          "type": "country_groups",
-          "excluded": false
-        },
-        {
-          "name": "Africa",
-          "num_obfuscated": 0,
-          "type": "country_groups",
-          "excluded": true
-        }
-      ]
-    },
-    {
-      "id": "731554995766076",
-      "page_name": "ZATO",
-      "ad_creation_time": "2024-03-19",
-      "ad_delivery_start_time": "2024-03-19",
-      "ad_delivery_stop_time": "2024-04-03",
-      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=731554995766076&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
-      "publisher_platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "ad_creative_bodies": [
-        "Reliable performance and more cutting power – introducing Blue Devil! ⚡️\nThe ultimate pre-shredder, boosting productivity by 50% and optimizing bulky scrap size for maximum plant efficiency. \nDiscover more about our metal shredder at https://bit.ly/ZATO_shredders\n\n#ZATO #ZatoShredder #Recycling #CircularEconomy #RecyclingSolutions #BlueDevil"
-      ],
-      "age_country_gender_reach_breakdown": [
-        {
-          "country": "PT",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 6
-            },
-            {
-              "age_range": "45-54",
-              "male": 8
-            },
-            {
-              "age_range": "25-34",
-              "male": 2
-            }
-          ]
-        },
-        {
-          "country": "GR",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 10
-            },
-            {
-              "age_range": "45-54",
-              "male": 4
-            },
-            {
-              "age_range": "55-64",
-              "male": 4
-            },
-            {
-              "age_range": "25-34",
-              "male": 2
-            }
-          ]
-        },
-        {
-          "country": "MT",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 7
-            },
-            {
-              "age_range": "55-64",
-              "male": 1
-            },
-            {
-              "age_range": "45-54",
-              "male": 4
-            }
-          ]
-        },
-        {
-          "country": "SI",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 2
-            }
-          ]
-        },
-        {
-          "country": "RO",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 6
-            },
-            {
-              "age_range": "45-54",
-              "male": 3
-            },
-            {
-              "age_range": "25-34",
-              "male": 3
-            },
-            {
-              "age_range": "55-64",
-              "male": 4
-            }
-          ]
-        },
-        {
-          "country": "IT",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 11
-            },
-            {
-              "age_range": "45-54",
-              "male": 4
-            },
-            {
-              "age_range": "25-34",
-              "male": 4
-            },
-            {
-              "age_range": "55-64",
-              "male": 10
-            }
-          ]
-        },
-        {
-          "country": "DE",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "45-54",
-              "male": 1
-            },
-            {
-              "age_range": "35-44",
-              "male": 3
-            },
-            {
-              "age_range": "25-34",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "BG",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "45-54",
-              "male": 3
-            },
-            {
-              "age_range": "35-44",
-              "male": 3
-            },
-            {
-              "age_range": "25-34",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "HR",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "25-34",
-              "male": 1
-            },
-            {
-              "age_range": "45-54",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "FR",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 1
-            },
-            {
-              "age_range": "55-64",
-              "male": 1
-            },
-            {
-              "age_range": "45-54",
-              "male": 2
-            }
-          ]
-        },
-        {
-          "country": "PL",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 3
-            },
-            {
-              "age_range": "55-64",
-              "male": 1
-            },
-            {
-              "age_range": "45-54",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "CY",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 1
-            },
-            {
-              "age_range": "25-34",
-              "male": 2
-            },
-            {
-              "age_range": "55-64",
-              "male": 1
-            },
-            {
-              "age_range": "45-54",
-              "male": 2
-            }
-          ]
-        },
-        {
-          "country": "ES",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 2
-            },
-            {
-              "age_range": "25-34",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "LV",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "LT",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 1
-            },
-            {
-              "age_range": "45-54",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "CZ",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "IE",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "35-44",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "HU",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "55-64",
-              "male": 1
-            },
-            {
-              "age_range": "35-44",
-              "male": 4
-            },
-            {
-              "age_range": "45-54",
-              "male": 2
-            }
-          ]
-        },
-        {
-          "country": "SE",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "55-64",
-              "male": 1
-            }
-          ]
-        },
-        {
-          "country": "NL",
-          "age_gender_breakdowns": [
-            {
-              "age_range": "55-64",
-              "male": 1
-            }
-          ]
-        }
-      ],
-      "eu_total_reach": 141,
-      "target_ages": [
-        "30",
-        "64"
-      ],
-      "target_gender": "Men",
-      "target_locations": [
-        {
-          "name": "Worldwide",
-          "num_obfuscated": 0,
-          "type": "country_groups",
-          "excluded": false
-        },
-        {
-          "name": "Africa",
-          "num_obfuscated": 0,
-          "type": "country_groups",
-          "excluded": true
-        }
-      ]
     }
   ],
   "paging": {
     "cursors": {
-      "after": "c2NyYXBpbmdfY3Vyc29yOk1UY3hNRGcxTXpRNE5qbzNNekUxTlRRNU9UVTNOall3TnpZAPQZDZD"
+      "after": "c2NyYXBpbmdfY3Vyc29yOk1UY3hNamMxTWpnek9Eb3lNVEF3T1RjMk56VXdNamN4T0RVMwZDZD"
     },
-    "next": "https://graph.facebook.com/v22.0/ads_archive?access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD&search_page_ids=260045140842466&ad_reached_countries=ALL%2CBR%2CIN%2CGB%2CUS%2CCA%2CAR%2CAU%2CAT%2CBE%2CCL%2CCN%2CCO%2CHR%2CDK%2CDO%2CEG%2CFI%2CFR%2CDE%2CGR%2CHK%2CID%2CIE%2CIL%2CIT%2CJP%2CJO%2CKW%2CLB%2CMY%2CMX%2CNL%2CNZ%2CNG%2CNO%2CPK%2CPA%2CPE%2CPH%2CPL%2CRU%2CSA%2CRS%2CSG%2CZA%2CKR%2CES%2CSE%2CCH%2CTW%2CTH%2CTR%2CAE%2CVE%2CPT%2CLU%2CBG%2CCZ%2CSI%2CIS%2CSK%2CLT%2CTT%2CBD%2CLK%2CKE%2CHU%2CMA%2CCY%2CJM%2CEC%2CRO%2CBO%2CGT%2CCR%2CQA%2CSV%2CHN%2CNI%2CPY%2CUY%2CPR%2CBA%2CPS%2CTN%2CBH%2CVN%2CGH%2CMU%2CUA%2CMT%2CBS%2CMV%2COM%2CMK%2CLV%2CEE%2CIQ%2CDZ%2CAL%2CNP%2CMO%2CME%2CSN%2CGE%2CBN%2CUG%2CGP%2CBB%2CAZ%2CTZ%2CLY%2CMQ%2CCM%2CBW%2CET%2CKZ%2CNA%2CMG%2CNC%2CMD%2CFJ%2CBY%2CJE%2CGU%2CYE%2CZM%2CIM%2CHT%2CKH%2CAW%2CPF%2CAF%2CBM%2CGY%2CAM%2CMW%2CAG%2CRW%2CGG%2CGM%2CFO%2CLC%2CKY%2CBJ%2CAD%2CGD%2CVI%2CBZ%2CVC%2CMN%2CMZ%2CML%2CAO%2CGF%2CUZ%2CDJ%2CBF%2CMC%2CTG%2CGL%2CGA%2CGI%2CCD%2CKG%2CPG%2CBT%2CKN%2CSZ%2CLS%2CLA%2CLI%2CMP%2CSR%2CSC%2CVG%2CTC%2CDM%2CMR%2CAX%2CSM%2CSL%2CNE%2CCG%2CAI%2CYT%2CCV%2CGN%2CTM%2CBI%2CTJ%2CVU%2CSB%2CER%2CWS%2CAS%2CFK%2CGQ%2CTO%2CKM%2CPW%2CFM%2CCF%2CSO%2CMH%2CVA%2CTD%2CKI%2CST%2CTV%2CNR%2CRE%2CLR%2CZW%2CCI%2CMM%2CAN%2CAQ%2CBQ%2CBV%2CIO%2CCX%2CCC%2CCK%2CCW%2CTF%2CGW%2CHM%2CXK%2CMS%2CNU%2CNF%2CPN%2CBL%2CSH%2CMF%2CPM%2CSX%2CGS%2CSS%2CSJ%2CTL%2CTK%2CUM%2CWF%2CEH&fields=id%2Cpage_name%2Cad_creation_time%2Cad_delivery_start_time%2Cad_delivery_stop_time%2Cad_snapshot_url%2Cpublisher_platforms%2Cad_creative_bodies%2Cad_creative_link_captions%2Cad_creative_link_descriptions%2Cage_country_gender_reach_breakdown%2Cdelivery_by_region%2Ceu_total_reach%2Cestimated_audience_size%2Cdemographic_distribution%2Cimpressions%2Cspend%2Ctarget_ages%2Ctarget_gender%2Ctarget_locations&limit=250&after=c2NyYXBpbmdfY3Vyc29yOk1UY3hNRGcxTXpRNE5qbzNNekUxTlRRNU9UVTNOall3TnpZAPQZDZD"
+    "next": "https://graph.facebook.com/v22.0/ads_archive?access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD&search_page_ids=260045140842466&ad_reached_countries=ALL%2CBR%2CIN%2CGB%2CUS%2CCA%2CAR%2CAU%2CAT%2CBE%2CCL%2CCN%2CCO%2CHR%2CDK%2CDO%2CEG%2CFI%2CFR%2CDE%2CGR%2CHK%2CID%2CIE%2CIL%2CIT%2CJP%2CJO%2CKW%2CLB%2CMY%2CMX%2CNL%2CNZ%2CNG%2CNO%2CPK%2CPA%2CPE%2CPH%2CPL%2CRU%2CSA%2CRS%2CSG%2CZA%2CKR%2CES%2CSE%2CCH%2CTW%2CTH%2CTR%2CAE%2CVE%2CPT%2CLU%2CBG%2CCZ%2CSI%2CIS%2CSK%2CLT%2CTT%2CBD%2CLK%2CKE%2CHU%2CMA%2CCY%2CJM%2CEC%2CRO%2CBO%2CGT%2CCR%2CQA%2CSV%2CHN%2CNI%2CPY%2CUY%2CPR%2CBA%2CPS%2CTN%2CBH%2CVN%2CGH%2CMU%2CUA%2CMT%2CBS%2CMV%2COM%2CMK%2CLV%2CEE%2CIQ%2CDZ%2CAL%2CNP%2CMO%2CME%2CSN%2CGE%2CBN%2CUG%2CGP%2CBB%2CAZ%2CTZ%2CLY%2CMQ%2CCM%2CBW%2CET%2CKZ%2CNA%2CMG%2CNC%2CMD%2CFJ%2CBY%2CJE%2CGU%2CYE%2CZM%2CIM%2CHT%2CKH%2CAW%2CPF%2CAF%2CBM%2CGY%2CAM%2CMW%2CAG%2CRW%2CGG%2CGM%2CFO%2CLC%2CKY%2CBJ%2CAD%2CGD%2CVI%2CBZ%2CVC%2CMN%2CMZ%2CML%2CAO%2CGF%2CUZ%2CDJ%2CBF%2CMC%2CTG%2CGL%2CGA%2CGI%2CCD%2CKG%2CPG%2CBT%2CKN%2CSZ%2CLS%2CLA%2CLI%2CMP%2CSR%2CSC%2CVG%2CTC%2CDM%2CMR%2CAX%2CSM%2CSL%2CNE%2CCG%2CAI%2CYT%2CCV%2CGN%2CTM%2CBI%2CTJ%2CVU%2CSB%2CER%2CWS%2CAS%2CFK%2CGQ%2CTO%2CKM%2CPW%2CFM%2CCF%2CSO%2CMH%2CVA%2CTD%2CKI%2CST%2CTV%2CNR%2CRE%2CLR%2CZW%2CCI%2CMM%2CAN%2CAQ%2CBQ%2CBV%2CIO%2CCX%2CCC%2CCK%2CCW%2CTF%2CGW%2CHM%2CXK%2CMS%2CNU%2CNF%2CPN%2CBL%2CSH%2CMF%2CPM%2CSX%2CGS%2CSS%2CSJ%2CTL%2CTK%2CUM%2CWF%2CEH&fields=id%2Cpage_name%2Cad_creation_time%2Cad_delivery_start_time%2Cad_delivery_stop_time%2Cad_snapshot_url%2Cpublisher_platforms%2Cad_creative_bodies%2Cad_creative_link_captions%2Cad_creative_link_descriptions%2Cage_country_gender_reach_breakdown%2Cdelivery_by_region%2Ceu_total_reach%2Cestimated_audience_size%2Cdemographic_distribution%2Cimpressions%2Cspend%2Ctarget_ages%2Ctarget_gender%2Ctarget_locations&limit=250&after=c2NyYXBpbmdfY3Vyc29yOk1UY3hNamMxTWpnek9Eb3lNVEF3T1RjMk56VXdNamN4T0RVMwZDZD"
   }
 }
