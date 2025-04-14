@@ -11,15 +11,7 @@
     "lastView": "2024-05-17T21:59:24.000Z",
     "countries": [
       {
-        "country": "Norway",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Denmark",
+        "country": "Finland",
         "averageClicks": "1000"
       },
       {
@@ -27,7 +19,15 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Sweden",
+        "country": "Denmark",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Norway",
         "averageClicks": "1000"
       },
       {
@@ -35,7 +35,7 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Finland",
+        "country": "Sweden",
         "averageClicks": "1000"
       }
     ],

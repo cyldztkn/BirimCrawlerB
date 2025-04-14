@@ -1,11 +1,653 @@
 {
   "data": [
     {
+      "id": "4032741830306430",
+      "page_name": "Lindemann International",
+      "ad_creation_time": "2025-04-10",
+      "ad_delivery_start_time": "2025-04-11",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4032741830306430&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "ad_creative_bodies": [
+        "Thévenaz-Leduc, Europe's pioneering metal recycler, achieved rapid ROI by upgrading their shredder with Lindemann’s Shredder Drive Assistant.\n\nStandard shredder operations leave efficiency gains untapped and expose recyclers to costly energy peaks that inflate quarterly bills.\n\nLindemann’s SDA technology optimizes feeding for consistent throughput while eliminating expensive power spikes - even with challenging materials.\n\n“In this era of high-energy bills, we are never satisfied unless operating at maximum efficiency!\" - Blesi Roger, Managing Director Thévenaz-Leduc."
+      ],
+      "ad_creative_link_captions": [
+        "lindemann-metalrecycling.com"
+      ],
+      "ad_creative_link_descriptions": [
+        "LINDEMANN offers a wide range of efficient solutions for shearing, baling, briquetting, shredding and pre-shredding of virtually every type of metal scrap."
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "SE",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "35-44",
+              "female": 1
+            },
+            {
+              "age_range": "45-54",
+              "female": 1
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 2,
+      "target_ages": [
+        "18",
+        "65"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "İsveç",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Finlandiya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Danimarka",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Bulgaristan",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": "1819971938793910",
+      "page_name": "Lindemann International",
+      "ad_creation_time": "2025-04-10",
+      "ad_delivery_start_time": "2025-04-11",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1819971938793910&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "ad_creative_bodies": [
+        "Wondering why competitors process more material with less energy consumption?\nStandard hydraulic systems and basic upgrades leave efficiency gains on the table, while maintenance costs continue to rise.\nPremium 400 bar hydraulic technology delivers superior performance. Lindemann’s advanced system processes 20% more material while reducing energy costs - setting a new standard in metal recycling efficiency.\nJoin industry leaders who've upgraded to the power of 400 bar technology."
+      ],
+      "ad_creative_link_captions": [
+        "lindemann-metalrecycling.com"
+      ],
+      "ad_creative_link_descriptions": [
+        "LINDEMANN offers a wide range of efficient solutions for shearing, baling, briquetting, shredding and pre-shredding of virtually every type of metal scrap."
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "SE",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "45-54",
+              "female": 1
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 1,
+      "target_ages": [
+        "18",
+        "65"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "İsveç",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Finlandiya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Danimarka",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Bulgaristan",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": "1078089747491998",
+      "page_name": "Lindemann International",
+      "ad_creation_time": "2025-04-10",
+      "ad_delivery_start_time": "2025-04-11",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1078089747491998&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "ad_creative_bodies": [
+        "Is your recycling operation ready for the steel industry's sustainable future?\nBasic recycling equipment struggles to meet stricter environmental standards, risking non-compliance and lost business opportunities.\nAdvanced recycling systems enable efficient participation in the green steel cycle. Lindemann’s technology reduces CO2 emissions while maintaining superior output quality.\nJoin forward-thinking recyclers preparing for tomorrow's standards today."
+      ],
+      "ad_creative_link_captions": [
+        "lindemann-metalrecycling.com"
+      ],
+      "ad_creative_link_descriptions": [
+        "LINDEMANN offers a wide range of efficient solutions for shearing, baling, briquetting, shredding and pre-shredding of virtually every type of metal scrap."
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "SE",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "45-54",
+              "male": 1
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 1,
+      "target_ages": [
+        "18",
+        "65"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "İsveç",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Finlandiya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Danimarka",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": "991076263208363",
+      "page_name": "Lindemann International",
+      "ad_creation_time": "2025-04-10",
+      "ad_delivery_start_time": "2025-04-11",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=991076263208363&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "ad_creative_bodies": [
+        "Are your machines working in isolation instead of as an integrated system?\nStand-alone solutions and disconnected monitoring lead to inefficiencies and missed optimization opportunities.\nAdvanced integrated systems deliver synchronized performance gains. Lindemann InDEx technologies optimizes your entire operation - from feed control to real-time monitoring.\nJoin industry leaders achieving peak efficiency through intelligent integration"
+      ],
+      "ad_creative_link_captions": [
+        "lindemann-metalrecycling.com"
+      ],
+      "ad_creative_link_descriptions": [
+        "LINDEMANN offers a wide range of efficient solutions for shearing, baling, briquetting, shredding and pre-shredding of virtually every type of metal scrap."
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "SE",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "65+",
+              "male": 1
+            },
+            {
+              "age_range": "45-54",
+              "male": 1,
+              "female": 2
+            },
+            {
+              "age_range": "35-44",
+              "male": 1
+            }
+          ]
+        },
+        {
+          "country": "DK",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "45-54",
+              "male": 1
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 6,
+      "target_ages": [
+        "18",
+        "65"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "İsveç",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Finlandiya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Danimarka",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Bulgaristan",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": "24157690940486431",
+      "page_name": "Lindemann International",
+      "ad_creation_time": "2025-04-10",
+      "ad_delivery_start_time": "2025-04-11",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=24157690940486431&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "ad_creative_bodies": [
+        "Reduce energy costs while boosting shredder performance! With Lindemann’s Variable Frequency Drive (VFD) and Shredder Drive Assistant (SDA), you can achieve up to 20% energy savings while significantly increasing throughput and efficiency.\n\nTraditional shredder drives suffer from sudden load peaks and high energy consumption due to fluctuating material feeds. Our VFD technology dynamically adjusts speed and torque to match real-time demand, eliminating unnecessary power spikes and ensuring smooth operation."
+      ],
+      "ad_creative_link_captions": [
+        "lindemann-metalrecycling.com"
+      ],
+      "ad_creative_link_descriptions": [
+        "LINDEMANN offers a wide range of efficient solutions for shearing, baling, briquetting, shredding and pre-shredding of virtually every type of metal scrap."
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "DK",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "45-54",
+              "male": 1
+            }
+          ]
+        },
+        {
+          "country": "SE",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "45-54",
+              "male": 1
+            },
+            {
+              "age_range": "55-64",
+              "male": 2
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 4,
+      "target_ages": [
+        "18",
+        "65"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "İsveç",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Finlandiya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Danimarka",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": "1759072521673077",
+      "page_name": "Lindemann International",
+      "ad_creation_time": "2025-04-10",
+      "ad_delivery_start_time": "2025-04-11",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1759072521673077&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "ad_creative_bodies": [
+        "Reduce energy costs while boosting shredder performance! With Lindemann’s Variable Frequency Drive (VFD) and Shredder Drive Assistant (SDA), you can achieve up to 20% energy savings while significantly increasing throughput and efficiency.\n\nTraditional shredder drives suffer from sudden load peaks and high energy consumption due to fluctuating material feeds. Our VFD technology dynamically adjusts speed and torque to match real-time demand, eliminating unnecessary power spikes and ensuring smooth operation."
+      ],
+      "ad_creative_link_captions": [
+        "lindemann-metalrecycling.com"
+      ],
+      "ad_creative_link_descriptions": [
+        "LINDEMANN offers a wide range of efficient solutions for shearing, baling, briquetting, shredding and pre-shredding of virtually every type of metal scrap."
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "SE",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "45-54",
+              "male": 1,
+              "female": 1
+            },
+            {
+              "age_range": "65+",
+              "male": 1
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 3,
+      "target_ages": [
+        "18",
+        "65"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "İsveç",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Finlandiya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Danimarka",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Bulgaristan",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": "3587503451553674",
+      "page_name": "Lindemann International",
+      "ad_creation_time": "2025-04-09",
+      "ad_delivery_start_time": "2025-04-10",
+      "ad_delivery_stop_time": "2025-04-10",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3587503451553674&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "ad_creative_bodies": [
+        "Is your recycling operation ready for the steel industry's sustainable future?\nBasic recycling equipment struggles to meet stricter environmental standards, risking non-compliance and lost business opportunities.\nAdvanced recycling systems enable efficient participation in the green steel cycle. Lindemann’s technology reduces CO2 emissions while maintaining superior output quality.\nJoin forward-thinking recyclers preparing for tomorrow's standards today."
+      ],
+      "ad_creative_link_captions": [
+        "lindemann-metalrecycling.com"
+      ],
+      "ad_creative_link_descriptions": [
+        "LINDEMANN offers a wide range of efficient solutions for shearing, baling, briquetting, shredding and pre-shredding of virtually every type of metal scrap."
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "SE",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "45-54",
+              "male": 1
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 1,
+      "target_ages": [
+        "18",
+        "65"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "İsveç",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Finlandiya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Danimarka",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": "673246458449790",
+      "page_name": "Lindemann International",
+      "ad_creation_time": "2025-04-09",
+      "ad_delivery_start_time": "2025-04-10",
+      "ad_delivery_stop_time": "2025-04-10",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=673246458449790&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "ad_creative_bodies": [
+        "Are your machines working in isolation instead of as an integrated system?\nStand-alone solutions and disconnected monitoring lead to inefficiencies and missed optimization opportunities.\nAdvanced integrated systems deliver synchronized performance gains. Lindemann InDEx technologies optimizes your entire operation - from feed control to real-time monitoring.\nJoin industry leaders achieving peak efficiency through intelligent integration"
+      ],
+      "ad_creative_link_captions": [
+        "lindemann-metalrecycling.com"
+      ],
+      "ad_creative_link_descriptions": [
+        "LINDEMANN offers a wide range of efficient solutions for shearing, baling, briquetting, shredding and pre-shredding of virtually every type of metal scrap."
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "SE",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "45-54",
+              "male": 1
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 1,
+      "target_ages": [
+        "18",
+        "65"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "İsveç",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Finlandiya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Danimarka",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": "1057325792899384",
+      "page_name": "Lindemann International",
+      "ad_creation_time": "2025-04-09",
+      "ad_delivery_start_time": "2025-04-09",
+      "ad_delivery_stop_time": "2025-04-09",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1057325792899384&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "ad_creative_bodies": [
+        "Thévenaz-Leduc, Europe's pioneering metal recycler, achieved rapid ROI by upgrading their shredder with Lindemann’s Shredder Drive Assistant.\n\nStandard shredder operations leave efficiency gains untapped and expose recyclers to costly energy peaks that inflate quarterly bills.\n\nLindemann’s SDA technology optimizes feeding for consistent throughput while eliminating expensive power spikes - even with challenging materials.\n\n“In this era of high-energy bills, we are never satisfied unless operating at maximum efficiency!\" - Blesi Roger, Managing Director Thévenaz-Leduc."
+      ],
+      "ad_creative_link_captions": [
+        "lindemann-metalrecycling.com"
+      ],
+      "ad_creative_link_descriptions": [
+        "LINDEMANN offers a wide range of efficient solutions for shearing, baling, briquetting, shredding and pre-shredding of virtually every type of metal scrap."
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "SE",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "25-34",
+              "female": 1
+            },
+            {
+              "age_range": "45-54",
+              "female": 1
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 2,
+      "target_ages": [
+        "18",
+        "65"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "İsveç",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Finlandiya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Danimarka",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": "947317624148761",
+      "page_name": "Lindemann International",
+      "ad_creation_time": "2025-04-05",
+      "ad_delivery_start_time": "2025-04-05",
+      "ad_delivery_stop_time": "2025-04-07",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=947317624148761&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "ad_creative_bodies": [
+        "Are rising energy costs and environmental regulations squeezing your scrap processing margins?\n\nIn-house solutions and basic equipment packages often lead to costly breakdowns and compliance risks.\n\nLindemann’s 400 bar hydraulic technology achieves higher throughputs while reducing energy consumption, with integrated monitoring ensuring optimal performance.\n\nJoin industry leaders who maximize productivity while meeting environmental standards."
+      ],
+      "ad_creative_link_captions": [
+        "lindemann-metalrecycling.com"
+      ],
+      "ad_creative_link_descriptions": [
+        "LINDEMANN offers a wide range of efficient solutions for shearing, baling, briquetting, shredding and pre-shredding of virtually every type of metal scrap."
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "SE",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "45-54",
+              "male": 1
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 1,
+      "target_ages": [
+        "18",
+        "65"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "İsveç",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Finlandiya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Danimarka",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
       "id": "1050003936982189",
       "page_name": "Lindemann International",
       "ad_creation_time": "2025-04-05",
       "ad_delivery_start_time": "2025-04-05",
-      "ad_delivery_stop_time": "2025-04-05",
+      "ad_delivery_stop_time": "2025-04-09",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1050003936982189&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "facebook",
@@ -59,11 +701,73 @@
       ]
     },
     {
+      "id": "1365504787971130",
+      "page_name": "Lindemann International",
+      "ad_creation_time": "2025-04-05",
+      "ad_delivery_start_time": "2025-04-05",
+      "ad_delivery_stop_time": "2025-04-09",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1365504787971130&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "ad_creative_bodies": [
+        "Wondering why competitors process more material with less energy consumption?\nStandard hydraulic systems and basic upgrades leave efficiency gains on the table, while maintenance costs continue to rise.\nPremium 400 bar hydraulic technology delivers superior performance. Lindemann’s advanced system processes 20% more material while reducing energy costs - setting a new standard in metal recycling efficiency.\nJoin industry leaders who've upgraded to the power of 400 bar technology."
+      ],
+      "ad_creative_link_captions": [
+        "lindemann-metalrecycling.com"
+      ],
+      "ad_creative_link_descriptions": [
+        "LINDEMANN offers a wide range of efficient solutions for shearing, baling, briquetting, shredding and pre-shredding of virtually every type of metal scrap."
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "SE",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "45-54",
+              "male": 1
+            },
+            {
+              "age_range": "55-64",
+              "male": 2
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 3,
+      "target_ages": [
+        "18",
+        "65"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "İsveç",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Finlandiya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Danimarka",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
       "id": "647206651430111",
       "page_name": "Lindemann International",
       "ad_creation_time": "2025-04-05",
       "ad_delivery_start_time": "2025-04-05",
-      "ad_delivery_stop_time": "2025-04-05",
+      "ad_delivery_stop_time": "2025-04-09",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=647206651430111&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "facebook",
@@ -83,17 +787,152 @@
           "country": "SE",
           "age_gender_breakdowns": [
             {
+              "age_range": "45-54",
+              "male": 1,
+              "female": 1
+            },
+            {
               "age_range": "25-34",
               "female": 1
             },
             {
               "age_range": "35-44",
+              "male": 3,
+              "female": 1
+            }
+          ]
+        },
+        {
+          "country": "DK",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "45-54",
+              "male": 1
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 8,
+      "target_ages": [
+        "18",
+        "65"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "İsveç",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Finlandiya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Danimarka",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": "10052159514796157",
+      "page_name": "Lindemann International",
+      "ad_creation_time": "2025-04-05",
+      "ad_delivery_start_time": "2025-04-05",
+      "ad_delivery_stop_time": "2025-04-09",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=10052159514796157&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "ad_creative_bodies": [
+        "Is your recycling operation ready for the steel industry's sustainable future?\nBasic recycling equipment struggles to meet stricter environmental standards, risking non-compliance and lost business opportunities.\nAdvanced recycling systems enable efficient participation in the green steel cycle. Lindemann’s technology reduces CO2 emissions while maintaining superior output quality.\nJoin forward-thinking recyclers preparing for tomorrow's standards today."
+      ],
+      "ad_creative_link_captions": [
+        "lindemann-metalrecycling.com"
+      ],
+      "ad_creative_link_descriptions": [
+        "LINDEMANN offers a wide range of efficient solutions for shearing, baling, briquetting, shredding and pre-shredding of virtually every type of metal scrap."
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "SE",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "45-54",
+              "male": 1
+            },
+            {
+              "age_range": "65+",
               "male": 1
             }
           ]
         }
       ],
       "eu_total_reach": 2,
+      "target_ages": [
+        "18",
+        "65"
+      ],
+      "target_gender": "All",
+      "target_locations": [
+        {
+          "name": "İsveç",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Finlandiya",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        },
+        {
+          "name": "Danimarka",
+          "num_obfuscated": 0,
+          "type": "countries",
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": "592851843767423",
+      "page_name": "Lindemann International",
+      "ad_creation_time": "2025-04-05",
+      "ad_delivery_start_time": "2025-04-06",
+      "ad_delivery_stop_time": "2025-04-08",
+      "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=592851843767423&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
+      "publisher_platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "ad_creative_bodies": [
+        "Is your recycling operation ready for the steel industry's sustainable future?\nBasic recycling equipment struggles to meet stricter environmental standards, risking non-compliance and lost business opportunities.\nAdvanced recycling systems enable efficient participation in the green steel cycle. Lindemann’s technology reduces CO2 emissions while maintaining superior output quality.\nJoin forward-thinking recyclers preparing for tomorrow's standards today."
+      ],
+      "ad_creative_link_captions": [
+        "lindemann-metalrecycling.com"
+      ],
+      "ad_creative_link_descriptions": [
+        "LINDEMANN offers a wide range of efficient solutions for shearing, baling, briquetting, shredding and pre-shredding of virtually every type of metal scrap."
+      ],
+      "age_country_gender_reach_breakdown": [
+        {
+          "country": "DK",
+          "age_gender_breakdowns": [
+            {
+              "age_range": "45-54",
+              "male": 1
+            }
+          ]
+        }
+      ],
+      "eu_total_reach": 1,
       "target_ages": [
         "18",
         "65"
@@ -183,7 +1022,7 @@
       "page_name": "Lindemann International",
       "ad_creation_time": "2025-04-05",
       "ad_delivery_start_time": "2025-04-05",
-      "ad_delivery_stop_time": "2025-04-05",
+      "ad_delivery_stop_time": "2025-04-10",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1640345043268180&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "facebook",
@@ -246,7 +1085,7 @@
       "page_name": "Lindemann International",
       "ad_creation_time": "2025-04-05",
       "ad_delivery_start_time": "2025-04-05",
-      "ad_delivery_stop_time": "2025-04-05",
+      "ad_delivery_stop_time": "2025-04-09",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=960591582912027&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "facebook",
@@ -313,7 +1152,7 @@
       "page_name": "Lindemann International",
       "ad_creation_time": "2025-04-05",
       "ad_delivery_start_time": "2025-04-05",
-      "ad_delivery_stop_time": "2025-04-05",
+      "ad_delivery_stop_time": "2025-04-08",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1229065105499623&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "facebook",
@@ -371,7 +1210,7 @@
       "page_name": "Lindemann International",
       "ad_creation_time": "2025-04-05",
       "ad_delivery_start_time": "2025-04-05",
-      "ad_delivery_stop_time": "2025-04-05",
+      "ad_delivery_stop_time": "2025-04-09",
       "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3931095397106938&access_token=EAAX0CIapKy4BO1g8dX4A0WqKgmslKGl5gRZBC5Gr3gPMF5nZCJ3FPDQRKan18me4qvEVYc9QQM6TCdiwEOz7K4fUQr7JWpSEcabQZCO8S4YYSiXARUz2Ur9sw068ClTPLzuNKY0ZA8qwNRaQxnzUyNOioAJJZCsZB8Vs8LroNstJiyZBKHhqFmfm4KGdtNL5egnlC1X7XIZD",
       "publisher_platforms": [
         "facebook",
