@@ -1,492 +1,30 @@
 [
   {
     "advertiserId": "AR05050191321671663617",
-    "adsId": "CR17317996706628894721",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/2692869257439512933",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-14T02:54:08.000Z",
-    "countries": [
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Philippines",
-        "averageClicks": 0
-      },
-      {
-        "country": "Canada",
-        "averageClicks": 0
-      },
-      {
-        "country": "Saudi Arabia",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bangladesh",
-        "averageClicks": 0
-      },
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Brazil",
-        "averageClicks": 0
-      },
-      {
-        "country": "United Arab Emirates",
-        "averageClicks": 0
-      },
-      {
-        "country": "Malaysia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Algeria",
-        "averageClicks": 0
-      },
-      {
-        "country": "Thailand",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR00038442499919839233",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/9499398488613204305",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-14T02:37:02.000Z",
-    "countries": [
-      {
-        "country": "Romania",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Ukraine",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bangladesh",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bosnia and Herzegovina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Nepal",
-        "averageClicks": 0
-      },
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Algeria",
-        "averageClicks": 0
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "9000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Thailand",
-        "averageClicks": 0
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "South Korea",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Philippines",
-        "averageClicks": 0
-      },
-      {
-        "country": "Venezuela",
-        "averageClicks": 0
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
-      {
-        "country": "Sudan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "6000"
-      },
-      {
-        "country": "Kazakhstan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Singapore",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Brazil",
-        "averageClicks": 0
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Australia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Saudi Arabia",
-        "averageClicks": 0
-      },
-      {
-        "country": "United Arab Emirates",
-        "averageClicks": 0
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "New Zealand",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Canada",
-        "averageClicks": 0
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Malaysia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Serbia",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR11990194263905271809",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/936988259327753267",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2023-10-23T10:22:58.000Z",
-    "lastView": "2025-04-13T22:14:18.000Z",
-    "countries": [
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Serbia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bangladesh",
-        "averageClicks": 0
-      },
-      {
-        "country": "Cote d'Ivoire",
-        "averageClicks": 0
-      },
-      {
-        "country": "Malaysia",
-        "averageClicks": 0
-      },
-      {
-        "country": "United Arab Emirates",
-        "averageClicks": 0
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bolivia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Kazakhstan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "9000"
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Libya",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Philippines",
-        "averageClicks": 0
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Venezuela",
-        "averageClicks": 0
-      },
-      {
-        "country": "Brazil",
-        "averageClicks": 0
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "South Korea",
-        "averageClicks": 0
-      },
-      {
-        "country": "Algeria",
-        "averageClicks": 0
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
-      {
-        "country": "Iraq",
-        "averageClicks": 0
-      },
-      {
-        "country": "Sudan",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Thailand",
-        "averageClicks": 0
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Canada",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
     "adsId": "CR12888899849717547009",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/17369083262395502765",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/6429928665446661940",
     "videoCode": null,
     "type": 1,
     "advertiserName": "江苏华宏科技股份有限公司",
     "website": "asiabaler.com",
     "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-13T21:38:11.000Z",
+    "lastView": "2025-04-21T05:21:15.000Z",
     "countries": [
       {
-        "country": "Pakistan",
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Venezuela",
         "averageClicks": 0
       },
       {
-        "country": "Slovenia",
-        "averageClicks": "1000"
+        "country": "South Africa",
+        "averageClicks": 0
       },
       {
-        "country": "Slovakia",
-        "averageClicks": "1000"
+        "country": "Bangladesh",
+        "averageClicks": 0
       },
       {
         "country": "Czechia",
@@ -497,43 +35,15 @@
         "averageClicks": 0
       },
       {
-        "country": "Algeria",
-        "averageClicks": 0
+        "country": "Bulgaria",
+        "averageClicks": "1000"
       },
       {
         "country": "Serbia",
         "averageClicks": 0
       },
       {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bangladesh",
-        "averageClicks": 0
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Philippines",
+        "country": "Egypt",
         "averageClicks": 0
       },
       {
@@ -541,37 +51,11 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Turkey",
+        "country": "Hungary",
         "averageClicks": "1000"
       },
       {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR05180795710865408001",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/3810730144234229016",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2022-11-30T08:00:00.000Z",
-    "lastView": "2025-04-13T20:47:54.000Z",
-    "countries": [
-      {
-        "country": "Indonesia",
+        "country": "Pakistan",
         "averageClicks": 0
       },
       {
@@ -579,27 +63,7 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "10000"
-      },
-      {
         "country": "Philippines",
-        "averageClicks": 0
-      },
-      {
-        "country": "Pakistan",
         "averageClicks": 0
       },
       {
@@ -607,39 +71,27 @@
         "averageClicks": 0
       },
       {
-        "country": "Bangladesh",
-        "averageClicks": 0
-      },
-      {
-        "country": "Malaysia",
-        "averageClicks": 0
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
+        "country": "Slovakia",
+        "averageClicks": "1000"
       },
       {
         "country": "Algeria",
         "averageClicks": 0
       },
       {
-        "country": "Slovakia",
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Turkey",
         "averageClicks": "1000"
       },
       {
         "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
         "averageClicks": "1000"
       }
     ],
@@ -654,14 +106,10 @@
     "advertiserName": "江苏华宏科技股份有限公司",
     "website": "asiabaler.com",
     "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-13T20:36:29.000Z",
+    "lastView": "2025-04-21T04:01:20.000Z",
     "countries": [
       {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "South Africa",
+        "country": "Algeria",
         "averageClicks": 0
       },
       {
@@ -669,31 +117,31 @@
         "averageClicks": 0
       },
       {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Saudi Arabia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Egypt",
-        "averageClicks": 0
+        "country": "Romania",
+        "averageClicks": "1000"
       },
       {
         "country": "Brazil",
         "averageClicks": 0
       },
       {
-        "country": "Argentina",
+        "country": "Chile",
         "averageClicks": 0
       },
       {
-        "country": "Croatia",
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
         "averageClicks": "1000"
       },
       {
         "country": "Pakistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Africa",
         "averageClicks": 0
       },
       {
@@ -709,15 +157,23 @@
         "averageClicks": 0
       },
       {
-        "country": "Algeria",
-        "averageClicks": 0
-      },
-      {
         "country": "Mexico",
         "averageClicks": 0
       },
       {
-        "country": "Chile",
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "Argentina",
         "averageClicks": 0
       },
       {
@@ -725,11 +181,7 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
+        "country": "Bulgaria",
         "averageClicks": "1000"
       }
     ],
@@ -744,70 +196,14 @@
     "advertiserName": "江苏华宏科技股份有限公司",
     "website": "asiabaler.com",
     "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-13T20:13:23.000Z",
+    "lastView": "2025-04-21T03:49:16.000Z",
     "countries": [
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Taiwan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "15000"
-      },
       {
         "country": "Greece",
         "averageClicks": "6000"
       },
       {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Japan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Singapore",
-        "averageClicks": 0
-      },
-      {
         "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Australia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Brazil",
-        "averageClicks": 0
-      },
-      {
-        "country": "Philippines",
-        "averageClicks": 0
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Kazakhstan",
         "averageClicks": 0
       },
       {
@@ -815,19 +211,7 @@
         "averageClicks": 0
       },
       {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Arab Emirates",
-        "averageClicks": 0
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bangladesh",
+        "country": "Singapore",
         "averageClicks": 0
       },
       {
@@ -835,39 +219,35 @@
         "averageClicks": 0
       },
       {
+        "country": "Pakistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Australia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Oman",
+        "averageClicks": 0
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Argentina",
         "averageClicks": 0
       },
       {
-        "country": "Canada",
+        "country": "United Arab Emirates",
         "averageClicks": 0
-      },
-      {
-        "country": "Malaysia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "5000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "1000"
       },
       {
         "country": "Venezuela",
         "averageClicks": 0
       },
       {
-        "country": "New Zealand",
-        "averageClicks": 0
-      },
-      {
-        "country": "Austria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Oman",
+        "country": "Sudan",
         "averageClicks": 0
       },
       {
@@ -875,12 +255,112 @@
         "averageClicks": "1000"
       },
       {
+        "country": "Japan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Canada",
+        "averageClicks": 0
+      },
+      {
+        "country": "Algeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Kazakhstan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "15000"
+      },
+      {
+        "country": "South Korea",
+        "averageClicks": 0
+      },
+      {
         "country": "Zimbabwe",
         "averageClicks": 0
       },
       {
+        "country": "Vietnam",
+        "averageClicks": 0
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Slovakia",
         "averageClicks": "2000"
+      },
+      {
+        "country": "Taiwan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Iraq",
+        "averageClicks": 0
+      },
+      {
+        "country": "New Zealand",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Malaysia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Philippines",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
       },
       {
         "country": "Egypt",
@@ -891,24 +371,16 @@
         "averageClicks": 0
       },
       {
-        "country": "Hungary",
+        "country": "Italy",
         "averageClicks": "1000"
       },
       {
-        "country": "Nepal",
-        "averageClicks": 0
-      },
-      {
-        "country": "France",
+        "country": "Spain",
         "averageClicks": "1000"
       },
       {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
+        "country": "Romania",
+        "averageClicks": "5000"
       },
       {
         "country": "Kuwait",
@@ -919,117 +391,27 @@
         "averageClicks": 0
       },
       {
-        "country": "Sudan",
+        "country": "Nepal",
         "averageClicks": 0
-      },
-      {
-        "country": "Iraq",
-        "averageClicks": 0
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Vietnam",
-        "averageClicks": 0
-      },
-      {
-        "country": "South Korea",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "2000"
       },
       {
         "country": "Thailand",
         "averageClicks": 0
       },
       {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
-      {
-        "country": "Netherlands",
+        "country": "France",
         "averageClicks": "1000"
       },
       {
-        "country": "Algeria",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR02391950437709250561",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/14271786488924267681",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2022-12-02T08:00:00.000Z",
-    "lastView": "2025-04-13T19:55:28.000Z",
-    "countries": [
-      {
-        "country": "Greece",
+        "country": "Poland",
         "averageClicks": "1000"
       },
       {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Pakistan",
+        "country": "Brazil",
         "averageClicks": 0
       },
       {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bangladesh",
-        "averageClicks": 0
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "7000"
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Algeria",
-        "averageClicks": 0
-      },
-      {
-        "country": "Egypt",
+        "country": "Chile",
         "averageClicks": 0
       }
     ],
@@ -1044,7 +426,7 @@
     "advertiserName": "江苏华宏科技股份有限公司",
     "website": "asiabaler.com",
     "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-13T19:53:33.000Z",
+    "lastView": "2025-04-21T03:44:00.000Z",
     "countries": [
       {
         "country": "Pakistan",
@@ -1067,21 +449,297 @@
   },
   {
     "advertiserId": "AR05050191321671663617",
-    "adsId": "CR01045248392483045377",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/9159577800577510081",
+    "adsId": "CR02391950437709250561",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/14271786488924267681",
     "videoCode": null,
     "type": 1,
     "advertiserName": "江苏华宏科技股份有限公司",
     "website": "asiabaler.com",
-    "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-13T19:35:36.000Z",
+    "startDate": "2022-12-02T08:00:00.000Z",
+    "lastView": "2025-04-21T03:41:07.000Z",
     "countries": [
       {
-        "country": "Nepal",
+        "country": "Algeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "8000"
+      },
+      {
+        "country": "Pakistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Argentina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR05180795710865408001",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/3810730144234229016",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2022-11-30T08:00:00.000Z",
+    "lastView": "2025-04-21T03:00:42.000Z",
+    "countries": [
+      {
+        "country": "Malaysia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Philippines",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Algeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Pakistan",
         "averageClicks": 0
       },
       {
         "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "10000"
+      },
+      {
+        "country": "Argentina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR12604374381074841601",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/8703783986957186645",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2024-07-04T09:45:44.000Z",
+    "lastView": "2025-04-21T02:51:50.000Z",
+    "countries": [
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Serbia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lebanon",
+        "averageClicks": 0
+      },
+      {
+        "country": "Cote d'Ivoire",
+        "averageClicks": 0
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Pakistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Kazakhstan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Algeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Venezuela",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Paraguay",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "Malaysia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bolivia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Sudan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Iraq",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mauritania",
+        "averageClicks": 0
+      },
+      {
+        "country": "Philippines",
+        "averageClicks": 0
+      },
+      {
+        "country": "Chile",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "Senegal",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Libya",
+        "averageClicks": 0
+      },
+      {
+        "country": "Brazil",
+        "averageClicks": 0
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Thailand",
+        "averageClicks": 0
+      },
+      {
+        "country": "Democratic Republic of the Congo",
         "averageClicks": 0
       }
     ],
@@ -1096,58 +754,14 @@
     "advertiserName": "江苏华宏科技股份有限公司",
     "website": "asiabaler.com",
     "startDate": "2022-08-15T07:00:00.000Z",
-    "lastView": "2025-04-13T18:38:36.000Z",
+    "lastView": "2025-04-21T02:33:53.000Z",
     "countries": [
       {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "South Africa",
+        "country": "Philippines",
         "averageClicks": 0
-      },
-      {
-        "country": "Thailand",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "United Arab Emirates",
-        "averageClicks": 0
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Malaysia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Australia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "5000"
       },
       {
         "country": "Serbia",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
         "averageClicks": 0
       },
       {
@@ -1155,16 +769,60 @@
         "averageClicks": 0
       },
       {
+        "country": "Thailand",
+        "averageClicks": 0
+      },
+      {
+        "country": "Malaysia",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Brazil",
+        "averageClicks": 0
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "5000"
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
         "country": "Bangladesh",
         "averageClicks": 0
       },
       {
-        "country": "Philippines",
+        "country": "Australia",
         "averageClicks": 0
       },
       {
-        "country": "Egypt",
-        "averageClicks": 0
+        "country": "Croatia",
+        "averageClicks": "1000"
       },
       {
         "country": "Slovenia",
@@ -1175,161 +833,19 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Brazil",
-        "averageClicks": 0
+        "country": "Czechia",
+        "averageClicks": "1000"
       },
       {
-        "country": "Poland",
-        "averageClicks": "1000"
+        "country": "United Arab Emirates",
+        "averageClicks": 0
       },
       {
         "country": "Hungary",
         "averageClicks": "1000"
       },
       {
-        "country": "Indonesia",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR12604374381074841601",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/8703783986957186645",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2024-07-04T09:45:44.000Z",
-    "lastView": "2025-04-13T18:21:43.000Z",
-    "countries": [
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Venezuela",
-        "averageClicks": 0
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Brazil",
-        "averageClicks": 0
-      },
-      {
-        "country": "Sudan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Algeria",
-        "averageClicks": 0
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Iraq",
-        "averageClicks": 0
-      },
-      {
-        "country": "Philippines",
-        "averageClicks": 0
-      },
-      {
-        "country": "Thailand",
-        "averageClicks": 0
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
-      {
-        "country": "Democratic Republic of the Congo",
-        "averageClicks": 0
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Senegal",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mauritania",
-        "averageClicks": 0
-      },
-      {
         "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Malaysia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Cote d'Ivoire",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bangladesh",
-        "averageClicks": 0
-      },
-      {
-        "country": "Serbia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bolivia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Lebanon",
-        "averageClicks": 0
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Kazakhstan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Paraguay",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Libya",
         "averageClicks": 0
       }
     ],
@@ -1344,26 +860,22 @@
     "advertiserName": "江苏华宏科技股份有限公司",
     "website": "asiabaler.com",
     "startDate": "2022-12-01T08:00:00.000Z",
-    "lastView": "2025-04-13T15:50:12.000Z",
+    "lastView": "2025-04-20T23:50:23.000Z",
     "countries": [
       {
-        "country": "Algeria",
-        "averageClicks": 0
+        "country": "Slovenia",
+        "averageClicks": "1000"
       },
       {
         "country": "Indonesia",
         "averageClicks": 0
       },
       {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bangladesh",
+        "country": "Pakistan",
         "averageClicks": 0
       },
       {
-        "country": "South Africa",
+        "country": "Bangladesh",
         "averageClicks": 0
       },
       {
@@ -1371,8 +883,12 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Croatia",
-        "averageClicks": "1000"
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
       },
       {
         "country": "Turkey",
@@ -1383,54 +899,28 @@
         "averageClicks": 0
       },
       {
+        "country": "Algeria",
+        "averageClicks": 0
+      },
+      {
         "country": "India",
         "averageClicks": 0
       },
       {
-        "country": "Slovenia",
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Czechia",
         "averageClicks": "1000"
       },
       {
         "country": "Bulgaria",
         "averageClicks": "1000"
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR02006837178591608833",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/1429650788777966402",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2023-10-24T03:55:49.000Z",
-    "lastView": "2025-04-13T15:35:42.000Z",
-    "countries": [
-      {
-        "country": "Nepal",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
       }
     ],
     "typeLabel": "Metin"
@@ -1444,1099 +934,87 @@
     "advertiserName": "江苏华宏科技股份有限公司",
     "website": "asiabaler.com",
     "startDate": "2022-08-14T07:00:00.000Z",
-    "lastView": "2025-04-13T14:51:41.000Z",
+    "lastView": "2025-04-20T22:30:33.000Z",
     "countries": [
       {
-        "country": "Czechia",
+        "country": "Bulgaria",
         "averageClicks": "1000"
-      },
-      {
-        "country": "Australia",
-        "averageClicks": 0
       },
       {
         "country": "India",
         "averageClicks": 0
       },
       {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "Brazil",
+        "averageClicks": 0
+      },
+      {
+        "country": "Malaysia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Australia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Slovenia",
         "averageClicks": "1000"
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Philippines",
+        "averageClicks": 0
+      },
+      {
+        "country": "Pakistan",
+        "averageClicks": 0
       },
       {
         "country": "Poland",
         "averageClicks": "1000"
       },
       {
-        "country": "Pakistan",
+        "country": "South Africa",
         "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
       },
       {
         "country": "Turkey",
         "averageClicks": "6000"
-      },
-      {
-        "country": "Philippines",
-        "averageClicks": 0
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bangladesh",
-        "averageClicks": 0
-      },
-      {
-        "country": "Brazil",
-        "averageClicks": 0
-      },
-      {
-        "country": "Malaysia",
-        "averageClicks": 0
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR14774995773812637697",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/828192225033342543",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-13T13:52:15.000Z",
-    "countries": [
-      {
-        "country": "Nepal",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bangladesh",
-        "averageClicks": 0
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR08094624669774118913",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/16213425717189614412",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-13T13:29:35.000Z",
-    "countries": [
-      {
-        "country": "Philippines",
-        "averageClicks": 0
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bangladesh",
-        "averageClicks": 0
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Malaysia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Algeria",
-        "averageClicks": 0
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Thailand",
-        "averageClicks": 0
-      },
-      {
-        "country": "United Arab Emirates",
-        "averageClicks": 0
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Australia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Saudi Arabia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Brazil",
-        "averageClicks": 0
-      },
-      {
-        "country": "Venezuela",
-        "averageClicks": 0
-      },
-      {
-        "country": "Canada",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR02373429885893869569",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/11080358961854120023",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2023-10-23T10:22:38.000Z",
-    "lastView": "2025-04-13T13:00:51.000Z",
-    "countries": [
-      {
-        "country": "Oman",
-        "averageClicks": 0
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Taiwan",
-        "averageClicks": 0
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bangladesh",
-        "averageClicks": 0
-      },
-      {
-        "country": "Venezuela",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Brazil",
-        "averageClicks": 0
-      },
-      {
-        "country": "Philippines",
-        "averageClicks": 0
-      },
-      {
-        "country": "Malaysia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Saudi Arabia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Thailand",
-        "averageClicks": 0
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Algeria",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR02345161304504795137",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/15406587600568506663",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2023-10-24T04:01:12.000Z",
-    "lastView": "2025-04-13T11:50:05.000Z",
-    "countries": [
-      {
-        "country": "Bangladesh",
-        "averageClicks": 0
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Nepal",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR02022571018186391553",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/14517702402560163181",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-13T11:49:56.000Z",
-    "countries": [
-      {
-        "country": "Nepal",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bangladesh",
-        "averageClicks": 0
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR01752342396160442369",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/9968406662651304048",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-13T11:44:30.000Z",
-    "countries": [
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bangladesh",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Serbia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Philippines",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Algeria",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR04838522139185250305",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/15672690630741328014",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-13T11:40:27.000Z",
-    "countries": [
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
-      {
-        "country": "Philippines",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR01159019808411353089",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/8839628613041206890",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-13T07:29:41.000Z",
-    "countries": [
-      {
-        "country": "India",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR06850753075146129409",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/10366656310458386779",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-13T06:18:47.000Z",
-    "countries": [
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Nepal",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bangladesh",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR12518084880325672961",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/11888703067818373571",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-13T05:59:05.000Z",
-    "countries": [
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bangladesh",
-        "averageClicks": 0
-      },
-      {
-        "country": "Nepal",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR05937648250696761345",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/15058380326122130002",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-13T05:36:59.000Z",
-    "countries": [
-      {
-        "country": "Nepal",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bangladesh",
-        "averageClicks": 0
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR06026828144177053697",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/5353171291289582828",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2024-09-29T07:44:34.000Z",
-    "lastView": "2025-04-13T04:13:45.000Z",
-    "countries": [
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Philippines",
-        "averageClicks": 0
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bangladesh",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR11743841090199879681",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/3058300378462409135",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-13T04:01:41.000Z",
-    "countries": [
-      {
-        "country": "Algeria",
-        "averageClicks": 0
-      },
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Taiwan",
-        "averageClicks": 0
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
-      {
-        "country": "Nepal",
-        "averageClicks": 0
-      },
-      {
-        "country": "Kuwait",
-        "averageClicks": 0
-      },
-      {
-        "country": "Serbia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Malaysia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Oman",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Arab Emirates",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ukraine",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bangladesh",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Saudi Arabia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Australia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "30000"
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Kazakhstan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Singapore",
-        "averageClicks": 0
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Brazil",
-        "averageClicks": 0
-      },
-      {
-        "country": "South Korea",
-        "averageClicks": 0
-      },
-      {
-        "country": "Philippines",
-        "averageClicks": 0
-      },
-      {
-        "country": "Belarus",
-        "averageClicks": 0
-      },
-      {
-        "country": "Thailand",
-        "averageClicks": 0
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Venezuela",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR10724726852158488577",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/14271786488924267681",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-13T03:58:55.000Z",
-    "countries": [
-      {
-        "country": "United Arab Emirates",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bangladesh",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Saudi Arabia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Brazil",
-        "averageClicks": 0
-      },
-      {
-        "country": "Malaysia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Canada",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Venezuela",
-        "averageClicks": 0
-      },
-      {
-        "country": "Australia",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Philippines",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Thailand",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Algeria",
-        "averageClicks": 0
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR16425923478034579457",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/9223844351396911525",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-13T03:12:20.000Z",
-    "countries": [
-      {
-        "country": "India",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR05735788910953365505",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/11486086999955570666",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-13T03:11:54.000Z",
-    "countries": [
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bangladesh",
-        "averageClicks": 0
-      },
-      {
-        "country": "Nepal",
-        "averageClicks": 0
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR06169968185698156545",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/9507851013610929062",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-12T18:49:39.000Z",
-    "countries": [
-      {
-        "country": "India",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR02769100140265340929",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/12792181607381803743",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2023-10-24T08:04:20.000Z",
-    "lastView": "2025-04-12T17:51:43.000Z",
-    "countries": [
-      {
-        "country": "India",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR13690114247755825153",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/16378148760234922198",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-12T17:06:53.000Z",
-    "countries": [
-      {
-        "country": "India",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05050191321671663617",
-    "adsId": "CR02882743978485088257",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/727230728223588203",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "江苏华宏科技股份有限公司",
-    "website": "asiabaler.com",
-    "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-12T10:24:36.000Z",
-    "countries": [
-      {
-        "country": "India",
-        "averageClicks": 0
       }
     ],
     "typeLabel": "Metin"
@@ -2550,14 +1028,14 @@
     "advertiserName": "江苏华宏科技股份有限公司",
     "website": "asiabaler.com",
     "startDate": "2022-08-13T07:00:00.000Z",
-    "lastView": "2025-04-09T17:41:12.000Z",
+    "lastView": "2025-04-20T21:44:17.000Z",
     "countries": [
       {
         "country": "Slovenia",
         "averageClicks": "1000"
       },
       {
-        "country": "Greece",
+        "country": "Slovakia",
         "averageClicks": "1000"
       },
       {
@@ -2569,15 +1047,15 @@
         "averageClicks": 0
       },
       {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
         "country": "Philippines",
         "averageClicks": 0
       },
       {
         "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Greece",
         "averageClicks": "1000"
       },
       {
@@ -2596,7 +1074,7 @@
     "advertiserName": "江苏华宏科技股份有限公司",
     "website": "asiabaler.com",
     "startDate": "2022-08-14T07:00:00.000Z",
-    "lastView": "2025-04-08T21:09:54.000Z",
+    "lastView": "2025-04-20T20:50:19.000Z",
     "countries": [
       {
         "country": "India",
@@ -2615,9 +1093,1575 @@
   },
   {
     "advertiserId": "AR05050191321671663617",
+    "adsId": "CR14774995773812637697",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/828192225033342543",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2022-08-13T07:00:00.000Z",
+    "lastView": "2025-04-20T20:42:51.000Z",
+    "countries": [
+      {
+        "country": "Pakistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nepal",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR02373429885893869569",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/17120279340868070811",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2023-10-23T10:22:38.000Z",
+    "lastView": "2025-04-20T19:58:23.000Z",
+    "countries": [
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Chile",
+        "averageClicks": 0
+      },
+      {
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Venezuela",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Brazil",
+        "averageClicks": 0
+      },
+      {
+        "country": "Argentina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Algeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Thailand",
+        "averageClicks": 0
+      },
+      {
+        "country": "Oman",
+        "averageClicks": 0
+      },
+      {
+        "country": "Philippines",
+        "averageClicks": 0
+      },
+      {
+        "country": "Malaysia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "Pakistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Taiwan",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR08094624669774118913",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/16213425717189614412",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2022-08-13T07:00:00.000Z",
+    "lastView": "2025-04-20T19:39:06.000Z",
+    "countries": [
+      {
+        "country": "Philippines",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "Australia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Malaysia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Pakistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Brazil",
+        "averageClicks": 0
+      },
+      {
+        "country": "Algeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Venezuela",
+        "averageClicks": 0
+      },
+      {
+        "country": "Argentina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Canada",
+        "averageClicks": 0
+      },
+      {
+        "country": "Thailand",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "United Arab Emirates",
+        "averageClicks": 0
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR02022571018186391553",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/14517702402560163181",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2022-08-13T07:00:00.000Z",
+    "lastView": "2025-04-20T18:23:17.000Z",
+    "countries": [
+      {
+        "country": "Pakistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nepal",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR08371353295305834497",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/11986576237473300591",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2023-10-23T15:25:56.000Z",
+    "lastView": "2025-04-20T17:46:13.000Z",
+    "countries": [
+      {
+        "country": "Algeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "5000"
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Pakistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Argentina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR02882743978485088257",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/727230728223588203",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2022-08-13T07:00:00.000Z",
+    "lastView": "2025-04-20T17:19:45.000Z",
+    "countries": [
+      {
+        "country": "India",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR01752342396160442369",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/83352916227605889",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2022-08-13T07:00:00.000Z",
+    "lastView": "2025-04-20T17:19:12.000Z",
+    "countries": [
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Pakistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Algeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Serbia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Philippines",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR13690114247755825153",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/16378148760234922198",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2022-08-13T07:00:00.000Z",
+    "lastView": "2025-04-20T16:38:09.000Z",
+    "countries": [
+      {
+        "country": "India",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR06850753075146129409",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/10366656310458386779",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2022-08-13T07:00:00.000Z",
+    "lastView": "2025-04-20T11:32:32.000Z",
+    "countries": [
+      {
+        "country": "Pakistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nepal",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR09472896992368656385",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/16959861176746783002",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2022-08-13T07:00:00.000Z",
+    "lastView": "2025-04-20T11:21:28.000Z",
+    "countries": [
+      {
+        "country": "Nepal",
+        "averageClicks": 0
+      },
+      {
+        "country": "Pakistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR05937648250696761345",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/15058380326122130002",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2022-08-13T07:00:00.000Z",
+    "lastView": "2025-04-20T11:21:07.000Z",
+    "countries": [
+      {
+        "country": "Pakistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nepal",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR06026828144177053697",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/5353171291289582828",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2024-09-29T07:44:34.000Z",
+    "lastView": "2025-04-20T10:36:00.000Z",
+    "countries": [
+      {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "Philippines",
+        "averageClicks": 0
+      },
+      {
+        "country": "Pakistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR16425923478034579457",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/9223844351396911525",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2022-08-13T07:00:00.000Z",
+    "lastView": "2025-04-20T10:33:11.000Z",
+    "countries": [
+      {
+        "country": "India",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR11743841090199879681",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/3058300378462409135",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2022-08-13T07:00:00.000Z",
+    "lastView": "2025-04-20T10:11:19.000Z",
+    "countries": [
+      {
+        "country": "Brazil",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Taiwan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "Malaysia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Argentina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Philippines",
+        "averageClicks": 0
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Belarus",
+        "averageClicks": 0
+      },
+      {
+        "country": "Kazakhstan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Venezuela",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Algeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "30000"
+      },
+      {
+        "country": "South Korea",
+        "averageClicks": 0
+      },
+      {
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Singapore",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ukraine",
+        "averageClicks": 0
+      },
+      {
+        "country": "Australia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Oman",
+        "averageClicks": 0
+      },
+      {
+        "country": "United Arab Emirates",
+        "averageClicks": 0
+      },
+      {
+        "country": "Pakistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Serbia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nepal",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Thailand",
+        "averageClicks": 0
+      },
+      {
+        "country": "Kuwait",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR10724726852158488577",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/14271786488924267681",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2022-08-13T07:00:00.000Z",
+    "lastView": "2025-04-20T10:05:38.000Z",
+    "countries": [
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Algeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Venezuela",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Australia",
+        "averageClicks": 0
+      },
+      {
+        "country": "United Arab Emirates",
+        "averageClicks": 0
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Malaysia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Pakistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Philippines",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Canada",
+        "averageClicks": 0
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Thailand",
+        "averageClicks": 0
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Brazil",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR05735788910953365505",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/11486086999955570666",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2022-08-13T07:00:00.000Z",
+    "lastView": "2025-04-20T10:05:09.000Z",
+    "countries": [
+      {
+        "country": "Nepal",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Pakistan",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR12518084880325672961",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/11888703067818373571",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2022-08-13T07:00:00.000Z",
+    "lastView": "2025-04-20T09:38:41.000Z",
+    "countries": [
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nepal",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR02769100140265340929",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/12792181607381803743",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2023-10-24T08:04:20.000Z",
+    "lastView": "2025-04-20T09:08:22.000Z",
+    "countries": [
+      {
+        "country": "India",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR01159019808411353089",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/11057582162969957286",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2022-08-13T07:00:00.000Z",
+    "lastView": "2025-04-20T08:47:17.000Z",
+    "countries": [
+      {
+        "country": "India",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR17317996706628894721",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/2692869257439512933",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2022-08-13T07:00:00.000Z",
+    "lastView": "2025-04-20T07:53:41.000Z",
+    "countries": [
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Pakistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Algeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Chile",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Canada",
+        "averageClicks": 0
+      },
+      {
+        "country": "Thailand",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Argentina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Brazil",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "United Arab Emirates",
+        "averageClicks": 0
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Malaysia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Philippines",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR04838522139185250305",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/15672690630741328014",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2022-08-13T07:00:00.000Z",
+    "lastView": "2025-04-20T07:49:58.000Z",
+    "countries": [
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Philippines",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR00038442499919839233",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/9499398488613204305",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2022-08-13T07:00:00.000Z",
+    "lastView": "2025-04-20T07:26:23.000Z",
+    "countries": [
+      {
+        "country": "Australia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Serbia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nepal",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "4000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Thailand",
+        "averageClicks": 0
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Brazil",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "9000"
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Chile",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "New Zealand",
+        "averageClicks": 0
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Malaysia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Philippines",
+        "averageClicks": 0
+      },
+      {
+        "country": "Italy",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Venezuela",
+        "averageClicks": 0
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "Argentina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Cyprus",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Sudan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Canada",
+        "averageClicks": 0
+      },
+      {
+        "country": "Kazakhstan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Algeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "6000"
+      },
+      {
+        "country": "South Korea",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Singapore",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Ukraine",
+        "averageClicks": 0
+      },
+      {
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Pakistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "United Arab Emirates",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR11990194263905271809",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/7905769589006680304",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2023-10-23T10:22:58.000Z",
+    "lastView": "2025-04-20T05:57:41.000Z",
+    "countries": [
+      {
+        "country": "Pakistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Cote d'Ivoire",
+        "averageClicks": 0
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "9000"
+      },
+      {
+        "country": "South Korea",
+        "averageClicks": 0
+      },
+      {
+        "country": "United Arab Emirates",
+        "averageClicks": 0
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Serbia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Libya",
+        "averageClicks": 0
+      },
+      {
+        "country": "Thailand",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "4000"
+      },
+      {
+        "country": "Brazil",
+        "averageClicks": 0
+      },
+      {
+        "country": "Philippines",
+        "averageClicks": 0
+      },
+      {
+        "country": "Malaysia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bangladesh",
+        "averageClicks": 0
+      },
+      {
+        "country": "Chile",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Iraq",
+        "averageClicks": 0
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Venezuela",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Sudan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Argentina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bolivia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Algeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Kazakhstan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Canada",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR01045248392483045377",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/9159577800577510081",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2022-08-13T07:00:00.000Z",
+    "lastView": "2025-04-20T02:22:44.000Z",
+    "countries": [
+      {
+        "country": "Nepal",
+        "averageClicks": 0
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
+    "adsId": "CR06169968185698156545",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/9507851013610929062",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "江苏华宏科技股份有限公司",
+    "website": "asiabaler.com",
+    "startDate": "2022-08-13T07:00:00.000Z",
+    "lastView": "2025-04-20T01:16:49.000Z",
+    "countries": [
+      {
+        "country": "India",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05050191321671663617",
     "adsId": "CR05000085168044638209",
     "img": null,
-    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=2644133235&creativeId=710356796818&uiFeatures=12,54&adGroupId=167938131562&sig=ACiVB_zktYWOK64jRl6JrDIp4F6lFIKtCw&htmlParentId=fletch-render-13972301371395740499&responseCallback=fletchCallback13972301371395740499",
+    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=2644133235&creativeId=710356796818&uiFeatures=12,54&adGroupId=167938131562&sig=ACiVB_zktYWOK64jRl6JrDIp4F6lFIKtCw&htmlParentId=fletch-render-4209133677571526099&responseCallback=fletchCallback4209133677571526099",
     "type": 3,
     "advertiserName": "江苏华宏科技股份有限公司",
     "website": "asiabaler.com",

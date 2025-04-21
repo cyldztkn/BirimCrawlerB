@@ -3,19 +3,19 @@
     "url": "https://www.linkedin.com/ad-library/detail/661470973?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": null
+      "content": "https://media.licdn.com/dms/image/v2/D4E10AQE_xhcnB0Z0Ow/image-shrink_1280/B4EZYMP4p7GgAQ-/0/1743962213724?e=1745820000&v=beta&t=2sM478G3hVIQVpuCCO9OS72bBYrq41F2WSySg0oiUQY"
     },
     "caption": "Tanıtılan Big cheers to innovation! 🎉\n\nNot one, not two, but three Liebherr technologies were in the running for the Innovation Award — including our intelligent assistance system “Positioning Pilot” and the S1 Vision single-axle haulage solution. 🏅\nIn the end, it was “Liebherr Autonomous Operations” that stole the spotlight, winning in the “Digitalisation” category! 💡🏆\n\nThe autonomous system for wheel loaders is the result of years of hard work and intensive development. With the help of this system, repetitive and monotonous tasks of a wheel loader can be performed easily and intuitively without the help of a human operator. This not only enhances productivity but also frees up operators to focus on more complex and dynamic responsibilities.\n\nFor more information about the award ceremony visit:\nhttps://lnkd.in/eDrzUqHK\n\nHuge congratulations to the amazing team at Liebherr-Werk Bischofshofen for this well-earned recognition! 👏🙌\n\n#Liebherr #InnovationAward #TeamBischofshofen #AutonomousOperations #EngineeringExcellence #Digitalisation #HandsOnLiebherr #Bauma2025",
     "runTime": {
-      "humanize": "8 Nis 2025 - 11 Nis 2025",
+      "humanize": "8 Nis 2025 - 12 Nis 2025",
       "startTime": 1744059600,
-      "finishTime": 1744318800
+      "finishTime": 1744405200
     },
     "impression": "100 bin - 200 bin",
     "countryList": [
       {
         "country": "Brezilya",
-        "impressionPercent": 41
+        "impressionPercent": 42
       },
       {
         "country": "Endonezya",
@@ -23,7 +23,7 @@
       },
       {
         "country": "Birleşik Krallık",
-        "impressionPercent": 12
+        "impressionPercent": 11
       },
       {
         "country": "Avustralya",
@@ -90,11 +90,11 @@
         "impressionPercent": 1
       },
       {
-        "country": "Bosna-Hersek",
+        "country": "Macaristan",
         "impressionPercent": 1
       },
       {
-        "country": "Macaristan",
+        "country": "Bosna-Hersek",
         "impressionPercent": 1
       },
       {
@@ -218,19 +218,19 @@
         "impressionPercent": 1
       },
       {
-        "country": "Suudi Arabistan",
-        "impressionPercent": 1
-      },
-      {
         "country": "Monako",
         "impressionPercent": 1
       },
       {
-        "country": "Andorra",
+        "country": "Suudi Arabistan",
         "impressionPercent": 1
       },
       {
         "country": "Katar",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Andorra",
         "impressionPercent": 1
       },
       {
@@ -242,11 +242,11 @@
         "impressionPercent": 1
       },
       {
-        "country": "Güney Afrika",
+        "country": "Peru",
         "impressionPercent": 1
       },
       {
-        "country": "Peru",
+        "country": "Güney Afrika",
         "impressionPercent": 1
       },
       {
@@ -274,6 +274,10 @@
         "impressionPercent": 1
       },
       {
+        "country": "Kazakistan",
+        "impressionPercent": 1
+      },
+      {
         "country": "Fas",
         "impressionPercent": 1
       },
@@ -286,10 +290,6 @@
         "impressionPercent": 1
       },
       {
-        "country": "Kazakistan",
-        "impressionPercent": 1
-      },
-      {
         "country": "Solomon Adaları",
         "impressionPercent": 1
       },
@@ -299,6 +299,10 @@
       },
       {
         "country": "Güney Kore",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Moğolistan",
         "impressionPercent": 1
       },
       {
@@ -318,15 +322,15 @@
         "impressionPercent": 1
       },
       {
-        "country": "Moğolistan",
-        "impressionPercent": 1
-      },
-      {
         "country": "Tayland",
         "impressionPercent": 1
       },
       {
         "country": "Åland Adaları",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Bolivya",
         "impressionPercent": 1
       },
       {
@@ -338,15 +342,11 @@
         "impressionPercent": 1
       },
       {
-        "country": "Bolivya",
+        "country": "Panama",
         "impressionPercent": 1
       },
       {
         "country": "Çin Hong Kong ÖİB",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Panama",
         "impressionPercent": 1
       },
       {
@@ -382,6 +382,14 @@
         "impressionPercent": 1
       },
       {
+        "country": "Uruguay",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Madagaskar",
+        "impressionPercent": 1
+      },
+      {
         "country": "Meksika",
         "impressionPercent": 1
       },
@@ -398,11 +406,15 @@
         "impressionPercent": 1
       },
       {
-        "country": "Uruguay",
+        "country": "Venezuela",
         "impressionPercent": 1
       },
       {
         "country": "Bahreyn",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Kosta Rika",
         "impressionPercent": 1
       },
       {
@@ -422,11 +434,7 @@
         "impressionPercent": 1
       },
       {
-        "country": "Venezuela",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kosta Rika",
+        "country": "Vietnam",
         "impressionPercent": 1
       },
       {
@@ -450,10 +458,6 @@
         "impressionPercent": 1
       },
       {
-        "country": "Madagaskar",
-        "impressionPercent": 1
-      },
-      {
         "country": "Yeni Kaledonya",
         "impressionPercent": 1
       },
@@ -463,10 +467,6 @@
       },
       {
         "country": "Tacikistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Vietnam",
         "impressionPercent": 1
       },
       {
@@ -506,6 +506,10 @@
         "impressionPercent": 1
       },
       {
+        "country": "Guam",
+        "impressionPercent": 1
+      },
+      {
         "country": "Mali",
         "impressionPercent": 1
       },
@@ -515,10 +519,6 @@
       },
       {
         "country": "Kamerun",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Guam",
         "impressionPercent": 1
       },
       {
@@ -559,6 +559,10 @@
       },
       {
         "country": "Zimbabve",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Afganistan",
         "impressionPercent": 1
       },
       {
@@ -663,7 +667,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/652659403",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQGt7d43VIgYKQ/mp4-360p-30fp-crf28/B4EZXS972EHgBs-/0/1743001223046?e=1745211600&v=beta&t=3AOOZOeiLejR89a08_0zuA7xCpab_Z6aMekkw0NCwwA"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQGt7d43VIgYKQ/mp4-360p-30fp-crf28/B4EZXS972EHgBs-/0/1743001223046?e=1745820000&v=beta&t=C4xXrORxrfzZkhAdW3Bxu0ukmxhp8lTJoP8ytADK5Is"
     },
     "caption": "Tanıtılan Hands on the future - We’re driving digitalisation and shaping the future – from autonomous machines to smart controls. \n\nFor over 75 years, we've set the standard for quality, performance, and sustainability. We’re proud to show how innovation is transforming construction and industry at our booth at bauma. \n\n#voicesofbauma2025 #bauma2025 #handsonliebherr #innovation #digitalisation",
     "runTime": {
@@ -1259,13 +1263,13 @@
     "url": "https://www.linkedin.com/ad-library/detail/640531164",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQENn27-1PTGGA/progressive-servable-video/B4EZX20tIkHMA4-/0/1743602777555/2025-04-02_LIEBHERR_Bauma_StandTrailer_DE_v6_4x5neuv1mp4?e=1745211600&v=beta&t=vixmHTCX47wEXRF9s8GPMnDqnO2MiUYCyjW7wLVmTks"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQENn27-1PTGGA/progressive-servable-video/B4EZX20tIkHMA4-/0/1743602777555/2025-04-02_LIEBHERR_Bauma_StandTrailer_DE_v6_4x5neuv1mp4?e=1745820000&v=beta&t=OYZIjZrS1piYmSh-qzBtHxXF1PVw3ZBlkfoTuuUF1BY"
     },
     "caption": "Tanıtılan Mit dem Start der Bauma zeigen wir dir hier jeden Tag exklusiv die Liebherr-Highlights von der Messe. Unser Moderator Sebastian Höffner führt dich durch die neuesten Produkte und Lösungen der Zukunft und spricht mit diversen Experten. \n#bauma2025 #handsonliebherr \n",
     "runTime": {
-      "humanize": "7 Nis 2025 - 11 Nis 2025",
+      "humanize": "7 Nis 2025 - 18 Nis 2025",
       "startTime": 1743973200,
-      "finishTime": 1744318800
+      "finishTime": 1744923600
     },
     "impression": "10 bin - 50 bin",
     "countryList": [
@@ -1275,11 +1279,11 @@
       },
       {
         "country": "İsviçre",
-        "impressionPercent": 28
+        "impressionPercent": 29
       },
       {
         "country": "Avusturya",
-        "impressionPercent": 13
+        "impressionPercent": 12
       },
       {
         "country": "Hindistan",
@@ -1299,7 +1303,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642876523",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Wusstest du, dass wir auf der Bauma ein InnovationLab haben? Entdecke dieses und vieles mehr vom 7.–13. April an unserem Messestand.  👷♂️🚧",
     "runTime": {
@@ -1331,7 +1335,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642876523?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Wusstest du, dass wir auf der Bauma ein InnovationLab haben? Entdecke dieses und vieles mehr vom 7.–13. April an unserem Messestand.  👷♂️🚧",
     "runTime": {
@@ -1363,7 +1367,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642876523?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Wusstest du, dass wir auf der Bauma ein InnovationLab haben? Entdecke dieses und vieles mehr vom 7.–13. April an unserem Messestand.  👷♂️🚧",
     "runTime": {
@@ -1395,54 +1399,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642876523?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
-    },
-    "caption": "Tanıtılan Wusstest du, dass wir auf der Bauma ein InnovationLab haben? Entdecke dieses und vieles mehr vom 7.–13. April an unserem Messestand.  👷♂️🚧",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 26 Mar 2025",
-      "startTime": 1742158800,
-      "finishTime": 1742936400
-    },
-    "impression": "10 bin - 50 bin",
-    "countryList": [
-      {
-        "country": "Almanya",
-        "impressionPercent": 43
-      },
-      {
-        "country": "İsviçre",
-        "impressionPercent": 38
-      },
-      {
-        "country": "Avusturya",
-        "impressionPercent": 19
-      },
-      {
-        "country": "Fransa",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642876523?trk=ad_library_ad_preview_carousel_item_title",
-    "creative": {
-      "type": "unknown",
-      "content": null
-    },
-    "caption": "",
-    "runTime": {
-      "humanize": null,
-      "startTime": null,
-      "finishTime": null
-    },
-    "impression": "",
-    "countryList": []
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642876523?trk=ad_library_ad_preview_carousel_item_image",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Wusstest du, dass wir auf der Bauma ein InnovationLab haben? Entdecke dieses und vieles mehr vom 7.–13. April an unserem Messestand.  👷♂️🚧",
     "runTime": {
@@ -1474,7 +1431,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642876523?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Wusstest du, dass wir auf der Bauma ein InnovationLab haben? Entdecke dieses und vieles mehr vom 7.–13. April an unserem Messestand.  👷♂️🚧",
     "runTime": {
@@ -1506,7 +1463,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642876523?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Wusstest du, dass wir auf der Bauma ein InnovationLab haben? Entdecke dieses und vieles mehr vom 7.–13. April an unserem Messestand.  👷♂️🚧",
     "runTime": {
@@ -1538,7 +1495,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642876523?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Wusstest du, dass wir auf der Bauma ein InnovationLab haben? Entdecke dieses und vieles mehr vom 7.–13. April an unserem Messestand.  👷♂️🚧",
     "runTime": {
@@ -1570,7 +1527,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642876523?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Wusstest du, dass wir auf der Bauma ein InnovationLab haben? Entdecke dieses und vieles mehr vom 7.–13. April an unserem Messestand.  👷♂️🚧",
     "runTime": {
@@ -1602,7 +1559,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642876523?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Wusstest du, dass wir auf der Bauma ein InnovationLab haben? Entdecke dieses und vieles mehr vom 7.–13. April an unserem Messestand.  👷♂️🚧",
     "runTime": {
@@ -1634,7 +1591,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642876523?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Wusstest du, dass wir auf der Bauma ein InnovationLab haben? Entdecke dieses und vieles mehr vom 7.–13. April an unserem Messestand.  👷♂️🚧",
     "runTime": {
@@ -1666,7 +1623,71 @@
     "url": "https://www.linkedin.com/ad-library/detail/642876523?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
+    },
+    "caption": "Tanıtılan Wusstest du, dass wir auf der Bauma ein InnovationLab haben? Entdecke dieses und vieles mehr vom 7.–13. April an unserem Messestand.  👷♂️🚧",
+    "runTime": {
+      "humanize": "17 Mar 2025 - 26 Mar 2025",
+      "startTime": 1742158800,
+      "finishTime": 1742936400
+    },
+    "impression": "10 bin - 50 bin",
+    "countryList": [
+      {
+        "country": "Almanya",
+        "impressionPercent": 43
+      },
+      {
+        "country": "İsviçre",
+        "impressionPercent": 38
+      },
+      {
+        "country": "Avusturya",
+        "impressionPercent": 19
+      },
+      {
+        "country": "Fransa",
+        "impressionPercent": 1
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/ad-library/detail/642876523?trk=ad_library_ad_preview_carousel_item_image",
+    "creative": {
+      "type": "img",
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
+    },
+    "caption": "Tanıtılan Wusstest du, dass wir auf der Bauma ein InnovationLab haben? Entdecke dieses und vieles mehr vom 7.–13. April an unserem Messestand.  👷♂️🚧",
+    "runTime": {
+      "humanize": "17 Mar 2025 - 26 Mar 2025",
+      "startTime": 1742158800,
+      "finishTime": 1742936400
+    },
+    "impression": "10 bin - 50 bin",
+    "countryList": [
+      {
+        "country": "Almanya",
+        "impressionPercent": 43
+      },
+      {
+        "country": "İsviçre",
+        "impressionPercent": 38
+      },
+      {
+        "country": "Avusturya",
+        "impressionPercent": 19
+      },
+      {
+        "country": "Fransa",
+        "impressionPercent": 1
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/ad-library/detail/642876523?trk=ad_library_ad_preview_carousel_item_title",
+    "creative": {
+      "type": "img",
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Wusstest du, dass wir auf der Bauma ein InnovationLab haben? Entdecke dieses und vieles mehr vom 7.–13. April an unserem Messestand.  👷♂️🚧",
     "runTime": {
@@ -1698,13 +1719,13 @@
     "url": "https://www.linkedin.com/ad-library/detail/661423743",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQGY7E-M-k6Jfg/mp4-720p-30fp-crf28/B4EZYLuRS1HgBs-/0/1743953455758?e=1745211600&v=beta&t=m2A78J1NQoMqQXy71kfndTYKNIzfWUNw5rjVQAGFWZ0"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQGY7E-M-k6Jfg/mp4-720p-30fp-crf28/B4EZYLuRS1HgBs-/0/1743953455758?e=1745820000&v=beta&t=PJaD0j4aB7Pmpc7Ks1VbWyhG5s2dTXtQfwAzqEZ2-UA"
     },
     "caption": "Tanıtılan 3, 2, 1... Bauma! \n\nFor weeks and months, we have laid 7,000 m² of carpet, installed 75 km of cables, constructed 5,000 m² of glass facades, positioned 4,000 lights and prepared over 70 exhibits in production sites around the world. There has been sticking, cleaning, discussing, welding and screwing... and today, everything at the Liebherr booth is ready for the grand opening of Bauma tomorrow.\n\nExperience firsthand how we have navigated this exciting journey in today’s video of our daily magazine for Bauma!\n\n#bauma2025 #handsonliebherr",
     "runTime": {
-      "humanize": "8 Nis 2025 - 11 Nis 2025",
+      "humanize": "8 Nis 2025 - 12 Nis 2025",
       "startTime": 1744059600,
-      "finishTime": 1744318800
+      "finishTime": 1744405200
     },
     "impression": "10 bin - 50 bin",
     "countryList": [
@@ -1714,7 +1735,7 @@
       },
       {
         "country": "Brezilya",
-        "impressionPercent": 16
+        "impressionPercent": 17
       },
       {
         "country": "Endonezya",
@@ -1730,7 +1751,7 @@
       },
       {
         "country": "Birleşik Krallık",
-        "impressionPercent": 3
+        "impressionPercent": 2
       },
       {
         "country": "İtalya",
@@ -1745,11 +1766,11 @@
         "impressionPercent": 2
       },
       {
-        "country": "Romanya",
+        "country": "Avustralya",
         "impressionPercent": 2
       },
       {
-        "country": "Avustralya",
+        "country": "Romanya",
         "impressionPercent": 2
       },
       {
@@ -1781,11 +1802,11 @@
         "impressionPercent": 1
       },
       {
-        "country": "İsveç",
+        "country": "Hırvatistan",
         "impressionPercent": 1
       },
       {
-        "country": "Hırvatistan",
+        "country": "İsveç",
         "impressionPercent": 1
       },
       {
@@ -1861,11 +1882,11 @@
         "impressionPercent": 1
       },
       {
-        "country": "Belarus",
+        "country": "Hindistan",
         "impressionPercent": 1
       },
       {
-        "country": "Hindistan",
+        "country": "Belarus",
         "impressionPercent": 1
       },
       {
@@ -1878,6 +1899,10 @@
       },
       {
         "country": "Rusya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Yeni Zelanda",
         "impressionPercent": 1
       },
       {
@@ -1897,7 +1922,7 @@
         "impressionPercent": 1
       },
       {
-        "country": "Kosova",
+        "country": "Kolombiya",
         "impressionPercent": 1
       },
       {
@@ -1905,7 +1930,7 @@
         "impressionPercent": 1
       },
       {
-        "country": "Kolombiya",
+        "country": "Kosova",
         "impressionPercent": 1
       },
       {
@@ -1925,11 +1950,11 @@
         "impressionPercent": 1
       },
       {
-        "country": "İzlanda",
+        "country": "Arjantin",
         "impressionPercent": 1
       },
       {
-        "country": "Arjantin",
+        "country": "İzlanda",
         "impressionPercent": 1
       },
       {
@@ -1965,6 +1990,10 @@
         "impressionPercent": 1
       },
       {
+        "country": "Porto Riko",
+        "impressionPercent": 1
+      },
+      {
         "country": "Katar",
         "impressionPercent": 1
       },
@@ -1989,11 +2018,11 @@
         "impressionPercent": 1
       },
       {
-        "country": "Kazakistan",
+        "country": "Jamaika",
         "impressionPercent": 1
       },
       {
-        "country": "Porto Riko",
+        "country": "Kazakistan",
         "impressionPercent": 1
       },
       {
@@ -2010,10 +2039,6 @@
       },
       {
         "country": "Honduras",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Jamaika",
         "impressionPercent": 1
       },
       {
@@ -2041,6 +2066,10 @@
         "impressionPercent": 1
       },
       {
+        "country": "Güney Kore",
+        "impressionPercent": 1
+      },
+      {
         "country": "Kuveyt",
         "impressionPercent": 1
       },
@@ -2050,10 +2079,6 @@
       },
       {
         "country": "Nepal",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Yeni Zelanda",
         "impressionPercent": 1
       },
       {
@@ -2113,10 +2138,6 @@
         "impressionPercent": 1
       },
       {
-        "country": "Güney Kore",
-        "impressionPercent": 1
-      },
-      {
         "country": "Lübnan",
         "impressionPercent": 1
       },
@@ -2165,6 +2186,10 @@
         "impressionPercent": 1
       },
       {
+        "country": "Bahreyn",
+        "impressionPercent": 1
+      },
+      {
         "country": "Bolivya",
         "impressionPercent": 1
       },
@@ -2189,6 +2214,10 @@
         "impressionPercent": 1
       },
       {
+        "country": "Haiti",
+        "impressionPercent": 1
+      },
+      {
         "country": "İsrail",
         "impressionPercent": 1
       },
@@ -2210,6 +2239,10 @@
       },
       {
         "country": "Mauritius",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Nikaragua",
         "impressionPercent": 1
       },
       {
@@ -2253,6 +2286,10 @@
         "impressionPercent": 1
       },
       {
+        "country": "Uruguay",
+        "impressionPercent": 1
+      },
+      {
         "country": "Zimbabve",
         "impressionPercent": 1
       },
@@ -2274,19 +2311,23 @@
     "url": "https://www.linkedin.com/ad-library/detail/640618424?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E10AQE2TqVgpWZGZw/image-shrink_1280/B4EZX7qrJgG0AM-/0/1743684024147/DuringBauma-2_BaumaundihreMacherFRpng?e=1745211600&v=beta&t=osP0YhPzLG7Csi1EPbp8-bvh0h95aSeSX0CZkl58h5s"
+      "content": "https://media.licdn.com/dms/image/v2/D4E10AQE2TqVgpWZGZw/image-shrink_1280/B4EZX7qrJgG0AM-/0/1743684024147/DuringBauma-2_BaumaundihreMacherFRpng?e=1745820000&v=beta&t=jYvCHeJRmkAbvswlOIUPmrZBUhA3JRSNaI54lCcuL-0"
     },
     "caption": "Tanıtılan C'est parti ! Six mois de montage : 7 000 m² de moquette, 75 km de câbles, plus de 70 produits exposés. Chaque vis représente un engagement total. Nous nous verrons sur place!\n#bauma2025 #handsonliebherr\n",
     "runTime": {
-      "humanize": "7 Nis 2025 - 11 Nis 2025",
+      "humanize": "7 Nis 2025 - 18 Nis 2025",
       "startTime": 1743973200,
-      "finishTime": 1744318800
+      "finishTime": 1744923600
     },
     "impression": "200 bin - 500 bin",
     "countryList": [
       {
         "country": "Fransa",
         "impressionPercent": 100
+      },
+      {
+        "country": "İsviçre",
+        "impressionPercent": 1
       },
       {
         "country": "Birleşik Arap Emirlikleri",
@@ -2297,15 +2338,23 @@
         "impressionPercent": 1
       },
       {
-        "country": "İsviçre",
-        "impressionPercent": 1
-      },
-      {
         "country": "Birleşik Krallık",
         "impressionPercent": 1
       },
       {
+        "country": "İtalya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Litvanya",
+        "impressionPercent": 1
+      },
+      {
         "country": "Fas",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Amerika Birleşik Devletleri",
         "impressionPercent": 1
       }
     ]
@@ -2314,7 +2363,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/640446554",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQHEujzgjzIogQ/progressive-servable-video/B4EZUkqFTxG0A0-/0/1740076771021/Liebherr_Bauma2025-Ad-Video_1-1_DEmp4?e=1745211600&v=beta&t=xYx_2AErTPSEkO5srs8-wJfgZ9FPN4hCzVcgl8paO5M"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQHEujzgjzIogQ/progressive-servable-video/B4EZUkqFTxG0A0-/0/1740076771021/Liebherr_Bauma2025-Ad-Video_1-1_DEmp4?e=1745820000&v=beta&t=CpvrNccBAtgTjJG_asXpF31LDwROHkZZejyp_3jYIhU"
     },
     "caption": "Tanıtılan Hands on the future – tauche auf der Bauma 2025 in die Zukunft der Bauindustrie ein! Auf einer Fläche von 15.000 m² erwarten dich faszinierende Produktneuheiten und innovative Technologien von Liebherr. Besuche uns vom 7.–13. April in München – wir freuen uns auf dich! 👷🚧\n\n#bauma2025 #handsonliebherr #liebherr #liebherrgroup",
     "runTime": {
@@ -2331,744 +2380,16 @@
     ]
   },
   {
-    "url": "https://www.linkedin.com/ad-library/detail/642932703",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Saviez-vous que nous avons un InnovationLab à la Bauma ? Découvrez-le et bien plus encore sur notre stand du 7 au 13 avril.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "İsviçre",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kanada",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkiye",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gine",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642932703?trk=ad_library_ad_preview_carousel_item_image",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Saviez-vous que nous avons un InnovationLab à la Bauma ? Découvrez-le et bien plus encore sur notre stand du 7 au 13 avril.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "İsviçre",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kanada",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkiye",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gine",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642932703?trk=ad_library_ad_preview_carousel_item_title",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Saviez-vous que nous avons un InnovationLab à la Bauma ? Découvrez-le et bien plus encore sur notre stand du 7 au 13 avril.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "İsviçre",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kanada",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkiye",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gine",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642932703?trk=ad_library_ad_preview_carousel_item_image",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Saviez-vous que nous avons un InnovationLab à la Bauma ? Découvrez-le et bien plus encore sur notre stand du 7 au 13 avril.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "İsviçre",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kanada",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkiye",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gine",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642932703?trk=ad_library_ad_preview_carousel_item_title",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Saviez-vous que nous avons un InnovationLab à la Bauma ? Découvrez-le et bien plus encore sur notre stand du 7 au 13 avril.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "İsviçre",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kanada",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkiye",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gine",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642932703?trk=ad_library_ad_preview_carousel_item_image",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Saviez-vous que nous avons un InnovationLab à la Bauma ? Découvrez-le et bien plus encore sur notre stand du 7 au 13 avril.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "İsviçre",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kanada",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkiye",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gine",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642932703?trk=ad_library_ad_preview_carousel_item_title",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Saviez-vous que nous avons un InnovationLab à la Bauma ? Découvrez-le et bien plus encore sur notre stand du 7 au 13 avril.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "İsviçre",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kanada",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkiye",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gine",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642932703?trk=ad_library_ad_preview_carousel_item_image",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Saviez-vous que nous avons un InnovationLab à la Bauma ? Découvrez-le et bien plus encore sur notre stand du 7 au 13 avril.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "İsviçre",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kanada",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkiye",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gine",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642932703?trk=ad_library_ad_preview_carousel_item_title",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Saviez-vous que nous avons un InnovationLab à la Bauma ? Découvrez-le et bien plus encore sur notre stand du 7 au 13 avril.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "İsviçre",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kanada",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkiye",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gine",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642932703?trk=ad_library_ad_preview_carousel_item_image",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Saviez-vous que nous avons un InnovationLab à la Bauma ? Découvrez-le et bien plus encore sur notre stand du 7 au 13 avril.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "İsviçre",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kanada",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkiye",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gine",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642932703?trk=ad_library_ad_preview_carousel_item_title",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Saviez-vous que nous avons un InnovationLab à la Bauma ? Découvrez-le et bien plus encore sur notre stand du 7 au 13 avril.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "İsviçre",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kanada",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkiye",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gine",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642932703?trk=ad_library_ad_preview_carousel_item_image",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Saviez-vous que nous avons un InnovationLab à la Bauma ? Découvrez-le et bien plus encore sur notre stand du 7 au 13 avril.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "İsviçre",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kanada",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkiye",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gine",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642932703?trk=ad_library_ad_preview_carousel_item_title",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Saviez-vous que nous avons un InnovationLab à la Bauma ? Découvrez-le et bien plus encore sur notre stand du 7 au 13 avril.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "İsviçre",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Kanada",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Türkiye",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Gine",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
     "url": "https://www.linkedin.com/ad-library/detail/640512044",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQENn27-1PTGGA/progressive-servable-video/B4EZX20tIkHMA4-/0/1743602777555/2025-04-02_LIEBHERR_Bauma_StandTrailer_DE_v6_4x5neuv1mp4?e=1745211600&v=beta&t=vixmHTCX47wEXRF9s8GPMnDqnO2MiUYCyjW7wLVmTks"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQENn27-1PTGGA/progressive-servable-video/B4EZX20tIkHMA4-/0/1743602777555/2025-04-02_LIEBHERR_Bauma_StandTrailer_DE_v6_4x5neuv1mp4?e=1745820000&v=beta&t=OYZIjZrS1piYmSh-qzBtHxXF1PVw3ZBlkfoTuuUF1BY"
     },
     "caption": "Tanıtılan Eindrückliche Maschinenshows, exklusive Einblicke hinter die Kulissen, eingehende Experteninterviews:  tauch mit unserem täglichen Videomagazin in die Liebherr-Welt auf der Bauma ein!\nAb Start der Messe zeigen wir dir jeden Tag die Highlights. \n#bauma2025 #handsonliebherr \n",
     "runTime": {
-      "humanize": "7 Nis 2025 - 11 Nis 2025",
+      "humanize": "7 Nis 2025 - 17 Nis 2025",
       "startTime": 1743973200,
-      "finishTime": 1744318800
+      "finishTime": 1744837200
     },
     "impression": "10 bin - 50 bin",
     "countryList": [
@@ -3082,7 +2403,7 @@
       },
       {
         "country": "Avusturya",
-        "impressionPercent": 14
+        "impressionPercent": 13
       },
       {
         "country": "Avustralya",
@@ -3106,7 +2427,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642895753",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Did you know that we have an InnovationLab at Bauma? Discover this and much more at our stand from 7-13 April. 👷♂️🚧\n",
     "runTime": {
@@ -3142,7 +2463,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642895753?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Did you know that we have an InnovationLab at Bauma? Discover this and much more at our stand from 7-13 April. 👷♂️🚧\n",
     "runTime": {
@@ -3178,7 +2499,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642895753?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Did you know that we have an InnovationLab at Bauma? Discover this and much more at our stand from 7-13 April. 👷♂️🚧\n",
     "runTime": {
@@ -3214,7 +2535,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642895753?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Did you know that we have an InnovationLab at Bauma? Discover this and much more at our stand from 7-13 April. 👷♂️🚧\n",
     "runTime": {
@@ -3250,7 +2571,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642895753?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Did you know that we have an InnovationLab at Bauma? Discover this and much more at our stand from 7-13 April. 👷♂️🚧\n",
     "runTime": {
@@ -3286,7 +2607,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642895753?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Did you know that we have an InnovationLab at Bauma? Discover this and much more at our stand from 7-13 April. 👷♂️🚧\n",
     "runTime": {
@@ -3322,7 +2643,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642895753?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Did you know that we have an InnovationLab at Bauma? Discover this and much more at our stand from 7-13 April. 👷♂️🚧\n",
     "runTime": {
@@ -3358,7 +2679,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642895753?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Did you know that we have an InnovationLab at Bauma? Discover this and much more at our stand from 7-13 April. 👷♂️🚧\n",
     "runTime": {
@@ -3394,7 +2715,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642895753?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Did you know that we have an InnovationLab at Bauma? Discover this and much more at our stand from 7-13 April. 👷♂️🚧\n",
     "runTime": {
@@ -3430,7 +2751,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642895753?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Did you know that we have an InnovationLab at Bauma? Discover this and much more at our stand from 7-13 April. 👷♂️🚧\n",
     "runTime": {
@@ -3466,7 +2787,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642895753?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Did you know that we have an InnovationLab at Bauma? Discover this and much more at our stand from 7-13 April. 👷♂️🚧\n",
     "runTime": {
@@ -3502,7 +2823,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642895753?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Did you know that we have an InnovationLab at Bauma? Discover this and much more at our stand from 7-13 April. 👷♂️🚧\n",
     "runTime": {
@@ -3538,7 +2859,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642895753?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Did you know that we have an InnovationLab at Bauma? Discover this and much more at our stand from 7-13 April. 👷♂️🚧\n",
     "runTime": {
@@ -3574,7 +2895,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/640388514",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQFLc3mVyDFyVw/mp4-720p-30fp-crf28/B4EZXNdNLMGYCg-/0/1742908754088/LBHR_BAUMA_Core_Stories_4x5mp4?e=1745211600&v=beta&t=nmAGOUBnLIcNTHqJAG5NwIff3fHmrI3fub0hxIbEhao"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQFLc3mVyDFyVw/mp4-720p-30fp-crf28/B4EZXNdNLMGYCg-/0/1742908754088/LBHR_BAUMA_Core_Stories_4x5mp4?e=1745820000&v=beta&t=b_uUtHcn5FRiVzTmn-pwGwMqCdD33BR6uQEOOHpkiB0"
     },
     "caption": "Tanıtılan Durch unsere Qualität, modernste Technologie und innovative Ansätze entstehen Produkte, die höchste Leistungsfähigkeit, Effizienz und eine lange Lebensdauer garantieren. Wir sind bestrebt, einen hohen Nutzwert für die Zukunft zu liefern. \n\nDie Bauma steht vor der Tür! Erlebe die Zukunft hautnah und entdecke, was sie zu bieten hat!👷♂️🚧\n#bauma2025 #handsonliebherr #innovation\n",
     "runTime": {
@@ -3615,16 +2936,480 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/ad-library/detail/663140803",
+    "creative": {
+      "type": "video",
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQE-GineNupo5w/mp4-360p-30fp-crf28/B4EZY.k.44HcBo-/0/1744806622192?e=1745820000&v=beta&t=-2zUXwCCu0PkYxaL4RZ3gzyEgG5cyqkcxBOJUXby9j4"
+    },
+    "caption": "Tanıtılan Have you discovered all of our brand new machines at Bauma? 🚧💡 \n\nIf not, here is another chance. \n\n#bauma2025 #handsonliebherr #newlaunch #innovation #technology #liebherr #liebherrpower",
+    "runTime": {
+      "humanize": "16 Nis 2025 - 18 Nis 2025",
+      "startTime": 1744750800,
+      "finishTime": 1744923600
+    },
+    "impression": "10 bin - 50 bin",
+    "countryList": [
+      {
+        "country": "Amerika Birleşik Devletleri",
+        "impressionPercent": 48
+      },
+      {
+        "country": "Brezilya",
+        "impressionPercent": 15
+      },
+      {
+        "country": "Endonezya",
+        "impressionPercent": 9
+      },
+      {
+        "country": "Fransa",
+        "impressionPercent": 4
+      },
+      {
+        "country": "Hollanda",
+        "impressionPercent": 3
+      },
+      {
+        "country": "Birleşik Krallık",
+        "impressionPercent": 2
+      },
+      {
+        "country": "Polonya",
+        "impressionPercent": 2
+      },
+      {
+        "country": "İtalya",
+        "impressionPercent": 2
+      },
+      {
+        "country": "Portekiz",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Romanya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "İrlanda",
+        "impressionPercent": 1
+      },
+      {
+        "country": "İspanya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Belçika",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Sırbistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Avustralya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Litvanya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Hırvatistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Finlandiya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Çekya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "İsviçre",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Yunanistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Danimarka",
+        "impressionPercent": 1
+      },
+      {
+        "country": "İsveç",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Almanya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Kanada",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Macaristan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Ukrayna",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Slovenya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Slovakya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Hindistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Bulgaristan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Lüksemburg",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Avusturya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Bosna-Hersek",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Letonya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Kuzey Makedonya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Arnavutluk",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Timor-Leste",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Norveç",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Estonya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Belarus",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Meksika",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Türkiye",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Liechtenstein",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Jamaika",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Kosova",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Arjantin",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Venezuela",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Mısır",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Karadağ",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Malezya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Birleşik Arap Emirlikleri",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Jersey",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Azerbaycan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Çin",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Dominik Cumhuriyeti",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Gürcistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Honduras",
+        "impressionPercent": 1
+      },
+      {
+        "country": "İzlanda",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Malta",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Peru",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Porto Riko",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Suudi Arabistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Angola",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Côte d’Ivoire",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Şili",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Kamerun",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Kolombiya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Ekvador",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Guernsey",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Gambiya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Irak",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Fas",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Moldova",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Nijerya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Filipinler",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Katar",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Rusya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Ruanda",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Singapur",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Tanzanya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Güney Afrika",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Andorra",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Antarktika",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Bangladeş",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Bahamalar",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Kongo - Kinşasa",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Etiyopya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Gana",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Guadeloupe",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Guatemala",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Haiti",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Kamboçya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Saint Kitts ve Nevis",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Güney Kore",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Liberya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Madagaskar",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Mozambik",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Nepal",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Yeni Zelanda",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Panama",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Pakistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Reunion",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Sierra Leone",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Trinidad ve Tobago",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Uruguay",
+        "impressionPercent": 1
+      },
+      {
+        "country": "ABD Virjin Adaları",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Mayotte",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Zambiya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Man Adası",
+        "impressionPercent": 1
+      },
+      {
+        "country": "İran",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Sri Lanka",
+        "impressionPercent": 1
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/ad-library/detail/640578824?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E10AQEA9ZkTQDUJSQ/image-shrink_1280/B4EZYAHVNcHYAQ-/0/1743758652482/DuringBauma-2_BaumaundihreMacherENpng?e=1745211600&v=beta&t=PB7wSzUzVeJahD2LHo5qPOOMvEZu5Shx9yasNI8ipOA"
+      "content": "https://media.licdn.com/dms/image/v2/D4E10AQEA9ZkTQDUJSQ/image-shrink_1280/B4EZYAHVNcHYAQ-/0/1743758652482/DuringBauma-2_BaumaundihreMacherENpng?e=1745820000&v=beta&t=83zrmqu_vSbmD3KzjdC7hvBYkMps0IfBNzNV6JGa-kE"
     },
     "caption": "Tanıtılan Ready, set, Bauma! Six months of preparation: 7,000 m² of carpet, 75 km of cables, 70+ exhibits. Every bolt and screw tells a story. See you there!\n#bauma2025 #handsonliebherr\n",
     "runTime": {
-      "humanize": "7 Nis 2025 - 11 Nis 2025",
+      "humanize": "7 Nis 2025 - 18 Nis 2025",
       "startTime": 1743973200,
-      "finishTime": 1744318800
+      "finishTime": 1744923600
     },
     "impression": "100 bin - 200 bin",
     "countryList": [
@@ -3633,7 +3418,271 @@
         "impressionPercent": 100
       },
       {
+        "country": "Litvanya",
+        "impressionPercent": 1
+      },
+      {
         "country": "Filipinler",
+        "impressionPercent": 1
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/ad-library/detail/647975654",
+    "creative": {
+      "type": "video",
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQF_8jo1M4qyFw/mp4-720p-30fp-crf28/B4EZX2X7J7HMBs-/0/1743595232192?e=1745820000&v=beta&t=Cqn0iIIAjYNGBLu5CcpmX9TqY-3o5XhZHsUgOVedW2g"
+    },
+    "caption": "Tanıtılan 👉 https://lnkd.in/etDvcz4Y\n\nLook back with us on a trailblazing and momentous year in our 2024 annual report, out now. What's better than a year of business success? 75 years of it! Together, we continue to unite stability and innovation in 2025.\n\n#liebherr #annualreport #innovation ",
+    "runTime": {
+      "humanize": "16 Nis 2025 - 18 Nis 2025",
+      "startTime": 1744750800,
+      "finishTime": 1744923600
+    },
+    "impression": "10 bin - 50 bin",
+    "countryList": [
+      {
+        "country": "Brezilya",
+        "impressionPercent": 46
+      },
+      {
+        "country": "Hollanda",
+        "impressionPercent": 22
+      },
+      {
+        "country": "İspanya",
+        "impressionPercent": 13
+      },
+      {
+        "country": "Kanada",
+        "impressionPercent": 12
+      },
+      {
+        "country": "Belçika",
+        "impressionPercent": 6
+      },
+      {
+        "country": "Birleşik Krallık",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Hindistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Fransa",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Amerika Birleşik Devletleri",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Almanya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Birleşik Arap Emirlikleri",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Lüksemburg",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Türkiye",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Arjantin",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Peru",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Angola",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Kolombiya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "İrlanda",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Polonya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Avustralya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "İsviçre",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Şili",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Çin",
+        "impressionPercent": 1
+      },
+      {
+        "country": "İtalya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Meksika",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Nijerya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Umman",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Pakistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Portekiz",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Paraguay",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Romanya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Suudi Arabistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "İsveç",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Senegal",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Bangladeş",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Kamerun",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Cezayir",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Gürcistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Gana",
+        "impressionPercent": 1
+      },
+      {
+        "country": "İsrail",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Kuveyt",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Fas",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Monako",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Malta",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Mauritius",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Malezya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Mozambik",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Katar",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Singapur",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Sierra Leone",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Ukrayna",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Özbekistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Venezuela",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Güney Afrika",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Zambiya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Kosta Rika",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Danimarka",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Mali",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Norveç",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Rusya",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Türkmenistan",
         "impressionPercent": 1
       }
     ]
@@ -3642,7 +3691,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/630953694",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQFLc3mVyDFyVw/mp4-720p-30fp-crf28/B4EZXNdNLMGYCg-/0/1742908754088/LBHR_BAUMA_Core_Stories_4x5mp4?e=1745211600&v=beta&t=nmAGOUBnLIcNTHqJAG5NwIff3fHmrI3fub0hxIbEhao"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQFLc3mVyDFyVw/mp4-720p-30fp-crf28/B4EZXNdNLMGYCg-/0/1742908754088/LBHR_BAUMA_Core_Stories_4x5mp4?e=1745820000&v=beta&t=b_uUtHcn5FRiVzTmn-pwGwMqCdD33BR6uQEOOHpkiB0"
     },
     "caption": "Tanıtılan Our quality, technology and innovation ensure products with top performance, efficiency and durability. We're committed to delivering high utility value for the future. Bauma is coming! Get \"hands on the future\" and find out! 👷♂️🚧\n#bauma2025 #handsonliebherr #innovation \n",
     "runTime": {
@@ -3675,958 +3724,22 @@
     ]
   },
   {
-    "url": "https://www.linkedin.com/ad-library/detail/642859453",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Retrouvez-nous à la Bauma ! Liebherr compte parmi les plus grands exposants depuis 1956 et cette année encore, nous présentons nos innovations captivantes.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Côte d’Ivoire",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Danimarka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Birleşik Krallık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lüksemburg",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fas",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Monako",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Martinik",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayvan",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642859453?trk=ad_library_ad_preview_carousel_item_image",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Retrouvez-nous à la Bauma ! Liebherr compte parmi les plus grands exposants depuis 1956 et cette année encore, nous présentons nos innovations captivantes.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Côte d’Ivoire",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Danimarka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Birleşik Krallık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lüksemburg",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fas",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Monako",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Martinik",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayvan",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642859453?trk=ad_library_ad_preview_carousel_item_title",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Retrouvez-nous à la Bauma ! Liebherr compte parmi les plus grands exposants depuis 1956 et cette année encore, nous présentons nos innovations captivantes.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Côte d’Ivoire",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Danimarka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Birleşik Krallık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lüksemburg",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fas",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Monako",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Martinik",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayvan",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642859453?trk=ad_library_ad_preview_carousel_item_image",
-    "creative": {
-      "type": "unknown",
-      "content": null
-    },
-    "caption": "Tanıtılan Retrouvez-nous à la Bauma ! Liebherr compte parmi les plus grands exposants depuis 1956 et cette année encore, nous présentons nos innovations captivantes.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Côte d’Ivoire",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Danimarka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Birleşik Krallık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lüksemburg",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fas",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Monako",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Martinik",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayvan",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642859453?trk=ad_library_ad_preview_carousel_item_title",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Retrouvez-nous à la Bauma ! Liebherr compte parmi les plus grands exposants depuis 1956 et cette année encore, nous présentons nos innovations captivantes.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Côte d’Ivoire",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Danimarka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Birleşik Krallık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lüksemburg",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fas",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Monako",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Martinik",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayvan",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642859453?trk=ad_library_ad_preview_carousel_item_image",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Retrouvez-nous à la Bauma ! Liebherr compte parmi les plus grands exposants depuis 1956 et cette année encore, nous présentons nos innovations captivantes.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Côte d’Ivoire",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Danimarka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Birleşik Krallık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lüksemburg",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fas",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Monako",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Martinik",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayvan",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642859453?trk=ad_library_ad_preview_carousel_item_title",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Retrouvez-nous à la Bauma ! Liebherr compte parmi les plus grands exposants depuis 1956 et cette année encore, nous présentons nos innovations captivantes.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Côte d’Ivoire",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Danimarka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Birleşik Krallık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lüksemburg",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fas",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Monako",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Martinik",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayvan",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642859453?trk=ad_library_ad_preview_carousel_item_image",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Retrouvez-nous à la Bauma ! Liebherr compte parmi les plus grands exposants depuis 1956 et cette année encore, nous présentons nos innovations captivantes.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Côte d’Ivoire",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Danimarka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Birleşik Krallık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lüksemburg",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fas",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Monako",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Martinik",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayvan",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642859453?trk=ad_library_ad_preview_carousel_item_title",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Retrouvez-nous à la Bauma ! Liebherr compte parmi les plus grands exposants depuis 1956 et cette année encore, nous présentons nos innovations captivantes.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Côte d’Ivoire",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Danimarka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Birleşik Krallık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lüksemburg",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fas",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Monako",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Martinik",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayvan",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642859453?trk=ad_library_ad_preview_carousel_item_image",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Retrouvez-nous à la Bauma ! Liebherr compte parmi les plus grands exposants depuis 1956 et cette année encore, nous présentons nos innovations captivantes.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Côte d’Ivoire",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Danimarka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Birleşik Krallık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lüksemburg",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fas",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Monako",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Martinik",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayvan",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642859453?trk=ad_library_ad_preview_carousel_item_title",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Retrouvez-nous à la Bauma ! Liebherr compte parmi les plus grands exposants depuis 1956 et cette année encore, nous présentons nos innovations captivantes.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Côte d’Ivoire",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Danimarka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Birleşik Krallık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lüksemburg",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fas",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Monako",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Martinik",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayvan",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642859453?trk=ad_library_ad_preview_carousel_item_image",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Retrouvez-nous à la Bauma ! Liebherr compte parmi les plus grands exposants depuis 1956 et cette année encore, nous présentons nos innovations captivantes.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Côte d’Ivoire",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Danimarka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Birleşik Krallık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lüksemburg",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fas",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Monako",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Martinik",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayvan",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
-    "url": "https://www.linkedin.com/ad-library/detail/642859453?trk=ad_library_ad_preview_carousel_item_title",
-    "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D1DAQHD0dJZvc3Ffw/ssu-carousel-card-shrink_1080_1080/B4DZWkgzFsG8As-/0/1742221817421?e=1745211600&v=beta&t=8Fpp88q6XH2RRL8KbPldmBbhGUC7_dvWz2qtq-MHlI0"
-    },
-    "caption": "Tanıtılan Retrouvez-nous à la Bauma ! Liebherr compte parmi les plus grands exposants depuis 1956 et cette année encore, nous présentons nos innovations captivantes.\n",
-    "runTime": {
-      "humanize": "17 Mar 2025 - 4 Nis 2025",
-      "startTime": 1742158800,
-      "finishTime": 1743714000
-    },
-    "impression": "200 bin - 500 bin",
-    "countryList": [
-      {
-        "country": "Fransa",
-        "impressionPercent": 100
-      },
-      {
-        "country": "Fransız Guyanası",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Côte d’Ivoire",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Almanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Danimarka",
-        "impressionPercent": 1
-      },
-      {
-        "country": "İspanya",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Birleşik Krallık",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Macaristan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Hindistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Lüksemburg",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Fas",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Monako",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Martinik",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Tayvan",
-        "impressionPercent": 1
-      }
-    ]
-  },
-  {
     "url": "https://www.linkedin.com/ad-library/detail/640628164?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E10AQEzYMJTZuK3hw/image-shrink_1280/B4EZX7qXOYGgAQ-/0/1743683942645/DuringBauma-2_BaumaundihreMacherDEpng?e=1745211600&v=beta&t=9mwlLTuRyRNGAzlvAdyjWOtbATELuLuVxXsh35McFV8"
+      "content": "https://media.licdn.com/dms/image/v2/D4E10AQEzYMJTZuK3hw/image-shrink_1280/B4EZX7qXOYGgAQ-/0/1743683942645/DuringBauma-2_BaumaundihreMacherDEpng?e=1745820000&v=beta&t=AdptYHja2wmy-G-G0-PjFIQaCd-Hb4KcRgvA5tOuMRI"
     },
     "caption": "Tanıtılan Los geht’s! Sechs Monate Aufbau: 7.000 m² Teppich, 75 km Kabel, über 70 Exponate. Jede Schraube steht für vollen Einsatz. Wir sehen uns dort!\n#bauma2025 #handsonliebherr\n",
     "runTime": {
-      "humanize": "7 Nis 2025 - 11 Nis 2025",
+      "humanize": "7 Nis 2025 - 17 Nis 2025",
       "startTime": 1743973200,
-      "finishTime": 1744318800
+      "finishTime": 1744837200
     },
-    "impression": "50 bin - 100 bin",
+    "impression": "100 bin - 200 bin",
     "countryList": [
       {
         "country": "Almanya",
-        "impressionPercent": 58
+        "impressionPercent": 60
       },
       {
         "country": "İsviçre",
@@ -4634,7 +3747,7 @@
       },
       {
         "country": "Avusturya",
-        "impressionPercent": 14
+        "impressionPercent": 12
       },
       {
         "country": "Hindistan",
@@ -4647,6 +3760,10 @@
       {
         "country": "Amerika Birleşik Devletleri",
         "impressionPercent": 1
+      },
+      {
+        "country": "Fransa",
+        "impressionPercent": 1
       }
     ]
   },
@@ -4654,7 +3771,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/640407154",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQFLc3mVyDFyVw/mp4-720p-30fp-crf28/B4EZXNdNLMGYCg-/0/1742908754088/LBHR_BAUMA_Core_Stories_4x5mp4?e=1745211600&v=beta&t=nmAGOUBnLIcNTHqJAG5NwIff3fHmrI3fub0hxIbEhao"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQFLc3mVyDFyVw/mp4-720p-30fp-crf28/B4EZXNdNLMGYCg-/0/1742908754088/LBHR_BAUMA_Core_Stories_4x5mp4?e=1745820000&v=beta&t=b_uUtHcn5FRiVzTmn-pwGwMqCdD33BR6uQEOOHpkiB0"
     },
     "caption": "Tanıtılan Unsere Technologiekompetenz und Innovationsstärke gewährleisten Produkte, die maximale Leistung und Effizienz mit Langlebigkeit vereinen. Dabei wollen wir einen hohen Nutzwert für die Zukunft liefern. Möchtest du das selbst erleben? Komm und besuche uns auf der Bauma!👷♂️🚧\n#bauma2025 #handsonliebherr #innovation \n",
     "runTime": {
@@ -4690,7 +3807,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/630928374",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQFLc3mVyDFyVw/mp4-720p-30fp-crf28/B4EZXNdNLMGYCg-/0/1742908754088/LBHR_BAUMA_Core_Stories_4x5mp4?e=1745211600&v=beta&t=nmAGOUBnLIcNTHqJAG5NwIff3fHmrI3fub0hxIbEhao"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQFLc3mVyDFyVw/mp4-720p-30fp-crf28/B4EZXNdNLMGYCg-/0/1742908754088/LBHR_BAUMA_Core_Stories_4x5mp4?e=1745820000&v=beta&t=b_uUtHcn5FRiVzTmn-pwGwMqCdD33BR6uQEOOHpkiB0"
     },
     "caption": "Tanıtılan Our quality, technology and innovation ensure products that combine maximum performance and efficiency with durability. We're dedicated to delivering high utility value for the future. Want to discover that for yourself? Come and join us at Bauma! 👷♂️🚧\n#bauma2025 #handsonliebherr #innovation \n",
     "runTime": {
@@ -4718,15 +3835,15 @@
     "url": "https://www.linkedin.com/ad-library/detail/640482884",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQHrbJqwCA_SmA/mp4-360p-30fp-crf28/B4EZX20tJTGYCc-/0/1743602782769/2025-04-02_LIEBHERR_Bauma_StandTrailer_EN_v6_4x5neuv1mp4?e=1745211600&v=beta&t=Q8Nnw6tY-HiysGGGFIv8h7PB-_JzJKnekPQUd9AHwYI"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQHrbJqwCA_SmA/mp4-360p-30fp-crf28/B4EZX20tJTGYCc-/0/1743602782769/2025-04-02_LIEBHERR_Bauma_StandTrailer_EN_v6_4x5neuv1mp4?e=1745820000&v=beta&t=vdCSe5_2s_2bAVvxzgdrlWUkRId8hx9SZz2FGS62yl4"
     },
     "caption": "Tanıtılan With the start of Bauma, we will exclusively show you the Liebherr highlights from the trade show every day. Our host, Sebastian Höffner, will guide you through the latest products and future solutions, and speak with various experts.\n#bauma2025 #handsonliebherr \n",
     "runTime": {
-      "humanize": "7 Nis 2025 - 11 Nis 2025",
+      "humanize": "7 Nis 2025 - 16 Nis 2025",
       "startTime": 1743973200,
-      "finishTime": 1744318800
+      "finishTime": 1744750800
     },
-    "impression": "10 bin - 50 bin",
+    "impression": "50 bin - 100 bin",
     "countryList": [
       {
         "country": "Hollanda",
@@ -4758,7 +3875,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642933393",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Besuche uns auf der Bauma! Seit 1956 ist Liebherr einer der größten Aussteller auf der Messe in München und auch dieses Jahr sind wir mit spannenden Neuheiten vor Ort. 👷♂️🚧\n",
     "runTime": {
@@ -4798,7 +3915,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642933393?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Besuche uns auf der Bauma! Seit 1956 ist Liebherr einer der größten Aussteller auf der Messe in München und auch dieses Jahr sind wir mit spannenden Neuheiten vor Ort. 👷♂️🚧\n",
     "runTime": {
@@ -4838,7 +3955,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642933393?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Besuche uns auf der Bauma! Seit 1956 ist Liebherr einer der größten Aussteller auf der Messe in München und auch dieses Jahr sind wir mit spannenden Neuheiten vor Ort. 👷♂️🚧\n",
     "runTime": {
@@ -4878,7 +3995,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642933393?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Besuche uns auf der Bauma! Seit 1956 ist Liebherr einer der größten Aussteller auf der Messe in München und auch dieses Jahr sind wir mit spannenden Neuheiten vor Ort. 👷♂️🚧\n",
     "runTime": {
@@ -4918,7 +4035,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642933393?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Besuche uns auf der Bauma! Seit 1956 ist Liebherr einer der größten Aussteller auf der Messe in München und auch dieses Jahr sind wir mit spannenden Neuheiten vor Ort. 👷♂️🚧\n",
     "runTime": {
@@ -4958,7 +4075,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642933393?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Besuche uns auf der Bauma! Seit 1956 ist Liebherr einer der größten Aussteller auf der Messe in München und auch dieses Jahr sind wir mit spannenden Neuheiten vor Ort. 👷♂️🚧\n",
     "runTime": {
@@ -4998,7 +4115,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642933393?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Besuche uns auf der Bauma! Seit 1956 ist Liebherr einer der größten Aussteller auf der Messe in München und auch dieses Jahr sind wir mit spannenden Neuheiten vor Ort. 👷♂️🚧\n",
     "runTime": {
@@ -5038,7 +4155,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642933393?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Besuche uns auf der Bauma! Seit 1956 ist Liebherr einer der größten Aussteller auf der Messe in München und auch dieses Jahr sind wir mit spannenden Neuheiten vor Ort. 👷♂️🚧\n",
     "runTime": {
@@ -5078,7 +4195,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642933393?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Besuche uns auf der Bauma! Seit 1956 ist Liebherr einer der größten Aussteller auf der Messe in München und auch dieses Jahr sind wir mit spannenden Neuheiten vor Ort. 👷♂️🚧\n",
     "runTime": {
@@ -5118,7 +4235,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642933393?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Besuche uns auf der Bauma! Seit 1956 ist Liebherr einer der größten Aussteller auf der Messe in München und auch dieses Jahr sind wir mit spannenden Neuheiten vor Ort. 👷♂️🚧\n",
     "runTime": {
@@ -5158,7 +4275,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642933393?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Besuche uns auf der Bauma! Seit 1956 ist Liebherr einer der größten Aussteller auf der Messe in München und auch dieses Jahr sind wir mit spannenden Neuheiten vor Ort. 👷♂️🚧\n",
     "runTime": {
@@ -5198,7 +4315,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642933393?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Besuche uns auf der Bauma! Seit 1956 ist Liebherr einer der größten Aussteller auf der Messe in München und auch dieses Jahr sind wir mit spannenden Neuheiten vor Ort. 👷♂️🚧\n",
     "runTime": {
@@ -5238,7 +4355,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642933393?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745211600&v=beta&t=ww0zuUZ0G2hw_Is2QeBRryFNtMR7t3V-4iO8wQAdDDg"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFbOwNTl5idNA/ssu-carousel-card-shrink_1080_1080/B4EZWQVrDSHgAs-/0/1741883356017?e=1745820000&v=beta&t=yAjk7t7RMzCoeaMu-2tJi7MALP__zWR8-YSntCJToTs"
     },
     "caption": "Tanıtılan Besuche uns auf der Bauma! Seit 1956 ist Liebherr einer der größten Aussteller auf der Messe in München und auch dieses Jahr sind wir mit spannenden Neuheiten vor Ort. 👷♂️🚧\n",
     "runTime": {
@@ -5278,7 +4395,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/630973204",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQFLc3mVyDFyVw/mp4-720p-30fp-crf28/B4EZXNdNLMGYCg-/0/1742908754088/LBHR_BAUMA_Core_Stories_4x5mp4?e=1745211600&v=beta&t=nmAGOUBnLIcNTHqJAG5NwIff3fHmrI3fub0hxIbEhao"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQFLc3mVyDFyVw/mp4-720p-30fp-crf28/B4EZXNdNLMGYCg-/0/1742908754088/LBHR_BAUMA_Core_Stories_4x5mp4?e=1745820000&v=beta&t=b_uUtHcn5FRiVzTmn-pwGwMqCdD33BR6uQEOOHpkiB0"
     },
     "caption": "Tanıtılan Durch unsere Qualität, modernste Technologie und innovative Ansätze entstehen Produkte, die höchste Leistungsfähigkeit, Effizienz und eine lange Lebensdauer garantieren. Wir sind bestrebt, einen hohen Nutzwert für die Zukunft zu liefern. \n\nDie Bauma steht vor der Tür! Erlebe die Zukunft hautnah und entdecke, was sie zu bieten hat!👷♂️🚧\n#bauma2025 #handsonliebherr #innovation\n",
     "runTime": {
@@ -5305,6 +4422,10 @@
         "impressionPercent": 1
       },
       {
+        "country": "Fransa",
+        "impressionPercent": 1
+      },
+      {
         "country": "Güney Afrika",
         "impressionPercent": 1
       }
@@ -5314,7 +4435,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/630992514",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQFLc3mVyDFyVw/mp4-720p-30fp-crf28/B4EZXNdNLMGYCg-/0/1742908754088/LBHR_BAUMA_Core_Stories_4x5mp4?e=1745211600&v=beta&t=nmAGOUBnLIcNTHqJAG5NwIff3fHmrI3fub0hxIbEhao"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQFLc3mVyDFyVw/mp4-720p-30fp-crf28/B4EZXNdNLMGYCg-/0/1742908754088/LBHR_BAUMA_Core_Stories_4x5mp4?e=1745820000&v=beta&t=b_uUtHcn5FRiVzTmn-pwGwMqCdD33BR6uQEOOHpkiB0"
     },
     "caption": "Tanıtılan Unsere Technologiekompetenz und Innovationsstärke gewährleisten Produkte, die maximale Leistung und Effizienz mit Langlebigkeit vereinen. Dabei wollen wir einen hohen Nutzwert für die Zukunft liefern. Möchtest du das selbst erleben? Komm und besuche uns auf der Bauma!👷♂️🚧\n#bauma2025 #handsonliebherr #innovation \n",
     "runTime": {
@@ -5354,7 +4475,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642867163",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Visit us at Bauma! Liebherr has been one of the largest exhibitors at the trade fair in Munich since 1956 and we will be there again this year with exciting innovations. 👷♂️🚧\n",
     "runTime": {
@@ -5386,7 +4507,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642867163?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Visit us at Bauma! Liebherr has been one of the largest exhibitors at the trade fair in Munich since 1956 and we will be there again this year with exciting innovations. 👷♂️🚧\n",
     "runTime": {
@@ -5418,7 +4539,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642867163?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Visit us at Bauma! Liebherr has been one of the largest exhibitors at the trade fair in Munich since 1956 and we will be there again this year with exciting innovations. 👷♂️🚧\n",
     "runTime": {
@@ -5450,7 +4571,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642867163?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Visit us at Bauma! Liebherr has been one of the largest exhibitors at the trade fair in Munich since 1956 and we will be there again this year with exciting innovations. 👷♂️🚧\n",
     "runTime": {
@@ -5482,7 +4603,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642867163?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Visit us at Bauma! Liebherr has been one of the largest exhibitors at the trade fair in Munich since 1956 and we will be there again this year with exciting innovations. 👷♂️🚧\n",
     "runTime": {
@@ -5514,7 +4635,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642867163?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Visit us at Bauma! Liebherr has been one of the largest exhibitors at the trade fair in Munich since 1956 and we will be there again this year with exciting innovations. 👷♂️🚧\n",
     "runTime": {
@@ -5546,7 +4667,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642867163?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Visit us at Bauma! Liebherr has been one of the largest exhibitors at the trade fair in Munich since 1956 and we will be there again this year with exciting innovations. 👷♂️🚧\n",
     "runTime": {
@@ -5578,7 +4699,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642867163?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Visit us at Bauma! Liebherr has been one of the largest exhibitors at the trade fair in Munich since 1956 and we will be there again this year with exciting innovations. 👷♂️🚧\n",
     "runTime": {
@@ -5610,7 +4731,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642867163?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Visit us at Bauma! Liebherr has been one of the largest exhibitors at the trade fair in Munich since 1956 and we will be there again this year with exciting innovations. 👷♂️🚧\n",
     "runTime": {
@@ -5642,7 +4763,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642867163?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Visit us at Bauma! Liebherr has been one of the largest exhibitors at the trade fair in Munich since 1956 and we will be there again this year with exciting innovations. 👷♂️🚧\n",
     "runTime": {
@@ -5674,7 +4795,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642867163?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Visit us at Bauma! Liebherr has been one of the largest exhibitors at the trade fair in Munich since 1956 and we will be there again this year with exciting innovations. 👷♂️🚧\n",
     "runTime": {
@@ -5706,7 +4827,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642867163?trk=ad_library_ad_preview_carousel_item_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Visit us at Bauma! Liebherr has been one of the largest exhibitors at the trade fair in Munich since 1956 and we will be there again this year with exciting innovations. 👷♂️🚧\n",
     "runTime": {
@@ -5738,7 +4859,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/642867163?trk=ad_library_ad_preview_carousel_item_title",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745211600&v=beta&t=VN1j5nV_kSRDblweKDqG9g_qCAfpW2hf9NJ4fMO9sfY"
+      "content": "https://media.licdn.com/dms/image/v2/D4E1DAQFyYld90CkWmg/ssu-carousel-card-shrink_1080_1080/B4EZWQXNUnHUAs-/0/1741883758372?e=1745820000&v=beta&t=ElHuBB1_L7uHFH0JIHiNlovkpNmTX1RlcmizeSwTBgc"
     },
     "caption": "Tanıtılan Visit us at Bauma! Liebherr has been one of the largest exhibitors at the trade fair in Munich since 1956 and we will be there again this year with exciting innovations. 👷♂️🚧\n",
     "runTime": {
@@ -5770,7 +4891,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/661490313",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQGMZ2fx9Is0YA/mp4-360p-30fp-crf28/B4EZYP6EDQHcBk-/0/1744023611147?e=1745211600&v=beta&t=qe0bToSaiRTHdBofQ9sijEoistBthzgCvpmYDMqfcug"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQGMZ2fx9Is0YA/mp4-360p-30fp-crf28/B4EZYP6EDQHcBk-/0/1744023611147?e=1745820000&v=beta&t=zoZcab2iRks-8gG7YhPt9Jm1qsPAxpQrafs7neKVXSs"
     },
     "caption": "Tanıtılan The video magazine is starting!\n\nSebastian Höffner, the host of our Bauma video magazine, has an important announcement to make – tune in!\n\nFollow the magazine here on the channel or on YouTube: https://lnkd.in/eChekvDy\n\n#bauma2025 #handsonliebherr ",
     "runTime": {
@@ -6274,13 +5395,13 @@
     "url": "https://www.linkedin.com/ad-library/detail/640541214",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQHrbJqwCA_SmA/mp4-360p-30fp-crf28/B4EZX20tJTGYCc-/0/1743602782769/2025-04-02_LIEBHERR_Bauma_StandTrailer_EN_v6_4x5neuv1mp4?e=1745211600&v=beta&t=Q8Nnw6tY-HiysGGGFIv8h7PB-_JzJKnekPQUd9AHwYI"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQHrbJqwCA_SmA/mp4-360p-30fp-crf28/B4EZX20tJTGYCc-/0/1743602782769/2025-04-02_LIEBHERR_Bauma_StandTrailer_EN_v6_4x5neuv1mp4?e=1745820000&v=beta&t=vdCSe5_2s_2bAVvxzgdrlWUkRId8hx9SZz2FGS62yl4"
     },
     "caption": "Tanıtılan Impressive machine shows, exclusive behind the scenes insights, in-depth expert interviews: immerse yourself in the world of Liebherr at Bauma with our daily video magazine!\nFrom the start of the trade show, we will show you the highlights of the event every day.\n#bauma2025 #handsonliebherr \n",
     "runTime": {
-      "humanize": "7 Nis 2025 - 11 Nis 2025",
+      "humanize": "7 Nis 2025 - 17 Nis 2025",
       "startTime": 1743973200,
-      "finishTime": 1744318800
+      "finishTime": 1744837200
     },
     "impression": "10 bin - 50 bin",
     "countryList": [
