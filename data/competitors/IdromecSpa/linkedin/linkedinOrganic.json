@@ -87,6 +87,10 @@
     [
       1745472278270,
       807
+    ],
+    [
+      1745816455963,
+      808
     ]
   ],
   "data": [
@@ -97,59 +101,59 @@
       "shares": "5",
       "time": {
         "raw": "2ay2ay",
-        "parsed": "24.04.2025",
-        "isoString": "2025-04-24T05:24:37.992Z"
+        "parsed": "28.04.2025",
+        "isoString": "2025-04-28T05:00:55.714Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQFJgP7A2Of8lQ/mp4-640p-30fp-crf28/B56ZTvpPVqHEBc-/0/1739187379825?e=1746079200&v=beta&t=DC3MNIn6l-n3oYu1UCxBRWTFOq9wm97u9Mi90DfJDTA",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQFJgP7A2Of8lQ/mp4-640p-30fp-crf28/B56ZTvpPVqHEBc-/0/1739187379825?e=1746424800&v=beta&t=C34Z0SIsI2D455iiTJgG-eKYNkISRGie2Q4J1PFy7sQ",
             "type": "video/mp4",
             "data-bitrate": 610370
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQFJgP7A2Of8lQ/mp4-720p-30fp-crf28/B56ZTvpPVqHEBg-/0/1739187380483?e=1746079200&v=beta&t=1Sodq9WCMwCZ0o8w2_lDRJZvtuY32BTm-4DgranFRQM",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQFJgP7A2Of8lQ/mp4-720p-30fp-crf28/B56ZTvpPVqHEBg-/0/1739187380483?e=1746424800&v=beta&t=NGlohsMCFXWCpTXbPaHIOtDCXj-FoibDsvhiKlfuBog",
             "type": "video/mp4",
             "data-bitrate": 833042
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D5605AQFJgP7A2Of8lQ/videocover-low/B56ZTvpPVqHECM-/0/1739187374832?e=1746079200&v=beta&t=Wkkgy8zsoWUo-TQQVSbTSjwv_Vo1LWapv3biwaS2y70"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D5605AQFJgP7A2Of8lQ/videocover-low/B56ZTvpPVqHECM-/0/1739187374832?e=1746424800&v=beta&t=4gnFTzKRzN1WucwI5BSHpmXGmJngLk9R8t2Ei667tjM"
       },
-      "date": "2025-04-24T05:24:37.992Z"
+      "date": "2025-04-28T05:00:55.714Z"
     },
     {
       "captions": "On Location in Mozzecane Italy!!\n\nIt was exciting to see our new 1400ton Shear being loaded out for our own facility Sierra Recycling & Demolition!!!!\n\nCan’t wait for its arrival!!!",
       "time": {
         "raw": "2ay",
-        "parsed": "24.02.2025",
-        "isoString": "2025-02-24T05:24:37.993Z"
+        "parsed": "28.02.2025",
+        "isoString": "2025-02-28T05:00:55.714Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQFJgP7A2Of8lQ/mp4-640p-30fp-crf28/B56ZTvpPVqHEBc-/0/1739187379825?e=1746079200&v=beta&t=DC3MNIn6l-n3oYu1UCxBRWTFOq9wm97u9Mi90DfJDTA",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQFJgP7A2Of8lQ/mp4-640p-30fp-crf28/B56ZTvpPVqHEBc-/0/1739187379825?e=1746424800&v=beta&t=C34Z0SIsI2D455iiTJgG-eKYNkISRGie2Q4J1PFy7sQ",
             "type": "video/mp4",
             "data-bitrate": 610370
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQFJgP7A2Of8lQ/mp4-720p-30fp-crf28/B56ZTvpPVqHEBg-/0/1739187380483?e=1746079200&v=beta&t=1Sodq9WCMwCZ0o8w2_lDRJZvtuY32BTm-4DgranFRQM",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQFJgP7A2Of8lQ/mp4-720p-30fp-crf28/B56ZTvpPVqHEBg-/0/1739187380483?e=1746424800&v=beta&t=NGlohsMCFXWCpTXbPaHIOtDCXj-FoibDsvhiKlfuBog",
             "type": "video/mp4",
             "data-bitrate": 833042
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D5605AQFJgP7A2Of8lQ/videocover-low/B56ZTvpPVqHECM-/0/1739187374832?e=1746079200&v=beta&t=Wkkgy8zsoWUo-TQQVSbTSjwv_Vo1LWapv3biwaS2y70"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D5605AQFJgP7A2Of8lQ/videocover-low/B56ZTvpPVqHECM-/0/1739187374832?e=1746424800&v=beta&t=4gnFTzKRzN1WucwI5BSHpmXGmJngLk9R8t2Ei667tjM"
       },
-      "date": "2025-02-24T05:24:37.993Z"
+      "date": "2025-02-28T05:00:55.714Z"
     },
     {
       "captions": "Venerdì abbiamo avuto  l’ultimo di 3 incontri con i ragazzi delle scuole secondarie di primo grado di Mozzecane e Nogarole Rocca. I ragazzi, divisi a gruppi, hanno visitato l’officina e gli uffici della ditta dove sono state spiegate loro le varie figure professionali. Il tutto nell’ottica della scelta della corretta scuola secondaria di secondo grado. I ragazzi, accompagnati dai professori, hanno mostrato interesse e fatto domande. Speriamo di essere stati d’aiuto nella scelta del loro percorso di studi che li preparerà alla vita lavorativa. In bocca al lupo ragazzi!Venerdì abbiamo avuto  l’ultimo di 3 incontri con i ragazzi delle scuole secondarie di primo grado di Mozzecane e Nogarole Rocca. I ragazzi, divisi a gruppi, hanno visitato l’officina e gli uffici della ditta dove sono state spiegate loro le varie figure professionali. Il tutto nell’ottica della scelta della corretta scuola secondaria di secondo grado. I ragazzi, accompagnati dai professori, hanno mostrato interesse e fatto domande. Speriamo di essere stati d’aiuto nella scelta del loro percorso di studi che li preparerà alla vita lavorativa. In bocca al lupo ragazzi!",
       "likes": "27",
       "time": {
         "raw": "5ay",
-        "parsed": "24.11.2024",
-        "isoString": "2024-11-24T05:24:37.995Z"
+        "parsed": "28.11.2024",
+        "isoString": "2024-11-28T05:00:55.716Z"
       },
       "mediaType": "image",
       "mediaContent": [
@@ -157,7 +161,7 @@
         "https://media.licdn.com/dms/image/v2/D5622AQGDbGjPJ8SJjA/feedshare-shrink_800/feedshare-shrink_800/0/1731942602790?e=1748476800&v=beta&t=szW5UVEPlYXZDkxE0DHCrAfybe94AlySi8bw2MCW9S4",
         "https://media.licdn.com/dms/image/v2/D5622AQF4q8J_cEVbzQ/feedshare-shrink_800/feedshare-shrink_800/0/1731942602558?e=1748476800&v=beta&t=ZJ7ZXj7wA65c5u0a69qv_JIteg3P0HTFP055VFXJfTw"
       ],
-      "date": "2024-11-24T05:24:37.995Z"
+      "date": "2024-11-28T05:00:55.716Z"
     },
     {
       "captions": "Saremo presenti ad Ecomondo 2024, dal 5 all’8 Novembre. Ci troverete al Rimini Expo Centre, Hall C3, Stand 301. Non mancate!\n\nWe will be at Ecomondo 2024, from 5th to 8th November. You will find us at Rimini Expo Centre, Hall C3, Stand 301. Be there!\n\n#ecomondo #idromec #shearbaler #recyclingSaremo presenti ad Ecomondo 2024, dal 5 all’8 Novembre. Ci troverete al Rimini Expo Centre, Hall C3, Stand 301. Non mancate!\n\nWe will be at Ecomondo 2024, from 5th to 8th November. You will find us at Rimini Expo Centre, Hall C3, Stand 301. Be there!\n\n#ecomondo #idromec #shearbaler #recycling",
@@ -165,28 +169,28 @@
       "shares": "1",
       "time": {
         "raw": "5ay",
-        "parsed": "24.11.2024",
-        "isoString": "2024-11-24T05:24:38.002Z"
+        "parsed": "28.11.2024",
+        "isoString": "2024-11-28T05:00:55.717Z"
       },
       "mediaType": "image",
       "mediaContent": [
         "https://media.licdn.com/dms/image/v2/D4D22AQGn9yC8IazGhA/feedshare-shrink_800/feedshare-shrink_800/0/1730667175460?e=1748476800&v=beta&t=MP6sk_2ONNlalZiiYfjfOpuaRNhxUN9elW4g7TNMcrY"
       ],
-      "date": "2024-11-24T05:24:38.002Z"
+      "date": "2024-11-28T05:00:55.717Z"
     },
     {
       "likes": "14",
       "comments": "2",
       "time": {
         "raw": "8ay",
-        "parsed": "24.08.2024",
-        "isoString": "2024-08-24T05:24:38.005Z"
+        "parsed": "28.08.2024",
+        "isoString": "2024-08-28T05:00:55.721Z"
       },
       "mediaType": "image",
       "mediaContent": [
         "https://media.licdn.com/dms/image/v2/D4D22AQFSEU_gXbc6Ag/feedshare-shrink_800/feedshare-shrink_800/0/1722880521861?e=1748476800&v=beta&t=zxxF5jUjOU26R_S2OW6BEc3cb8Bed1PBfSxMRDap1BU"
       ],
-      "date": "2024-08-24T05:24:38.005Z"
+      "date": "2024-08-28T05:00:55.721Z"
     },
     {
       "captions": "11st July 1969: exactly 55 years ago Idromec was born.\nHere’s a pic from the early 80s\n#idromec #shearbaler #recycling11st July 1969: exactly 55 years ago Idromec was born.\nHere’s a pic from the early 80s\n#idromec #shearbaler #recycling",
@@ -194,14 +198,14 @@
       "shares": "2",
       "time": {
         "raw": "9ay",
-        "parsed": "24.07.2024",
-        "isoString": "2024-07-24T05:24:38.007Z"
+        "parsed": "28.07.2024",
+        "isoString": "2024-07-28T05:00:55.722Z"
       },
       "mediaType": "image",
       "mediaContent": [
         "https://media.licdn.com/dms/image/v2/D4D22AQEOPJl_NH_Nuw/feedshare-shrink_800/feedshare-shrink_800/0/1720711243102?e=1748476800&v=beta&t=bDRmG8i9cU4xYcJzFKcXJNriGTjgaFPKqzXBz5gab-w"
       ],
-      "date": "2024-07-24T05:24:38.007Z"
+      "date": "2024-07-28T05:00:55.722Z"
     },
     {
       "captions": "Last day in IFAT!!! You can find us at Hall C5 stand 328!\n#ifat #shearbaler #idromec #recycling",
@@ -210,31 +214,31 @@
       "shares": "1",
       "time": {
         "raw": "11ay",
-        "parsed": "24.05.2024",
-        "isoString": "2024-05-24T05:24:38.008Z"
+        "parsed": "28.05.2024",
+        "isoString": "2024-05-28T05:00:55.723Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHd08j_AhLPcg/feedshare-ambry-analyzed_servable_progressive_video/feedshare-ambry-analyzed_servable_progressive_video/0/1715939640900?e=1746079200&v=beta&t=uqwodxGbeR-zbsvQVmiGDrjoCdpbS3z-j8ewnv7ZSrE",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHd08j_AhLPcg/feedshare-ambry-analyzed_servable_progressive_video/feedshare-ambry-analyzed_servable_progressive_video/0/1715939640900?e=1746424800&v=beta&t=etqVY0fPBvfYDq99TA0RDjXJHyhv1DqY2OwnvQFwii8",
             "type": "video/quicktime",
             "data-bitrate": 14993888
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHd08j_AhLPcg/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1715939657955?e=1746079200&v=beta&t=4IrrxnTnS_j5HW4dKiwVF_WYRWlZruFnJkXVKPC6rFA",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHd08j_AhLPcg/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1715939657955?e=1746424800&v=beta&t=i5yHWv7wkKfErn5cGbumIunFloEjySZGKiAjyVbB0wY",
             "type": "video/mp4",
             "data-bitrate": 812715
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHd08j_AhLPcg/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1715939657894?e=1746079200&v=beta&t=hK9cG7tk0fmEGjmbf_rd7UoEiwRlcYBaMhCZqz1kVKY",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHd08j_AhLPcg/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1715939657894?e=1746424800&v=beta&t=oKHN4DgpgIO6UwhVCxPUNyGZRh2O3eqU8tR-VwVWefE",
             "type": "video/mp4",
             "data-bitrate": 1136998
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQHd08j_AhLPcg/videocover-high/videocover-high/0/1715939642735?e=1746079200&v=beta&t=2QE2uXI4rY4uC5dBaz94ZTvl-Em0kSkZCL7LY4TRifI"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQHd08j_AhLPcg/videocover-high/videocover-high/0/1715939642735?e=1746424800&v=beta&t=yZIz-nJ8SBo2GWC7RxB1cFRnPO6QZrRfE2zUZa2MDIQ"
       },
-      "date": "2024-05-24T05:24:38.008Z"
+      "date": "2024-05-28T05:00:55.723Z"
     },
     {
       "captions": "4th day at IFAT 2024! Visit us at Hall C5, stand 328!\n#ifat #shearbaler #idromec #recycling4th day at IFAT 2024! Visit us at Hall C5, stand 328!\n#ifat #shearbaler #idromec #recycling",
@@ -242,8 +246,8 @@
       "shares": "2",
       "time": {
         "raw": "11ay",
-        "parsed": "24.05.2024",
-        "isoString": "2024-05-24T05:24:38.009Z"
+        "parsed": "28.05.2024",
+        "isoString": "2024-05-28T05:00:55.724Z"
       },
       "mediaType": "image",
       "mediaContent": [
@@ -252,7 +256,7 @@
         "https://media.licdn.com/dms/image/v2/D4D22AQE4zGmaAcUpCQ/feedshare-shrink_800/feedshare-shrink_800/0/1715872650065?e=1748476800&v=beta&t=AcDumn4i0E525FiNVx51Bv3YKOMfW-3RRDrO0uJOrpk",
         "https://media.licdn.com/dms/image/v2/D4D22AQETq5NINzJ7xg/feedshare-shrink_800/feedshare-shrink_800/0/1715872650292?e=1748476800&v=beta&t=bSHg9a2A5XxuXj8VvxmfhYKOdnBVqOoy3g-2ee9Iga0"
       ],
-      "date": "2024-05-24T05:24:38.009Z"
+      "date": "2024-05-28T05:00:55.724Z"
     },
     {
       "captions": "IFAT day 2: visit us at Hall C5 stand 328! We will show you our balers and shearbalers!\n#ifat #shearbaler #idromec #recyclingIFAT day 2: visit us at Hall C5 stand 328! We will show you our balers and shearbalers!\n#ifat #shearbaler #idromec #recycling",
@@ -260,8 +264,8 @@
       "comments": "1",
       "time": {
         "raw": "11ay",
-        "parsed": "24.05.2024",
-        "isoString": "2024-05-24T05:24:38.011Z"
+        "parsed": "28.05.2024",
+        "isoString": "2024-05-28T05:00:55.725Z"
       },
       "mediaType": "image",
       "mediaContent": [
@@ -270,15 +274,15 @@
         "https://media.licdn.com/dms/image/v2/D4D22AQGyaYemQvGn4g/feedshare-shrink_800/feedshare-shrink_800/0/1715691826522?e=1748476800&v=beta&t=p_LpftP5nDmVhfeMYOtOlw256-JsYslz4FAg8HX2JpM",
         "https://media.licdn.com/dms/image/v2/D4D22AQHn0Mln-Hy26Q/feedshare-shrink_800/feedshare-shrink_800/0/1715691825438?e=1748476800&v=beta&t=XFdEd6AnlPX8zbwJAsiB6h-7sf0xZG9Eow6wyjNwI7E"
       ],
-      "date": "2024-05-24T05:24:38.011Z"
+      "date": "2024-05-28T05:00:55.725Z"
     },
     {
       "captions": "Are you ready? You can find us at Hall C5 stand 328!\n\n#idromec #shearbaler #ifat #recyclingAre you ready? You can find us at Hall C5 stand 328!\n\n#idromec #shearbaler #ifat #recycling",
       "likes": "16",
       "time": {
         "raw": "11ay",
-        "parsed": "24.05.2024",
-        "isoString": "2024-05-24T05:24:38.013Z"
+        "parsed": "28.05.2024",
+        "isoString": "2024-05-28T05:00:55.727Z"
       },
       "mediaType": "image",
       "mediaContent": [
@@ -286,7 +290,7 @@
         "https://media.licdn.com/dms/image/v2/D4D22AQGikCnZ2jHaLw/feedshare-shrink_800/feedshare-shrink_800/0/1715588781704?e=1748476800&v=beta&t=wkBmPluLkFC13XBDvvCaeM3vyF56-5EodHgYpqbdZpU",
         "https://media.licdn.com/dms/image/v2/D4D22AQGS4YrZf187rg/feedshare-shrink_800/feedshare-shrink_800/0/1715588780834?e=1748476800&v=beta&t=tAzNDEd_bZtVeoBPgaZz8CGN6EL5ZHqYCvyyb02BE7k"
       ],
-      "date": "2024-05-24T05:24:38.013Z"
+      "date": "2024-05-28T05:00:55.727Z"
     },
     {
       "captions": "IFAT 2024 | 13-17 Maggio\nEccoci anche quest’anno alla fiera internazionale leader per la gestione dei rifiuti e delle materie prime. Venite a trovarci al Centro Fieristico di Monaco di Baviera, Hall C5 – Stand 328!\n \nIFAT 2024 | May 13-17\nHere we are once again at the world’s leading trade fair for waste and raw materials management.\nCome and visit us at the Munich Trade Fair Center, Hall C5 – Booth 328!\n\n#ifat #idromec #shearbaler #recyclingIFAT 2024 | 13-17 Maggio\nEccoci anche quest’anno alla fiera internazionale leader per la gestione dei rifiuti e delle materie prime. Venite a trovarci al Centro Fieristico di Monaco di Baviera, Hall C5 – Stand 328!\n \nIFAT 2024 | May 13-17\nHere we are once again at the world’s leading trade fair for waste and raw materials management.\nCome and visit us at the Munich Trade Fair Center, Hall C5 – Booth 328!\n\n#ifat #idromec #shearbaler #recycling",
@@ -294,14 +298,14 @@
       "shares": "1",
       "time": {
         "raw": "11ay",
-        "parsed": "24.05.2024",
-        "isoString": "2024-05-24T05:24:38.014Z"
+        "parsed": "28.05.2024",
+        "isoString": "2024-05-28T05:00:55.728Z"
       },
       "mediaType": "image",
       "mediaContent": [
         "https://media.licdn.com/dms/image/v2/D4E22AQEm8XTOITdtyw/feedshare-shrink_800/feedshare-shrink_800/0/1715092209459?e=1748476800&v=beta&t=VQRnD6mnlQX-d5GbWp50L_zHO40sf1ynYdstGNeCI-E"
       ],
-      "date": "2024-05-24T05:24:38.014Z"
+      "date": "2024-05-28T05:00:55.728Z"
     },
     {
       "captions": "Visit us at Booth B6!\n#isri #idromec #shearbaler #recyclingVisit us at Booth B6!\n#isri #idromec #shearbaler #recycling",
@@ -452,14 +456,14 @@
       "shares": "2",
       "time": {
         "raw": "1ay",
-        "parsed": "24.03.2025",
-        "isoString": "2025-03-24T05:24:37.989Z"
+        "parsed": "28.03.2025",
+        "isoString": "2025-03-28T05:00:55.713Z"
       },
       "mediaType": "image",
       "mediaContent": [
         "https://media.licdn.com/dms/image/v2/D4D22AQHEPRCWdFqgAw/feedshare-shrink_800/B4DZWAeHLjHkAs-/0/1741617140215?e=1748476800&v=beta&t=ZdyJt0LWAH4-P2EhjmJTqS5IJSKYE2KMk0KuGx5-ONU"
       ],
-      "date": "2025-03-24T05:24:37.989Z"
+      "date": "2025-03-28T05:00:55.713Z"
     },
     {
       "captions": "We bought this shear in 1997… it was a game changer for our business United Metals Recycling  We took it out of commission a year ago and started the rebuild… stay tuned, it’s about to be back and the centerpiece for partners over at B & K Auto Salvage & Recycling… thank you Sierra International Machinery for the support and for building quality equipment that lasts! \n\n#imback #scraplife #fafo #recycledOregon",
@@ -467,26 +471,26 @@
       "shares": "1",
       "time": {
         "raw": "1ay",
-        "parsed": "24.03.2025",
-        "isoString": "2025-03-24T05:24:37.987Z"
+        "parsed": "28.03.2025",
+        "isoString": "2025-03-28T05:00:55.711Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQEpJulNaxCWog/mp4-640p-30fp-crf28/B56ZV35_jlHoBk-/0/1741478156051?e=1746079200&v=beta&t=xeQJu7Uv6k2EzR0slPyZ-hjvI5yp4CrPRLR3b2UDxjs",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQEpJulNaxCWog/mp4-640p-30fp-crf28/B56ZV35_jlHoBk-/0/1741478156051?e=1746424800&v=beta&t=Cved8YWh3aEF-6buI4NFGNoAG7lVVDuRRbgwQc4oiE0",
             "type": "video/mp4",
             "data-bitrate": 1158588
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQEpJulNaxCWog/mp4-720p-30fp-crf28/B56ZV35_jlHoBo-/0/1741478153994?e=1746079200&v=beta&t=rkW71j1X8S-x-C2FFZlRMeaY1Fn-gI5J8dnGo3lzj4M",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D5605AQEpJulNaxCWog/mp4-720p-30fp-crf28/B56ZV35_jlHoBo-/0/1741478153994?e=1746424800&v=beta&t=SVgBt3cji8ZHwuwbS30tw0GGbEM-o9MaOVIIRHH6jck",
             "type": "video/mp4",
             "data-bitrate": 1471524
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D5605AQEpJulNaxCWog/videocover-high/B56ZV35_jlHoB0-/0/1741478149381?e=1746079200&v=beta&t=qkT6fFEhuA-Mmy6jWeymXZmtQyrbyZjlz4O0eycFaN0"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D5605AQEpJulNaxCWog/videocover-high/B56ZV35_jlHoB0-/0/1741478149381?e=1746424800&v=beta&t=8Dd4KVaMTijshTGYUOJ-Oc5-dzcpmzcexlY28hOCEGQ"
       },
-      "date": "2025-03-24T05:24:37.987Z"
+      "date": "2025-03-28T05:00:55.711Z"
     },
     {
       "captions": "Car Baler Idromec Tabarelli S6000 3M – Electric Version for Maximum Efficiency and Sustainability.\n\nThe third compression system takes power to the next level, making body dismantling effortless. Boost productivity by 20% compared to the standard version.\n\nMounted on four telescopic brackets, it lifts a full meter, ensuring easier access for cleaning and maintenance. Stronger, smarter, and greener than ever!",
@@ -494,21 +498,21 @@
       "shares": "1",
       "time": {
         "raw": "1ay",
-        "parsed": "24.03.2025",
-        "isoString": "2025-03-24T05:24:37.981Z"
+        "parsed": "28.03.2025",
+        "isoString": "2025-03-28T05:00:55.709Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHU_CONlrYJOA/mp4-640p-30fp-crf28/B4DZW95MMnG4Bk-/0/1742647649057?e=1746079200&v=beta&t=jxv8KbGMxiVdwKfzAR3C8KGHNaVlEDDXc2vKx7cghVs",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHU_CONlrYJOA/mp4-640p-30fp-crf28/B4DZW95MMnG4Bk-/0/1742647649057?e=1746424800&v=beta&t=VyPpT2_-_WsmysBGNgV2gbQlE6sEIkqXrOovx2hgm9Q",
             "type": "video/mp4",
             "data-bitrate": 530932
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQHU_CONlrYJOA/videocover-high/B4DZW95MMnG4B0-/0/1742647646275?e=1746079200&v=beta&t=FGe2cIdezemsT2jFEDSwoEQ70Xqe6FWU3lxv_M48bos"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQHU_CONlrYJOA/videocover-high/B4DZW95MMnG4B0-/0/1742647646275?e=1746424800&v=beta&t=6QXHZKBIWqKZ141YskzdSCzRmf1hDyC8AW_wfEP0UWo"
       },
-      "date": "2025-03-24T05:24:37.981Z"
+      "date": "2025-03-28T05:00:55.709Z"
     },
     {
       "captions": "🎉Spread the news🎉, the new Idromec Tabarelli S6000 baler redefines the new standard. Fast, powerful and versatile. Ever greener in its electric version, economical to manage, silent and easy to use. Quick to transport and install. Call us for any information and to discover all the available options.",
@@ -517,40 +521,40 @@
       "shares": "6",
       "time": {
         "raw": "1ay",
-        "parsed": "24.03.2025",
-        "isoString": "2025-03-24T05:24:37.984Z"
+        "parsed": "28.03.2025",
+        "isoString": "2025-03-28T05:00:55.710Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQE6wEJpp6fKCQ/mp4-720p-30fp-crf28/B4EZWvPjmJHgBk-/0/1742401914484?e=1746079200&v=beta&t=PXtWLImHJXQV2oJ8POnEwjxY2p7PRVxEnQvBc2vd3dU",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQE6wEJpp6fKCQ/mp4-720p-30fp-crf28/B4EZWvPjmJHgBk-/0/1742401914484?e=1746424800&v=beta&t=Thu53xpHYraVk2HsF9xeXa6aXCDF2C4bzbnsCZMmaRE",
             "type": "video/mp4",
             "data-bitrate": 1042628
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQE6wEJpp6fKCQ/mp4-640p-30fp-crf28/B4EZWvPjmJHgBg-/0/1742401905354?e=1746079200&v=beta&t=ihh1PdtJfgPW3a8dqkyfKegPSB1KATnyY-DQsjcJkvE",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQE6wEJpp6fKCQ/mp4-640p-30fp-crf28/B4EZWvPjmJHgBg-/0/1742401905354?e=1746424800&v=beta&t=C4PzIHblNBV3DiYRwFbx7Em9NZ8hvROVvoXjyAZAn2c",
             "type": "video/mp4",
             "data-bitrate": 789682
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQE6wEJpp6fKCQ/videocover-low/B4EZWvPjmJHgCU-/0/1742401870762?e=1746079200&v=beta&t=A39cjKVBdRF4xtQ-rNxfPV-KbDpxhUldYqnluP_KbVM"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQE6wEJpp6fKCQ/videocover-low/B4EZWvPjmJHgCU-/0/1742401870762?e=1746424800&v=beta&t=tyhTxgnv9EfJVK-0zr9aFY63fFHbFohprPMxFUH33hQ"
       },
-      "date": "2025-03-24T05:24:37.984Z"
+      "date": "2025-03-28T05:00:55.710Z"
     },
     {
       "captions": "In un mondo che si trasforma continuamente, anche la pausa ha il suo valore.\nIdromec Spa vi augura una Pasqua fatta di quiete, nuove energie e piccoli gesti che rigenerano.\n\nIn a world of constant transformation, even a pause holds value.\nIdromec Spa wishes you an Easter filled with peace, renewed energy, and small acts that restore.\n\n#easter2025 #recycling #idromecIn un mondo che si trasforma continuamente, anche la pausa ha il suo valore.\nIdromec Spa vi augura una Pasqua fatta di quiete, nuove energie e piccoli gesti che rigenerano.\n\nIn a world of constant transformation, even a pause holds value.\nIdromec Spa wishes you an Easter filled with peace, renewed energy, and small acts that restore.\n\n#easter2025 #recycling #idromec",
       "likes": "5",
       "time": {
-        "raw": "5g",
-        "parsed": "19.04.2025",
-        "isoString": "2025-04-19T05:24:37.979Z"
+        "raw": "1h",
+        "parsed": "21.04.2025",
+        "isoString": "2025-04-21T05:00:55.707Z"
       },
       "mediaType": "image",
       "mediaContent": [
         "https://media.licdn.com/dms/image/v2/D4E22AQHudXLAfNAJQA/feedshare-shrink_800/B4EZZJS0twG0Ao-/0/1744986394753?e=1748476800&v=beta&t=uzFweE5Pb_bsKNC9ajEMIg9moaXzAZwNMaAwgSAAPWo"
       ],
-      "date": "2025-04-19T05:24:37.979Z"
+      "date": "2025-04-21T05:00:55.707Z"
     }
   ]
 }
