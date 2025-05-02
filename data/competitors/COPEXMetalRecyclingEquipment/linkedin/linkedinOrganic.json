@@ -91,6 +91,10 @@
     [
       1745816359473,
       2161
+    ],
+    [
+      1746164311312,
+      2160
     ]
   ],
   "data": [
@@ -100,27 +104,27 @@
       "comments": "4",
       "shares": "12",
       "time": {
-        "raw": "1ay",
-        "parsed": "28.03.2025",
-        "isoString": "2025-03-28T04:59:19.253Z"
+        "raw": "2ay",
+        "parsed": "02.03.2025",
+        "isoString": "2025-03-02T05:38:31.070Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHzBjqS2q1Tgw/mp4-720p-30fp-crf28/B4EZVH73AHGYBg-/0/1740668685959?e=1746421200&v=beta&t=Va4g6nvCIJjFrusiIMB9Aqdvftfbh3hBAvh3KXKbtbE",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHzBjqS2q1Tgw/mp4-720p-30fp-crf28/B4EZVH73AHGYBg-/0/1740668685959?e=1746770400&v=beta&t=gtq6dj642bfw0pWBPOFbZkx1JjUVLPbKANlgTO0H1lM",
             "type": "video/mp4",
             "data-bitrate": 1116984
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHzBjqS2q1Tgw/mp4-640p-30fp-crf28/B4EZVH73AHGYBc-/0/1740668687592?e=1746421200&v=beta&t=eEtW7C-i-OLVsJ9LZrah6Jdr2o80EaV4AcG9L60S6Ac",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHzBjqS2q1Tgw/mp4-640p-30fp-crf28/B4EZVH73AHGYBc-/0/1740668687592?e=1746770400&v=beta&t=kmlLf6vz7tpsCVF2HYlpdUwSRE0NrcfJ1GBePJNI52s",
             "type": "video/mp4",
             "data-bitrate": 802291
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQHzBjqS2q1Tgw/videocover-low/B4EZVH73AHGYCM-/0/1740668675906?e=1746421200&v=beta&t=ZNRLOotSZinO6u62VqANjPypCHqX6UYM0ONNYjL5xkc"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQHzBjqS2q1Tgw/videocover-low/B4EZVH73AHGYCM-/0/1740668675906?e=1746770400&v=beta&t=TaBIq8LoELuFp7XGzTfjgw9zRZpozmZxqA3-8QTZMLw"
       },
-      "date": "2025-03-28T04:59:19.253Z"
+      "date": "2025-03-02T05:38:31.070Z"
     },
     {
       "captions": "Wich one would you choose ? 650, 700, 800 or 1000T ? 🤩Wich one would you choose ? 650, 700, 800 or 1000T ? 🤩",
@@ -129,15 +133,15 @@
       "shares": "7",
       "time": {
         "raw": "2ay",
-        "parsed": "28.02.2025",
-        "isoString": "2025-02-28T04:59:19.255Z"
+        "parsed": "02.03.2025",
+        "isoString": "2025-03-02T05:38:31.073Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4E22AQFBhuWUdXPPEw/feedshare-shrink_800/B4EZU5VpuiHUAg-/0/1740423736410?e=1748476800&v=beta&t=YatfGj0EQMQtDPgNwnB3bRwTxrYsQCBGFPw-3FDsK70",
-        "https://media.licdn.com/dms/image/v2/D4E22AQEQERvskXpWxQ/feedshare-shrink_800/B4EZU5VptzHcAg-/0/1740423736612?e=1748476800&v=beta&t=inLPF1syKD0kuoNJ7UZLI5Wx1_QFsFKgYhl9LicZT4Y"
+        "https://media.licdn.com/dms/image/v2/D4E22AQFBhuWUdXPPEw/feedshare-shrink_800/B4EZU5VpuiHUAg-/0/1740423736410?e=1749081600&v=beta&t=A5NN7tD7pgcBSaT0OPmMCMehjxOLlXyIF_9ZNzzNOj8",
+        "https://media.licdn.com/dms/image/v2/D4E22AQEQERvskXpWxQ/feedshare-shrink_800/B4EZU5VptzHcAg-/0/1740423736612?e=1749081600&v=beta&t=Vh2iK6_EOjT5AilahgdTB6y3QLN66is0X2_6Xv8S1oE"
       ],
-      "date": "2025-02-28T04:59:19.255Z"
+      "date": "2025-03-02T05:38:31.073Z"
     },
     {
       "captions": "🇫🇷 New video at BORNES RECYCLAGE coming soon ! #Lidex1300🇫🇷 New video at BORNES RECYCLAGE coming soon ! #Lidex1300",
@@ -146,16 +150,16 @@
       "shares": "11",
       "time": {
         "raw": "2ay",
-        "parsed": "28.02.2025",
-        "isoString": "2025-02-28T04:59:19.258Z"
+        "parsed": "02.03.2025",
+        "isoString": "2025-03-02T05:38:31.074Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4E22AQFrYD2RFVQYcg/feedshare-shrink_800/B4EZT6d29bHgAw-/0/1739368924877?e=1748476800&v=beta&t=I2N8nS2YZqGEXuzNLRTaYZPKZtMTDFsQzEdHrqWFer8",
-        "https://media.licdn.com/dms/image/v2/D4E22AQH-WUUm7Zrtmg/feedshare-shrink_800/B4EZT6d28KGwAg-/0/1739368921314?e=1748476800&v=beta&t=DchIHqYy0nXqI6kKwFSyf69j7-PxVTk8ikH6m0BKWE0",
-        "https://media.licdn.com/dms/image/v2/D4E22AQHuuJoVj8fKBg/feedshare-shrink_800/B4EZT6d28rG0Ao-/0/1739368923413?e=1748476800&v=beta&t=6MeuSajJx6PAF5s7t2q1x8fB_XEjD3BCDVUmMlflcA0"
+        "https://media.licdn.com/dms/image/v2/D4E22AQFrYD2RFVQYcg/feedshare-shrink_800/B4EZT6d29bHgAw-/0/1739368924877?e=1749081600&v=beta&t=-JbuYAKS-ckp9iUcV28oEF6LxBMaXOqMpkQUrItX96c",
+        "https://media.licdn.com/dms/image/v2/D4E22AQH-WUUm7Zrtmg/feedshare-shrink_800/B4EZT6d28KGwAg-/0/1739368921314?e=1749081600&v=beta&t=R6DYmW7AjRfpUubHDWu47WoVOCj4nStb2jUj74RWrzk",
+        "https://media.licdn.com/dms/image/v2/D4E22AQHuuJoVj8fKBg/feedshare-shrink_800/B4EZT6d28rG0Ao-/0/1739368923413?e=1749081600&v=beta&t=5C5Q1aUGS6tn8KHt2UvJXSd7wuwX92vVSx6qBBotULs"
       ],
-      "date": "2025-02-28T04:59:19.258Z"
+      "date": "2025-03-02T05:38:31.074Z"
     },
     {
       "captions": "[𝟐𝟎𝟐𝟓 𝐋𝐄𝐅𝐎𝐑𝐓 𝐑𝐀𝐍𝐆𝐄]\n\nSelecting the right hydraulic shear depends on the type, rate and volume of material being processed, but also where the machine will work. \n\nThanks to a very large range of machines, we can accommodate any operation, from the smallest to the largest scrap yard facilities, with a product that will help bring success and growth to a recycler’s business.\n\nFind out more about our scrap shears  : https://lnkd.in/ertBPuHn\n[𝟐𝟎𝟐𝟓 𝐋𝐄𝐅𝐎𝐑𝐓 𝐑𝐀𝐍𝐆𝐄]\n\nSelecting the right hydraulic shear depends on the type, rate and volume of material being processed, but also where the machine will work. \n\nThanks to a very large range of machines, we can accommodate any operation, from the smallest to the largest scrap yard facilities, with a product that will help bring success and growth to a recycler’s business.\n\nFind out more about our scrap shears  : https://lnkd.in/ertBPuHn",
@@ -164,17 +168,17 @@
       "shares": "4",
       "time": {
         "raw": "2ay",
-        "parsed": "28.02.2025",
-        "isoString": "2025-02-28T04:59:19.262Z"
+        "parsed": "02.03.2025",
+        "isoString": "2025-03-02T05:38:31.075Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4E22AQGwlwLT9tlEfQ/feedshare-shrink_800/B4EZTg2DkUGwAg-/0/1738939069642?e=1748476800&v=beta&t=ZbTNisxWr74zfq8BEvLInmGjrIc1-TS5iSy-4k2TIfs",
-        "https://media.licdn.com/dms/image/v2/D4E22AQHVFvyCwJumeQ/feedshare-shrink_800/B4EZTg2EKKGYAg-/0/1738939070172?e=1748476800&v=beta&t=Vj9hsdyosYgmbtB8bfNMr59RljlXEA3pT5sOYDIhSgE",
-        "https://media.licdn.com/dms/image/v2/D4E22AQGCsyknQLVF-g/feedshare-shrink_800/B4EZTg2EBQHMAk-/0/1738939070699?e=1748476800&v=beta&t=VeAxsexfSnr9UHvMTHdAvTVPMc8FttMQXmxNntHgHzU",
-        "https://media.licdn.com/dms/image/v2/D4E22AQHm32ERupTYsQ/feedshare-shrink_800/B4EZTg2EKQHUAo-/0/1738939070116?e=1748476800&v=beta&t=2tg2553z5VphM7SjXDyHymAb4uhGXf1yM12IYhTn4Ag"
+        "https://media.licdn.com/dms/image/v2/D4E22AQGwlwLT9tlEfQ/feedshare-shrink_800/B4EZTg2DkUGwAg-/0/1738939069642?e=1749081600&v=beta&t=vV37N5kkBQwuQ9NW-1l9s7G9TInFA5cON29lJyTkNWY",
+        "https://media.licdn.com/dms/image/v2/D4E22AQHVFvyCwJumeQ/feedshare-shrink_800/B4EZTg2EKKGYAg-/0/1738939070172?e=1749081600&v=beta&t=uPth2IGgi8FYPq9OUYXAOKkvPR3-3QyQ86GIt6UOSDk",
+        "https://media.licdn.com/dms/image/v2/D4E22AQGCsyknQLVF-g/feedshare-shrink_800/B4EZTg2EBQHMAk-/0/1738939070699?e=1749081600&v=beta&t=fBFKMWaMlWFYmOa6I92PJdJpqC4veTdRMEtS9Nb_Zd8",
+        "https://media.licdn.com/dms/image/v2/D4E22AQHm32ERupTYsQ/feedshare-shrink_800/B4EZTg2EKQHUAo-/0/1738939070116?e=1749081600&v=beta&t=rXvbi7-0o1EciL7bkG5gqulD_AvFsWJPq9-rfgLrC1k"
       ],
-      "date": "2025-02-28T04:59:19.262Z"
+      "date": "2025-03-02T05:38:31.075Z"
     },
     {
       "captions": "🌎⚙️📦🚀\n\nWherever you are and whatever the time, parts availability is key.",
@@ -182,26 +186,26 @@
       "shares": "12",
       "time": {
         "raw": "3ay",
-        "parsed": "28.01.2025",
-        "isoString": "2025-01-28T04:59:19.264Z"
+        "parsed": "02.02.2025",
+        "isoString": "2025-02-02T05:38:31.077Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFoh1mivl09yw/mp4-640p-30fp-crf28/B4EZSJLRtFGYBc-/0/1737468253999?e=1746421200&v=beta&t=25tfur-27t4jIXSA3fmVew7IqbWjpnmYvAjvdloud3Q",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFoh1mivl09yw/mp4-640p-30fp-crf28/B4EZSJLRtFGYBc-/0/1737468253999?e=1746770400&v=beta&t=YGLi90NVo2Zr2UXt_6cguDXPI3BIeF8CBFFGWld7AhY",
             "type": "video/mp4",
             "data-bitrate": 872696
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFoh1mivl09yw/mp4-720p-30fp-crf28/B4EZSJLRtFGYBg-/0/1737468263633?e=1746421200&v=beta&t=nz_nBinjf7_BM3_LKbGLQVebgxtDx8OcaozumCpEYMs",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFoh1mivl09yw/mp4-720p-30fp-crf28/B4EZSJLRtFGYBg-/0/1737468263633?e=1746770400&v=beta&t=MwC1YgO6Ze0OOXbhN0bDS59CCmmeqUh7p0qMEXMoL_g",
             "type": "video/mp4",
             "data-bitrate": 1140218
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQFoh1mivl09yw/feedshare-thumbnail_720_1280/B4EZSJLRtFGYA8-/0/1737468227932?e=1746421200&v=beta&t=qNS_YZerViFpdGBmWNH8qyFeYBDpeOxcGmrzMvw3vl0"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQFoh1mivl09yw/feedshare-thumbnail_720_1280/B4EZSJLRtFGYA8-/0/1737468227932?e=1746770400&v=beta&t=fgvqud4wfg_BYJdFfWubiWdsFup2i1kSTnxpPeFGm60"
       },
-      "date": "2025-01-28T04:59:19.264Z"
+      "date": "2025-02-02T05:38:31.077Z"
     },
     {
       "captions": "Family-owned company BORNES RECYCLAGE took delivery of a 1,300-tonne side compression shear Lidex. With this new heavy-duty machine, the scrap metal recycling expert is laying the foundations of its future development.\n\nSome key specs :\n\n▪️Up to 70 t/hour\n▪️Full automatic cycle\n▪️Cross head in cast steel for a better resistance\n▪️Ultra-rapid cutting blades replacement system \n\n🔗 Read full article in the Lefort Mag #2\n\nhttps://lnkd.in/efdfqpSSFamily-owned company BORNES RECYCLAGE took delivery of a 1,300-tonne side compression shear Lidex. With this new heavy-duty machine, the scrap metal recycling expert is laying the foundations of its future development.\n\nSome key specs :\n\n▪️Up to 70 t/hour\n▪️Full automatic cycle\n▪️Cross head in cast steel for a better resistance\n▪️Ultra-rapid cutting blades replacement system \n\n🔗 Read full article in the Lefort Mag #2\n\nhttps://lnkd.in/efdfqpSS",
@@ -210,14 +214,14 @@
       "shares": "9",
       "time": {
         "raw": "3ay",
-        "parsed": "28.01.2025",
-        "isoString": "2025-01-28T04:59:19.265Z"
+        "parsed": "02.02.2025",
+        "isoString": "2025-02-02T05:38:31.079Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4E22AQGvD82HYg3KDg/feedshare-shrink_800/B4EZRhFzrkGgAg-/0/1736795701931?e=1748476800&v=beta&t=ug3iHO6VQZ_6kE8PUg-jTxlQolzgL_uij4YaEYYzjp8"
+        "https://media.licdn.com/dms/image/v2/D4E22AQGvD82HYg3KDg/feedshare-shrink_800/B4EZRhFzrkGgAg-/0/1736795701931?e=1749081600&v=beta&t=hhzwCzwJEwSyb71bggsI2g5HNsV7TuJl65KM04D5ViM"
       ],
-      "date": "2025-01-28T04:59:19.265Z"
+      "date": "2025-02-02T05:38:31.079Z"
     },
     {
       "captions": "Never too big 🇺🇸 #LefortAmerica #LidexNever too big 🇺🇸 #LefortAmerica #Lidex",
@@ -226,14 +230,14 @@
       "shares": "9",
       "time": {
         "raw": "3ay",
-        "parsed": "28.01.2025",
-        "isoString": "2025-01-28T04:59:19.267Z"
+        "parsed": "02.02.2025",
+        "isoString": "2025-02-02T05:38:31.080Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4E22AQELNxTgPm4Kmg/feedshare-shrink_800/B4EZRCqB6JHkAg-/0/1736285104092?e=1748476800&v=beta&t=xj5w4t4lw_PHSu0uCYvJYZcX7ULbZkF0Y_TlEX2yXSQ"
+        "https://media.licdn.com/dms/image/v2/D4E22AQELNxTgPm4Kmg/feedshare-shrink_800/B4EZRCqB6JHkAg-/0/1736285104092?e=1749081600&v=beta&t=Gwx3uXVatKty9jp40ikdSNRg9AnyJ6bA8IuF6DxrtTI"
       ],
-      "date": "2025-01-28T04:59:19.267Z"
+      "date": "2025-02-02T05:38:31.080Z"
     },
     {
       "captions": "Crawling into 2025 #HappyNewYear #Trax",
@@ -541,29 +545,57 @@
       "shares": "8",
       "time": {
         "raw": "1ay",
-        "parsed": "28.03.2025",
-        "isoString": "2025-03-28T04:59:19.251Z"
+        "parsed": "02.04.2025",
+        "isoString": "2025-04-02T05:38:31.067Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4E22AQGlu4rUV34Lxg/feedshare-shrink_800/B4EZVcNW7KGYAk-/0/1741008763842?e=1748476800&v=beta&t=pldLzqyfUipHtqv6VYcphwgrPSjPF8re0HF60Lrmm6w"
+        "https://media.licdn.com/dms/image/v2/D4E22AQGlu4rUV34Lxg/feedshare-shrink_800/B4EZVcNW7KGYAk-/0/1741008763842?e=1749081600&v=beta&t=gVczuh9Q8PMSrVBULqrTGnw7jpk6PeV8xeoQG1I7lYE"
       ],
-      "date": "2025-03-28T04:59:19.251Z"
+      "date": "2025-04-02T05:38:31.067Z"
     },
     {
       "captions": "𝐋𝐞𝐟𝐨𝐫𝐭 𝐮𝐧𝐯𝐞𝐢𝐥𝐬 𝐢𝐭𝐬 𝐍𝐞𝐰 𝐓𝐫𝐚𝐱 𝟏𝟐𝟓𝟎 𝐰𝐢𝐭𝐡 𝐢𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐞𝐝 𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐭𝐚𝐛𝐥𝐞. 𝐓𝐡𝐞 𝐟𝐢𝐫𝐬𝐭 𝐨𝐧𝐞 𝐰𝐢𝐥𝐥 𝐛𝐞 𝐝𝐞𝐥𝐢𝐯𝐞𝐫𝐞𝐝 𝐭𝐨 𝐭𝐡𝐞 𝐔𝐧𝐢𝐭𝐞𝐝 𝐒𝐭𝐚𝐭𝐞𝐬 𝐢𝐧 𝐭𝐡𝐞 𝐜𝐨𝐦𝐢𝐧𝐠 𝐰𝐞𝐞𝐤𝐬. 🇺🇸\n\nEquipped with a high-performance 550 hp engine and a 7m box, the Trax 1250 delivers an impressive cutting force of 1,250 tons (1,375 us tons). Thanks to its crawler tracks, the machine moves effortlessly across sites, offering unmatched flexibility for both on-site operations and recycling facilities.\n \nBut the true game-changer lies in its integrated loading table/hopper. This innovative configuration significantly boosts productivity by allowing continuous feeding of the shear and reducing material handling. During the compression/shearing cycle, the operator can already prepare the next batch by loading the hopper – eliminating idle time.\n\nRead more : https://lnkd.in/eHadwe6A𝐋𝐞𝐟𝐨𝐫𝐭 𝐮𝐧𝐯𝐞𝐢𝐥𝐬 𝐢𝐭𝐬 𝐍𝐞𝐰 𝐓𝐫𝐚𝐱 𝟏𝟐𝟓𝟎 𝐰𝐢𝐭𝐡 𝐢𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐞𝐝 𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐭𝐚𝐛𝐥𝐞. 𝐓𝐡𝐞 𝐟𝐢𝐫𝐬𝐭 𝐨𝐧𝐞 𝐰𝐢𝐥𝐥 𝐛𝐞 𝐝𝐞𝐥𝐢𝐯𝐞𝐫𝐞𝐝 𝐭𝐨 𝐭𝐡𝐞 𝐔𝐧𝐢𝐭𝐞𝐝 𝐒𝐭𝐚𝐭𝐞𝐬 𝐢𝐧 𝐭𝐡𝐞 𝐜𝐨𝐦𝐢𝐧𝐠 𝐰𝐞𝐞𝐤𝐬. 🇺🇸\n\nEquipped with a high-performance 550 hp engine and a 7m box, the Trax 1250 delivers an impressive cutting force of 1,250 tons (1,375 us tons). Thanks to its crawler tracks, the machine moves effortlessly across sites, offering unmatched flexibility for both on-site operations and recycling facilities.\n \nBut the true game-changer lies in its integrated loading table/hopper. This innovative configuration significantly boosts productivity by allowing continuous feeding of the shear and reducing material handling. During the compression/shearing cycle, the operator can already prepare the next batch by loading the hopper – eliminating idle time.\n\nRead more : https://lnkd.in/eHadwe6A",
-      "likes": "102",
-      "shares": "13",
+      "likes": "107",
+      "shares": "14",
       "time": {
-        "raw": "4g",
-        "parsed": "24.04.2025",
-        "isoString": "2025-04-24T04:59:19.249Z"
+        "raw": "1h",
+        "parsed": "25.04.2025",
+        "isoString": "2025-04-25T05:38:31.064Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4E22AQEDFj5fJAn3HQ/feedshare-shrink_800/B4EZZiBv_hHMAk-/0/1745401350969?e=1748476800&v=beta&t=xVWiW_tTLfdxTtlwMcidvMGBjvvggeXknYUTZxJI1N4"
+        "https://media.licdn.com/dms/image/v2/D4E22AQEDFj5fJAn3HQ/feedshare-shrink_800/B4EZZiBv_hHMAk-/0/1745401350969?e=1749081600&v=beta&t=ogRnrFtWOV29fYUjfh5fKXlN0VnxvlmYFcxOwfGfWok"
       ],
-      "date": "2025-04-24T04:59:19.249Z"
+      "date": "2025-04-25T05:38:31.064Z"
+    },
+    {
+      "captions": "Discover the new Lefort TRAX 1250 with loading hopper, in action ! \n\nWith this configuration, the TRAX 1250 ensures full on-site autonomy and superior productivity — helping you work faster, smarter, and more effectively.\n\n🎬 Watch the video",
+      "likes": "81",
+      "comments": "1",
+      "shares": "19",
+      "time": {
+        "raw": "3g",
+        "parsed": "29.04.2025",
+        "isoString": "2025-04-29T05:38:31.061Z"
+      },
+      "mediaType": "video",
+      "mediaContent": {
+        "src": [
+          {
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQG7BSO1st-A2Q/mp4-720p-30fp-crf28/B4EZZ7IObLHcBU-/0/1745822505032?e=1746770400&v=beta&t=hwhBafV2Gj_zm1nHb8kIIrWddrCCXN_4gkMWmVBucGM",
+            "type": "video/mp4",
+            "data-bitrate": 929275
+          },
+          {
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQG7BSO1st-A2Q/mp4-640p-30fp-crf28/B4EZZ7IObLHcBQ-/0/1745822503635?e=1746770400&v=beta&t=rAjGSpF610DXbPanHFIn7-_QoVyCQH8-0be1yO2dTFA",
+            "type": "video/mp4",
+            "data-bitrate": 658025
+          }
+        ],
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQG7BSO1st-A2Q/videocover-low/B4EZZ7IObLHcCE-/0/1745822495773?e=1746770400&v=beta&t=yDW719cWbBailfH2rMysUbQOxjsn9-qLI4ut_qLD93g"
+      },
+      "date": "2025-04-29T05:38:31.061Z"
     }
   ]
 }
