@@ -1,33 +1,45 @@
 [
   {
     "advertiserId": "AR16860994662867927041",
-    "adsId": "CR09457142846168498177",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/7768440530573872758",
+    "adsId": "CR05987239626723557377",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/8771288379808225165",
     "videoCode": null,
     "type": 1,
     "advertiserName": "Sennebogen Maschinenfabrik GmbH",
     "website": null,
-    "startDate": "2022-07-21T22:04:27.000Z",
-    "lastView": "2025-05-02T04:39:28.000Z",
+    "startDate": "2024-03-05T10:23:44.000Z",
+    "lastView": "2025-05-13T03:40:00.000Z",
     "countries": [
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
       {
         "country": "Croatia",
         "averageClicks": "1000"
       },
       {
-        "country": "Switzerland",
+        "country": "United Kingdom",
         "averageClicks": 0
       },
       {
-        "country": "Austria",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Slovenia",
+        "country": "Estonia",
         "averageClicks": "1000"
       },
       {
-        "country": "Luxembourg",
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Italy",
         "averageClicks": "1000"
       },
       {
@@ -35,7 +47,15 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Poland",
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Finland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovenia",
         "averageClicks": "1000"
       },
       {
@@ -43,19 +63,19 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Belgium",
+        "country": "Latvia",
         "averageClicks": "1000"
       },
       {
-        "country": "Spain",
+        "country": "Hungary",
         "averageClicks": "1000"
       },
       {
-        "country": "Germany",
-        "averageClicks": "50000"
+        "country": "Lithuania",
+        "averageClicks": "1000"
       },
       {
-        "country": "Bulgaria",
+        "country": "Sweden",
         "averageClicks": "1000"
       },
       {
@@ -67,24 +87,50 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Hungary",
+        "country": "Norway",
         "averageClicks": "1000"
       },
       {
-        "country": "Slovakia",
+        "country": "Poland",
         "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR01738191578431750145",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/709239139575656837",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2023-06-19T22:05:45.000Z",
+    "lastView": "2025-05-13T02:18:19.000Z",
+    "countries": [
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
       },
       {
-        "country": "Greece",
-        "averageClicks": "1000"
+        "country": "Philippines",
+        "averageClicks": 0
       },
       {
-        "country": "Romania",
-        "averageClicks": "1000"
+        "country": "Singapore",
+        "averageClicks": 0
       },
       {
-        "country": "Italy",
-        "averageClicks": "1000"
+        "country": "Malaysia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Australia",
+        "averageClicks": 0
+      },
+      {
+        "country": "New Zealand",
+        "averageClicks": 0
       }
     ],
     "typeLabel": "Metin"
@@ -98,40 +144,32 @@
     "advertiserName": "Sennebogen Maschinenfabrik GmbH",
     "website": null,
     "startDate": "2022-11-23T08:00:00.000Z",
-    "lastView": "2025-05-02T04:01:51.000Z",
+    "lastView": "2025-05-13T02:14:12.000Z",
     "countries": [
-      {
-        "country": "Singapore",
-        "averageClicks": 0
-      },
       {
         "country": "Thailand",
         "averageClicks": 0
+      },
+      {
+        "country": "Singapore",
+        "averageClicks": 0
       }
     ],
     "typeLabel": "Metin"
   },
   {
     "advertiserId": "AR16860994662867927041",
-    "adsId": "CR14703554937078415361",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/7787624419386167939",
+    "adsId": "CR09997574801452957697",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/18357693843412392478",
     "videoCode": null,
     "type": 1,
     "advertiserName": "Sennebogen Maschinenfabrik GmbH",
     "website": null,
-    "startDate": "2021-12-21T12:16:22.000Z",
-    "lastView": "2025-05-02T03:26:37.000Z",
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-05-13T01:29:29.000Z",
     "countries": [
       {
-        "country": "Denmark",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Croatia",
+        "country": "Poland",
         "averageClicks": "1000"
       },
       {
@@ -139,31 +177,31 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "6000"
-      },
-      {
-        "country": "Estonia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Lithuania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
+        "country": "Switzerland",
+        "averageClicks": 0
       },
       {
         "country": "Luxembourg",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "6000"
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Italy",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
         "averageClicks": "1000"
       },
       {
@@ -171,7 +209,89 @@
         "averageClicks": "1000"
       },
       {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Finland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Sweden",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR00499483187328581633",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/6221954654056165543",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-05-13T00:48:09.000Z",
+    "countries": [
+      {
+        "country": "Sweden",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "United Kingdom",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Luxembourg",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Finland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Italy",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovakia",
         "averageClicks": "1000"
       },
       {
@@ -181,433 +301,39 @@
       {
         "country": "Portugal",
         "averageClicks": "1000"
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Australia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "5000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "6000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Finland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "4000"
       }
     ],
     "typeLabel": "Metin"
   },
   {
     "advertiserId": "AR16860994662867927041",
-    "adsId": "CR09373474409341255681",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/8046316053843528722",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-02T02:31:01.000Z",
-    "countries": [
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "8000"
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Luxembourg",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR00551412984069488641",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/7730482850813360348",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-02T02:29:37.000Z",
-    "countries": [
-      {
-        "country": "Sweden",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR07425108709358960641",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/44435333711357552",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2023-06-19T08:28:18.000Z",
-    "lastView": "2025-05-02T02:08:10.000Z",
-    "countries": [
-      {
-        "country": "Lithuania",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Norway",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "6000"
-      },
-      {
-        "country": "Austria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "10000"
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Estonia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Luxembourg",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Malta",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Finland",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR17672933422445625345",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/1688450031139858221",
+    "adsId": "CR16008994097620582401",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/6770709391244766769",
     "videoCode": null,
     "type": 2,
     "advertiserName": "Sennebogen Maschinenfabrik GmbH",
     "website": null,
     "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-02T01:41:01.000Z",
+    "lastView": "2025-05-13T00:45:01.000Z",
     "countries": [
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Austria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Norway",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bosnia and Herzegovina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "6000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "15000"
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Luxembourg",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Lithuania",
-        "averageClicks": "1000"
-      },
       {
         "country": "Serbia",
         "averageClicks": 0
       },
       {
-        "country": "Germany",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Ireland",
+        "country": "Slovakia",
         "averageClicks": "1000"
       },
       {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "6000"
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "1000"
+        "country": "Portugal",
+        "averageClicks": "8000"
       },
       {
         "country": "Estonia",
         "averageClicks": "1000"
       },
       {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "5000"
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Belgium",
+        "country": "Denmark",
         "averageClicks": "1000"
       },
       {
@@ -615,202 +341,92 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR09518785866068131841",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/6948443708031826796",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2021-12-21T16:25:50.000Z",
-    "lastView": "2025-05-02T00:35:05.000Z",
-    "countries": [
-      {
-        "country": "Italy",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Luxembourg",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Netherlands",
+        "country": "Lithuania",
         "averageClicks": "1000"
       },
       {
         "country": "Czechia",
-        "averageClicks": "3000"
+        "averageClicks": "1000"
       },
       {
-        "country": "Australia",
+        "country": "Greece",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "175000"
+      },
+      {
+        "country": "Cyprus",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Switzerland",
         "averageClicks": 0
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "2000"
       },
       {
         "country": "United Kingdom",
         "averageClicks": 0
       },
       {
+        "country": "Slovenia",
+        "averageClicks": "4000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "15000"
+      },
+      {
         "country": "Germany",
-        "averageClicks": "3000"
+        "averageClicks": "15000"
       },
       {
         "country": "Ireland",
-        "averageClicks": "1000"
+        "averageClicks": "2000"
       },
       {
-        "country": "Austria",
-        "averageClicks": "1000"
+        "country": "Belgium",
+        "averageClicks": "2000"
       },
       {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Norway",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Finland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Estonia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR05095143102226628609",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/4967771035535385263",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2022-11-23T08:00:00.000Z",
-    "lastView": "2025-05-01T23:46:56.000Z",
-    "countries": [
-      {
-        "country": "Singapore",
-        "averageClicks": 0
-      },
-      {
-        "country": "Thailand",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR07121703182958329857",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/10065996657174235914",
-    "videoCode": null,
-    "type": 2,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-01T23:43:56.000Z",
-    "countries": [
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Finland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "7000"
-      },
-      {
-        "country": "Italy",
+        "country": "France",
         "averageClicks": "30000"
       },
       {
-        "country": "France",
-        "averageClicks": "8000"
-      },
-      {
-        "country": "Serbia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "2000"
+        "country": "Poland",
+        "averageClicks": "400000"
       },
       {
         "country": "Luxembourg",
         "averageClicks": "1000"
       },
       {
-        "country": "Germany",
-        "averageClicks": "15000"
+        "country": "Austria",
+        "averageClicks": "2000"
       },
       {
-        "country": "Spain",
+        "country": "Hungary",
         "averageClicks": "40000"
       },
       {
-        "country": "Poland",
-        "averageClicks": "350000"
+        "country": "Netherlands",
+        "averageClicks": "2000"
       },
       {
-        "country": "Netherlands",
-        "averageClicks": "1000"
+        "country": "Italy",
+        "averageClicks": "150000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "300000"
       },
       {
         "country": "Norway",
@@ -819,107 +435,67 @@
       {
         "country": "Bosnia and Herzegovina",
         "averageClicks": 0
-      },
-      {
-        "country": "Austria",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "150000"
-      },
-      {
-        "country": "Lithuania",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "25000"
-      },
-      {
-        "country": "Liechtenstein",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Estonia",
-        "averageClicks": "1000"
       },
       {
         "country": "Singapore",
         "averageClicks": 0
       },
       {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
+        "country": "Sweden",
+        "averageClicks": "2000"
       },
       {
-        "country": "Hungary",
-        "averageClicks": "70000"
+        "country": "Bilinmeyen",
+        "averageClicks": 0
       }
     ],
     "typeLabel": "Resim"
   },
   {
     "advertiserId": "AR16860994662867927041",
-    "adsId": "CR17046123833683083265",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/14026639596769963638",
+    "adsId": "CR05808945673021685761",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/9828407007654612650",
     "videoCode": null,
-    "type": 2,
+    "type": 1,
     "advertiserName": "Sennebogen Maschinenfabrik GmbH",
     "website": null,
     "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-01T23:37:37.000Z",
+    "lastView": "2025-05-13T00:20:56.000Z",
     "countries": [
       {
-        "country": "Serbia",
-        "averageClicks": 0
+        "country": "Croatia",
+        "averageClicks": "1000"
       },
       {
-        "country": "France",
-        "averageClicks": "5000"
+        "country": "Poland",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
       },
       {
         "country": "Latvia",
         "averageClicks": "1000"
       },
       {
-        "country": "Austria",
-        "averageClicks": "4000"
+        "country": "Romania",
+        "averageClicks": "1000"
       },
       {
-        "country": "Croatia",
-        "averageClicks": "5000"
+        "country": "Spain",
+        "averageClicks": "1000"
       },
       {
-        "country": "Lithuania",
+        "country": "France",
         "averageClicks": "1000"
       },
       {
@@ -927,35 +503,39 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Romania",
-        "averageClicks": "15000"
+        "country": "Portugal",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Sweden",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
       },
       {
         "country": "Czechia",
         "averageClicks": "1000"
       },
       {
-        "country": "Bosnia and Herzegovina",
-        "averageClicks": 0
+        "country": "Cyprus",
+        "averageClicks": "2000"
       },
       {
-        "country": "Switzerland",
-        "averageClicks": 0
-      },
-      {
-        "country": "Liechtenstein",
+        "country": "Finland",
         "averageClicks": "1000"
       },
       {
-        "country": "Poland",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Netherlands",
+        "country": "Estonia",
         "averageClicks": "1000"
       },
       {
@@ -963,19 +543,11 @@
         "averageClicks": 0
       },
       {
-        "country": "Spain",
-        "averageClicks": "15000"
-      },
-      {
-        "country": "Belgium",
+        "country": "Italy",
         "averageClicks": "1000"
       },
       {
-        "country": "Finland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovakia",
+        "country": "Ireland",
         "averageClicks": "1000"
       },
       {
@@ -984,158 +556,14 @@
       },
       {
         "country": "Hungary",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "15000"
-      },
-      {
-        "country": "Bulgaria",
         "averageClicks": "1000"
       },
       {
-        "country": "Estonia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "100000"
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "8000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Luxembourg",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR18175251356909043713",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/5455241071364581980",
-    "videoCode": null,
-    "type": 2,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2021-12-31T08:00:00.000Z",
-    "lastView": "2025-05-01T23:27:25.000Z",
-    "countries": [
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bosnia and Herzegovina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
+        "country": "Greece",
         "averageClicks": "1000"
       },
       {
         "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Serbia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Austria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Lithuania",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR01343063692530417665",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/10571021685763305764",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-01T23:23:23.000Z",
-    "countries": [
-      {
-        "country": "Austria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
         "averageClicks": "1000"
       }
     ],
@@ -1143,38 +571,84 @@
   },
   {
     "advertiserId": "AR16860994662867927041",
-    "adsId": "CR08923466290325094401",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/13122501927600547249",
+    "adsId": "CR05415649521952620545",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/634712243825987898",
     "videoCode": null,
     "type": 1,
     "advertiserName": "Sennebogen Maschinenfabrik GmbH",
     "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-01T23:13:14.000Z",
+    "startDate": "2025-05-06T19:30:32.000Z",
+    "lastView": "2025-05-13T00:12:18.000Z",
     "countries": [
       {
-        "country": "Ireland",
+        "country": "Germany",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR00470871695750594561",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/17816529910375545595",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-05-12T23:20:31.000Z",
+    "countries": [
+      {
+        "country": "Serbia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "90000"
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "25000"
+      },
+      {
+        "country": "United Kingdom",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "40000"
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "15000"
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": "6000"
+      },
+      {
+        "country": "Finland",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "Estonia",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "125000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "30000"
+      },
+      {
+        "country": "Greece",
         "averageClicks": "1000"
       },
       {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Luxembourg",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "1000"
+        "country": "Slovenia",
+        "averageClicks": "15000"
       },
       {
         "country": "Switzerland",
@@ -1182,238 +656,96 @@
       },
       {
         "country": "Spain",
-        "averageClicks": "1000"
+        "averageClicks": "30000"
       },
       {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Austria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Norway",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United States",
-        "averageClicks": 0
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Liechtenstein",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "20000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR11939991834291339265",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/2878185915616163022",
-    "videoCode": null,
-    "type": 2,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-01T22:59:58.000Z",
-    "countries": [
-      {
-        "country": "France",
-        "averageClicks": "5000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "10000"
-      },
-      {
-        "country": "Estonia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Serbia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Luxembourg",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
+        "country": "Czechia",
         "averageClicks": "3000"
       },
       {
-        "country": "Norway",
+        "country": "Bulgaria",
         "averageClicks": "1000"
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "10000"
+      },
+      {
+        "country": "Cyprus",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
       },
       {
         "country": "Bosnia and Herzegovina",
         "averageClicks": 0
       },
       {
-        "country": "Croatia",
-        "averageClicks": "70000"
+        "country": "Sweden",
+        "averageClicks": "20000"
       },
       {
-        "country": "Romania",
-        "averageClicks": "8000"
+        "country": "Ireland",
+        "averageClicks": "9000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "900000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "15000"
       },
       {
         "country": "Austria",
-        "averageClicks": "1000"
+        "averageClicks": "300000"
       },
       {
-        "country": "Slovenia",
-        "averageClicks": "2000"
+        "country": "Norway",
+        "averageClicks": "3000"
       },
       {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Lithuania",
-        "averageClicks": "1000"
+        "country": "Luxembourg",
+        "averageClicks": "5000"
       },
       {
         "country": "Poland",
         "averageClicks": "125000"
       },
       {
-        "country": "Denmark",
-        "averageClicks": "1000"
+        "country": "Romania",
+        "averageClicks": "300000"
       },
       {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
+        "country": "Liechtenstein",
+        "averageClicks": "2000"
       },
       {
         "country": "Netherlands",
-        "averageClicks": "1000"
+        "averageClicks": "20000"
       },
       {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "5000"
-      },
-      {
-        "country": "Finland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "10000"
+        "country": "Italy",
+        "averageClicks": "45000"
       }
     ],
     "typeLabel": "Resim"
   },
   {
     "advertiserId": "AR16860994662867927041",
-    "adsId": "CR00922540077324697601",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/12997488913421320699",
+    "adsId": "CR06120215215821815809",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/1816114050523071249",
     "videoCode": null,
-    "type": 1,
+    "type": 2,
     "advertiserName": "Sennebogen Maschinenfabrik GmbH",
     "website": null,
     "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-01T22:54:49.000Z",
+    "lastView": "2025-05-12T23:13:53.000Z",
     "countries": [
       {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
         "country": "Estonia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Norway",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
         "averageClicks": "1000"
       },
       {
@@ -1421,27 +753,15 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Latvia",
+        "country": "Finland",
         "averageClicks": "1000"
       },
       {
-        "country": "United Kingdom",
+        "country": "Bilinmeyen",
         "averageClicks": 0
       },
       {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Finland",
+        "country": "Slovakia",
         "averageClicks": "1000"
       },
       {
@@ -1449,35 +769,135 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Lithuania",
+        "country": "Hungary",
+        "averageClicks": "15000"
+      },
+      {
+        "country": "Netherlands",
         "averageClicks": "1000"
       },
       {
-        "country": "Slovakia",
+        "country": "Liechtenstein",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Switzerland",
+        "averageClicks": 0
+      },
+      {
+        "country": "Singapore",
+        "averageClicks": 0
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "35000"
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "5000"
+      },
+      {
+        "country": "Luxembourg",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Iceland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "United Kingdom",
+        "averageClicks": 0
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "150000"
+      },
+      {
+        "country": "Lithuania",
         "averageClicks": "1000"
       },
       {
         "country": "Greece",
         "averageClicks": "1000"
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "6000"
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "40000"
+      },
+      {
+        "country": "Nigeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Serbia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Italy",
+        "averageClicks": "30000"
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "4000"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Norway",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "4000"
       }
     ],
-    "typeLabel": "Metin"
+    "typeLabel": "Resim"
   },
   {
     "advertiserId": "AR16860994662867927041",
-    "adsId": "CR06105604355556114433",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/9565173464549071771",
+    "adsId": "CR02679887312975822849",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/14449443644065044787",
     "videoCode": null,
     "type": 2,
     "advertiserName": "Sennebogen Maschinenfabrik GmbH",
     "website": null,
-    "startDate": "2022-09-20T01:50:26.000Z",
-    "lastView": "2025-05-01T22:53:51.000Z",
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-05-12T23:12:35.000Z",
     "countries": [
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
       {
         "country": "Slovenia",
         "averageClicks": "1000"
@@ -1487,35 +907,39 @@
         "averageClicks": 0
       },
       {
-        "country": "Lithuania",
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "averageClicks": 0
+      },
+      {
+        "country": "France",
         "averageClicks": "1000"
       },
       {
-        "country": "Poland",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "5000"
+        "country": "Ireland",
+        "averageClicks": "1000"
       },
       {
         "country": "Romania",
         "averageClicks": "1000"
       },
       {
-        "country": "Portugal",
+        "country": "Sweden",
         "averageClicks": "1000"
       },
       {
-        "country": "Austria",
+        "country": "Germany",
         "averageClicks": "1000"
       },
       {
-        "country": "Latvia",
+        "country": "Norway",
         "averageClicks": "1000"
       },
       {
-        "country": "Bulgaria",
+        "country": "Finland",
         "averageClicks": "1000"
       },
       {
@@ -1523,15 +947,131 @@
         "averageClicks": "1000"
       },
       {
+        "country": "Hungary",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Estonia",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Italy",
+        "averageClicks": "4000"
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
         "averageClicks": "3000"
       },
       {
-        "country": "Hungary",
+        "country": "Luxembourg",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "7000"
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR12900443828455997441",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/16867957341198257908",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-05-12T22:29:00.000Z",
+    "countries": [
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR17912890840091459585",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/178146356559456683",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-05-12T22:18:55.000Z",
+    "countries": [
+      {
+        "country": "Croatia",
+        "averageClicks": "4000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Belgium",
         "averageClicks": "1000"
       },
       {
         "country": "Sweden",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Norway",
         "averageClicks": "1000"
       },
       {
@@ -1539,81 +1079,113 @@
         "averageClicks": 0
       },
       {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Spain",
+        "country": "Italy",
         "averageClicks": "6000"
       },
       {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
+        "country": "Hungary",
+        "averageClicks": "3000"
       },
       {
         "country": "Netherlands",
         "averageClicks": "1000"
       },
       {
-        "country": "Germany",
+        "country": "Liechtenstein",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Serbia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Singapore",
+        "averageClicks": 0
+      },
+      {
+        "country": "Estonia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Finland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Portugal",
         "averageClicks": "2000"
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Switzerland",
+        "averageClicks": 0
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "United Kingdom",
+        "averageClicks": 0
+      },
+      {
+        "country": "Luxembourg",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "25000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
       }
     ],
     "typeLabel": "Resim"
   },
   {
     "advertiserId": "AR16860994662867927041",
-    "adsId": "CR17908991971859365889",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/6028344297558137505",
+    "adsId": "CR00380657316447387649",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/3976728551310995990",
     "videoCode": null,
     "type": 1,
     "advertiserName": "Sennebogen Maschinenfabrik GmbH",
     "website": null,
     "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-01T22:50:36.000Z",
+    "lastView": "2025-05-12T22:13:35.000Z",
     "countries": [
       {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Serbia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "5000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Lithuania",
+        "country": "Italy",
         "averageClicks": "1000"
       },
       {
         "country": "Poland",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Croatia",
         "averageClicks": "1000"
       },
       {
@@ -1621,11 +1193,19 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Spain",
+        "country": "United Kingdom",
+        "averageClicks": 0
+      },
+      {
+        "country": "Netherlands",
         "averageClicks": "1000"
       },
       {
-        "country": "Slovenia",
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Romania",
         "averageClicks": "1000"
       },
       {
@@ -1633,7 +1213,7 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Finland",
+        "country": "Denmark",
         "averageClicks": "1000"
       },
       {
@@ -1641,47 +1221,7 @@
         "averageClicks": "1000"
       },
       {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
         "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Norway",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Luxembourg",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Malta",
         "averageClicks": "1000"
       },
       {
@@ -1693,29 +1233,107 @@
   },
   {
     "advertiserId": "AR16860994662867927041",
-    "adsId": "CR14425615989762686977",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/14152407552716580314",
+    "adsId": "CR10322115449600344065",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/6365376267391071664",
     "videoCode": null,
     "type": 1,
     "advertiserName": "Sennebogen Maschinenfabrik GmbH",
     "website": null,
-    "startDate": "2022-07-23T07:00:00.000Z",
-    "lastView": "2025-05-01T22:09:14.000Z",
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-05-12T22:13:28.000Z",
     "countries": [
+      {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Italy",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "United Kingdom",
+        "averageClicks": 0
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "7000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Sweden",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR16784217964923584513",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/17038452793913958094",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-05-12T21:53:47.000Z",
+    "countries": [
+      {
+        "country": "Italy",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "2000"
+      },
       {
         "country": "Switzerland",
         "averageClicks": 0
       },
       {
         "country": "Germany",
-        "averageClicks": "10000"
+        "averageClicks": "15000"
       },
       {
-        "country": "Austria",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Italy",
+        "country": "Luxembourg",
         "averageClicks": "1000"
       }
     ],
@@ -1723,25 +1341,65 @@
   },
   {
     "advertiserId": "AR16860994662867927041",
-    "adsId": "CR11173858729126789121",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/15246522270274855790",
+    "adsId": "CR07279652426334863361",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/14343154174679614841",
     "videoCode": null,
     "type": 1,
     "advertiserName": "Sennebogen Maschinenfabrik GmbH",
     "website": null,
     "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-01T21:57:59.000Z",
+    "lastView": "2025-05-12T21:23:32.000Z",
     "countries": [
       {
-        "country": "Turkey",
-        "averageClicks": "4000"
+        "country": "Liechtenstein",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Luxembourg",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
       },
       {
         "country": "Hungary",
         "averageClicks": "1000"
       },
       {
-        "country": "Sweden",
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "France",
         "averageClicks": "1000"
       },
       {
@@ -1749,15 +1407,27 @@
         "averageClicks": "1000"
       },
       {
-        "country": "France",
+        "country": "Italy",
         "averageClicks": "1000"
       },
       {
-        "country": "Estonia",
+        "country": "Switzerland",
+        "averageClicks": 0
+      },
+      {
+        "country": "Spain",
         "averageClicks": "1000"
       },
       {
-        "country": "Greece",
+        "country": "Germany",
+        "averageClicks": "350000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "15000"
+      },
+      {
+        "country": "Sweden",
         "averageClicks": "1000"
       },
       {
@@ -1765,27 +1435,33 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Lithuania",
+        "country": "Norway",
         "averageClicks": "1000"
       },
       {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Netherlands",
+        "country": "Poland",
         "averageClicks": "2000"
       },
       {
         "country": "Slovakia",
         "averageClicks": "1000"
-      },
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR01631857018635550721",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/18139311876327379177",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-05-12T19:51:48.000Z",
+    "countries": [
       {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovenia",
+        "country": "Sweden",
         "averageClicks": "1000"
       },
       {
@@ -1793,39 +1469,11 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Luxembourg",
+        "country": "Czechia",
         "averageClicks": "1000"
       },
       {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Austria",
+        "country": "Bulgaria",
         "averageClicks": "1000"
       },
       {
@@ -1833,99 +1481,7 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Norway",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "2000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR07066663829895118849",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/11084008806713503549",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2021-12-21T16:21:39.000Z",
-    "lastView": "2025-05-01T21:47:17.000Z",
-    "countries": [
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Australia",
-        "averageClicks": 0
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Austria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR13581032729956319233",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/46165325211017713",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-01T21:36:48.000Z",
-    "countries": [
-      {
-        "country": "Bulgaria",
+        "country": "Spain",
         "averageClicks": "1000"
       },
       {
@@ -1937,38 +1493,6 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Netherlands",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Norway",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Austria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "2000"
-      },
-      {
         "country": "Croatia",
         "averageClicks": "1000"
       },
@@ -1977,373 +1501,295 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Latvia",
+        "country": "Estonia",
         "averageClicks": "1000"
+      },
+      {
+        "country": "Finland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Ukraine",
+        "averageClicks": 0
       },
       {
         "country": "Lithuania",
         "averageClicks": "1000"
       },
       {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Luxembourg",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
+        "country": "United Kingdom",
+        "averageClicks": 0
       },
       {
         "country": "Serbia",
         "averageClicks": 0
       },
       {
-        "country": "Estonia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Finland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
         "country": "Cyprus",
-        "averageClicks": "1000"
+        "averageClicks": "5000"
       },
       {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR10645811672817598465",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/16462851160015575349",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-01T21:30:55.000Z",
-    "countries": [
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovakia",
+        "country": "Netherlands",
         "averageClicks": "1000"
       },
       {
         "country": "Italy",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Turkey",
         "averageClicks": "2000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Estonia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Finland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Norway",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Lithuania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR06027370254949154817",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/5780914945929358404",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-01T21:12:17.000Z",
-    "countries": [
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Lithuania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Norway",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Finland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR01399921637825970177",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/12138088249511358351",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-01T20:37:19.000Z",
-    "countries": [
-      {
-        "country": "Netherlands",
-        "averageClicks": "6000"
-      },
-      {
-        "country": "Austria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Iraq",
-        "averageClicks": 0
       },
       {
         "country": "Malta",
         "averageClicks": "1000"
       },
       {
-        "country": "Cyprus",
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "9000"
+      },
+      {
+        "country": "Luxembourg",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Iceland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Hungary",
         "averageClicks": "1000"
       },
       {
         "country": "France",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Norway",
         "averageClicks": "1000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR05567257624073732097",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/3799819461051054004",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-05-12T19:41:39.000Z",
+    "countries": [
+      {
+        "country": "United Kingdom",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "8000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "20000"
+      },
+      {
+        "country": "Switzerland",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "200000"
       },
       {
         "country": "Belgium",
         "averageClicks": "2000"
       },
       {
-        "country": "Egypt",
+        "country": "Luxembourg",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "5000"
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "6000"
+      },
+      {
+        "country": "Iceland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "225000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "500000"
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "60000"
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "5000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "25000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "70000"
+      },
+      {
+        "country": "Norway",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Sweden",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Serbia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nigeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bosnia and Herzegovina",
         "averageClicks": 0
       },
       {
         "country": "Italy",
-        "averageClicks": "2000"
+        "averageClicks": "100000"
       },
       {
-        "country": "Ireland",
+        "country": "Netherlands",
+        "averageClicks": "4000"
+      },
+      {
+        "country": "Liechtenstein",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Singapore",
+        "averageClicks": 0
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "80000"
+      },
+      {
+        "country": "Finland",
+        "averageClicks": "5000"
+      },
+      {
+        "country": "Estonia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "4000"
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR08813972524384649217",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/10484825624127447470",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-05-12T19:36:52.000Z",
+    "countries": [
+      {
+        "country": "Germany",
+        "averageClicks": "9000"
+      },
+      {
+        "country": "Italy",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Liechtenstein",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Switzerland",
+        "averageClicks": 0
+      },
+      {
+        "country": "Luxembourg",
         "averageClicks": "1000"
       },
       {
@@ -2351,7 +1797,85 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Germany",
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR02175061942245261313",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/12734676074254259265",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-05-12T19:30:04.000Z",
+    "countries": [
+      {
+        "country": "Portugal",
+        "averageClicks": "8000"
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Nigeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Serbia",
+        "averageClicks": 0
+      },
+      {
+        "country": "United Kingdom",
+        "averageClicks": 0
+      },
+      {
+        "country": "Italy",
+        "averageClicks": "15000"
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "9000"
+      },
+      {
+        "country": "Liechtenstein",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Iceland",
         "averageClicks": "1000"
       },
       {
@@ -2359,11 +1883,149 @@
         "averageClicks": "1000"
       },
       {
+        "country": "Romania",
+        "averageClicks": "5000"
+      },
+      {
+        "country": "Singapore",
+        "averageClicks": 0
+      },
+      {
         "country": "Poland",
+        "averageClicks": "60000"
+      },
+      {
+        "country": "Norway",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Sweden",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "Switzerland",
+        "averageClicks": 0
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
         "averageClicks": "1000"
       },
       {
         "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "United States",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "25000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "35000"
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Finland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Estonia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Canada",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR00330316726325477377",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/9516783245771440742",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-05-12T19:29:38.000Z",
+    "countries": [
+      {
+        "country": "Italy",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "United Kingdom",
+        "averageClicks": 0
+      },
+      {
+        "country": "France",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "Poland",
         "averageClicks": "1000"
       },
       {
@@ -2371,7 +2033,43 @@
         "averageClicks": 0
       },
       {
-        "country": "Croatia",
+        "country": "Netherlands",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "4000"
+      },
+      {
+        "country": "Iraq",
+        "averageClicks": 0
+      },
+      {
+        "country": "Luxembourg",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Malta",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
         "averageClicks": "1000"
       }
     ],
@@ -2379,25 +2077,53 @@
   },
   {
     "advertiserId": "AR16860994662867927041",
-    "adsId": "CR05348831392878821377",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/4125954292244426985",
+    "adsId": "CR03388408895062933505",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/4602771761715432134",
     "videoCode": null,
-    "type": 2,
+    "type": 1,
     "advertiserName": "Sennebogen Maschinenfabrik GmbH",
     "website": null,
-    "startDate": "2021-11-23T08:00:00.000Z",
-    "lastView": "2025-05-01T20:08:41.000Z",
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-05-12T19:18:06.000Z",
     "countries": [
       {
-        "country": "Poland",
-        "averageClicks": "3000"
+        "country": "Hungary",
+        "averageClicks": "1000"
       },
       {
-        "country": "Bosnia and Herzegovina",
-        "averageClicks": 0
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Italy",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
       },
       {
         "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovakia",
         "averageClicks": "1000"
       },
       {
@@ -2405,15 +2131,231 @@
         "averageClicks": "1000"
       },
       {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Sweden",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Cyprus",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Serbia",
         "averageClicks": 0
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR13901914203406467073",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/16995515680461542314",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-05-12T19:03:49.000Z",
+    "countries": [
+      {
+        "country": "Sweden",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "Norway",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Italy",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "United Kingdom",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Estonia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Finland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
       },
       {
         "country": "Latvia",
         "averageClicks": "1000"
       },
       {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Cyprus",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Luxembourg",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR01078435432980545537",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/237165969903786482",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-05-12T18:55:30.000Z",
+    "countries": [
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Italy",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Finland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Norway",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
         "averageClicks": "1000"
       },
       {
@@ -2425,19 +2367,7 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Italy",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Portugal",
+        "country": "Germany",
         "averageClicks": "1000"
       },
       {
@@ -2445,7 +2375,15 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Netherlands",
+        "country": "Sweden",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Luxembourg",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Portugal",
         "averageClicks": "1000"
       },
       {
@@ -2453,23 +2391,11 @@
         "averageClicks": 0
       },
       {
-        "country": "Austria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "1000"
-      },
-      {
         "country": "Slovenia",
         "averageClicks": "1000"
       },
       {
-        "country": "Spain",
+        "country": "Netherlands",
         "averageClicks": "1000"
       }
     ],
@@ -2477,17 +2403,101 @@
   },
   {
     "advertiserId": "AR16860994662867927041",
-    "adsId": "CR17381174301163520001",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/5997345029804292880",
+    "adsId": "CR01341333061228298241",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/14650808202076612337",
     "videoCode": null,
-    "type": 1,
+    "type": 2,
     "advertiserName": "Sennebogen Maschinenfabrik GmbH",
     "website": null,
-    "startDate": "2022-01-04T22:26:06.000Z",
-    "lastView": "2025-05-01T20:06:05.000Z",
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-05-12T18:41:10.000Z",
     "countries": [
       {
+        "country": "Croatia",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "Italy",
+        "averageClicks": "5000"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Serbia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "30000"
+      },
+      {
+        "country": "Finland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Luxembourg",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Estonia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Latvia",
         "averageClicks": "1000"
       },
       {
@@ -2495,31 +2505,11 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Australia",
-        "averageClicks": 0
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
+        "country": "Germany",
         "averageClicks": "1000"
       }
     ],
-    "typeLabel": "Metin"
+    "typeLabel": "Resim"
   },
   {
     "advertiserId": "AR16860994662867927041",
@@ -2530,14 +2520,14 @@
     "advertiserName": "Sennebogen Maschinenfabrik GmbH",
     "website": null,
     "startDate": "2021-12-31T08:00:00.000Z",
-    "lastView": "2025-05-01T19:54:26.000Z",
+    "lastView": "2025-05-12T18:18:06.000Z",
     "countries": [
       {
-        "country": "Belgium",
+        "country": "Croatia",
         "averageClicks": "1000"
       },
       {
-        "country": "Spain",
+        "country": "Romania",
         "averageClicks": "1000"
       },
       {
@@ -2553,7 +2543,7 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Romania",
+        "country": "Spain",
         "averageClicks": "1000"
       },
       {
@@ -2565,15 +2555,11 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Croatia",
+        "country": "Slovenia",
         "averageClicks": "1000"
       },
       {
         "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovenia",
         "averageClicks": "1000"
       },
       {
@@ -2582,6 +2568,10 @@
       },
       {
         "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
         "averageClicks": "1000"
       }
     ],
@@ -2589,71 +2579,25 @@
   },
   {
     "advertiserId": "AR16860994662867927041",
-    "adsId": "CR09885829235698827265",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/9784664565670408946",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2022-09-17T07:23:33.000Z",
-    "lastView": "2025-05-01T19:51:11.000Z",
-    "countries": [
-      {
-        "country": "Italy",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "10000"
-      },
-      {
-        "country": "Austria",
-        "averageClicks": "2000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR10800581128566603777",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/6616431985144831631",
+    "adsId": "CR06080808719082323969",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/12259431311080024238",
     "videoCode": null,
     "type": 2,
     "advertiserName": "Sennebogen Maschinenfabrik GmbH",
     "website": null,
     "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-01T19:49:04.000Z",
+    "lastView": "2025-05-12T17:33:28.000Z",
     "countries": [
       {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Slovakia",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Luxembourg",
         "averageClicks": "1000"
       },
       {
-        "country": "Singapore",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "10000"
-      },
-      {
-        "country": "Estonia",
+        "country": "Belgium",
         "averageClicks": "1000"
       },
       {
@@ -2661,20 +2605,8 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Nigeria",
-        "averageClicks": 0
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "6000"
+        "country": "Croatia",
+        "averageClicks": "2000"
       },
       {
         "country": "Slovenia",
@@ -2682,30 +2614,34 @@
       },
       {
         "country": "Spain",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Serbia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Netherlands",
         "averageClicks": "1000"
       },
       {
-        "country": "Poland",
-        "averageClicks": "60000"
+        "country": "Hungary",
+        "averageClicks": "1000"
       },
       {
-        "country": "United Kingdom",
+        "country": "Italy",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Liechtenstein",
         "averageClicks": 0
       },
       {
-        "country": "Switzerland",
+        "country": "Sweden",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bilinmeyen",
         "averageClicks": 0
       },
       {
-        "country": "Czechia",
+        "country": "Germany",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Portugal",
         "averageClicks": "1000"
       },
       {
@@ -2713,20 +2649,28 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Romania",
-        "averageClicks": "15000"
-      },
-      {
         "country": "Norway",
         "averageClicks": "1000"
       },
       {
-        "country": "Bulgaria",
+        "country": "France",
         "averageClicks": "1000"
       },
       {
-        "country": "Croatia",
-        "averageClicks": "15000"
+        "country": "Denmark",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Serbia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "averageClicks": 0
       },
       {
         "country": "Austria",
@@ -2737,210 +2681,368 @@
         "averageClicks": "1000"
       },
       {
+        "country": "Estonia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Luxembourg",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR18315086730333519873",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/6460794245160530305",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2024-02-05T16:41:43.000Z",
+    "lastView": "2025-05-12T16:58:17.000Z",
+    "countries": [
+      {
+        "country": "Italy",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "5000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "2000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR16465429961612722177",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/3860014240645989878",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-05-12T16:57:52.000Z",
+    "countries": [
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "United Kingdom",
+        "averageClicks": 0
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR14731337259450105857",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/7528044400943642114",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-05-12T16:29:12.000Z",
+    "countries": [
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Italy",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Estonia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR02466670018117500929",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/16557852177145592165",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-05-12T16:07:56.000Z",
+    "countries": [
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Luxembourg",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Estonia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Italy",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Finland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Norway",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Sweden",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Bosnia and Herzegovina",
         "averageClicks": 0
       },
       {
-        "country": "Hungary",
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Serbia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR15930421433331613697",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/10092168398611219195",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2024-03-05T12:46:55.000Z",
+    "lastView": "2025-05-12T15:57:11.000Z",
+    "countries": [
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Finland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Italy",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR03320102147504209921",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/3109653622112653308",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2021-10-26T07:00:00.000Z",
+    "lastView": "2025-05-12T15:40:50.000Z",
+    "countries": [
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Sweden",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Liechtenstein",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Serbia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Italy",
         "averageClicks": "7000"
       },
       {
-        "country": "Italy",
-        "averageClicks": "8000"
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Liechtenstein",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR17593739997943431169",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/2217386598983376047",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-01T19:29:43.000Z",
-    "countries": [
-      {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "20000"
-      },
-      {
-        "country": "Switzerland",
-        "averageClicks": 0
-      },
-      {
-        "country": "Austria",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Luxembourg",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR00045175428092002305",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/9374762536761468433",
-    "videoCode": null,
-    "type": 2,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-01T19:26:10.000Z",
-    "countries": [
-      {
-        "country": "Austria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Bosnia and Herzegovina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Lithuania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
         "country": "Poland",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Serbia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "5000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR14397831330928787457",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/11086972937052245686",
-    "videoCode": null,
-    "type": 2,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-01T19:09:33.000Z",
-    "countries": [
-      {
-        "country": "Finland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "20000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "6000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Estonia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
+        "averageClicks": "35000"
       },
       {
         "country": "Ireland",
@@ -2951,7 +3053,109 @@
         "averageClicks": "3000"
       },
       {
-        "country": "Singapore",
+        "country": "Norway",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "7000"
+      },
+      {
+        "country": "Luxembourg",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "Finland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Estonia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "3000"
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR01719960335613427713",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/14317285190637717035",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2021-10-28T07:00:00.000Z",
+    "lastView": "2025-05-12T15:31:44.000Z",
+    "countries": [
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Norway",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Serbia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Italy",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
         "averageClicks": 0
       },
       {
@@ -2963,223 +3167,63 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Serbia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
         "country": "Germany",
         "averageClicks": "2000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "1000"
       },
       {
         "country": "Austria",
         "averageClicks": "1000"
       },
       {
-        "country": "Norway",
-        "averageClicks": "1000"
+        "country": "Bilinmeyen",
+        "averageClicks": 0
       },
       {
-        "country": "Romania",
-        "averageClicks": "3000"
+        "country": "Poland",
+        "averageClicks": "1000"
       },
       {
         "country": "Greece",
         "averageClicks": "1000"
       },
       {
-        "country": "Lithuania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "30000"
-      },
-      {
-        "country": "Bosnia and Herzegovina",
-        "averageClicks": 0
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Switzerland",
-        "averageClicks": 0
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "20000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "60000"
-      },
-      {
         "country": "Slovenia",
         "averageClicks": "1000"
       },
       {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR14896243800090345473",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/12168908673641070957",
-    "videoCode": null,
-    "type": 2,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2022-09-19T15:49:21.000Z",
-    "lastView": "2025-05-01T19:08:34.000Z",
-    "countries": [
-      {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bosnia and Herzegovina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
         "country": "Croatia",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Serbia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Austria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR17737250454624010241",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/13446006638577871418",
-    "videoCode": null,
-    "type": 2,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-01T19:08:15.000Z",
-    "countries": [
-      {
-        "country": "Austria",
         "averageClicks": "1000"
       },
       {
         "country": "Romania",
         "averageClicks": "1000"
-      },
-      {
-        "country": "Norway",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Bosnia and Herzegovina",
-        "averageClicks": 0
       },
       {
         "country": "Latvia",
         "averageClicks": "1000"
       },
       {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Lithuania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Serbia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Luxembourg",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ireland",
         "averageClicks": "1000"
       },
       {
@@ -3187,39 +3231,19 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "3000"
+        "country": "Portugal",
+        "averageClicks": "1000"
       },
       {
         "country": "Slovakia",
         "averageClicks": "1000"
       },
       {
-        "country": "Finland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
+        "country": "United Kingdom",
+        "averageClicks": 0
       },
       {
         "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Belgium",
         "averageClicks": "1000"
       },
       {
@@ -3231,191 +3255,61 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Slovenia",
+        "country": "Finland",
         "averageClicks": "1000"
       },
       {
-        "country": "United Kingdom",
-        "averageClicks": 0
+        "country": "Denmark",
+        "averageClicks": "1000"
       }
     ],
     "typeLabel": "Resim"
   },
   {
     "advertiserId": "AR16860994662867927041",
-    "adsId": "CR10913171119250866177",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/4136813018324441069",
+    "adsId": "CR13526989534427873281",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/8838816392817009413",
     "videoCode": null,
-    "type": 2,
+    "type": 1,
     "advertiserName": "Sennebogen Maschinenfabrik GmbH",
     "website": null,
     "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-01T18:56:37.000Z",
+    "lastView": "2025-05-12T15:30:06.000Z",
     "countries": [
       {
-        "country": "Estonia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovakia",
+        "country": "Poland",
         "averageClicks": "1000"
       },
       {
         "country": "Italy",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Switzerland",
+        "averageClicks": 0
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Luxembourg",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
         "averageClicks": "15000"
       },
       {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
+        "country": "Austria",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "1000"
       },
       {
         "country": "Hungary",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Luxembourg",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "350000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "5000"
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Lithuania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Serbia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Norway",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "8000"
-      },
-      {
-        "country": "Switzerland",
-        "averageClicks": 0
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "5000"
-      },
-      {
-        "country": "Bosnia and Herzegovina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Austria",
-        "averageClicks": "25000"
-      },
-      {
-        "country": "Liechtenstein",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Finland",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR09222674190568521729",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/17683955839501181022",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-01T18:31:46.000Z",
-    "countries": [
-      {
-        "country": "Serbia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Finland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
         "averageClicks": "1000"
       },
       {
@@ -3423,39 +3317,7 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Malta",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Norway",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
         "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Italy",
         "averageClicks": "1000"
       },
       {
@@ -3463,19 +3325,175 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Spain",
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR05964025500287369217",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/2715704110454063992",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2024-03-05T10:18:09.000Z",
+    "lastView": "2025-05-12T15:23:37.000Z",
+    "countries": [
+      {
+        "country": "Austria",
+        "averageClicks": "4000"
+      },
+      {
+        "country": "Italy",
         "averageClicks": "1000"
       },
       {
-        "country": "Ireland",
-        "averageClicks": "1000"
+        "country": "Germany",
+        "averageClicks": "20000"
       },
       {
-        "country": "Slovakia",
+        "country": "Luxembourg",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR16325976702838636545",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/3400927834786904285",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2022-07-21T18:15:00.000Z",
+    "lastView": "2025-05-12T15:17:11.000Z",
+    "countries": [
+      {
+        "country": "Slovenia",
         "averageClicks": "1000"
       },
       {
         "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Italy",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Switzerland",
+        "averageClicks": 0
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "45000"
+      },
+      {
+        "country": "Luxembourg",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "7000"
+      },
+      {
+        "country": "Liechtenstein",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR17151259358869323777",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/17742069785672436595",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2024-03-05T10:54:14.000Z",
+    "lastView": "2025-05-12T15:15:27.000Z",
+    "countries": [
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "2000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR16860994662867927041",
+    "adsId": "CR18399455521707917313",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/7207148561489189879",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
+    "website": null,
+    "startDate": "2021-10-26T07:00:00.000Z",
+    "lastView": "2025-05-12T14:30:31.000Z",
+    "countries": [
+      {
+        "country": "Romania",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "Latvia",
         "averageClicks": "1000"
       },
       {
@@ -3487,185 +3505,39 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Poland",
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
         "averageClicks": "2000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR09038122813113761793",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/6262983948869128040",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-01T18:18:32.000Z",
-    "countries": [
-      {
-        "country": "Belgium",
-        "averageClicks": "1000"
       },
       {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
+        "country": "Poland",
+        "averageClicks": "15000"
       },
       {
         "country": "Sweden",
         "averageClicks": "1000"
       },
       {
-        "country": "France",
-        "averageClicks": "1000"
+        "country": "Italy",
+        "averageClicks": "3000"
       },
       {
-        "country": "Poland",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR08931629064649703425",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/3188941484590978572",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-05-01T18:18:32.000Z",
-    "countries": [
-      {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Kingdom",
+        "country": "Serbia",
         "averageClicks": 0
       },
       {
-        "country": "Croatia",
+        "country": "Austria",
         "averageClicks": "1000"
       },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Norway",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR16860994662867927041",
-    "adsId": "CR09454200312534401025",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/2773399535131744506",
-    "videoCode": null,
-    "type": 2,
-    "advertiserName": "Sennebogen Maschinenfabrik GmbH",
-    "website": null,
-    "startDate": "2022-09-21T01:35:32.000Z",
-    "lastView": "2025-05-01T18:15:32.000Z",
-    "countries": [
       {
         "country": "Bosnia and Herzegovina",
         "averageClicks": 0
       },
       {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
+        "country": "Slovakia",
         "averageClicks": "1000"
       },
       {
@@ -3673,35 +3545,23 @@
         "averageClicks": 0
       },
       {
-        "country": "Portugal",
+        "country": "Ireland",
         "averageClicks": "1000"
       },
       {
-        "country": "Hungary",
+        "country": "Finland",
         "averageClicks": "1000"
       },
       {
-        "country": "Croatia",
+        "country": "Slovenia",
         "averageClicks": "1000"
       },
       {
-        "country": "France",
+        "country": "Luxembourg",
         "averageClicks": "1000"
       },
       {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Austria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Spain",
+        "country": "Estonia",
         "averageClicks": "1000"
       }
     ],
