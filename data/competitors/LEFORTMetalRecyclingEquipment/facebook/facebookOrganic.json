@@ -399,6 +399,42 @@
     [
       1747008000000,
       18914
+    ],
+    [
+      1747094400000,
+      18947
+    ],
+    [
+      1747180800000,
+      18941
+    ],
+    [
+      1747267200000,
+      18928
+    ],
+    [
+      1747353600000,
+      18919
+    ],
+    [
+      1747440000000,
+      18962
+    ],
+    [
+      1747526400000,
+      19002
+    ],
+    [
+      1747612800000,
+      19015
+    ],
+    [
+      1747699200000,
+      19032
+    ],
+    [
+      1747785600000,
+      19198
     ]
   ],
   "data": [
@@ -761,6 +797,36 @@
       "comment": "1",
       "shere": "7",
       "date": "2025-05-05T19:44:14.000Z"
+    },
+    {
+      "id": "253486",
+      "time": "18.5.2025 17:14:26",
+      "link": "http://www.facebook.com/LefortRecycling/posts/1250141913782908",
+      "caption": "Something different, shearing lead. @KA Anderson",
+      "like": "66",
+      "comment": "2",
+      "shere": "12",
+      "date": "2025-05-18T17:14:26.000Z"
+    },
+    {
+      "id": "253486",
+      "time": "15.5.2025 16:59:00",
+      "link": "http://www.facebook.com/LefortRecycling/posts/1247805290683237",
+      "caption": "İletiyi görmek için tıklayınız",
+      "like": "29",
+      "comment": "0",
+      "shere": "1",
+      "date": "2025-05-15T16:59:00.000Z"
+    },
+    {
+      "id": "253486",
+      "time": "14.5.2025 19:03:21",
+      "link": "http://www.facebook.com/LefortRecycling/posts/1247112800752486",
+      "caption": "The LEFORT® team looks forward to welcoming you at the Recycled Materials Association  trade show in San Diego 🏄🏽‍♂️🇺🇸\n\nA great opportunity to connect and discover our latest innovations/products engineered to boost your productivity, efficiency and reliability. \n\n👋🏼 Feel free to stop by and say hello! We look forward to seeing you!\n\n#LefortAmerica #rema2025",
+      "like": "39",
+      "comment": "2",
+      "shere": "7",
+      "date": "2025-05-14T19:03:21.000Z"
     }
   ]
 }
