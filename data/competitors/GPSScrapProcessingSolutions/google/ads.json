@@ -11,11 +11,15 @@
     "lastView": "2024-08-09T08:54:29.000Z",
     "countries": [
       {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Germany",
         "averageClicks": "1000"
       },
       {
-        "country": "Sweden",
+        "country": "Hungary",
         "averageClicks": "1000"
       },
       {
@@ -23,8 +27,8 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Italy",
-        "averageClicks": "450000"
+        "country": "Portugal",
+        "averageClicks": "1000"
       },
       {
         "country": "France",
@@ -35,7 +39,7 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Slovenia",
+        "country": "Poland",
         "averageClicks": "1000"
       },
       {
@@ -43,35 +47,7 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Lithuania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
         "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Switzerland",
-        "averageClicks": 0
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Malta",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Belgium",
         "averageClicks": "1000"
       },
       {
@@ -79,15 +55,39 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Hungary",
+        "country": "Sweden",
         "averageClicks": "1000"
       },
       {
-        "country": "Poland",
+        "country": "Italy",
+        "averageClicks": "450000"
+      },
+      {
+        "country": "Switzerland",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Malta",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
         "averageClicks": "1000"
       },
       {
         "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Lithuania",
         "averageClicks": "1000"
       }
     ],
@@ -113,7 +113,7 @@
         "averageClicks": "1000"
       },
       {
-        "country": "France",
+        "country": "Spain",
         "averageClicks": "1000"
       },
       {
@@ -121,7 +121,7 @@
         "averageClicks": "20000"
       },
       {
-        "country": "Spain",
+        "country": "France",
         "averageClicks": "1000"
       },
       {
@@ -159,59 +159,7 @@
     "lastView": "2024-07-15T07:14:02.000Z",
     "countries": [
       {
-        "country": "Canada",
-        "averageClicks": 0
-      },
-      {
-        "country": "Finland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "United States",
-        "averageClicks": 0
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Luxembourg",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "5000"
-      },
-      {
-        "country": "Australia",
-        "averageClicks": 0
-      },
-      {
-        "country": "New Zealand",
-        "averageClicks": 0
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "6000"
-      },
-      {
-        "country": "Norway",
+        "country": "Slovenia",
         "averageClicks": "1000"
       },
       {
@@ -219,8 +167,56 @@
         "averageClicks": "2000"
       },
       {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "United States",
+        "averageClicks": 0
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Poland",
         "averageClicks": "1000"
+      },
+      {
+        "country": "New Zealand",
+        "averageClicks": 0
+      },
+      {
+        "country": "Australia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Luxembourg",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "6000"
+      },
+      {
+        "country": "Canada",
+        "averageClicks": 0
+      },
+      {
+        "country": "Norway",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "United Kingdom",
+        "averageClicks": 0
       },
       {
         "country": "Austria",
@@ -231,20 +227,12 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Spain",
+        "country": "Finland",
         "averageClicks": "1000"
       },
       {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
+        "country": "Netherlands",
+        "averageClicks": "4000"
       },
       {
         "country": "Sweden",
@@ -252,6 +240,18 @@
       },
       {
         "country": "Italy",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "5000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Cyprus",
         "averageClicks": "1000"
       }
     ],
@@ -269,7 +269,7 @@
     "lastView": "2024-07-15T07:13:43.000Z",
     "countries": [
       {
-        "country": "Romania",
+        "country": "Slovenia",
         "averageClicks": "1000"
       },
       {
@@ -277,7 +277,7 @@
         "averageClicks": "100000"
       },
       {
-        "country": "Slovenia",
+        "country": "Romania",
         "averageClicks": "1000"
       },
       {
@@ -299,115 +299,35 @@
     "lastView": "2024-06-07T14:44:56.000Z",
     "countries": [
       {
-        "country": "Iceland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "35000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": 0
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Austria",
-        "averageClicks": "175000"
-      },
-      {
-        "country": "Luxembourg",
-        "averageClicks": "15000"
-      },
-      {
-        "country": "Malta",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "7000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "15000"
-      },
-      {
-        "country": "Bosnia and Herzegovina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "3000"
-      },
-      {
         "country": "Switzerland",
         "averageClicks": 0
-      },
-      {
-        "country": "France",
-        "averageClicks": "35000"
-      },
-      {
-        "country": "Tunisia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Lithuania",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "6000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "9000"
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
       },
       {
         "country": "Turkey",
         "averageClicks": "2000"
       },
       {
-        "country": "Liechtenstein",
+        "country": "Spain",
+        "averageClicks": "5000"
+      },
+      {
+        "country": "Portugal",
         "averageClicks": "1000"
       },
       {
-        "country": "Spain",
-        "averageClicks": "5000"
+        "country": "Romania",
+        "averageClicks": "9000"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "averageClicks": 0
       },
       {
         "country": "Slovenia",
         "averageClicks": "2000"
       },
       {
-        "country": "Georgia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "7000"
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "25000"
-      },
-      {
-        "country": "United States",
+        "country": "United Kingdom",
         "averageClicks": 0
       },
       {
@@ -415,39 +335,119 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Finland",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "2000"
+        "country": "Slovakia",
+        "averageClicks": "7000"
       },
       {
         "country": "Ireland",
         "averageClicks": "1000"
       },
       {
-        "country": "Croatia",
-        "averageClicks": "4000"
-      },
-      {
-        "country": "Moldova",
-        "averageClicks": 0
-      },
-      {
         "country": "Estonia",
         "averageClicks": "1000"
       },
       {
-        "country": "Hungary",
-        "averageClicks": "15000"
+        "country": "Latvia",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Malta",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "United States",
+        "averageClicks": 0
+      },
+      {
+        "country": "Sweden",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "7000"
       },
       {
         "country": "Ukraine",
         "averageClicks": 0
       },
       {
-        "country": "United Kingdom",
+        "country": "Netherlands",
+        "averageClicks": "15000"
+      },
+      {
+        "country": "Liechtenstein",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": 0
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "35000"
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "25000"
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Georgia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "6000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "4000"
+      },
+      {
+        "country": "Finland",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "Luxembourg",
+        "averageClicks": "15000"
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "15000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "175000"
+      },
+      {
+        "country": "Cyprus",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "35000"
+      },
+      {
+        "country": "Iceland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Moldova",
+        "averageClicks": 0
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": "4000"
+      },
+      {
+        "country": "Tunisia",
         "averageClicks": 0
       },
       {
@@ -469,7 +469,7 @@
     "lastView": "2024-06-07T14:32:18.000Z",
     "countries": [
       {
-        "country": "Finland",
+        "country": "Ireland",
         "averageClicks": "1000"
       },
       {
@@ -485,11 +485,11 @@
         "averageClicks": 0
       },
       {
-        "country": "Netherlands",
+        "country": "Finland",
         "averageClicks": "1000"
       },
       {
-        "country": "Ireland",
+        "country": "Netherlands",
         "averageClicks": "1000"
       }
     ],
@@ -515,7 +515,7 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Czechia",
+        "country": "Slovakia",
         "averageClicks": "1000"
       },
       {
@@ -523,11 +523,7 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
+        "country": "Czechia",
         "averageClicks": "1000"
       },
       {
@@ -535,20 +531,24 @@
         "averageClicks": "1000"
       },
       {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Italy",
         "averageClicks": "1000"
       },
       {
-        "country": "Germany",
-        "averageClicks": "20000"
+        "country": "Netherlands",
+        "averageClicks": "1000"
       },
       {
         "country": "Austria",
         "averageClicks": "2000"
       },
       {
-        "country": "Netherlands",
-        "averageClicks": "1000"
+        "country": "Germany",
+        "averageClicks": "20000"
       },
       {
         "country": "Portugal",
@@ -561,7 +561,7 @@
     "advertiserId": "AR12989773650654658561",
     "adsId": "CR14685941860313071617",
     "img": null,
-    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7723227886&creativeId=569301486849&uiFeatures=12,54&adGroupId=130587591069&itemIds=179904618489,214392721323&assets=%3DH4sIAAAAAAAAAOPS4OLg2LP96U13AWYgq2s3iMUIZPXCWdsgslJsHPNnzHgVLMXO8fte_7kTjEBG130wg41jAkgGAFtl4v5MAAAA&allowedVariations=36&sig=ACiVB_yZGRTy7tvUZ2qpDi9xlxD6cIa9lA&htmlParentId=fletch-render-2076360455878498672&responseCallback=fletchCallback2076360455878498672",
+    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7723227886&creativeId=569301486849&uiFeatures=12,54&adGroupId=130587591069&itemIds=179904618489,214392721323&assets=%3DH4sIAAAAAAAAAOPS4OLg2LP96U13AWYgq2s3iMUIZPXCWdsgslJsHPNnzHgVLMXO8fte_7kTjEBG130wg41jAkgGAFtl4v5MAAAA&allowedVariations=36&sig=ACiVB_yZGRTy7tvUZ2qpDi9xlxD6cIa9lA&htmlParentId=fletch-render-3541910184175611360&responseCallback=fletchCallback3541910184175611360",
     "type": 1,
     "advertiserName": "G.P.S. srl",
     "website": "gps-recycling.com",
@@ -569,31 +569,7 @@
     "lastView": "2024-06-07T14:31:23.000Z",
     "countries": [
       {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "7000"
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Canada",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovakia",
+        "country": "Spain",
         "averageClicks": "1000"
       },
       {
@@ -601,79 +577,7 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Norway",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Malta",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Lithuania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Denmark",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "125000"
-      },
-      {
-        "country": "Finland",
-        "averageClicks": "3000"
-      },
-      {
         "country": "New Zealand",
-        "averageClicks": 0
-      },
-      {
-        "country": "United States",
         "averageClicks": 0
       },
       {
@@ -681,11 +585,27 @@
         "averageClicks": 0
       },
       {
-        "country": "Belgium",
-        "averageClicks": "2000"
+        "country": "Pakistan",
+        "averageClicks": 0
       },
       {
-        "country": "Austria",
+        "country": "Canada",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "125000"
+      },
+      {
+        "country": "Estonia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovakia",
         "averageClicks": "1000"
       },
       {
@@ -693,7 +613,23 @@
         "averageClicks": "2000"
       },
       {
-        "country": "Iceland",
+        "country": "Norway",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Sweden",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Latvia",
         "averageClicks": "1000"
       },
       {
@@ -701,15 +637,79 @@
         "averageClicks": "1000"
       },
       {
+        "country": "Malta",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "United States",
+        "averageClicks": 0
+      },
+      {
         "country": "Australia",
         "averageClicks": 0
       },
       {
-        "country": "Estonia",
+        "country": "Greece",
         "averageClicks": "1000"
       },
       {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "7000"
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Finland",
+        "averageClicks": "3000"
+      },
+      {
         "country": "Italy",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Cyprus",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Iceland",
         "averageClicks": "1000"
       }
     ],
@@ -727,11 +727,11 @@
     "lastView": "2024-06-07T13:39:45.000Z",
     "countries": [
       {
-        "country": "Italy",
-        "averageClicks": "2000"
+        "country": "Portugal",
+        "averageClicks": "1000"
       },
       {
-        "country": "Romania",
+        "country": "Denmark",
         "averageClicks": "1000"
       },
       {
@@ -739,15 +739,15 @@
         "averageClicks": "1250000"
       },
       {
-        "country": "Bulgaria",
+        "country": "Romania",
         "averageClicks": "1000"
       },
       {
-        "country": "Portugal",
+        "country": "Greece",
         "averageClicks": "1000"
       },
       {
-        "country": "Germany",
+        "country": "Luxembourg",
         "averageClicks": "1000"
       },
       {
@@ -755,12 +755,20 @@
         "averageClicks": 0
       },
       {
-        "country": "Spain",
+        "country": "Norway",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bilinmeyen",
         "averageClicks": "2000"
       },
       {
         "country": "Bilinmeyen",
         "averageClicks": "2000"
+      },
+      {
+        "country": "United Kingdom",
+        "averageClicks": 0
       },
       {
         "country": "Ireland",
@@ -771,19 +779,15 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Sweden",
+        "country": "Iceland",
         "averageClicks": "1000"
       },
       {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bilinmeyen",
+        "country": "Italy",
         "averageClicks": "2000"
       },
       {
-        "country": "Luxembourg",
+        "country": "Germany",
         "averageClicks": "1000"
       },
       {
@@ -795,31 +799,27 @@
         "averageClicks": 0
       },
       {
+        "country": "Sweden",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Bilinmeyen",
         "averageClicks": "1000"
       },
       {
-        "country": "Finland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Iceland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Norway",
-        "averageClicks": "1000"
+        "country": "Spain",
+        "averageClicks": "2000"
       },
       {
         "country": "Austria",
         "averageClicks": "1000"
       },
       {
-        "country": "United Kingdom",
-        "averageClicks": 0
+        "country": "Bulgaria",
+        "averageClicks": "1000"
       },
       {
-        "country": "Denmark",
+        "country": "Finland",
         "averageClicks": "1000"
       }
     ],
@@ -837,11 +837,11 @@
     "lastView": "2024-06-07T13:39:45.000Z",
     "countries": [
       {
-        "country": "Romania",
+        "country": "Portugal",
         "averageClicks": "1000"
       },
       {
-        "country": "Luxembourg",
+        "country": "Spain",
         "averageClicks": "1000"
       },
       {
@@ -849,7 +849,7 @@
         "averageClicks": "3000"
       },
       {
-        "country": "Spain",
+        "country": "Luxembourg",
         "averageClicks": "1000"
       },
       {
@@ -857,11 +857,11 @@
         "averageClicks": "25000"
       },
       {
-        "country": "Germany",
+        "country": "Romania",
         "averageClicks": "1000"
       },
       {
-        "country": "Portugal",
+        "country": "Germany",
         "averageClicks": "1000"
       }
     ],
@@ -883,15 +883,19 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Switzerland",
+        "country": "United States",
         "averageClicks": 0
       },
       {
+        "country": "Denmark",
+        "averageClicks": "1000"
+      },
+      {
         "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Sweden",
         "averageClicks": "1000"
       },
       {
@@ -899,19 +903,11 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Finland",
-        "averageClicks": "1000"
+        "country": "Switzerland",
+        "averageClicks": 0
       },
       {
-        "country": "Norway",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Austria",
+        "country": "Germany",
         "averageClicks": "1000"
       },
       {
@@ -923,14 +919,6 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United States",
-        "averageClicks": 0
-      },
-      {
         "country": "United Kingdom",
         "averageClicks": 0
       },
@@ -939,11 +927,23 @@
         "averageClicks": "1000"
       },
       {
+        "country": "Norway",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Netherlands",
         "averageClicks": "1000"
       },
       {
-        "country": "Sweden",
+        "country": "Finland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
         "averageClicks": "1000"
       },
       {
@@ -983,6 +983,10 @@
     "lastView": "2024-06-06T03:39:02.000Z",
     "countries": [
       {
+        "country": "Finland",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Norway",
         "averageClicks": "1000"
       },
@@ -992,10 +996,6 @@
       },
       {
         "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Finland",
         "averageClicks": "1000"
       }
     ],

@@ -435,6 +435,26 @@
     [
       1747785600000,
       19198
+    ],
+    [
+      1747872000000,
+      19420
+    ],
+    [
+      1747958400000,
+      19471
+    ],
+    [
+      1748044800000,
+      19478
+    ],
+    [
+      1748131200000,
+      19475
+    ],
+    [
+      1748217600000,
+      19483
     ]
   ],
   "data": [
@@ -827,6 +847,56 @@
       "comment": "2",
       "shere": "7",
       "date": "2025-05-14T19:03:21.000Z"
+    },
+    {
+      "id": "253486",
+      "time": "25.5.2025 16:43:35",
+      "link": "http://www.facebook.com/LefortRecycling/posts/1255895956540837",
+      "caption": "New Trax 720  completed and ready to ship out to its new home in IA 🇺🇸",
+      "like": "83",
+      "comment": "6",
+      "shere": "7",
+      "date": "2025-05-25T16:43:35.000Z"
+    },
+    {
+      "id": "253486",
+      "time": "22.5.2025 16:52:52",
+      "link": "http://www.facebook.com/LefortRecycling/posts/1253400030123763",
+      "caption": "Your thoughts on this configuration ? 🧡🍊",
+      "like": "79",
+      "comment": "3",
+      "shere": "10",
+      "date": "2025-05-22T16:52:52.000Z"
+    },
+    {
+      "id": "253486",
+      "time": "19.5.2025 18:32:29",
+      "link": "http://www.facebook.com/LefortRecycling/posts/1250975473699552",
+      "caption": "« A wild force wrapped in velvet grace » 😮‍💨 #lefortshear",
+      "like": "2.601",
+      "comment": "27",
+      "shere": "89",
+      "date": "2025-05-19T18:32:29.000Z"
+    },
+    {
+      "id": "253486",
+      "time": "30.3.2025 17:18:18",
+      "link": "http://www.facebook.com/LefortRecycling/posts/1205328494930917",
+      "caption": "Custom colors for this new Trax 700 🟦🟧⬛️ @vincentrecyclage 👏🏼",
+      "like": "134",
+      "comment": "1",
+      "shere": "15",
+      "date": "2025-03-30T17:18:18.000Z"
+    },
+    {
+      "id": "253486",
+      "time": "24.3.2025 19:10:31",
+      "link": "http://www.facebook.com/LefortRecycling/posts/1200078268789273",
+      "caption": "Lefort opens new State-of-the-art Paint Shop. The new building measures 55m long, 15m wide and 9m high.",
+      "like": "134",
+      "comment": "4",
+      "shere": "23",
+      "date": "2025-03-24T19:10:31.000Z"
     }
   ]
 }

@@ -107,6 +107,10 @@
     [
       1747888886218,
       1353
+    ],
+    [
+      1748321933700,
+      1355
     ]
   ],
   "data": [
@@ -866,47 +870,47 @@
       "shares": "1",
       "time": {
         "raw": "3h",
-        "parsed": "01.05.2025",
-        "isoString": "2025-05-01T04:41:25.756Z"
+        "parsed": "06.05.2025",
+        "isoString": "2025-05-06T04:58:53.377Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQE347nmB18T9w/mp4-720p-30fp-crf28/B4EZaI7NpPHEBQ-/0/1746053981333?e=1748494800&v=beta&t=rh2QhKu_ezAUgaeEN0EeV1XzmhCIQQgaIemSfsOWMuk",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQE347nmB18T9w/mp4-720p-30fp-crf28/B4EZaI7NpPHEBQ-/0/1746053981333?e=1748926800&v=beta&t=G_ARsyP7ABltu53Bq5U51xx_vDKD4OmgFTxf2Iu9U4Q",
             "type": "video/mp4",
             "data-bitrate": 1355484
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQE347nmB18T9w/mp4-640p-30fp-crf28/B4EZaI7NpPHEBM-/0/1746053979631?e=1748494800&v=beta&t=dPHlgKDVLTzZQc92-r0zM1CNfwOFo6p1dvuVxdrEzlI",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQE347nmB18T9w/mp4-640p-30fp-crf28/B4EZaI7NpPHEBM-/0/1746053979631?e=1748926800&v=beta&t=cF-b6qz66Ie_fXbp9s3v_K_YqlS8JBJhokRrw9jiMlc",
             "type": "video/mp4",
             "data-bitrate": 988682
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQE347nmB18T9w/videocover-low/B4EZaI7NpPHECA-/0/1746053972785?e=1748494800&v=beta&t=klNw_4XA09wp9DB3E1RoZcwNu1hBj3LwPRzZGm4v2QY"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQE347nmB18T9w/videocover-low/B4EZaI7NpPHECA-/0/1746053972785?e=1748926800&v=beta&t=15X0EgCzf1GXQtJQywLgiJYNJMYJDUW3GBN3yJhfV5Q"
       },
-      "date": "2025-05-01T04:41:25.756Z"
+      "date": "2025-05-06T04:58:53.377Z"
     },
     {
       "captions": "Get the maximum productivity with the Ing.Bonfiglioli SQUALO 2000 High Speed Vertical Inclined Shear. No foundation, no extra expensive civil works, no need to prepare the material to size your feeding box...just speed and power at your fingertips. #ingbonfiglioli #mostpowerfulshears #mobilityisthekey #allovertheworld #nocompromises",
       "likes": "7",
       "time": {
         "raw": "3h",
-        "parsed": "01.05.2025",
-        "isoString": "2025-05-01T04:41:25.758Z"
+        "parsed": "06.05.2025",
+        "isoString": "2025-05-06T04:58:53.379Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFjhGZ58OOllA/mp4-640p-30fp-crf28/B4EZaI6KCWHEBM-/0/1746053676388?e=1748494800&v=beta&t=zXa8DyBY_jOiLdYuzMqDY9aCvLIOgpcQoGFwz_VKM0Y",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFjhGZ58OOllA/mp4-640p-30fp-crf28/B4EZaI6KCWHEBM-/0/1746053676388?e=1748926800&v=beta&t=Gx4dEeJVd-4DMxCmFIXqjFN2Cktu4rm_XUWIETVu16M",
             "type": "video/mp4",
             "data-bitrate": 596522
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQFjhGZ58OOllA/videocover-high/B4EZaI6KCWHEBc-/0/1746053674973?e=1748494800&v=beta&t=-hmuzrXWRiIkDluNkmp1irOyhfWxke5Y7NUsMLoZ-vE"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQFjhGZ58OOllA/videocover-high/B4EZaI6KCWHEBc-/0/1746053674973?e=1748926800&v=beta&t=qBlpfqIXCMgMjK2S1KSbvrBji-wgWzexJt50H6doFAQ"
       },
-      "date": "2025-05-01T04:41:25.758Z"
+      "date": "2025-05-06T04:58:53.379Z"
     },
     {
       "captions": "Skeletons? You can't beat the SQUALO 2000 High Speed Vertical Inclined Shear, the most versatile model of our range. #allovertheworld #onestepahead #nocompromises #mostpowerfulshears #ingbonfiglioli",
@@ -954,64 +958,65 @@
       "captions": "Save the Date!Save the Date!",
       "likes": "2",
       "time": {
-        "raw": "1h",
-        "parsed": "15.05.2025",
-        "isoString": "2025-05-15T04:41:25.751Z"
+        "raw": "2h",
+        "parsed": "13.05.2025",
+        "isoString": "2025-05-13T04:58:53.363Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQE8vTnlbAsGMA/feedshare-shrink_1280/B4DZayNNS3HEAk-/0/1746746529355?e=1750896000&v=beta&t=X5o_huvjhxuy_Jqj4pTHKVCWbtYwNdKXEBbitT4G6BE"
+        "https://media.licdn.com/dms/image/v2/D4D22AQE8vTnlbAsGMA/feedshare-shrink_1280/B4DZayNNS3HEAk-/0/1746746529355?e=1751500800&v=beta&t=v3h5fCOmuKcZ1M_Kgm8YPWl_TmQOvMyc_nDafpqUufM"
       ],
-      "date": "2025-05-15T04:41:25.751Z"
+      "date": "2025-05-13T04:58:53.363Z"
     },
     {
       "captions": "Come and see the new Ing.Bonfiglioli SQUALO 1200 Horizontal Shear at the Re.Ma 2025 in San Diego! Power+Mobility at a fraction of a shearbaler cost.\nDon't miss it! #rema2025 #sandiego #aljon #ingbonfiglioli #s1200  #mostpowerfulshears #allovertheworldCome and see the new Ing.Bonfiglioli SQUALO 1200 Horizontal Shear at the Re.Ma 2025 in San Diego! Power+Mobility at a fraction of a shearbaler cost.\nDon't miss it! #rema2025 #sandiego #aljon #ingbonfiglioli #s1200  #mostpowerfulshears #allovertheworld",
       "likes": "7",
       "shares": "1",
       "time": {
-        "raw": "1h",
-        "parsed": "15.05.2025",
-        "isoString": "2025-05-15T04:41:25.753Z"
+        "raw": "2h",
+        "parsed": "13.05.2025",
+        "isoString": "2025-05-13T04:58:53.365Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQFEt_NfsKYXPQ/feedshare-shrink_800/B4DZayNHDNHQAg-/0/1746746503959?e=1750896000&v=beta&t=5_Vc0fuUPfvi_vSCY5kRfYrLHV66IW3IUy1qT9Ug-jM"
+        "https://media.licdn.com/dms/image/v2/D4D22AQFEt_NfsKYXPQ/feedshare-shrink_800/B4DZayNHDNHQAg-/0/1746746503959?e=1751500800&v=beta&t=vrKrzq65ceIDZedPHzLnZ6QbzVRWOzxpjU2RBAWaVZ4"
       ],
-      "date": "2025-05-15T04:41:25.753Z"
+      "date": "2025-05-13T04:58:53.365Z"
     },
     {
       "captions": "Ing.Bonfiglioli SQUALO 1000 Horizontal Shear running in South America.\n#allovertheworld #ingbonfiglioli #mostpowerfulshears #onestepahead",
       "time": {
-        "raw": "1h",
-        "parsed": "15.05.2025",
-        "isoString": "2025-05-15T04:41:25.755Z"
+        "raw": "2h",
+        "parsed": "13.05.2025",
+        "isoString": "2025-05-13T04:58:53.373Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQFAOcNJfR7GMA/mp4-640p-30fp-crf28/B4DZayJZbhGYBQ-/0/1746745543510?e=1748494800&v=beta&t=djvHHRLtvXcJF-uDmY-gIPZOwk6B5iH-ZXpR2FzIjDc",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQFAOcNJfR7GMA/mp4-640p-30fp-crf28/B4DZayJZbhGYBQ-/0/1746745543510?e=1748926800&v=beta&t=9-61LwrFF18VxWVobtMFb81irciFuGJHwR3js4ZgpmU",
             "type": "video/mp4",
             "data-bitrate": 737262
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQFAOcNJfR7GMA/videocover-low/B4DZayJZbhGYBs-/0/1746745536657?e=1748494800&v=beta&t=hSQEsjUMbTEWSsTzl7YdyiJbLHgv9B4-FWOMqMfFsx8"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQFAOcNJfR7GMA/videocover-low/B4DZayJZbhGYBs-/0/1746745536657?e=1748926800&v=beta&t=vDn3KO8RmiUuzUhCu6BfB7qC0mP-tz5vE-pvg5XPgDw"
       },
-      "date": "2025-05-15T04:41:25.755Z"
+      "date": "2025-05-13T04:58:53.373Z"
     },
     {
       "captions": "A couple of Ing.Bonfiglioli SQUALO 2000 High Speed Vertical Inclined Shears working efficiently side by side non-stop feeded by a single material handler in Nebraska - USA. #ingbonfiglioli #mostpowerfulshears #nocomparison #nocompromises #allovertheworldA couple of Ing.Bonfiglioli SQUALO 2000 High Speed Vertical Inclined Shears working efficiently side by side non-stop feeded by a single material handler in Nebraska - USA. #ingbonfiglioli #mostpowerfulshears #nocomparison #nocompromises #allovertheworld",
-      "likes": "4",
+      "likes": "8",
+      "comments": "1",
       "time": {
-        "raw": "16s",
-        "parsed": "21.05.2025",
-        "isoString": "2025-05-21T12:41:25.738Z"
+        "raw": "5g",
+        "parsed": "22.05.2025",
+        "isoString": "2025-05-22T04:58:53.348Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQFeeIZiO45f0Q/feedshare-shrink_800/B4DZbyzlg7HsAg-/0/1747830333550?e=1750896000&v=beta&t=YRRAQcQHJlnt_dHBkQlTFw-fka3zgnaUuXcmj_-tdQY"
+        "https://media.licdn.com/dms/image/v2/D4D22AQFeeIZiO45f0Q/feedshare-shrink_800/B4DZbyzlg7HsAg-/0/1747830333550?e=1751500800&v=beta&t=pGfWMjn2ZDDBAiCLat-jsNHVEhM412dOYp4BgPp5u34"
       ],
-      "date": "2025-05-21T12:41:25.738Z"
+      "date": "2025-05-22T04:58:53.348Z"
     },
     {
       "captions": "Another Ing.Bonfiglioli SQUALO 2000 High Speed Vertical Inclined Shear reached its new home in Tennessee - USA. The family keeps growing...more to come soon, stay tuned! #ingbonfiglioli #mostpowerfulshears #onestepahead #nocompromises #allovertheworldAnother Ing.Bonfiglioli SQUALO 2000 High Speed Vertical Inclined Shear reached its new home in Tennessee - USA. The family keeps growing...more to come soon, stay tuned! #ingbonfiglioli #mostpowerfulshears #onestepahead #nocompromises #allovertheworld",
@@ -1019,57 +1024,71 @@
       "comments": "1",
       "shares": "2",
       "time": {
-        "raw": "6g",
-        "parsed": "16.05.2025",
-        "isoString": "2025-05-16T04:41:25.741Z"
+        "raw": "1h",
+        "parsed": "20.05.2025",
+        "isoString": "2025-05-20T04:58:53.355Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQFfjjFuGeyaaQ/feedshare-shrink_800/B4DZbUub3JHsAg-/0/1747325667347?e=1750896000&v=beta&t=dBmT8B4SmnUFTd70dkG1nfsrmv77SqTD9uQTlT6Z-nQ"
+        "https://media.licdn.com/dms/image/v2/D4D22AQFfjjFuGeyaaQ/feedshare-shrink_800/B4DZbUub3JHsAg-/0/1747325667347?e=1751500800&v=beta&t=Eoq-T_S3caj1C-6bBAKB2tf4k_zR6KWE2izRyOstW8Q"
       ],
-      "date": "2025-05-16T04:41:25.741Z"
+      "date": "2025-05-20T04:58:53.355Z"
     },
     {
       "captions": "https://lnkd.in/dUmNT9yi#ReMa2025 in San Diego is over.\nWe just want to take a moment to thank all the friends & customers visiting our booth during the show in this beautiful city.\nSee you soon on the field, as usual...as always. #ingbonfiglioli #metalrecycling #onestepahead #allovertheworld#ReMa2025 in San Diego is over.\nWe just want to take a moment to thank all the friends & customers visiting our booth during the show in this beautiful city.\nSee you soon on the field, as usual...as always. #ingbonfiglioli #metalrecycling #onestepahead #allovertheworld",
       "likes": "4",
       "time": {
-        "raw": "6g6g",
-        "parsed": "22.05.2025",
-        "isoString": "2025-05-22T04:41:25.744Z"
+        "raw": "1h1h",
+        "parsed": "27.05.2025",
+        "isoString": "2025-05-27T04:58:53.357Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQELn5S0jCFmrg/feedshare-shrink_800/B4DZbUgKe_GwAw-/0/1747321930938?e=1750896000&v=beta&t=zZ3rHETtiEUfRybWWaYqJjFT7h4itkfgZB4r7SQllJw"
+        "https://media.licdn.com/dms/image/v2/D4D22AQELn5S0jCFmrg/feedshare-shrink_800/B4DZbUgKe_GwAw-/0/1747321930938?e=1751500800&v=beta&t=Lm1Lu8lbRXSt_Koqv8YtGGfa2iL8UeUlaaDMsxPHDN4"
       ],
-      "date": "2025-05-22T04:41:25.744Z"
+      "date": "2025-05-27T04:58:53.357Z"
     },
     {
       "captions": "#ReMa2025 in San Diego is over.\nWe just want to take a moment to thank all the friends & customers visiting our booth during the show in this beautiful city.\nSee you soon on the field, as usual...as always. #ingbonfiglioli #metalrecycling #onestepahead #allovertheworld#ReMa2025 in San Diego is over.\nWe just want to take a moment to thank all the friends & customers visiting our booth during the show in this beautiful city.\nSee you soon on the field, as usual...as always. #ingbonfiglioli #metalrecycling #onestepahead #allovertheworld",
       "likes": "4",
       "time": {
-        "raw": "6g",
-        "parsed": "16.05.2025",
-        "isoString": "2025-05-16T04:41:25.747Z"
+        "raw": "1h",
+        "parsed": "20.05.2025",
+        "isoString": "2025-05-20T04:58:53.359Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQELn5S0jCFmrg/feedshare-shrink_800/B4DZbUgKe_GwAw-/0/1747321930938?e=1750896000&v=beta&t=zZ3rHETtiEUfRybWWaYqJjFT7h4itkfgZB4r7SQllJw"
+        "https://media.licdn.com/dms/image/v2/D4D22AQELn5S0jCFmrg/feedshare-shrink_800/B4DZbUgKe_GwAw-/0/1747321930938?e=1751500800&v=beta&t=Lm1Lu8lbRXSt_Koqv8YtGGfa2iL8UeUlaaDMsxPHDN4"
       ],
-      "date": "2025-05-16T04:41:25.747Z"
+      "date": "2025-05-20T04:58:53.359Z"
     },
     {
       "captions": "Another hard working day for the Ing.Bonfiglioli SQUALO 2000 High Speed Vertical Inclined Shear in Georgia - USA. #northamericanfamily #ingbonfiglioli #mostpowerfulshears #nocompromisesAnother hard working day for the Ing.Bonfiglioli SQUALO 2000 High Speed Vertical Inclined Shear in Georgia - USA. #northamericanfamily #ingbonfiglioli #mostpowerfulshears #nocompromises",
       "likes": "4",
       "time": {
-        "raw": "6g",
-        "parsed": "16.05.2025",
-        "isoString": "2025-05-16T04:41:25.749Z"
+        "raw": "1h",
+        "parsed": "20.05.2025",
+        "isoString": "2025-05-20T04:58:53.360Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQEmrEzftoSetA/feedshare-shrink_2048_1536/B4DZbUpQRXGwAo-/0/1747324307360?e=1750896000&v=beta&t=ZTPA660b6nkndfiRcOJIN1wu9_l4M-CLzOSLKtUUR98"
+        "https://media.licdn.com/dms/image/v2/D4D22AQEmrEzftoSetA/feedshare-shrink_2048_1536/B4DZbUpQRXGwAo-/0/1747324307360?e=1751500800&v=beta&t=42uzACtfyPNDTTjxbrIE4xTUokoHrCtRZTmaF-JTFdQ"
       ],
-      "date": "2025-05-16T04:41:25.749Z"
+      "date": "2025-05-20T04:58:53.360Z"
+    },
+    {
+      "captions": "Another Ing.Bonfiglioli SQUALO 1500 Vertical Inclined Shear on the way to South Dakota - USA this week. Stay tuned for more!!! #ingbonfiglioli #northamericanfamily #onestepahead #mostpowerfulshears #allovertheworldAnother Ing.Bonfiglioli SQUALO 1500 Vertical Inclined Shear on the way to South Dakota - USA this week. Stay tuned for more!!! #ingbonfiglioli #northamericanfamily #onestepahead #mostpowerfulshears #allovertheworld",
+      "likes": "3",
+      "time": {
+        "raw": "4g",
+        "parsed": "23.05.2025",
+        "isoString": "2025-05-23T04:58:53.345Z"
+      },
+      "mediaType": "image",
+      "mediaContent": [
+        "https://media.licdn.com/dms/image/v2/D4D22AQEHgEtEGh59AQ/feedshare-shrink_800/B4DZb3QexPIEAg-/0/1747905016417?e=1751500800&v=beta&t=dy_XYqQmu78w7MSSWgRKnzSC1XtV8rcNWA70Jw7cyNQ"
+      ],
+      "date": "2025-05-23T04:58:53.345Z"
     }
   ]
 }
