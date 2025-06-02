@@ -459,6 +459,30 @@
     [
       1748304000000,
       387
+    ],
+    [
+      1748390400000,
+      387
+    ],
+    [
+      1748476800000,
+      387
+    ],
+    [
+      1748563200000,
+      387
+    ],
+    [
+      1748649600000,
+      387
+    ],
+    [
+      1748736000000,
+      387
+    ],
+    [
+      1748822400000,
+      387
     ]
   ],
   "data": [
@@ -481,6 +505,16 @@
       "comment": "0",
       "watch": "42",
       "date": "2025-04-24T12:46:22.000Z"
+    },
+    {
+      "id": "253475",
+      "time": "27.5.2025 13:05:42",
+      "link": "http://youtube.com/watch?v=iNNlPIjF7lk",
+      "caption": "The NxtCut Wing is more than just an upgrade. It’s a bold statement in efficiency, durability, and throughput. Equipped with a powerful wing-type compression box, it takes scrap processing to the next level.",
+      "like": "9",
+      "comment": "0",
+      "watch": "293",
+      "date": "2025-05-27T13:05:42.000Z"
     }
   ]
 }
