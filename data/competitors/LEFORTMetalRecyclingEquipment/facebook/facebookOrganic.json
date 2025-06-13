@@ -483,6 +483,50 @@
     [
       1748822400000,
       19501
+    ],
+    [
+      1748908800000,
+      19499
+    ],
+    [
+      1748995200000,
+      19503
+    ],
+    [
+      1749081600000,
+      19508
+    ],
+    [
+      1749168000000,
+      19524
+    ],
+    [
+      1749254400000,
+      19540
+    ],
+    [
+      1749340800000,
+      19569
+    ],
+    [
+      1749427200000,
+      19592
+    ],
+    [
+      1749513600000,
+      19618
+    ],
+    [
+      1749600000000,
+      19641
+    ],
+    [
+      1749686400000,
+      19668
+    ],
+    [
+      1749772800000,
+      19699
     ]
   ],
   "data": [
@@ -925,6 +969,36 @@
       "comment": "4",
       "shere": "23",
       "date": "2025-03-24T19:10:31.000Z"
+    },
+    {
+      "id": "253486",
+      "time": "9.6.2025 16:04:13",
+      "link": "http://www.facebook.com/LefortRecycling/posts/1268589805271452",
+      "caption": "🇫🇷🚀 𝐍𝐎𝐔𝐕𝐄𝐋𝐋𝐄 𝐋𝐄𝐅𝐎𝐑𝐓 𝐋𝐈𝐃𝐄𝐗 𝐂𝐇𝐄𝐙 𝐂𝐌𝐒 !\n\nNous sommes ravis d’annoncer que la société Comminges Métaux Services (CMS) vient de réceptionner en usine sa nouvelle cisaille hydraulique Lidex 1000T - 3x 110 kW ! 💥\n\nCette presse/cisaille à très haute performance viendra renforcer les capacités de production de leur site de Montrejeau tout en améliorant encore la qualité de leurs prestations.\n\n📦 🏗️👷🏼‍♂️Prochaine étape : installation sur site, avec une mise en service prévue très prochainement.\n\nUn grand merci à nos équipes et notre fidèle client, pour leur engagement sur ce projet 💪",
+      "like": "78",
+      "comment": "3",
+      "shere": "9",
+      "date": "2025-06-09T16:04:13.000Z"
+    },
+    {
+      "id": "253486",
+      "time": "4.6.2025 05:27:16",
+      "link": "http://www.facebook.com/LefortRecycling/posts/1264005495729883",
+      "caption": "Metquip'in gönderisinden fotoğraflar",
+      "like": "36",
+      "comment": "0",
+      "shere": "5",
+      "date": "2025-06-04T05:27:16.000Z"
+    },
+    {
+      "id": "253486",
+      "time": "27.5.2025 19:43:34",
+      "link": "http://www.facebook.com/LefortRecycling/posts/1257699016360531",
+      "caption": "İletiyi görmek için tıklayınız",
+      "like": "47",
+      "comment": "1",
+      "shere": "3",
+      "date": "2025-05-27T19:43:34.000Z"
     }
   ]
 }

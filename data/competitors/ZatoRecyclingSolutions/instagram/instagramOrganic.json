@@ -483,6 +483,50 @@
     [
       1748822400000,
       2379
+    ],
+    [
+      1748908800000,
+      2383
+    ],
+    [
+      1748995200000,
+      2382
+    ],
+    [
+      1749081600000,
+      2383
+    ],
+    [
+      1749168000000,
+      2382
+    ],
+    [
+      1749254400000,
+      2383
+    ],
+    [
+      1749340800000,
+      2382
+    ],
+    [
+      1749427200000,
+      2380
+    ],
+    [
+      1749513600000,
+      2380
+    ],
+    [
+      1749600000000,
+      2379
+    ],
+    [
+      1749686400000,
+      2381
+    ],
+    [
+      1749772800000,
+      2383
     ]
   ],
   "data": [
@@ -785,6 +829,16 @@
       "comment": "0",
       "rawDetails": "https://www.instagram.com/p/DKMnhgsobGX/?__a=1&__d=dis",
       "date": "2025-05-28T12:24:53.000Z"
+    },
+    {
+      "id": "253449",
+      "time": "30.5.2025 12:01:28",
+      "link": "https://www.instagram.com/reel/DKRuZL1vmN0/",
+      "caption": "Vehicles in, efficiency out.\n\nThis is what happens at one of our Czech installations, where a Zato pre-shredder processes auto scrap before the hammermill. \nIt boosts performance and reduces wear — meaning less stress on the system and more value in every cycle.\n\nTake a closer look at the results!\n\n#ZATO #ZatoShredder #PreShredder #Hammermill #BlueDevil #RecyclingEquipment",
+      "like": "40",
+      "comment": "0",
+      "rawDetails": "https://www.instagram.com/reel/DKRuZL1vmN0/?__a=1&__d=dis",
+      "date": "2025-05-30T12:01:28.000Z"
     }
   ]
 }
