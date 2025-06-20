@@ -1,125 +1,17 @@
 [
   {
     "advertiserId": "AR02760840643277225985",
-    "adsId": "CR09783634440260419585",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/3159153732493201175",
+    "adsId": "CR15464784632699944961",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/7053269949009288640",
     "videoCode": null,
     "type": 2,
     "advertiserName": "Idromeccanica Italiana srl",
     "website": null,
-    "startDate": "2022-09-15T20:33:51.000Z",
-    "lastView": "2025-06-13T07:53:33.000Z",
+    "startDate": "2022-09-15T21:00:51.000Z",
+    "lastView": "2025-06-20T03:41:09.000Z",
     "countries": [
       {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "North Macedonia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mauritius",
-        "averageClicks": 0
-      },
-      {
-        "country": "United Arab Emirates",
-        "averageClicks": 0
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Trinidad and Tobago",
-        "averageClicks": 0
-      },
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Panama",
-        "averageClicks": 0
-      },
-      {
-        "country": "Dominican Republic",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Malta",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Armenia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Lebanon",
-        "averageClicks": 0
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
-      {
-        "country": "Kuwait",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Guatemala",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ghana",
-        "averageClicks": 0
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Nigeria",
-        "averageClicks": 0
-      },
-      {
-        "country": "Malaysia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Saint Martin",
+        "country": "Poland",
         "averageClicks": "1000"
       },
       {
@@ -127,15 +19,11 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Israel",
+        "country": "Tanzania",
         "averageClicks": 0
       },
       {
-        "country": "Turkey",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Iceland",
+        "country": "Malta",
         "averageClicks": "1000"
       },
       {
@@ -143,7 +31,67 @@
         "averageClicks": 0
       },
       {
-        "country": "Lithuania",
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mauritius",
+        "averageClicks": 0
+      },
+      {
+        "country": "Chile",
+        "averageClicks": 0
+      },
+      {
+        "country": "Oman",
+        "averageClicks": 0
+      },
+      {
+        "country": "Kenya",
+        "averageClicks": 0
+      },
+      {
+        "country": "Zimbabwe",
+        "averageClicks": 0
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Colombia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Dominican Republic",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ghana",
+        "averageClicks": 0
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Israel",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lebanon",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ireland",
         "averageClicks": "1000"
       },
       {
@@ -151,11 +99,107 @@
         "averageClicks": 0
       },
       {
-        "country": "United Kingdom",
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Jamaica",
         "averageClicks": 0
       },
       {
-        "country": "Tanzania",
+        "country": "South Korea",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "North Macedonia",
+        "averageClicks": 0
+      },
+      {
+        "country": "United Arab Emirates",
+        "averageClicks": 0
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Panama",
+        "averageClicks": 0
+      },
+      {
+        "country": "Iceland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Qatar",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nigeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Kuwait",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ethiopia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Saint Martin",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Cyprus",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bosnia and Herzegovina",
         "averageClicks": 0
       },
       {
@@ -163,24 +207,102 @@
         "averageClicks": 0
       },
       {
+        "country": "Zambia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bahrain",
+        "averageClicks": 0
+      },
+      {
+        "country": "Malaysia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Antigua and Barbuda",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Honduras",
         "averageClicks": 0
       },
       {
-        "country": "United States",
+        "country": "Argentina",
         "averageClicks": 0
-      },
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR11020435487927042049",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/15109118863742283133",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2022-09-15T21:35:58.000Z",
+    "lastView": "2025-06-20T02:44:56.000Z",
+    "countries": [
       {
-        "country": "Iraq",
-        "averageClicks": 0
-      },
-      {
-        "country": "Austria",
+        "country": "Spain",
         "averageClicks": "1000"
       },
       {
-        "country": "Zambia",
+        "country": "Peru",
         "averageClicks": 0
+      },
+      {
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Cyprus",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Sri Lanka",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ghana",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lebanon",
+        "averageClicks": 0
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
       },
       {
         "country": "Antigua and Barbuda",
@@ -191,363 +313,7 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Uganda",
-        "averageClicks": 0
-      },
-      {
-        "country": "France",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Colombia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Thailand",
-        "averageClicks": 0
-      },
-      {
-        "country": "Oman",
-        "averageClicks": 0
-      },
-      {
-        "country": "Saudi Arabia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ethiopia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Qatar",
-        "averageClicks": 0
-      },
-      {
-        "country": "Morocco",
-        "averageClicks": 0
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Jamaica",
-        "averageClicks": 0
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Papua New Guinea",
-        "averageClicks": 0
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Kenya",
-        "averageClicks": 0
-      },
-      {
-        "country": "Yemen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bosnia and Herzegovina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bahrain",
-        "averageClicks": 0
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
         "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR17371080526722498561",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/988535865423390806",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2025-02-19T18:17:39.000Z",
-    "lastView": "2025-06-13T07:23:21.000Z",
-    "countries": [
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Algeria",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR13370609431583129601",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/5289539142345975722",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2023-04-28T07:00:00.000Z",
-    "lastView": "2025-06-13T06:51:09.000Z",
-    "countries": [
-      {
-        "country": "Saudi Arabia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR09985323922637193217",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/9745017276518952073",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-06-13T06:46:37.000Z",
-    "countries": [
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR03107813252776591361",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/16716871254659761934",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-06-13T06:27:38.000Z",
-    "countries": [
-      {
-        "country": "Saudi Arabia",
-        "averageClicks": 0
-      },
-      {
-        "country": "United Arab Emirates",
-        "averageClicks": 0
-      },
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Qatar",
-        "averageClicks": 0
-      },
-      {
-        "country": "Oman",
-        "averageClicks": 0
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR16368037832964440065",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/8820009479139710702",
-    "videoCode": null,
-    "type": 2,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2022-09-15T20:11:59.000Z",
-    "lastView": "2025-06-13T06:19:00.000Z",
-    "countries": [
-      {
-        "country": "Colombia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bolivia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Costa Rica",
-        "averageClicks": 0
-      },
-      {
-        "country": "Guatemala",
-        "averageClicks": 0
-      },
-      {
-        "country": "Dominican Republic",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Nicaragua",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Venezuela",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ecuador",
-        "averageClicks": 0
-      },
-      {
-        "country": "Honduras",
-        "averageClicks": 0
-      },
-      {
-        "country": "Paraguay",
-        "averageClicks": 0
-      },
-      {
-        "country": "Panama",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Morocco",
-        "averageClicks": 0
-      },
-      {
-        "country": "Peru",
-        "averageClicks": 0
-      },
-      {
-        "country": "Uruguay",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR01006426629771100161",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/12961591219647182309",
-    "videoCode": null,
-    "type": 2,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2022-09-15T20:21:53.000Z",
-    "lastView": "2025-06-13T05:50:04.000Z",
-    "countries": [
-      {
-        "country": "Colombia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Honduras",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bolivia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Guatemala",
-        "averageClicks": 0
-      },
-      {
-        "country": "Dominican Republic",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ecuador",
-        "averageClicks": 0
-      },
-      {
-        "country": "Paraguay",
-        "averageClicks": 0
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bilinmeyen",
         "averageClicks": 0
       },
       {
@@ -555,103 +321,19 @@
         "averageClicks": 0
       },
       {
-        "country": "Peru",
-        "averageClicks": 0
-      },
-      {
-        "country": "Spain",
+        "country": "Austria",
         "averageClicks": "1000"
       },
       {
-        "country": "Venezuela",
+        "country": "Iraq",
         "averageClicks": 0
       },
       {
-        "country": "Panama",
+        "country": "Rwanda",
         "averageClicks": 0
       },
       {
-        "country": "Costa Rica",
-        "averageClicks": 0
-      },
-      {
-        "country": "Morocco",
-        "averageClicks": 0
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Nicaragua",
-        "averageClicks": 0
-      },
-      {
-        "country": "El Salvador",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Uruguay",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR05510817476016865281",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/9965240320939009619",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2025-02-20T23:27:16.000Z",
-    "lastView": "2025-06-13T03:39:43.000Z",
-    "countries": [
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR05037479695944253441",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/3300992316939840797",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-06-13T02:13:46.000Z",
-    "countries": [
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "South Africa",
+        "country": "Thailand",
         "averageClicks": 0
       },
       {
@@ -659,97 +341,35 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Estonia",
-        "averageClicks": "1000"
-      },
-      {
         "country": "Germany",
-        "averageClicks": "1000"
+        "averageClicks": "2000"
       },
       {
-        "country": "Iceland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR14092453383747141633",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/14824397402067358734",
-    "videoCode": null,
-    "type": 2,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2022-09-15T20:39:44.000Z",
-    "lastView": "2025-06-13T01:33:23.000Z",
-    "countries": [
-      {
-        "country": "South Africa",
+        "country": "Lesotho",
         "averageClicks": 0
       },
       {
-        "country": "Malta",
+        "country": "Papua New Guinea",
+        "averageClicks": 0
+      },
+      {
+        "country": "Finland",
         "averageClicks": "1000"
       },
       {
-        "country": "Bilinmeyen",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Saudi Arabia",
+        "country": "Pakistan",
         "averageClicks": 0
       },
       {
-        "country": "Trinidad and Tobago",
+        "country": "France",
+        "averageClicks": "3000"
+      },
+      {
+        "country": "Zimbabwe",
         "averageClicks": 0
       },
       {
-        "country": "Iraq",
-        "averageClicks": 0
-      },
-      {
-        "country": "United Arab Emirates",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ethiopia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Oman",
+        "country": "Namibia",
         "averageClicks": 0
       },
       {
@@ -757,43 +377,35 @@
         "averageClicks": 0
       },
       {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Zambia",
+        "country": "Tanzania",
         "averageClicks": 0
       },
       {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Honduras",
+        "country": "Uganda",
         "averageClicks": 0
       },
       {
-        "country": "Austria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Dominican Republic",
+        "country": "Serbia",
         "averageClicks": 0
       },
       {
-        "country": "Germany",
+        "country": "United Kingdom",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ireland",
         "averageClicks": "1000"
       },
       {
-        "country": "Sri Lanka",
+        "country": "Turkey",
+        "averageClicks": "6000"
+      },
+      {
+        "country": "Ecuador",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bosnia and Herzegovina",
         "averageClicks": 0
       },
       {
@@ -801,11 +413,269 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Lithuania",
+        "country": "Tunisia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Argentina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Brunei",
+        "averageClicks": 0
+      },
+      {
+        "country": "Liberia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Colombia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Libya",
+        "averageClicks": 0
+      },
+      {
+        "country": "Albania",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nigeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Honduras",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
         "averageClicks": "1000"
       },
       {
-        "country": "Spain",
+        "country": "Israel",
+        "averageClicks": 0
+      },
+      {
+        "country": "Guam",
+        "averageClicks": 0
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "averageClicks": 0
+      },
+      {
+        "country": "Guinea",
+        "averageClicks": 0
+      },
+      {
+        "country": "Jordan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Philippines",
+        "averageClicks": 0
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Ethiopia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Canada",
+        "averageClicks": 0
+      },
+      {
+        "country": "North Macedonia",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Korea",
+        "averageClicks": 0
+      },
+      {
+        "country": "Grenada",
+        "averageClicks": 0
+      },
+      {
+        "country": "Montenegro",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Georgia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Qatar",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Saint Martin",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Yemen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Malta",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "Somalia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Kenya",
+        "averageClicks": 0
+      },
+      {
+        "country": "Malaysia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Guatemala",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Dominican Republic",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Barbados",
+        "averageClicks": 0
+      },
+      {
+        "country": "Jamaica",
+        "averageClicks": 0
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Algeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Mauritius",
+        "averageClicks": 0
+      },
+      {
+        "country": "Sierra Leone",
+        "averageClicks": 0
+      },
+      {
+        "country": "Morocco",
+        "averageClicks": 0
+      },
+      {
+        "country": "Chile",
+        "averageClicks": 0
+      },
+      {
+        "country": "Venezuela",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Zambia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Saint Lucia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Malawi",
+        "averageClicks": 0
+      },
+      {
+        "country": "Panama",
+        "averageClicks": 0
+      },
+      {
+        "country": "Oman",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bahrain",
+        "averageClicks": 0
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "United Arab Emirates",
+        "averageClicks": 0
+      },
+      {
+        "country": "Armenia",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR08103651041762869249",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/9453393795557624312",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2022-09-15T20:35:44.000Z",
+    "lastView": "2025-06-20T01:45:24.000Z",
+    "countries": [
+      {
+        "country": "Hungary",
         "averageClicks": "1000"
       },
       {
@@ -821,51 +691,7 @@
         "averageClicks": 0
       },
       {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Israel",
-        "averageClicks": 0
-      },
-      {
-        "country": "Tanzania",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Jordan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Malaysia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bahrain",
-        "averageClicks": 0
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Qatar",
+        "country": "Oman",
         "averageClicks": 0
       },
       {
@@ -873,7 +699,35 @@
         "averageClicks": 0
       },
       {
-        "country": "Lebanon",
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Sri Lanka",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Colombia",
         "averageClicks": 0
       },
       {
@@ -881,57 +735,15 @@
         "averageClicks": 0
       },
       {
-        "country": "Bilinmeyen",
+        "country": "Ethiopia",
         "averageClicks": 0
       },
       {
-        "country": "Ghana",
-        "averageClicks": 0
-      },
-      {
-        "country": "Czechia",
+        "country": "Ireland",
         "averageClicks": "1000"
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
       },
       {
         "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Saint Martin",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Jamaica",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR12284926636427575297",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/9805045320900953349",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2023-04-10T07:00:00.000Z",
-    "lastView": "2025-06-13T00:31:13.000Z",
-    "countries": [
-      {
-        "country": "Kuwait",
-        "averageClicks": 0
-      },
-      {
-        "country": "United Arab Emirates",
         "averageClicks": 0
       },
       {
@@ -939,12 +751,36 @@
         "averageClicks": 0
       },
       {
-        "country": "Egypt",
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "South Africa",
         "averageClicks": 0
       },
       {
-        "country": "Oman",
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Cyprus",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "United Arab Emirates",
         "averageClicks": 0
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Saint Martin",
+        "averageClicks": "1000"
       },
       {
         "country": "Saudi Arabia",
@@ -955,245 +791,61 @@
         "averageClicks": 0
       },
       {
-        "country": "Lebanon",
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Jamaica",
         "averageClicks": 0
       },
       {
-        "country": "Iraq",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR13593679725015859201",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/8995375812557078685",
-    "videoCode": null,
-    "type": 2,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2022-09-15T20:20:56.000Z",
-    "lastView": "2025-06-13T00:28:01.000Z",
-    "countries": [
-      {
-        "country": "Nicaragua",
-        "averageClicks": 0
-      },
-      {
-        "country": "Panama",
-        "averageClicks": 0
-      },
-      {
-        "country": "Guatemala",
-        "averageClicks": 0
+        "country": "Malta",
+        "averageClicks": "1000"
       },
       {
         "country": "Dominican Republic",
         "averageClicks": 0
       },
       {
-        "country": "Honduras",
+        "country": "Lebanon",
         "averageClicks": 0
       },
       {
-        "country": "Bilinmeyen",
+        "country": "Indonesia",
         "averageClicks": 0
       },
       {
-        "country": "Peru",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Colombia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Uruguay",
-        "averageClicks": 0
-      },
-      {
-        "country": "Morocco",
-        "averageClicks": 0
-      },
-      {
-        "country": "Netherlands",
+        "country": "Bulgaria",
         "averageClicks": "1000"
       },
       {
-        "country": "Bolivia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Costa Rica",
-        "averageClicks": 0
-      },
-      {
-        "country": "Spain",
+        "country": "Latvia",
         "averageClicks": "1000"
       },
       {
-        "country": "Ecuador",
+        "country": "Zambia",
         "averageClicks": 0
       },
       {
-        "country": "Paraguay",
+        "country": "Kuwait",
         "averageClicks": 0
-      },
-      {
-        "country": "Venezuela",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
       }
     ],
     "typeLabel": "Resim"
   },
   {
     "advertiserId": "AR02760840643277225985",
-    "adsId": "CR07070808129738375169",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/7671436172297897148",
+    "adsId": "CR14258279373806239745",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/10178092685265642271",
     "videoCode": null,
     "type": 1,
     "advertiserName": "Idromeccanica Italiana srl",
     "website": null,
-    "startDate": "2023-04-10T07:00:00.000Z",
-    "lastView": "2025-06-12T23:57:49.000Z",
+    "startDate": "2025-02-21T01:58:45.000Z",
+    "lastView": "2025-06-20T00:29:13.000Z",
     "countries": [
       {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Peru",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR02217613454557052929",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/3221032591497778716",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2023-04-10T07:00:00.000Z",
-    "lastView": "2025-06-12T23:53:56.000Z",
-    "countries": [
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Dominican Republic",
-        "averageClicks": 0
-      },
-      {
-        "country": "Jamaica",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR03585441103882485761",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/2287704476037467095",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2023-04-10T07:00:00.000Z",
-    "lastView": "2025-06-12T22:55:00.000Z",
-    "countries": [
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Peru",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Colombia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Venezuela",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ecuador",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR17816754353722097665",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/6305023877443573475",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2023-04-10T07:00:00.000Z",
-    "lastView": "2025-06-12T21:09:30.000Z",
-    "countries": [
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Peru",
-        "averageClicks": 0
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Colombia",
+        "country": "Egypt",
         "averageClicks": 0
       }
     ],
@@ -1208,46 +860,14 @@
     "advertiserName": "Idromeccanica Italiana srl",
     "website": null,
     "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-06-12T18:42:53.000Z",
+    "lastView": "2025-06-20T00:18:55.000Z",
     "countries": [
       {
-        "country": "Peru",
+        "country": "Argentina",
         "averageClicks": 0
       },
       {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Lithuania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Venezuela",
-        "averageClicks": 0
-      },
-      {
-        "country": "Guatemala",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Colombia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Dominican Republic",
-        "averageClicks": 0
-      },
-      {
-        "country": "Panama",
-        "averageClicks": 0
-      },
-      {
-        "country": "Paraguay",
+        "country": "Uruguay",
         "averageClicks": 0
       },
       {
@@ -1255,115 +875,23 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Uruguay",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ecuador",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bolivia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR10189802831653896193",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/4997334764488068272",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2023-04-10T07:00:00.000Z",
-    "lastView": "2025-06-12T18:34:13.000Z",
-    "countries": [
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
         "country": "Peru",
         "averageClicks": 0
       },
       {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ecuador",
-        "averageClicks": 0
-      },
-      {
-        "country": "Colombia",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR02717768099892822017",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/7551637567980253612",
-    "videoCode": null,
-    "type": 2,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2022-09-15T20:25:24.000Z",
-    "lastView": "2025-06-12T18:12:24.000Z",
-    "countries": [
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Panama",
-        "averageClicks": 0
-      },
-      {
-        "country": "Costa Rica",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bolivia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Dominican Republic",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ecuador",
-        "averageClicks": 0
-      },
-      {
-        "country": "Paraguay",
-        "averageClicks": 0
-      },
-      {
         "country": "Chile",
         "averageClicks": 0
       },
       {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
         "country": "Colombia",
         "averageClicks": 0
       },
       {
-        "country": "Uruguay",
+        "country": "Venezuela",
         "averageClicks": 0
       },
       {
@@ -1371,8 +899,54 @@
         "averageClicks": 0
       },
       {
-        "country": "Spain",
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Dominican Republic",
+        "averageClicks": 0
+      },
+      {
+        "country": "Panama",
+        "averageClicks": 0
+      },
+      {
+        "country": "Paraguay",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lithuania",
         "averageClicks": "1000"
+      },
+      {
+        "country": "Ecuador",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bolivia",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR14195332487734886401",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/11352687545692812989",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2023-04-10T07:00:00.000Z",
+    "lastView": "2025-06-19T23:58:31.000Z",
+    "countries": [
+      {
+        "country": "Argentina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
       },
       {
         "country": "Peru",
@@ -1383,11 +957,27 @@
         "averageClicks": 0
       },
       {
-        "country": "Argentina",
+        "country": "Bolivia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Colombia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Chile",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nicaragua",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ecuador",
         "averageClicks": 0
       }
     ],
-    "typeLabel": "Resim"
+    "typeLabel": "Metin"
   },
   {
     "advertiserId": "AR02760840643277225985",
@@ -1398,42 +988,10 @@
     "advertiserName": "Idromeccanica Italiana srl",
     "website": null,
     "startDate": "2022-09-15T20:21:14.000Z",
-    "lastView": "2025-06-12T18:11:53.000Z",
+    "lastView": "2025-06-19T22:07:12.000Z",
     "countries": [
       {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Uruguay",
-        "averageClicks": 0
-      },
-      {
-        "country": "Dominican Republic",
-        "averageClicks": 0
-      },
-      {
-        "country": "Honduras",
-        "averageClicks": 0
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Peru",
-        "averageClicks": 0
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Paraguay",
+        "country": "Costa Rica",
         "averageClicks": 0
       },
       {
@@ -1441,31 +999,23 @@
         "averageClicks": 0
       },
       {
-        "country": "Costa Rica",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bolivia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ecuador",
-        "averageClicks": 0
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Venezuela",
-        "averageClicks": 0
-      },
-      {
         "country": "Guatemala",
+        "averageClicks": 0
+      },
+      {
+        "country": "Honduras",
+        "averageClicks": 0
+      },
+      {
+        "country": "Uruguay",
+        "averageClicks": 0
+      },
+      {
+        "country": "Chile",
+        "averageClicks": 0
+      },
+      {
+        "country": "Argentina",
         "averageClicks": 0
       },
       {
@@ -1473,7 +1023,35 @@
         "averageClicks": 0
       },
       {
-        "country": "Mexico",
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Venezuela",
+        "averageClicks": 0
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Peru",
+        "averageClicks": 0
+      },
+      {
+        "country": "Dominican Republic",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bolivia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Paraguay",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ecuador",
         "averageClicks": 0
       },
       {
@@ -1481,8 +1059,20 @@
         "averageClicks": 0
       },
       {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Colombia",
         "averageClicks": 0
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
       },
       {
         "country": "Nicaragua",
@@ -1500,285 +1090,11 @@
     "advertiserName": "Idromeccanica Italiana srl",
     "website": null,
     "startDate": "2022-09-16T17:59:15.000Z",
-    "lastView": "2025-06-12T18:11:28.000Z",
+    "lastView": "2025-06-19T22:03:10.000Z",
     "countries": [
-      {
-        "country": "Dominican Republic",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bolivia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Guatemala",
-        "averageClicks": 0
-      },
-      {
-        "country": "Paraguay",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ecuador",
-        "averageClicks": 0
-      },
       {
         "country": "Panama",
         "averageClicks": 0
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Peru",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Venezuela",
-        "averageClicks": 0
-      },
-      {
-        "country": "Colombia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Nicaragua",
-        "averageClicks": 0
-      },
-      {
-        "country": "Costa Rica",
-        "averageClicks": 0
-      },
-      {
-        "country": "Morocco",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Honduras",
-        "averageClicks": 0
-      },
-      {
-        "country": "Uruguay",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR13537595835906260993",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/13980539068109046450",
-    "videoCode": null,
-    "type": 2,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2022-09-15T20:25:35.000Z",
-    "lastView": "2025-06-12T18:09:41.000Z",
-    "countries": [
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bolivia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Costa Rica",
-        "averageClicks": 0
-      },
-      {
-        "country": "Paraguay",
-        "averageClicks": 0
-      },
-      {
-        "country": "Peru",
-        "averageClicks": 0
-      },
-      {
-        "country": "Dominican Republic",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Colombia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Panama",
-        "averageClicks": 0
-      },
-      {
-        "country": "Honduras",
-        "averageClicks": 0
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Venezuela",
-        "averageClicks": 0
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ecuador",
-        "averageClicks": 0
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Guatemala",
-        "averageClicks": 0
-      },
-      {
-        "country": "Uruguay",
-        "averageClicks": 0
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR03687238288428498945",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/10186608008158112335",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2023-04-10T07:00:00.000Z",
-    "lastView": "2025-06-12T16:45:06.000Z",
-    "countries": [
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Dominican Republic",
-        "averageClicks": 0
-      },
-      {
-        "country": "Jamaica",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR06811188317451714561",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/12313136232461434314",
-    "videoCode": null,
-    "type": 2,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2022-09-15T20:31:14.000Z",
-    "lastView": "2025-06-12T16:19:06.000Z",
-    "countries": [
-      {
-        "country": "Peru",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ecuador",
-        "averageClicks": 0
-      },
-      {
-        "country": "Costa Rica",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bolivia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Morocco",
-        "averageClicks": 0
-      },
-      {
-        "country": "Venezuela",
-        "averageClicks": 0
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Colombia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Nicaragua",
-        "averageClicks": 0
-      },
-      {
-        "country": "Uruguay",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
       },
       {
         "country": "Guatemala",
@@ -1793,327 +1109,7 @@
         "averageClicks": 0
       },
       {
-        "country": "Panama",
-        "averageClicks": 0
-      },
-      {
-        "country": "Honduras",
-        "averageClicks": 0
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR14195332487734886401",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/8720856101557086915",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2023-04-10T07:00:00.000Z",
-    "lastView": "2025-06-12T16:16:55.000Z",
-    "countries": [
-      {
         "country": "Ecuador",
-        "averageClicks": 0
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Peru",
-        "averageClicks": 0
-      },
-      {
-        "country": "Venezuela",
-        "averageClicks": 0
-      },
-      {
-        "country": "Colombia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bolivia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Nicaragua",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR11020435487927042049",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/15109118863742283133",
-    "videoCode": null,
-    "type": 2,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2022-09-15T21:35:58.000Z",
-    "lastView": "2025-06-12T15:56:41.000Z",
-    "countries": [
-      {
-        "country": "Cyprus",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Sierra Leone",
-        "averageClicks": 0
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Somalia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Israel",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bahrain",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Venezuela",
-        "averageClicks": 0
-      },
-      {
-        "country": "Panama",
-        "averageClicks": 0
-      },
-      {
-        "country": "Dominican Republic",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Lebanon",
-        "averageClicks": 0
-      },
-      {
-        "country": "Qatar",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ecuador",
-        "averageClicks": 0
-      },
-      {
-        "country": "Namibia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Lesotho",
-        "averageClicks": 0
-      },
-      {
-        "country": "Trinidad and Tobago",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bosnia and Herzegovina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Thailand",
-        "averageClicks": 0
-      },
-      {
-        "country": "Colombia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Liberia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Libya",
-        "averageClicks": 0
-      },
-      {
-        "country": "Uganda",
-        "averageClicks": 0
-      },
-      {
-        "country": "Kuwait",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ghana",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ethiopia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Lithuania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Georgia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Tunisia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Saudi Arabia",
-        "averageClicks": 0
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Serbia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Jordan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Guam",
-        "averageClicks": 0
-      },
-      {
-        "country": "Iceland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Guinea",
-        "averageClicks": 0
-      },
-      {
-        "country": "United States",
-        "averageClicks": 0
-      },
-      {
-        "country": "Brunei",
-        "averageClicks": 0
-      },
-      {
-        "country": "Zimbabwe",
-        "averageClicks": 0
-      },
-      {
-        "country": "Albania",
-        "averageClicks": 0
-      },
-      {
-        "country": "Sri Lanka",
-        "averageClicks": 0
-      },
-      {
-        "country": "Nigeria",
-        "averageClicks": 0
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "6000"
-      },
-      {
-        "country": "Tanzania",
-        "averageClicks": 0
-      },
-      {
-        "country": "Honduras",
-        "averageClicks": 0
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Papua New Guinea",
-        "averageClicks": 0
-      },
-      {
-        "country": "Zambia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Rwanda",
-        "averageClicks": 0
-      },
-      {
-        "country": "Malaysia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Montenegro",
         "averageClicks": 0
       },
       {
@@ -2121,305 +1117,27 @@
         "averageClicks": 0
       },
       {
-        "country": "Canada",
-        "averageClicks": 0
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Philippines",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Grenada",
-        "averageClicks": 0
-      },
-      {
-        "country": "Malawi",
-        "averageClicks": 0
-      },
-      {
-        "country": "Guatemala",
-        "averageClicks": 0
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
+        "country": "Greece",
+        "averageClicks": "1000"
       },
       {
         "country": "Argentina",
         "averageClicks": 0
       },
       {
-        "country": "Saint Martin",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Jamaica",
+        "country": "Honduras",
         "averageClicks": 0
       },
       {
-        "country": "Barbados",
+        "country": "Uruguay",
         "averageClicks": 0
       },
       {
-        "country": "Bilinmeyen",
+        "country": "Bolivia",
         "averageClicks": 0
       },
       {
-        "country": "Yemen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Malta",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Armenia",
-        "averageClicks": 0
-      },
-      {
-        "country": "United Arab Emirates",
-        "averageClicks": 0
-      },
-      {
-        "country": "Pakistan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Oman",
-        "averageClicks": 0
-      },
-      {
-        "country": "Iraq",
-        "averageClicks": 0
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Saint Lucia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Kenya",
-        "averageClicks": 0
-      },
-      {
-        "country": "Finland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Antigua and Barbuda",
-        "averageClicks": 0
-      },
-      {
-        "country": "France",
-        "averageClicks": "3000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Austria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Peru",
-        "averageClicks": 0
-      },
-      {
-        "country": "South Korea",
-        "averageClicks": 0
-      },
-      {
-        "country": "Algeria",
-        "averageClicks": 0
-      },
-      {
-        "country": "North Macedonia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mauritius",
-        "averageClicks": 0
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR08103651041762869249",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/9453393795557624312",
-    "videoCode": null,
-    "type": 2,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2022-09-15T20:35:44.000Z",
-    "lastView": "2025-06-12T14:24:26.000Z",
-    "countries": [
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Saint Martin",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Lebanon",
-        "averageClicks": 0
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Jamaica",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Qatar",
-        "averageClicks": 0
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Dominican Republic",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bosnia and Herzegovina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Zambia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bahrain",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Saudi Arabia",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Sri Lanka",
-        "averageClicks": 0
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Nigeria",
-        "averageClicks": 0
-      },
-      {
-        "country": "Serbia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Kenya",
-        "averageClicks": 0
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Malta",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Arab Emirates",
-        "averageClicks": 0
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Oman",
+        "country": "Costa Rica",
         "averageClicks": 0
       },
       {
@@ -2427,16 +1145,36 @@
         "averageClicks": 0
       },
       {
-        "country": "Kuwait",
-        "averageClicks": 0
-      },
-      {
-        "country": "Lithuania",
+        "country": "Romania",
         "averageClicks": "1000"
       },
       {
-        "country": "Ethiopia",
+        "country": "Peru",
         "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Chile",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nicaragua",
+        "averageClicks": 0
+      },
+      {
+        "country": "Venezuela",
+        "averageClicks": 0
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
       }
     ],
     "typeLabel": "Resim"
@@ -2450,62 +1188,34 @@
     "advertiserName": "Idromeccanica Italiana srl",
     "website": null,
     "startDate": "2022-09-15T21:13:05.000Z",
-    "lastView": "2025-06-12T13:28:38.000Z",
+    "lastView": "2025-06-19T20:24:02.000Z",
     "countries": [
       {
-        "country": "Israel",
+        "country": "Kuwait",
         "averageClicks": 0
       },
       {
-        "country": "Saudi Arabia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Colombia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bahrain",
-        "averageClicks": 0
+        "country": "Cyprus",
+        "averageClicks": "1000"
       },
       {
         "country": "Ireland",
         "averageClicks": "1000"
       },
       {
-        "country": "Bilinmeyen",
+        "country": "Bahrain",
         "averageClicks": 0
       },
       {
-        "country": "Mexico",
+        "country": "Israel",
         "averageClicks": 0
       },
       {
-        "country": "Austria",
+        "country": "Croatia",
         "averageClicks": "1000"
       },
       {
-        "country": "Iceland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Qatar",
-        "averageClicks": 0
-      },
-      {
-        "country": "Trinidad and Tobago",
-        "averageClicks": 0
-      },
-      {
-        "country": "Mauritius",
-        "averageClicks": 0
-      },
-      {
-        "country": "Jamaica",
+        "country": "Tanzania",
         "averageClicks": 0
       },
       {
@@ -2513,19 +1223,11 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Dominican Republic",
-        "averageClicks": 0
-      },
-      {
-        "country": "Panama",
-        "averageClicks": 0
-      },
-      {
-        "country": "Poland",
+        "country": "Saint Martin",
         "averageClicks": "1000"
       },
       {
-        "country": "United Arab Emirates",
+        "country": "Colombia",
         "averageClicks": 0
       },
       {
@@ -2533,43 +1235,11 @@
         "averageClicks": 0
       },
       {
-        "country": "Bilinmeyen",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Malta",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Lithuania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Malaysia",
+        "country": "Panama",
         "averageClicks": 0
       },
       {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ethiopia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Zambia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Saint Martin",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Serbia",
+        "country": "Indonesia",
         "averageClicks": 0
       },
       {
@@ -2577,19 +1247,7 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Lebanon",
-        "averageClicks": 0
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
-      {
-        "country": "Latvia",
+        "country": "Austria",
         "averageClicks": "1000"
       },
       {
@@ -2597,7 +1255,7 @@
         "averageClicks": 0
       },
       {
-        "country": "Spain",
+        "country": "Malta",
         "averageClicks": "1000"
       },
       {
@@ -2605,183 +1263,11 @@
         "averageClicks": 0
       },
       {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Sri Lanka",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bosnia and Herzegovina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Kuwait",
-        "averageClicks": 0
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Tanzania",
-        "averageClicks": 0
-      },
-      {
-        "country": "Nigeria",
-        "averageClicks": 0
-      },
-      {
-        "country": "Kenya",
-        "averageClicks": 0
-      },
-      {
-        "country": "Oman",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ghana",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "2000"
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR05453397010264621057",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/17489140004476057243",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-06-12T13:04:02.000Z",
-    "countries": [
-      {
-        "country": "India",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR15464784632699944961",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/7053269949009288640",
-    "videoCode": null,
-    "type": 2,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2022-09-15T21:00:51.000Z",
-    "lastView": "2025-06-12T13:04:00.000Z",
-    "countries": [
-      {
-        "country": "Bosnia and Herzegovina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Sri Lanka",
-        "averageClicks": 0
-      },
-      {
         "country": "Spain",
         "averageClicks": "1000"
       },
       {
-        "country": "Jordan",
-        "averageClicks": 0
-      },
-      {
         "country": "Oman",
-        "averageClicks": 0
-      },
-      {
-        "country": "Lebanon",
-        "averageClicks": 0
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bahrain",
-        "averageClicks": 0
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Israel",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ghana",
-        "averageClicks": 0
-      },
-      {
-        "country": "Colombia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Kuwait",
-        "averageClicks": 0
-      },
-      {
-        "country": "Jamaica",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Qatar",
         "averageClicks": 0
       },
       {
@@ -2789,23 +1275,11 @@
         "averageClicks": 0
       },
       {
-        "country": "Bilinmeyen",
+        "country": "Mexico",
         "averageClicks": 0
       },
       {
-        "country": "Saudi Arabia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Iceland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ethiopia",
+        "country": "Ghana",
         "averageClicks": 0
       },
       {
@@ -2813,27 +1287,83 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Honduras",
+        "country": "Malaysia",
         "averageClicks": 0
       },
       {
-        "country": "South Korea",
+        "country": "India",
         "averageClicks": 0
       },
       {
-        "country": "North Macedonia",
+        "country": "Ethiopia",
         "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Jamaica",
+        "averageClicks": 0
+      },
+      {
+        "country": "Iceland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Qatar",
+        "averageClicks": 0
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
       },
       {
         "country": "Nigeria",
         "averageClicks": 0
       },
       {
-        "country": "Cyprus",
+        "country": "United Arab Emirates",
+        "averageClicks": 0
+      },
+      {
+        "country": "Kenya",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lebanon",
+        "averageClicks": 0
+      },
+      {
+        "country": "Zambia",
+        "averageClicks": 0
+      },
+      {
+        "country": "France",
         "averageClicks": "1000"
       },
       {
-        "country": "Zimbabwe",
+        "country": "Bosnia and Herzegovina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "Serbia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
         "averageClicks": 0
       },
       {
@@ -2841,51 +1371,27 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Netherlands",
-        "averageClicks": "1000"
+        "country": "Sri Lanka",
+        "averageClicks": 0
       },
       {
         "country": "South Africa",
         "averageClicks": 0
       },
       {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Saint Martin",
+        "country": "Hungary",
         "averageClicks": "1000"
-      },
-      {
-        "country": "Serbia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
       },
       {
         "country": "Turkey",
-        "averageClicks": "3000"
+        "averageClicks": "2000"
       },
       {
-        "country": "Kenya",
-        "averageClicks": 0
-      },
-      {
-        "country": "Tanzania",
-        "averageClicks": 0
-      },
-      {
-        "country": "Czechia",
+        "country": "Netherlands",
         "averageClicks": "1000"
       },
       {
-        "country": "Dominican Republic",
+        "country": "Saudi Arabia",
         "averageClicks": 0
       },
       {
@@ -2893,47 +1399,7 @@
         "averageClicks": 0
       },
       {
-        "country": "Antigua and Barbuda",
-        "averageClicks": 0
-      },
-      {
-        "country": "Panama",
-        "averageClicks": 0
-      },
-      {
-        "country": "Austria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Malaysia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Zambia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Malta",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Arab Emirates",
+        "country": "Dominican Republic",
         "averageClicks": 0
       }
     ],
@@ -2941,213 +1407,25 @@
   },
   {
     "advertiserId": "AR02760840643277225985",
-    "adsId": "CR03596876024811356161",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/13105967588808476194",
+    "adsId": "CR14086366487375773697",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/1711974703167274170",
     "videoCode": null,
     "type": 1,
     "advertiserName": "Idromeccanica Italiana srl",
     "website": null,
     "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-06-12T12:10:21.000Z",
+    "lastView": "2025-06-19T14:40:13.000Z",
     "countries": [
       {
-        "country": "Oman",
+        "country": "Colombia",
         "averageClicks": 0
       },
       {
-        "country": "United Arab Emirates",
+        "country": "Argentina",
         "averageClicks": 0
       },
       {
-        "country": "Egypt",
-        "averageClicks": 0
-      },
-      {
-        "country": "Saudi Arabia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR03960022725233213441",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/15067314005278089666",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-06-12T12:07:44.000Z",
-    "countries": [
-      {
-        "country": "Oman",
-        "averageClicks": 0
-      },
-      {
-        "country": "United Arab Emirates",
-        "averageClicks": 0
-      },
-      {
-        "country": "Saudi Arabia",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR12876574633607823361",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/9485466643133869475",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-06-12T11:03:25.000Z",
-    "countries": [
-      {
-        "country": "Iceland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Lithuania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Estonia",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR15939065570410889217",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/1812873323658641003",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-06-12T09:30:27.000Z",
-    "countries": [
-      {
-        "country": "Iceland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Sri Lanka",
-        "averageClicks": 0
-      },
-      {
-        "country": "Lithuania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR03800144938461560833",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/13472056807851213687",
-    "videoCode": null,
-    "type": 2,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2022-09-15T20:54:13.000Z",
-    "lastView": "2025-06-12T08:17:32.000Z",
-    "countries": [
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Iraq",
-        "averageClicks": 0
-      },
-      {
-        "country": "Zambia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Malta",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Arab Emirates",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Malaysia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Egypt",
+        "country": "Uruguay",
         "averageClicks": 0
       },
       {
@@ -3155,127 +1433,7 @@
         "averageClicks": 0
       },
       {
-        "country": "Panama",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Kenya",
-        "averageClicks": 0
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Zimbabwe",
-        "averageClicks": 0
-      },
-      {
-        "country": "Tanzania",
-        "averageClicks": 0
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Saint Martin",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Lithuania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Serbia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Nigeria",
-        "averageClicks": 0
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Honduras",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ethiopia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Qatar",
-        "averageClicks": 0
-      },
-      {
-        "country": "Trinidad and Tobago",
-        "averageClicks": 0
-      },
-      {
-        "country": "Jamaica",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Saudi Arabia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Iceland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Uganda",
-        "averageClicks": 0
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Oman",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bahrain",
+        "country": "Ecuador",
         "averageClicks": 0
       },
       {
@@ -3283,63 +1441,31 @@
         "averageClicks": 0
       },
       {
-        "country": "Hungary",
+        "country": "Venezuela",
+        "averageClicks": 0
+      },
+      {
+        "country": "Peru",
+        "averageClicks": 0
+      },
+      {
+        "country": "Paraguay",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lithuania",
         "averageClicks": "1000"
       },
       {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Colombia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Israel",
-        "averageClicks": 0
-      },
-      {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ghana",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bosnia and Herzegovina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Sri Lanka",
-        "averageClicks": 0
-      },
-      {
-        "country": "Kuwait",
-        "averageClicks": 0
-      },
-      {
-        "country": "Jordan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Lebanon",
+        "country": "Bolivia",
         "averageClicks": 0
       }
     ],
-    "typeLabel": "Resim"
+    "typeLabel": "Metin"
   },
   {
     "advertiserId": "AR02760840643277225985",
@@ -3350,30 +1476,10 @@
     "advertiserName": "Idromeccanica Italiana srl",
     "website": null,
     "startDate": "2022-09-15T20:39:35.000Z",
-    "lastView": "2025-06-12T06:29:53.000Z",
+    "lastView": "2025-06-19T14:34:28.000Z",
     "countries": [
       {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ethiopia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Colombia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Trinidad and Tobago",
+        "country": "Panama",
         "averageClicks": 0
       },
       {
@@ -3381,107 +1487,15 @@
         "averageClicks": 0
       },
       {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Thailand",
-        "averageClicks": 0
-      },
-      {
-        "country": "Kenya",
-        "averageClicks": 0
-      },
-      {
-        "country": "Kuwait",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Sri Lanka",
-        "averageClicks": 0
-      },
-      {
-        "country": "Uganda",
-        "averageClicks": 0
-      },
-      {
-        "country": "Lithuania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Honduras",
-        "averageClicks": 0
-      },
-      {
         "country": "Iceland",
         "averageClicks": "1000"
       },
       {
-        "country": "Bahrain",
-        "averageClicks": 0
-      },
-      {
-        "country": "Serbia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Nigeria",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bosnia and Herzegovina",
-        "averageClicks": 0
-      },
-      {
-        "country": "Israel",
-        "averageClicks": 0
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Jordan",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bulgaria",
+        "country": "Germany",
         "averageClicks": "1000"
       },
       {
-        "country": "Latvia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": 0
-      },
-      {
-        "country": "Indonesia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ghana",
-        "averageClicks": 0
-      },
-      {
-        "country": "Qatar",
-        "averageClicks": 0
-      },
-      {
-        "country": "Panama",
-        "averageClicks": 0
-      },
-      {
-        "country": "France",
+        "country": "Greece",
         "averageClicks": "1000"
       },
       {
@@ -3489,15 +1503,23 @@
         "averageClicks": 0
       },
       {
-        "country": "Oman",
+        "country": "South Africa",
         "averageClicks": 0
       },
       {
-        "country": "Dominican Republic",
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Nigeria",
         "averageClicks": 0
       },
       {
-        "country": "Poland",
+        "country": "Malta",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Cyprus",
         "averageClicks": "1000"
       },
       {
@@ -3505,19 +1527,11 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Malta",
+        "country": "France",
         "averageClicks": "1000"
       },
       {
-        "country": "United Arab Emirates",
-        "averageClicks": 0
-      },
-      {
-        "country": "North Macedonia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Antigua and Barbuda",
+        "country": "Jordan",
         "averageClicks": 0
       },
       {
@@ -3525,11 +1539,19 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Austria",
-        "averageClicks": "1000"
+        "country": "Sri Lanka",
+        "averageClicks": 0
       },
       {
-        "country": "Mauritius",
+        "country": "Serbia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Tanzania",
+        "averageClicks": 0
+      },
+      {
+        "country": "Oman",
         "averageClicks": 0
       },
       {
@@ -3537,19 +1559,31 @@
         "averageClicks": 0
       },
       {
-        "country": "Peru",
+        "country": "Colombia",
         "averageClicks": 0
       },
       {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Cyprus",
+        "country": "Austria",
         "averageClicks": "1000"
       },
       {
-        "country": "Egypt",
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Israel",
         "averageClicks": 0
       },
       {
@@ -3557,11 +1591,11 @@
         "averageClicks": 0
       },
       {
-        "country": "Zimbabwe",
-        "averageClicks": 0
+        "country": "Romania",
+        "averageClicks": "1000"
       },
       {
-        "country": "Malaysia",
+        "country": "Egypt",
         "averageClicks": 0
       },
       {
@@ -3569,7 +1603,325 @@
         "averageClicks": "3000"
       },
       {
+        "country": "Mauritius",
+        "averageClicks": 0
+      },
+      {
+        "country": "Qatar",
+        "averageClicks": 0
+      },
+      {
+        "country": "Zimbabwe",
+        "averageClicks": 0
+      },
+      {
+        "country": "Kenya",
+        "averageClicks": 0
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Saint Martin",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Thailand",
+        "averageClicks": 0
+      },
+      {
+        "country": "Kuwait",
+        "averageClicks": 0
+      },
+      {
+        "country": "Uganda",
+        "averageClicks": 0
+      },
+      {
         "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Malaysia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bahrain",
+        "averageClicks": 0
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Peru",
+        "averageClicks": 0
+      },
+      {
+        "country": "Jamaica",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ghana",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ethiopia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Antigua and Barbuda",
+        "averageClicks": 0
+      },
+      {
+        "country": "United Arab Emirates",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Honduras",
+        "averageClicks": 0
+      },
+      {
+        "country": "Dominican Republic",
+        "averageClicks": 0
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "averageClicks": 0
+      },
+      {
+        "country": "Argentina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "North Macedonia",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR03800144938461560833",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/13472056807851213687",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2022-09-15T20:54:13.000Z",
+    "lastView": "2025-06-19T13:45:41.000Z",
+    "countries": [
+      {
+        "country": "Saint Martin",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Jamaica",
+        "averageClicks": 0
+      },
+      {
+        "country": "Kuwait",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bahrain",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Jordan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ghana",
+        "averageClicks": 0
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Colombia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Qatar",
+        "averageClicks": 0
+      },
+      {
+        "country": "Israel",
+        "averageClicks": 0
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ethiopia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Oman",
+        "averageClicks": 0
+      },
+      {
+        "country": "Honduras",
+        "averageClicks": 0
+      },
+      {
+        "country": "Zambia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Chile",
+        "averageClicks": 0
+      },
+      {
+        "country": "United Arab Emirates",
+        "averageClicks": 0
+      },
+      {
+        "country": "Iceland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Uganda",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Panama",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lebanon",
+        "averageClicks": 0
+      },
+      {
+        "country": "Zimbabwe",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Iraq",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Kenya",
+        "averageClicks": 0
+      },
+      {
+        "country": "Malta",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Argentina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "averageClicks": 0
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nigeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lithuania",
         "averageClicks": "1000"
       },
       {
@@ -3581,83 +1933,39 @@
         "averageClicks": 0
       },
       {
-        "country": "Jamaica",
+        "country": "Serbia",
         "averageClicks": 0
       },
       {
-        "country": "Saint Martin",
+        "country": "Sri Lanka",
+        "averageClicks": 0
+      },
+      {
+        "country": "Cyprus",
         "averageClicks": "1000"
       },
       {
-        "country": "Argentina",
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "India",
         "averageClicks": 0
       },
       {
-        "country": "South Africa",
+        "country": "Dominican Republic",
+        "averageClicks": 0
+      },
+      {
+        "country": "Malaysia",
         "averageClicks": 0
       }
     ],
     "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR14258279373806239745",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/10178092685265642271",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2025-02-21T01:58:45.000Z",
-    "lastView": "2025-06-12T06:25:32.000Z",
-    "countries": [
-      {
-        "country": "Egypt",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR02760840643277225985",
-    "adsId": "CR05286332815493824513",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/10914708119060753394",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Idromeccanica Italiana srl",
-    "website": null,
-    "startDate": "2023-04-10T07:00:00.000Z",
-    "lastView": "2025-06-12T04:33:33.000Z",
-    "countries": [
-      {
-        "country": "Mexico",
-        "averageClicks": 0
-      },
-      {
-        "country": "Venezuela",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ecuador",
-        "averageClicks": 0
-      },
-      {
-        "country": "Peru",
-        "averageClicks": 0
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Colombia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Argentina",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
   },
   {
     "advertiserId": "AR02760840643277225985",
@@ -3668,12 +1976,372 @@
     "advertiserName": "Idromeccanica Italiana srl",
     "website": null,
     "startDate": "2025-02-20T23:04:25.000Z",
-    "lastView": "2025-06-12T04:22:31.000Z",
+    "lastView": "2025-06-19T13:42:37.000Z",
     "countries": [
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Argentina",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR09783634440260419585",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/3159153732493201175",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2022-09-15T20:33:51.000Z",
+    "lastView": "2025-06-19T13:31:45.000Z",
+    "countries": [
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Kenya",
+        "averageClicks": 0
+      },
+      {
+        "country": "Chile",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Qatar",
+        "averageClicks": 0
+      },
+      {
+        "country": "North Macedonia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Pakistan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Saint Martin",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Colombia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bahrain",
+        "averageClicks": 0
+      },
+      {
+        "country": "United States",
+        "averageClicks": 0
+      },
+      {
+        "country": "Armenia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "Malaysia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Israel",
+        "averageClicks": 0
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Ethiopia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Papua New Guinea",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Oman",
+        "averageClicks": 0
+      },
+      {
+        "country": "United Kingdom",
+        "averageClicks": 0
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Panama",
+        "averageClicks": 0
+      },
+      {
+        "country": "Iceland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Honduras",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
       {
         "country": "Argentina",
         "averageClicks": 0
       },
+      {
+        "country": "Croatia",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Jamaica",
+        "averageClicks": 0
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Jordan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Sri Lanka",
+        "averageClicks": 0
+      },
+      {
+        "country": "Guatemala",
+        "averageClicks": 0
+      },
+      {
+        "country": "France",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Zambia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Nigeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ghana",
+        "averageClicks": 0
+      },
+      {
+        "country": "Morocco",
+        "averageClicks": 0
+      },
+      {
+        "country": "Cyprus",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Tanzania",
+        "averageClicks": 0
+      },
+      {
+        "country": "Serbia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Iraq",
+        "averageClicks": 0
+      },
+      {
+        "country": "Uganda",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lebanon",
+        "averageClicks": 0
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Dominican Republic",
+        "averageClicks": 0
+      },
+      {
+        "country": "United Arab Emirates",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mauritius",
+        "averageClicks": 0
+      },
+      {
+        "country": "Thailand",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Yemen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Malta",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Antigua and Barbuda",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Kuwait",
+        "averageClicks": 0
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR00004208586913742849",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/15714820219131158180",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2023-04-10T07:00:00.000Z",
+    "lastView": "2025-06-19T12:52:58.000Z",
+    "countries": [
+      {
+        "country": "Jamaica",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR07412594789566119937",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/11065487867941325466",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2023-04-10T07:00:00.000Z",
+    "lastView": "2025-06-19T12:38:12.000Z",
+    "countries": [
+      {
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "United Arab Emirates",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR05510817476016865281",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/12041331615324451252",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2025-02-20T23:27:16.000Z",
+    "lastView": "2025-06-19T12:11:01.000Z",
+    "countries": [
       {
         "country": "Mexico",
         "averageClicks": 0
@@ -3690,14 +2358,834 @@
     "advertiserName": "Idromeccanica Italiana srl",
     "website": null,
     "startDate": "2023-04-10T07:00:00.000Z",
-    "lastView": "2025-06-12T03:56:39.000Z",
+    "lastView": "2025-06-19T11:46:42.000Z",
     "countries": [
+      {
+        "country": "Argentina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Chile",
+        "averageClicks": 0
+      },
+      {
+        "country": "Peru",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR12284926636427575297",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/9805045320900953349",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2023-04-10T07:00:00.000Z",
+    "lastView": "2025-06-19T11:18:15.000Z",
+    "countries": [
+      {
+        "country": "Iraq",
+        "averageClicks": 0
+      },
+      {
+        "country": "United Arab Emirates",
+        "averageClicks": 0
+      },
+      {
+        "country": "Oman",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "Qatar",
+        "averageClicks": 0
+      },
+      {
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bahrain",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lebanon",
+        "averageClicks": 0
+      },
+      {
+        "country": "Kuwait",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR09908283874478129153",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/3839370142233943348",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2023-04-10T07:00:00.000Z",
+    "lastView": "2025-06-19T09:43:56.000Z",
+    "countries": [
+      {
+        "country": "Bahrain",
+        "averageClicks": 0
+      },
+      {
+        "country": "Iraq",
+        "averageClicks": 0
+      },
+      {
+        "country": "Oman",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "United Arab Emirates",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lebanon",
+        "averageClicks": 0
+      },
+      {
+        "country": "Qatar",
+        "averageClicks": 0
+      },
+      {
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR09985323922637193217",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/9745017276518952073",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-06-19T09:09:33.000Z",
+    "countries": [
+      {
+        "country": "Cyprus",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR13370609431583129601",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/5289539142345975722",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2023-04-28T07:00:00.000Z",
+    "lastView": "2025-06-19T08:55:58.000Z",
+    "countries": [
+      {
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR03107813252776591361",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/472123023924883642",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-06-19T08:55:51.000Z",
+    "countries": [
+      {
+        "country": "Cyprus",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Qatar",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "United Arab Emirates",
+        "averageClicks": 0
+      },
+      {
+        "country": "Oman",
+        "averageClicks": 0
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR03596876024811356161",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/13105967588808476194",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-06-19T08:35:03.000Z",
+    "countries": [
+      {
+        "country": "Oman",
+        "averageClicks": 0
+      },
+      {
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "United Arab Emirates",
+        "averageClicks": 0
+      },
+      {
+        "country": "Turkey",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Cyprus",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR17371080526722498561",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/988535865423390806",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2025-02-19T18:17:39.000Z",
+    "lastView": "2025-06-19T08:26:36.000Z",
+    "countries": [
+      {
+        "country": "Algeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR03960022725233213441",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/15067314005278089666",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-06-19T08:16:05.000Z",
+    "countries": [
+      {
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      },
+      {
+        "country": "United Arab Emirates",
+        "averageClicks": 0
+      },
+      {
+        "country": "Oman",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR05358462925759578113",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/3523091035271985684",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-06-19T07:55:40.000Z",
+    "countries": [
+      {
+        "country": "Cyprus",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR05037479695944253441",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/3300992316939840797",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-06-19T07:53:43.000Z",
+    "countries": [
+      {
+        "country": "Iceland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Cyprus",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Estonia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR17017189772881297409",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/13340281858577014806",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-06-19T07:36:09.000Z",
+    "countries": [
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Iceland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Estonia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Cyprus",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR00539611753969876993",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/1076601931800857730",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-06-19T07:18:57.000Z",
+    "countries": [
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Nigeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Cyprus",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Iceland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Estonia",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR14092453383747141633",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/8727861424070512886",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2022-09-15T20:39:44.000Z",
+    "lastView": "2025-06-19T06:48:32.000Z",
+    "countries": [
+      {
+        "country": "Sri Lanka",
+        "averageClicks": 0
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Oman",
+        "averageClicks": 0
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Malta",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Dominican Republic",
+        "averageClicks": 0
+      },
+      {
+        "country": "Saudi Arabia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Iraq",
+        "averageClicks": 0
+      },
+      {
+        "country": "United Arab Emirates",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Nigeria",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Honduras",
+        "averageClicks": 0
+      },
+      {
+        "country": "Cyprus",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Zambia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Saint Martin",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Iceland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Israel",
+        "averageClicks": 0
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Jordan",
+        "averageClicks": 0
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Serbia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Egypt",
+        "averageClicks": 0
+      },
+      {
+        "country": "Qatar",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bahrain",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Malaysia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Latvia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Jamaica",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "Kuwait",
+        "averageClicks": 0
+      },
+      {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Kenya",
+        "averageClicks": 0
+      },
+      {
+        "country": "Tanzania",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lebanon",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Ethiopia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Indonesia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ghana",
+        "averageClicks": 0
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR13593679725015859201",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/1857388863168013181",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2022-09-15T20:20:56.000Z",
+    "lastView": "2025-06-19T05:53:00.000Z",
+    "countries": [
+      {
+        "country": "Guatemala",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bolivia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Nicaragua",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ecuador",
+        "averageClicks": 0
+      },
       {
         "country": "Mexico",
         "averageClicks": 0
       },
       {
+        "country": "Morocco",
+        "averageClicks": 0
+      },
+      {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Colombia",
+        "averageClicks": 0
+      },
+      {
         "country": "Peru",
+        "averageClicks": 0
+      },
+      {
+        "country": "Honduras",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Uruguay",
+        "averageClicks": 0
+      },
+      {
+        "country": "Panama",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Costa Rica",
+        "averageClicks": 0
+      },
+      {
+        "country": "Dominican Republic",
+        "averageClicks": 0
+      },
+      {
+        "country": "Paraguay",
         "averageClicks": 0
       },
       {
@@ -3707,8 +3195,596 @@
       {
         "country": "Argentina",
         "averageClicks": 0
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Venezuela",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR07070808129738375169",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/1045723867900343086",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2023-04-10T07:00:00.000Z",
+    "lastView": "2025-06-19T05:52:12.000Z",
+    "countries": [
+      {
+        "country": "Peru",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Argentina",
+        "averageClicks": 0
       }
     ],
     "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR01006426629771100161",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/12961591219647182309",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2022-09-15T20:21:53.000Z",
+    "lastView": "2025-06-19T05:46:21.000Z",
+    "countries": [
+      {
+        "country": "Chile",
+        "averageClicks": 0
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Colombia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bolivia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Dominican Republic",
+        "averageClicks": 0
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Venezuela",
+        "averageClicks": 0
+      },
+      {
+        "country": "Argentina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nicaragua",
+        "averageClicks": 0
+      },
+      {
+        "country": "United States",
+        "averageClicks": 0
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Ecuador",
+        "averageClicks": 0
+      },
+      {
+        "country": "Guatemala",
+        "averageClicks": 0
+      },
+      {
+        "country": "Costa Rica",
+        "averageClicks": 0
+      },
+      {
+        "country": "Honduras",
+        "averageClicks": 0
+      },
+      {
+        "country": "Paraguay",
+        "averageClicks": 0
+      },
+      {
+        "country": "Panama",
+        "averageClicks": 0
+      },
+      {
+        "country": "Uruguay",
+        "averageClicks": 0
+      },
+      {
+        "country": "Morocco",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "El Salvador",
+        "averageClicks": 0
+      },
+      {
+        "country": "Peru",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR06811188317451714561",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/12313136232461434314",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2022-09-15T20:31:14.000Z",
+    "lastView": "2025-06-19T05:25:45.000Z",
+    "countries": [
+      {
+        "country": "Honduras",
+        "averageClicks": 0
+      },
+      {
+        "country": "Panama",
+        "averageClicks": 0
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Dominican Republic",
+        "averageClicks": 0
+      },
+      {
+        "country": "Paraguay",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ecuador",
+        "averageClicks": 0
+      },
+      {
+        "country": "Uruguay",
+        "averageClicks": 0
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Colombia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Morocco",
+        "averageClicks": 0
+      },
+      {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bolivia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Costa Rica",
+        "averageClicks": 0
+      },
+      {
+        "country": "Guatemala",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Chile",
+        "averageClicks": 0
+      },
+      {
+        "country": "Argentina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nicaragua",
+        "averageClicks": 0
+      },
+      {
+        "country": "Venezuela",
+        "averageClicks": 0
+      },
+      {
+        "country": "Peru",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR12876574633607823361",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/9485466643133869475",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-06-19T05:15:42.000Z",
+    "countries": [
+      {
+        "country": "Iceland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Cyprus",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "India",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Estonia",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR02717768099892822017",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/4146423342176596998",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2022-09-15T20:25:24.000Z",
+    "lastView": "2025-06-19T05:03:53.000Z",
+    "countries": [
+      {
+        "country": "Uruguay",
+        "averageClicks": 0
+      },
+      {
+        "country": "Panama",
+        "averageClicks": 0
+      },
+      {
+        "country": "Guatemala",
+        "averageClicks": 0
+      },
+      {
+        "country": "Costa Rica",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ecuador",
+        "averageClicks": 0
+      },
+      {
+        "country": "Colombia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Venezuela",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bolivia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Dominican Republic",
+        "averageClicks": 0
+      },
+      {
+        "country": "Paraguay",
+        "averageClicks": 0
+      },
+      {
+        "country": "Argentina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Peru",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Chile",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR13537595835906260993",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/6491076008113826195",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2022-09-15T20:25:35.000Z",
+    "lastView": "2025-06-19T04:22:43.000Z",
+    "countries": [
+      {
+        "country": "Costa Rica",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bolivia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ecuador",
+        "averageClicks": 0
+      },
+      {
+        "country": "Uruguay",
+        "averageClicks": 0
+      },
+      {
+        "country": "Peru",
+        "averageClicks": 0
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Chile",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Venezuela",
+        "averageClicks": 0
+      },
+      {
+        "country": "Dominican Republic",
+        "averageClicks": 0
+      },
+      {
+        "country": "Guatemala",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Paraguay",
+        "averageClicks": 0
+      },
+      {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Argentina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Colombia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Panama",
+        "averageClicks": 0
+      },
+      {
+        "country": "Honduras",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR03687238288428498945",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/10186608008158112335",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2023-04-10T07:00:00.000Z",
+    "lastView": "2025-06-19T04:13:07.000Z",
+    "countries": [
+      {
+        "country": "Jamaica",
+        "averageClicks": 0
+      },
+      {
+        "country": "Dominican Republic",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR02760840643277225985",
+    "adsId": "CR16368037832964440065",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/15280062450177612536",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Idromeccanica Italiana srl",
+    "website": null,
+    "startDate": "2022-09-15T20:11:59.000Z",
+    "lastView": "2025-06-19T04:11:19.000Z",
+    "countries": [
+      {
+        "country": "Guatemala",
+        "averageClicks": 0
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bilinmeyen",
+        "averageClicks": 0
+      },
+      {
+        "country": "Colombia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Ecuador",
+        "averageClicks": 0
+      },
+      {
+        "country": "Panama",
+        "averageClicks": 0
+      },
+      {
+        "country": "Peru",
+        "averageClicks": 0
+      },
+      {
+        "country": "Honduras",
+        "averageClicks": 0
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Morocco",
+        "averageClicks": 0
+      },
+      {
+        "country": "Chile",
+        "averageClicks": 0
+      },
+      {
+        "country": "Argentina",
+        "averageClicks": 0
+      },
+      {
+        "country": "Dominican Republic",
+        "averageClicks": 0
+      },
+      {
+        "country": "Costa Rica",
+        "averageClicks": 0
+      },
+      {
+        "country": "Bolivia",
+        "averageClicks": 0
+      },
+      {
+        "country": "Paraguay",
+        "averageClicks": 0
+      },
+      {
+        "country": "Venezuela",
+        "averageClicks": 0
+      },
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      },
+      {
+        "country": "Nicaragua",
+        "averageClicks": 0
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Uruguay",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Resim"
   }
 ]

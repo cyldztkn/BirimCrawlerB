@@ -55,6 +55,10 @@
     [
       1749802829560,
       null
+    ],
+    [
+      1750395663647,
+      null
     ]
   ],
   "data": [
@@ -489,103 +493,103 @@
       "likes": "7",
       "time": {
         "raw": "2ay",
-        "parsed": "13.04.2025",
-        "isoString": "2025-04-13T08:20:29.158Z"
+        "parsed": "20.04.2025",
+        "isoString": "2025-04-20T05:01:03.185Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHhG0QeQYt-uw/mp4-720p-30fp-crf28/B4DZXmNifRH4Bg-/0/1743324072077?e=1750410000&v=beta&t=sWQQEHSJwSjxMuE_A8AoFcS1vuTp27Klc9YkRmocTLo",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHhG0QeQYt-uw/mp4-720p-30fp-crf28/B4DZXmNifRH4Bg-/0/1743324072077?e=1751004000&v=beta&t=m4VI5uRMsOv0tHXe-R3c8AtF3pg1wbXsgnUVuE0Uw9U",
             "type": "video/mp4",
             "data-bitrate": 291510
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHhG0QeQYt-uw/mp4-640p-30fp-crf28/B4DZXmNifRH4Bc-/0/1743324071383?e=1750410000&v=beta&t=qhcwBLaHoG1pccNY5D92MgyeuYOSAVyKq8Eas_bzsqo",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHhG0QeQYt-uw/mp4-640p-30fp-crf28/B4DZXmNifRH4Bc-/0/1743324071383?e=1751004000&v=beta&t=69bambYkCloDRb9blL5mbZT1xunfv5PURMQ7mW2CRCs",
             "type": "video/mp4",
             "data-bitrate": 230543
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQHhG0QeQYt-uw/videocover-high/B4DZXmNifRH4Bs-/0/1743324071086?e=1750410000&v=beta&t=r5_rGepRcHGQH8EddeoyzuwVomMFS7gO-_VZKcbfRzw"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQHhG0QeQYt-uw/videocover-high/B4DZXmNifRH4Bs-/0/1743324071086?e=1751004000&v=beta&t=sXqEpzOjf_KTElzxmEBEMSwt0ConZWkdpkLJ7IgugkY"
       },
-      "date": "2025-04-13T08:20:29.158Z"
+      "date": "2025-04-20T05:01:03.185Z"
     },
     {
       "captions": "Kadir Gecemiz Mübarek Olsun",
       "likes": "4",
       "time": {
         "raw": "2ay",
-        "parsed": "13.04.2025",
-        "isoString": "2025-04-13T08:20:29.160Z"
+        "parsed": "20.04.2025",
+        "isoString": "2025-04-20T05:01:03.186Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGNYkpL-xLs5A/mp4-720p-30fp-crf28/B4DZXSDXZZHIBg-/0/1742985860016?e=1750410000&v=beta&t=-_STthn8fjz5kyUaKSW7Q-uJAz7x4gK7dDYc4H8Dt2g",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGNYkpL-xLs5A/mp4-720p-30fp-crf28/B4DZXSDXZZHIBg-/0/1742985860016?e=1751004000&v=beta&t=0TRqc_gfLE2gpcJP4C27API5rBUZmNGmR6Aqh-DUYpk",
             "type": "video/mp4",
             "data-bitrate": 337865
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGNYkpL-xLs5A/mp4-640p-30fp-crf28/B4DZXSDXZZHIBc-/0/1742985859992?e=1750410000&v=beta&t=mESObZrfk6fe-01jl2RFVcLs1BRnaC3vwiAgIKaQYjg",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGNYkpL-xLs5A/mp4-640p-30fp-crf28/B4DZXSDXZZHIBc-/0/1742985859992?e=1751004000&v=beta&t=_-e5jz5-bvy6HqZWT2ZN-RI7qz8ke1vjyBJY3ruvN4U",
             "type": "video/mp4",
             "data-bitrate": 262101
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQGNYkpL-xLs5A/videocover-high/B4DZXSDXZZHIBs-/0/1742985859502?e=1750410000&v=beta&t=Pt4eBW29ekmdZ-m-42qqOdW5328awRvKwpuCg6p78Y4"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQGNYkpL-xLs5A/videocover-high/B4DZXSDXZZHIBs-/0/1742985859502?e=1751004000&v=beta&t=Qkk2CXatM99uLSCV7vOr9_NNOoNcKC8oeO6QXWu7vhI"
       },
-      "date": "2025-04-13T08:20:29.160Z"
+      "date": "2025-04-20T05:01:03.186Z"
     },
     {
       "likes": "15",
       "time": {
-        "raw": "1ay",
-        "parsed": "13.05.2025",
-        "isoString": "2025-05-13T08:20:29.156Z"
+        "raw": "2ay",
+        "parsed": "20.04.2025",
+        "isoString": "2025-04-20T05:01:03.184Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHOK3Q5C_9TJA/mp4-720p-30fp-crf28/B4DZZJPE3cGwBY-/0/1744985468505?e=1750410000&v=beta&t=lm8D7dW_nUf-1sZiHdlmHlll0-iJoBYJX4_yd1wFzxY",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHOK3Q5C_9TJA/mp4-720p-30fp-crf28/B4DZZJPE3cGwBY-/0/1744985468505?e=1751004000&v=beta&t=MuLiCPk3ou0lPQvI16cdLUUi1-Yp3ucRWcejCnE_pdY",
             "type": "video/mp4",
             "data-bitrate": 1322825
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHOK3Q5C_9TJA/mp4-640p-30fp-crf28/B4DZZJPE3cGwBU-/0/1744985468880?e=1750410000&v=beta&t=hB03hJwzVsq6TxX6l0b6THbEArMH7zsa06f8kYpRDlY",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHOK3Q5C_9TJA/mp4-640p-30fp-crf28/B4DZZJPE3cGwBU-/0/1744985468880?e=1751004000&v=beta&t=iQt30A6hkeNmCA53P1EJ-WSerXnQuG3MvOLi0kZPa-M",
             "type": "video/mp4",
             "data-bitrate": 1046350
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQHOK3Q5C_9TJA/feedshare-thumbnail_720_1280/B4DZZJPE3cGwAw-/0/1744985412494?e=1750410000&v=beta&t=bn0FyGMP6DUhcleGTE2naEtF2bvers61P0rkz-lTX98"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQHOK3Q5C_9TJA/feedshare-thumbnail_720_1280/B4DZZJPE3cGwAw-/0/1744985412494?e=1751004000&v=beta&t=E6XxXRg9BBTHVKmfwF-rCt4W0ghxpFPUDOHLWXlg6QY"
       },
-      "date": "2025-05-13T08:20:29.156Z"
+      "date": "2025-04-20T05:01:03.184Z"
     },
     {
       "captions": "Uludal Egemenlik ve Çocuk Bayramı Kutlu Olsun",
       "likes": "13",
       "time": {
         "raw": "1ay",
-        "parsed": "13.05.2025",
-        "isoString": "2025-05-13T08:20:29.153Z"
+        "parsed": "20.05.2025",
+        "isoString": "2025-05-20T05:01:03.184Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHVGRUbjojLMQ/mp4-640p-30fp-crf28/B4DZZi3qcoG8BY-/0/1745415492740?e=1750410000&v=beta&t=XEFCwnyjn56Wv9d4iC7aRW8Jf1fIdOiOsQWIxOYPDCE",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHVGRUbjojLMQ/mp4-640p-30fp-crf28/B4DZZi3qcoG8BY-/0/1745415492740?e=1751004000&v=beta&t=PVlWs9ZRbxuDC2HO9V-0MaV4C7jcuwLmpdKk5X7tq48",
             "type": "video/mp4",
             "data-bitrate": 201739
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHVGRUbjojLMQ/mp4-720p-30fp-crf28/B4DZZi3qcoG8Bc-/0/1745415491513?e=1750410000&v=beta&t=uPGiW5At5FxUEf5NM7TWAH0MNBk258HgVplGz2HastE",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHVGRUbjojLMQ/mp4-720p-30fp-crf28/B4DZZi3qcoG8Bc-/0/1745415491513?e=1751004000&v=beta&t=K0KvYDPpdPqpH2Wpvl8dm5rVR4Er2XI78AXXIBMryTM",
             "type": "video/mp4",
             "data-bitrate": 253812
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQHVGRUbjojLMQ/videocover-high/B4DZZi3qcoG8Bo-/0/1745415490831?e=1750410000&v=beta&t=nM8t--G1bQ8cVAiVpgRfJ6WSpJLqmaqVY-m9PI9eMFs"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQHVGRUbjojLMQ/videocover-high/B4DZZi3qcoG8Bo-/0/1745415490831?e=1751004000&v=beta&t=LbL6dVKskDpmhM4QhxZfax0XSNwEsEBLHjcKEYzrwUA"
       },
-      "date": "2025-05-13T08:20:29.153Z"
+      "date": "2025-05-20T05:01:03.184Z"
     },
     {
       "captions": "Yıllar süren birliktelik : Güven Metal - Birim Makina \nMehmet Şahin ile neredeyse 10 yıla yakın olan işbirliğimizden her iki taraf da mutlu. \n\nYears of happy collabration between Güven Metal Recycling and Birim Makina. Smiling faces for almost 10 years together\n\n#scrapmetal #scraprecycling #metalrecycling #recyclingmachinery #scrapbaler #metalbaler #ferrous #nonferrous #birimmakina #birimrecycling #hurda #hurdametal #geridonusum #pres #hurdapresiYıllar süren birliktelik : Güven Metal - Birim Makina \nMehmet Şahin ile neredeyse 10 yıla yakın olan işbirliğimizden her iki taraf da mutlu. \n\nYears of happy collabration between Güven Metal Recycling and Birim Makina. Smiling faces for almost 10 years together\n\n#scrapmetal #scraprecycling #metalrecycling #recyclingmachinery #scrapbaler #metalbaler #ferrous #nonferrous #birimmakina #birimrecycling #hurda #hurdametal #geridonusum #pres #hurdapresi",
@@ -594,30 +598,30 @@
       "shares": "2",
       "time": {
         "raw": "1ay",
-        "parsed": "13.05.2025",
-        "isoString": "2025-05-13T08:20:29.149Z"
+        "parsed": "20.05.2025",
+        "isoString": "2025-05-20T05:01:03.182Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQFeuc-3MMf_Sg/feedshare-shrink_800/B4DZZtTP4CG4Ak-/0/1745590500676?e=1752710400&v=beta&t=M6GptX78IWRyI0NxDdwdeJ97QYqL3xSCBJ7m4pkWR_c",
-        "https://media.licdn.com/dms/image/v2/D4D22AQGDXKpYY2N0mg/feedshare-shrink_800/B4DZZtTP5DH4Bo-/0/1745590494515?e=1752710400&v=beta&t=Ho8uT4lHfCBVR443lDzWvWn3iIu19BrEQj8tc4G8qIg",
-        "https://media.licdn.com/dms/image/v2/D4D22AQGK-sTFpod-Hw/feedshare-shrink_800/B4DZZtTP5XHIAg-/0/1745590499957?e=1752710400&v=beta&t=McIenpgjJSGAMuHCB8fB1TT4oPeEO_HvQB8E0oRO_SQ"
+        "https://media.licdn.com/dms/image/v2/D4D22AQFeuc-3MMf_Sg/feedshare-shrink_800/B4DZZtTP4CG4Ak-/0/1745590500676?e=1753315200&v=beta&t=iiofVjDliSF31HPq-eHGL29nYmxjfMU0Yq1TsrV3ubk",
+        "https://media.licdn.com/dms/image/v2/D4D22AQGDXKpYY2N0mg/feedshare-shrink_800/B4DZZtTP5DH4Bo-/0/1745590494515?e=1753315200&v=beta&t=YqibV8F32KzotCCgpbMTROZW2Esctuw8X-awRcueWDs",
+        "https://media.licdn.com/dms/image/v2/D4D22AQGK-sTFpod-Hw/feedshare-shrink_800/B4DZZtTP5XHIAg-/0/1745590499957?e=1753315200&v=beta&t=sM-ZcGuWbhsE7289EqfbVY0WVXRxQvlp-6UTdFUGTCo"
       ],
-      "date": "2025-05-13T08:20:29.149Z"
+      "date": "2025-05-20T05:01:03.182Z"
     },
     {
       "captions": "1 Mayıs İşçi Bayramı Kutlu Olsun ⭐ ✊ 1 Mayıs İşçi Bayramı Kutlu Olsun ⭐ ✊",
       "likes": "9",
       "time": {
         "raw": "1ay",
-        "parsed": "13.05.2025",
-        "isoString": "2025-05-13T08:20:29.140Z"
+        "parsed": "20.05.2025",
+        "isoString": "2025-05-20T05:01:03.177Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQG9JZo1Rhj2wg/feedshare-shrink_800/B4DZaHC0BPHQAg-/0/1746022395936?e=1752710400&v=beta&t=d16EuqkPo3PxYqdSBho6wWQkd9lT4dxDo-hBjHGym-c"
+        "https://media.licdn.com/dms/image/v2/D4D22AQG9JZo1Rhj2wg/feedshare-shrink_800/B4DZaHC0BPHQAg-/0/1746022395936?e=1753315200&v=beta&t=5mG9G54jikNgIOCr4BZj_pgPFw7yZsfLwxUHSXrbHdU"
       ],
-      "date": "2025-05-13T08:20:29.140Z"
+      "date": "2025-05-20T05:01:03.177Z"
     },
     {
       "captions": "If you would like to read an interesting article about our company and our family, you can check out the feature published in the latest issue of Recycling International magazine below. In this article, we share insights about both our past and our future, as well as our views on the direction our industry is heading. Enjoy your reading!\n\n#Recycling #RecyclingInnovation #RecyclingInternational #ScrapMetal #ScrapRecycling #MetalRecycling #RecyclingMachinery #RecyclingEquipments #MaterialHandler #ScrapBaler #ScrapShear #MetalBaler #Ferrous #NonFerrous #BirimMakina #BirimRecycling #Hurda #HurdaMetal #GeriDonusum #Pres #HurdaPresi #HurdaMakası\n\nChristian Schlump , Barbara Belletti , Alan Donaldson , Haider Hirani , Andrew Vargo , Aykut Karahan , Murat Akkuş",
@@ -626,8 +630,8 @@
       "shares": "2",
       "time": {
         "raw": "1ay",
-        "parsed": "13.05.2025",
-        "isoString": "2025-05-13T08:20:29.143Z"
+        "parsed": "20.05.2025",
+        "isoString": "2025-05-20T05:01:03.178Z"
       },
       "mediaType": "document",
       "mediaContent": {
@@ -638,38 +642,38 @@
           {
             "type": "image",
             "config": {
-              "src": "https://media.licdn.com/dms/image/v2/D4D1FAQFNJ0JMf7snXw/feedshare-document-cover-images_480/B4DZaBlZgeGgBk-/0/1745930792747?e=1750410000&v=beta&t=60dRQffXTX3JI0V8Vvwid8e-fI7KIf92onHD4fxH0N8"
+              "src": "https://media.licdn.com/dms/image/v2/D4D1FAQFNJ0JMf7snXw/feedshare-document-cover-images_480/B4DZaBlZgeGgBk-/0/1745930792747?e=1751004000&v=beta&t=Vx3R0sMiHUPpbW-x2vnNIjB51TdX8GuiAEO1JGg4vpk"
             }
           },
           {
             "type": "image",
             "config": {
-              "src": "https://media.licdn.com/dms/image/v2/D4D1FAQFNJ0JMf7snXw/feedshare-document-cover-images_480/B4DZaBlZgeGgBk-/1/1745930792747?e=1750410000&v=beta&t=0VHEOfuULtWGw0lTEm2VLDRIdRrKicFYIF83UybrC00"
+              "src": "https://media.licdn.com/dms/image/v2/D4D1FAQFNJ0JMf7snXw/feedshare-document-cover-images_480/B4DZaBlZgeGgBk-/1/1745930792747?e=1751004000&v=beta&t=OFrnZtI1vuakzPFwUM7PNgfyDaxnqo-7ZGPzJlh6maI"
             }
           },
           {
             "type": "image",
             "config": {
-              "src": "https://media.licdn.com/dms/image/v2/D4D1FAQFNJ0JMf7snXw/feedshare-document-cover-images_480/B4DZaBlZgeGgBk-/2/1745930792747?e=1750410000&v=beta&t=jiDilibY5-erlEvrFtOgGGx7kHH3Hkpq80trcRxBrII"
+              "src": "https://media.licdn.com/dms/image/v2/D4D1FAQFNJ0JMf7snXw/feedshare-document-cover-images_480/B4DZaBlZgeGgBk-/2/1745930792747?e=1751004000&v=beta&t=nCfdCFsYK5KCGS1FloX2s085Sccsj-V6DWW3bgslgec"
             }
           }
         ]
       },
-      "date": "2025-05-13T08:20:29.143Z"
+      "date": "2025-05-20T05:01:03.178Z"
     },
     {
       "captions": "We are closely following the insights shared at the SteelOrbis Spring 2025 Conference & 92nd IREPAS Meeting in Athens. 📈\n\nDiscussions about export workflows, raw-material supply, and emerging quality standards directly influence the R&D of our high-efficiency scrap-processing equipment. We look forward to the summary from the conference and to meeting you at future events.\n\n---\n\nAtina’daki SteelOrbis Spring 2025 Konferansı & 92. IREPAS Toplantısında paylaşılan öngörüleri yakından takip ediyoruz. 📈\n\nİhracat süreçleri, hammadde tedariği ve yeni kalite standartlarına dair tartışmalar, yüksek verimli hurda işleme ekipmanlarımızın Ar-Ge’sine doğrudan yön veriyor. Konferans sonu özetlerini sabırsızlıkla bekliyor, bir sonraki etkinliklerde sizlerle buluşmayı diliyoruz.\n\n#92irepas #SteelOrbis #IREPAS #Athens #SteelIndustry   We are closely following the insights shared at the SteelOrbis Spring 2025 Conference & 92nd IREPAS Meeting in Athens. 📈\n\nDiscussions about export workflows, raw-material supply, and emerging quality standards directly influence the R&D of our high-efficiency scrap-processing equipment. We look forward to the summary from the conference and to meeting you at future events.\n\n---\n\nAtina’daki SteelOrbis Spring 2025 Konferansı & 92. IREPAS Toplantısında paylaşılan öngörüleri yakından takip ediyoruz. 📈\n\nİhracat süreçleri, hammadde tedariği ve yeni kalite standartlarına dair tartışmalar, yüksek verimli hurda işleme ekipmanlarımızın Ar-Ge’sine doğrudan yön veriyor. Konferans sonu özetlerini sabırsızlıkla bekliyor, bir sonraki etkinliklerde sizlerle buluşmayı diliyoruz.\n\n#92irepas #SteelOrbis #IREPAS #Athens #SteelIndustry",
       "likes": "38",
       "time": {
         "raw": "1ay",
-        "parsed": "13.05.2025",
-        "isoString": "2025-05-13T08:20:29.145Z"
+        "parsed": "20.05.2025",
+        "isoString": "2025-05-20T05:01:03.181Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQHdCN6u34bdnA/feedshare-shrink_800/B4DZZ8LkVvHIAo-/0/1745840137208?e=1752710400&v=beta&t=fEzgG9AoPWbaErlpvaFkaEEUR5GktGXVCWCmeaiNOBQ"
+        "https://media.licdn.com/dms/image/v2/D4D22AQHdCN6u34bdnA/feedshare-shrink_800/B4DZZ8LkVvHIAo-/0/1745840137208?e=1753315200&v=beta&t=GbH9-5i-OviEmSPX8huDoEAzO3FsMeNkuvhQ91eJC4U"
       ],
-      "date": "2025-05-13T08:20:29.145Z"
+      "date": "2025-05-20T05:01:03.181Z"
     },
     {
       "captions": "There is a saying \"Two heads are better than one\", that is 2 Fanuc welding robots working together on a piece for us. Half welding time on the same piece.\n\nBir elin nesi var iki elin sesi var. Atalarımızın öğüdünü tuttuk ve 2 adet Fanuc Kaynak robotumuzla tek bir parçayı yarı sürede kaynatıyoruz.\n\n#Recycling #RecyclingInnovation #RecyclingInternational #ScrapMetal \n#ScrapRecycling #MetalRecycling #RecyclingMachinery #RecyclingEquipment #MaterialHandler #ScrapBaler #ScrapShear #MetalBaler #Ferrous #NonFerrous #BirimMakina #BirimRecycling \n#Hurda #HurdaMetal #GeriDonusum #Pres #HurdaPresi #HurdaMakası\n#welding #weldingrobot #Fanuc #kaynak #kaynakrobotu",
@@ -678,26 +682,26 @@
       "shares": "2",
       "time": {
         "raw": "1ay",
-        "parsed": "13.05.2025",
-        "isoString": "2025-05-13T08:20:29.138Z"
+        "parsed": "20.05.2025",
+        "isoString": "2025-05-20T05:01:03.175Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGQlzkLQLIBGw/mp4-640p-30fp-crf28/B4DZalLkhkHwBM-/0/1746528018823?e=1750410000&v=beta&t=RLDLcfBHIIWlHYun20TfxsZA7MhC11AUAmn-U4MXICY",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGQlzkLQLIBGw/mp4-640p-30fp-crf28/B4DZalLkhkHwBM-/0/1746528018823?e=1751004000&v=beta&t=qPRrTg4T-anFFcudWsPNlOPH5Xcr1HmT0Wx2HJJTCqU",
             "type": "video/mp4",
             "data-bitrate": 797035
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGQlzkLQLIBGw/mp4-720p-30fp-crf28/B4DZalLkhkHwBQ-/0/1746528019293?e=1750410000&v=beta&t=mpZLTJv8sjENpdUtZ9JqbyCOxY7uaRmnPWkbb5NP9bA",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGQlzkLQLIBGw/mp4-720p-30fp-crf28/B4DZalLkhkHwBQ-/0/1746528019293?e=1751004000&v=beta&t=N8jwrbo7r4Gb4oWFmalTpXAlADWvVTHvpKTslvs-c5Y",
             "type": "video/mp4",
             "data-bitrate": 1108818
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQGQlzkLQLIBGw/videocover-low/B4DZalLkhkHwCA-/0/1746528011772?e=1750410000&v=beta&t=yalcrRTTsFL6CEAe67IaODAE610zUK5sil4Z8lP7nhk"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQGQlzkLQLIBGw/videocover-low/B4DZalLkhkHwCA-/0/1746528011772?e=1751004000&v=beta&t=1HUm6oTxn8KWo-buffTVt_TJaADvaCQVHDHIWuXkzhk"
       },
-      "date": "2025-05-13T08:20:29.138Z"
+      "date": "2025-05-20T05:01:03.175Z"
     },
     {
       "captions": "We’re all set for the exhibition — come and say hello at stand 1202!\n\n#ReMA2025 #BirimMakina #HawkRecyclingEquipment #RecyclingIndustry #SanDiego #ReMA2025Exhibitor #Recycling #RecyclingInnovation #RecyclingInternational #ScrapMetal \n#ScrapRecycling #MetalRecycling #RecyclingMachinery #RecyclingEquipment #MaterialHandler #ScrapBaler #ScrapShear #MetalBaler #Ferrous #NonFerrous #BirimMakina #BirimRecycling \n#Hurda #HurdaMetal #GeriDonusum #Pres #HurdaPresi #HurdaMakası\n\nAndrew Vargo ,  Hawk Recycling Equipment , Aykut Karahan , Murat Akkuş \nWe’re all set for the exhibition — come and say hello at stand 1202!\n\n#ReMA2025 #BirimMakina #HawkRecyclingEquipment #RecyclingIndustry #SanDiego #ReMA2025Exhibitor #Recycling #RecyclingInnovation #RecyclingInternational #ScrapMetal \n#ScrapRecycling #MetalRecycling #RecyclingMachinery #RecyclingEquipment #MaterialHandler #ScrapBaler #ScrapShear #MetalBaler #Ferrous #NonFerrous #BirimMakina #BirimRecycling \n#Hurda #HurdaMetal #GeriDonusum #Pres #HurdaPresi #HurdaMakası\n\nAndrew Vargo ,  Hawk Recycling Equipment , Aykut Karahan , Murat Akkuş",
@@ -706,14 +710,14 @@
       "shares": "4",
       "time": {
         "raw": "1ay",
-        "parsed": "13.05.2025",
-        "isoString": "2025-05-13T08:20:29.132Z"
+        "parsed": "20.05.2025",
+        "isoString": "2025-05-20T05:01:03.171Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQEFT5QEeBryLQ/feedshare-shrink_800/B4DZbErfzGG4Ag-/0/1747056462174?e=1752710400&v=beta&t=qCi8JjVYQ2emZmn1fwB1YdLbOeuj2BMRD_WPZY9BBZs"
+        "https://media.licdn.com/dms/image/v2/D4D22AQEFT5QEeBryLQ/feedshare-shrink_800/B4DZbErfzGG4Ag-/0/1747056462174?e=1753315200&v=beta&t=FGOD_DyTetWlLwW70qf_BxIz5mX7fAE7QOJHmE5riic"
       ],
-      "date": "2025-05-13T08:20:29.132Z"
+      "date": "2025-05-20T05:01:03.171Z"
     },
     {
       "captions": "Dün,  KESİAD Yönetim Kurulu Başkanı Sn. Yesim Isikli ve beraberindeki heyet Teknik gezi kapsamında üretim tesisimizi ziyaret etti.\n\nÜretim hattımızı birlikte gezerek yüksek verimlilik odaklı süreçlerimizi ve yeni teknolojik yatırımlarımızı paylaştık. Ziyaretin ardından düzenlediğimiz samimi öğle yemeğinde Birim Makina’yı tanıtan sunumumuzu sunduk; akabinde Kemalpaşa sanayi ekosisteminin sürdürülebilir büyüme potansiyeli üzerine keyifli bir sohbet gerçekleştirdik.\n\nNazik ziyaretleri için Sn. Yesim Isikli ’ya ve KESİAD ailesine teşekkür eder, bölge sanayisine değer katan iş birliklerimizin artarak devam etmesini dileriz.\n\n#kesiad #üretenkemalpaşa #büyüyenekonomi #Kemalpaşa #SanayiDün,  KESİAD Yönetim Kurulu Başkanı Sn. Yesim Isikli ve beraberindeki heyet Teknik gezi kapsamında üretim tesisimizi ziyaret etti.\n\nÜretim hattımızı birlikte gezerek yüksek verimlilik odaklı süreçlerimizi ve yeni teknolojik yatırımlarımızı paylaştık. Ziyaretin ardından düzenlediğimiz samimi öğle yemeğinde Birim Makina’yı tanıtan sunumumuzu sunduk; akabinde Kemalpaşa sanayi ekosisteminin sürdürülebilir büyüme potansiyeli üzerine keyifli bir sohbet gerçekleştirdik.\n\nNazik ziyaretleri için Sn. Yesim Isikli ’ya ve KESİAD ailesine teşekkür eder, bölge sanayisine değer katan iş birliklerimizin artarak devam etmesini dileriz.\n\n#kesiad #üretenkemalpaşa #büyüyenekonomi #Kemalpaşa #Sanayi",
@@ -722,154 +726,183 @@
       "shares": "2",
       "time": {
         "raw": "1ay",
-        "parsed": "13.05.2025",
-        "isoString": "2025-05-13T08:20:29.135Z"
+        "parsed": "20.05.2025",
+        "isoString": "2025-05-20T05:01:03.172Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQHCCRt3Kjc8XA/feedshare-shrink_800/B4DZa04e_eGwAg-/0/1746791440485?e=1752710400&v=beta&t=a7a-sMl7qNSFULJ3mb4xgh-K4i0efUvl_clBzZQbxMw",
-        "https://media.licdn.com/dms/image/v2/D4D22AQF5gn1YQWY3pw/feedshare-shrink_800/B4DZa04e_4G4Ag-/0/1746791443932?e=1752710400&v=beta&t=OdbDHjmGFewJc7s35axClhRNfPRYr68c-WGD_GdbBcI",
-        "https://media.licdn.com/dms/image/v2/D4D22AQFeYeGqAyKqAQ/feedshare-shrink_800/B4DZa04e_hGYAg-/0/1746791443576?e=1752710400&v=beta&t=Sdaaeb4Gw20oiO4JNwQeKnoHU8AsF2Py2iPiMlt6GRU",
-        "https://media.licdn.com/dms/image/v2/D4D22AQGlofH8pQiIjw/feedshare-shrink_800/B4DZa04e_oGwAo-/0/1746791443721?e=1752710400&v=beta&t=7OtRiXg76N4rFaS10jqQujGIwxYGKPUCLqSSoS-Z3jU",
-        "https://media.licdn.com/dms/image/v2/D4D22AQHdzBQVLG36AQ/feedshare-shrink_800/B4DZa04e_LG4Ag-/0/1746791443216?e=1752710400&v=beta&t=vSwyA08-cEIYQylAtYojPpKcV4K-i6i4r74QCMZ3VTc"
+        "https://media.licdn.com/dms/image/v2/D4D22AQHCCRt3Kjc8XA/feedshare-shrink_800/B4DZa04e_eGwAg-/0/1746791440485?e=1753315200&v=beta&t=Y3oP4HNx8d4i0o79IPx1dcmbcske78gLJ73M64g9x_c",
+        "https://media.licdn.com/dms/image/v2/D4D22AQF5gn1YQWY3pw/feedshare-shrink_800/B4DZa04e_4G4Ag-/0/1746791443932?e=1753315200&v=beta&t=yiIXhOeP6pBqvJiRCYUppisLCZslQEDZXGhSxt5JJNI",
+        "https://media.licdn.com/dms/image/v2/D4D22AQFeYeGqAyKqAQ/feedshare-shrink_800/B4DZa04e_hGYAg-/0/1746791443576?e=1753315200&v=beta&t=kzpKe11htbiMhSDkcNF6SD3f_ml0HQ_I_FqPiFZr31Y",
+        "https://media.licdn.com/dms/image/v2/D4D22AQGlofH8pQiIjw/feedshare-shrink_800/B4DZa04e_oGwAo-/0/1746791443721?e=1753315200&v=beta&t=6vbb_-TdssvreXzFqFIvACEUlXspvrzpfXPWNrHJ0KE",
+        "https://media.licdn.com/dms/image/v2/D4D22AQHdzBQVLG36AQ/feedshare-shrink_800/B4DZa04e_LG4Ag-/0/1746791443216?e=1753315200&v=beta&t=fHrIkHWZjcCAs2h6NTJMsLPEQ5NPxQr03-VFQIP590c"
       ],
-      "date": "2025-05-13T08:20:29.135Z"
+      "date": "2025-05-20T05:01:03.172Z"
     },
     {
       "captions": "19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı’mız kutlu olsun!19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı’mız kutlu olsun!",
       "likes": "11",
       "time": {
-        "raw": "3h",
-        "parsed": "23.05.2025",
-        "isoString": "2025-05-23T08:20:29.125Z"
+        "raw": "1ay",
+        "parsed": "20.05.2025",
+        "isoString": "2025-05-20T05:01:03.165Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQENeP5PKReHxA/feedshare-shrink_800/B4DZboJmOcGwAk-/0/1747651557411?e=1752710400&v=beta&t=YWqv_0s7-m0fIVlhOIx7o2Av-fhdNtvJXcTYaABKHmk"
+        "https://media.licdn.com/dms/image/v2/D4D22AQENeP5PKReHxA/feedshare-shrink_800/B4DZboJmOcGwAk-/0/1747651557411?e=1753315200&v=beta&t=vUNi6GL8Uzyw1Cx_F36rdeSSn9ZYa2-JTr-gnzCv7-w"
       ],
-      "date": "2025-05-23T08:20:29.125Z"
+      "date": "2025-05-20T05:01:03.165Z"
     },
     {
       "captions": "Visit us at stand 1202!\n\n#ReMA2025 #BirimMakina #HawkRecyclingEquipment #RecyclingIndustry #SanDiego #ReMA2025Exhibitor #Recycling #RecyclingInnovation #RecyclingInternational #ScrapMetal \n#ScrapRecycling #MetalRecycling #RecyclingMachinery #RecyclingEquipment #MaterialHandler #ScrapBaler #ScrapShear #MetalBaler #Ferrous #NonFerrous #BirimMakina #BirimRecycling \n#Hurda #HurdaMetal #GeriDonusum #Pres #HurdaPresi #HurdaMakasıVisit us at stand 1202!\n\n#ReMA2025 #BirimMakina #HawkRecyclingEquipment #RecyclingIndustry #SanDiego #ReMA2025Exhibitor #Recycling #RecyclingInnovation #RecyclingInternational #ScrapMetal \n#ScrapRecycling #MetalRecycling #RecyclingMachinery #RecyclingEquipment #MaterialHandler #ScrapBaler #ScrapShear #MetalBaler #Ferrous #NonFerrous #BirimMakina #BirimRecycling \n#Hurda #HurdaMetal #GeriDonusum #Pres #HurdaPresi #HurdaMakası",
       "likes": "20",
       "time": {
-        "raw": "4h",
-        "parsed": "16.05.2025",
-        "isoString": "2025-05-16T08:20:29.128Z"
+        "raw": "1ay",
+        "parsed": "20.05.2025",
+        "isoString": "2025-05-20T05:01:03.168Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQFKxJqjJQq6bg/feedshare-shrink_800/B4DZbPXzEzIAAk-/0/1747235846721?e=1752710400&v=beta&t=Kjp9sLrgS4U1jDEan3f7t_g0qW-hkDZoK0vuQW307Ek"
+        "https://media.licdn.com/dms/image/v2/D4D22AQFKxJqjJQq6bg/feedshare-shrink_800/B4DZbPXzEzIAAk-/0/1747235846721?e=1753315200&v=beta&t=njEEYotzXSRMhBqqazWUxARPK5tCe7o8jXsCKK9VlGo"
       ],
-      "date": "2025-05-16T08:20:29.128Z"
+      "date": "2025-05-20T05:01:03.168Z"
     },
     {
       "captions": "Meet Us At Stand B5\n\n#BIRValencia2025 #BirimMakina #BirimRecycling #BIR2025 #RecyclingIndustry   #Recycling #RecyclingInnovation #RecyclingInternational #ScrapMetal \n#ScrapRecycling #MetalRecycling #RecyclingMachinery #RecyclingEquipment #MaterialHandler #ScrapBaler #ScrapShear #MetalBaler #Ferrous #NonFerrous #BirimMakina #BirimRecycling \n#Hurda #HurdaMetal #GeriDonusum #Pres #HurdaPresi #HurdaMakasıMeet Us At Stand B5\n\n#BIRValencia2025 #BirimMakina #BirimRecycling #BIR2025 #RecyclingIndustry   #Recycling #RecyclingInnovation #RecyclingInternational #ScrapMetal \n#ScrapRecycling #MetalRecycling #RecyclingMachinery #RecyclingEquipment #MaterialHandler #ScrapBaler #ScrapShear #MetalBaler #Ferrous #NonFerrous #BirimMakina #BirimRecycling \n#Hurda #HurdaMetal #GeriDonusum #Pres #HurdaPresi #HurdaMakası",
-      "likes": "45",
+      "likes": "47",
       "comments": "1",
       "time": {
-        "raw": "2h",
+        "raw": "3h",
         "parsed": "30.05.2025",
-        "isoString": "2025-05-30T08:20:29.119Z"
+        "isoString": "2025-05-30T05:01:03.162Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQHxxPnJqIzLsw/feedshare-shrink_800/B4DZcM72qGGcAg-/0/1748268709784?e=1752710400&v=beta&t=Mo89oikOUmYYPzXqRYU1SE6f2xn1B-S3_VzsXQ6K4LM"
+        "https://media.licdn.com/dms/image/v2/D4D22AQHxxPnJqIzLsw/feedshare-shrink_800/B4DZcM72qGGcAg-/0/1748268709784?e=1753315200&v=beta&t=j55EcxNriz38poEO1qBukqtj85cKO5NcoXYscqcvZgU"
       ],
-      "date": "2025-05-30T08:20:29.119Z"
+      "date": "2025-05-30T05:01:03.162Z"
     },
     {
       "captions": "Manisa Celal Bayar Üniversitesi Bilim ve Teknoloji Kulübü öncülüğünde düzenlenen Teknoloji ile Yükselen Gençlik temalı 5. Turgutlu Teknoloji Günleri etkinliğinde iletişim standımız ile yer alıyoruz. \n\nMerhaba demek ve iletişime geçmek için sizleri bekliyoruz 👋🏻\n\n#TurgutluTeknolojiGünleri #MCBÜ #HasanFerdiTurgutlu #Girişimcilik #CelalBayarÜniversitesi #BirimMakina Manisa Celal Bayar Üniversitesi Bilim ve Teknoloji Kulübü öncülüğünde düzenlenen Teknoloji ile Yükselen Gençlik temalı 5. Turgutlu Teknoloji Günleri etkinliğinde iletişim standımız ile yer alıyoruz. \n\nMerhaba demek ve iletişime geçmek için sizleri bekliyoruz 👋🏻\n\n#TurgutluTeknolojiGünleri #MCBÜ #HasanFerdiTurgutlu #Girişimcilik #CelalBayarÜniversitesi #BirimMakina",
-      "likes": "47",
+      "likes": "49",
       "shares": "1",
       "time": {
-        "raw": "3h",
+        "raw": "4h",
         "parsed": "23.05.2025",
-        "isoString": "2025-05-23T08:20:29.122Z"
+        "isoString": "2025-05-23T05:01:03.164Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQEQy5AGJ0hP5Q/feedshare-shrink_800/B4DZb2n0zBHEAg-/0/1747894358224?e=1752710400&v=beta&t=2JlKw-Cu165zIZ7fsU3NjI0dPeKJu02VKHAEYyyfSvs"
+        "https://media.licdn.com/dms/image/v2/D4D22AQEQy5AGJ0hP5Q/feedshare-shrink_800/B4DZb2n0zBHEAg-/0/1747894358224?e=1753315200&v=beta&t=rKi_KJFC1NTSGs9LQ_9WR7ePsXNv-Rj5TIhoqt8badQ"
       ],
-      "date": "2025-05-23T08:20:29.122Z"
+      "date": "2025-05-23T05:01:03.164Z"
     },
     {
       "captions": "Greetings from #FER2025 in Punta Umbría 👋 \n\nWe speed up every step of the process with scrap-metal shears, balers and material handlers.\n\nGet in touch for more details.\n\n#fer2025 #PuntaUmbría #CongresoFER #EconomíaCircular #RecuperaciónYReciclado #FER #metalRecycling #RecyclingSolutions #RecyclingEquipments #ScrapBaler #ScrapShear #MaterialHandler #RecyclingMachinery #BirimRecycling #BirimMakinaGreetings from #FER2025 in Punta Umbría 👋 \n\nWe speed up every step of the process with scrap-metal shears, balers and material handlers.\n\nGet in touch for more details.\n\n#fer2025 #PuntaUmbría #CongresoFER #EconomíaCircular #RecuperaciónYReciclado #FER #metalRecycling #RecyclingSolutions #RecyclingEquipments #ScrapBaler #ScrapShear #MaterialHandler #RecyclingMachinery #BirimRecycling #BirimMakina",
-      "likes": "20",
+      "likes": "30",
+      "comments": "1",
       "time": {
-        "raw": "21s",
-        "parsed": "12.06.2025",
-        "isoString": "2025-06-12T11:20:29.096Z"
+        "raw": "1h",
+        "parsed": "13.06.2025",
+        "isoString": "2025-06-13T05:01:03.154Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQHfnxO-S4rkLw/feedshare-shrink_800/B4DZdjt6miH4Ag-/0/1749724680154?e=1752710400&v=beta&t=6deyJ8ygqER0FULIPubts5h2OY5MLDSeIGCSTNkHLEI",
-        "https://media.licdn.com/dms/image/v2/D4D22AQFo-Dl68Ng_WA/feedshare-shrink_800/B4DZdjt6l3GkAg-/0/1749724680531?e=1752710400&v=beta&t=Ejt_jjUaEO2ErO6FXfQKOfeHBJaKHrX-hrJfLaMOVh0",
-        "https://media.licdn.com/dms/image/v2/D4D22AQG7yxJ7f_shLg/feedshare-shrink_800/B4DZdjt6mBGYAg-/0/1749724681066?e=1752710400&v=beta&t=r-G5p9vRcp2A4HzBSGK-tjLQ8rakkwXyJymVpubYLKE",
-        "https://media.licdn.com/dms/image/v2/D4D22AQEE_Jm6cIcaTQ/feedshare-shrink_800/B4DZdjt6muHkAk-/0/1749724680582?e=1752710400&v=beta&t=Z-LgbiwK3lDmYQiK3_n9boxz3qfmZYNfhN9IUbZg4Oc"
+        "https://media.licdn.com/dms/image/v2/D4D22AQHfnxO-S4rkLw/feedshare-shrink_800/B4DZdjt6miH4Ag-/0/1749724680154?e=1753315200&v=beta&t=hJkdzLkizh91srD0liKo9jORqhnqC49duf6652CZkvY",
+        "https://media.licdn.com/dms/image/v2/D4D22AQFo-Dl68Ng_WA/feedshare-shrink_800/B4DZdjt6l3GkAg-/0/1749724680531?e=1753315200&v=beta&t=l2_u0E0Ty10k9JWPiaTb5HF4xUBoTF5fFNqsCi05O2s",
+        "https://media.licdn.com/dms/image/v2/D4D22AQG7yxJ7f_shLg/feedshare-shrink_800/B4DZdjt6mBGYAg-/0/1749724681066?e=1753315200&v=beta&t=uUQm3IWVYYj5zPCeTLY0iiyWt7Ub9hFv5Iz_ZkzT8pk",
+        "https://media.licdn.com/dms/image/v2/D4D22AQEE_Jm6cIcaTQ/feedshare-shrink_800/B4DZdjt6muHkAk-/0/1749724680582?e=1753315200&v=beta&t=b4d7vGPBQNPXOpPBwvOZJxvENLfdkwFWpVdNM3h_Qkw"
       ],
-      "date": "2025-06-12T11:20:29.096Z"
+      "date": "2025-06-13T05:01:03.154Z"
     },
     {
       "captions": "Thanks to Mr. Norbert Diebels for his kind visit to our factory. Norbert is our agent in North Germany for more than a decade and he has just received his new Murenha Box shear for his showroom. \n\nAny interested party can contact him for details on this red predator.\n\nhttps://lnkd.in/dMM_vsmRThanks to Mr. Norbert Diebels for his kind visit to our factory. Norbert is our agent in North Germany for more than a decade and he has just received his new Murenha Box shear for his showroom. \n\nAny interested party can contact him for details on this red predator.\n\nhttps://lnkd.in/dMM_vsmR",
-      "likes": "29",
+      "likes": "32",
       "time": {
-        "raw": "1g",
-        "parsed": "12.06.2025",
-        "isoString": "2025-06-12T08:20:29.105Z"
+        "raw": "1h",
+        "parsed": "13.06.2025",
+        "isoString": "2025-06-13T05:01:03.156Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQF1l5u5mAJcZQ/feedshare-shrink_800/B4DZdfWY88GYAo-/0/1749651395527?e=1752710400&v=beta&t=eg7U7knvE4lmvbg7FNQwc-84vVufOTARFUKZMynoud4",
-        "https://media.licdn.com/dms/image/v2/D4D22AQE0vBwXn_DPtw/feedshare-shrink_800/B4DZdfWY8lH4Ak-/0/1749651395544?e=1752710400&v=beta&t=JnNW0p8hxtUDQxaxWJuGuBxzhQDB0PdQR_1vJP-3-EY"
+        "https://media.licdn.com/dms/image/v2/D4D22AQF1l5u5mAJcZQ/feedshare-shrink_800/B4DZdfWY88GYAo-/0/1749651395527?e=1753315200&v=beta&t=gW9kjEMGdB9bpjRjvBZEcztEApb3QaIYI4iM6luVHrs",
+        "https://media.licdn.com/dms/image/v2/D4D22AQE0vBwXn_DPtw/feedshare-shrink_800/B4DZdfWY8lH4Ak-/0/1749651395544?e=1753315200&v=beta&t=JZ9sihvnYwCSR4kcZvHy-QQQQ4epCvqZY-KMcz7au_A"
       ],
-      "date": "2025-06-12T08:20:29.105Z"
+      "date": "2025-06-13T05:01:03.156Z"
     },
     {
       "captions": "Kurban Bayramımız Mübarek OlsunKurban Bayramımız Mübarek Olsun",
       "likes": "11",
       "time": {
-        "raw": "1h",
+        "raw": "2h",
         "parsed": "06.06.2025",
-        "isoString": "2025-06-06T08:20:29.110Z"
+        "isoString": "2025-06-06T05:01:03.158Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQFNFCwm2WvyCA/feedshare-shrink_800/B4DZc7NspmGYAg-/0/1749045138166?e=1752710400&v=beta&t=Kog__jFenRc4aZ-D0huXq_NlPURvZ4U4hMBJflMDXyg"
+        "https://media.licdn.com/dms/image/v2/D4D22AQFNFCwm2WvyCA/feedshare-shrink_800/B4DZc7NspmGYAg-/0/1749045138166?e=1753315200&v=beta&t=tJeVP3mTyhmuSETW744r1ej8sednCNJDnHlMz0ELIwQ"
       ],
-      "date": "2025-06-06T08:20:29.110Z"
+      "date": "2025-06-06T05:01:03.158Z"
     },
     {
       "captions": "On the way to its new home 👏 Ayrılıklar da sevdaya dahil mi! 👋\nBIRIM MAKINAAyrılıklar da sevdaya dahil mi! 👋\nBIRIM MAKINA",
-      "likes": "26",
+      "likes": "27",
       "time": {
-        "raw": "1h1h",
-        "parsed": "13.06.2025",
-        "isoString": "2025-06-13T08:20:29.114Z"
+        "raw": "2h2h",
+        "parsed": "20.06.2025",
+        "isoString": "2025-06-20T05:01:03.159Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQEJZFbjtHCg-w/feedshare-shrink_800/B4DZc2GZRwGYAg-/0/1748959337102?e=1752710400&v=beta&t=FeVc5ht6nsRJ7ZMPrDNRXHBtCW7gfExluYFe1U6ienU",
-        "https://media.licdn.com/dms/image/v2/D4D22AQH9mdydVk-VSA/feedshare-shrink_800/B4DZc2GZQzGYAg-/0/1748959337048?e=1752710400&v=beta&t=ngHkb04f59Ywx3sOqQcwM1kvvFI8Xg1VMJxmPYc9iJE",
-        "https://media.licdn.com/dms/image/v2/D4D22AQFQl9tc91r-rw/feedshare-shrink_800/B4DZc2GZSbH4Ak-/0/1748959337011?e=1752710400&v=beta&t=_BVcu6OZP8ufojPvm4bMPk74-WYndabfu4XHRbF1hV8"
+        "https://media.licdn.com/dms/image/v2/D4D22AQEJZFbjtHCg-w/feedshare-shrink_800/B4DZc2GZRwGYAg-/0/1748959337102?e=1753315200&v=beta&t=AhO9c1MVhxCXOSWP6betnR-vbhiKV5ReyaDUo88avBc",
+        "https://media.licdn.com/dms/image/v2/D4D22AQH9mdydVk-VSA/feedshare-shrink_800/B4DZc2GZQzGYAg-/0/1748959337048?e=1753315200&v=beta&t=FFZ56N3MylR2kC-TxtTAYeZtL7tOCxxmVbzVXEVgrEo",
+        "https://media.licdn.com/dms/image/v2/D4D22AQFQl9tc91r-rw/feedshare-shrink_800/B4DZc2GZSbH4Ak-/0/1748959337011?e=1753315200&v=beta&t=UlQEt3AhzVXuHmY28LLq2wsQSdKWCWwLFxxBBAkYu-k"
       ],
-      "date": "2025-06-13T08:20:29.114Z"
+      "date": "2025-06-20T05:01:03.159Z"
     },
     {
       "captions": "Ayrılıklar da sevdaya dahil mi! 👋\nBIRIM MAKINAAyrılıklar da sevdaya dahil mi! 👋\nBIRIM MAKINA",
-      "likes": "26",
+      "likes": "27",
       "time": {
-        "raw": "1h",
+        "raw": "2h",
         "parsed": "06.06.2025",
-        "isoString": "2025-06-06T08:20:29.116Z"
+        "isoString": "2025-06-06T05:01:03.161Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQEJZFbjtHCg-w/feedshare-shrink_800/B4DZc2GZRwGYAg-/0/1748959337102?e=1752710400&v=beta&t=FeVc5ht6nsRJ7ZMPrDNRXHBtCW7gfExluYFe1U6ienU",
-        "https://media.licdn.com/dms/image/v2/D4D22AQH9mdydVk-VSA/feedshare-shrink_800/B4DZc2GZQzGYAg-/0/1748959337048?e=1752710400&v=beta&t=ngHkb04f59Ywx3sOqQcwM1kvvFI8Xg1VMJxmPYc9iJE",
-        "https://media.licdn.com/dms/image/v2/D4D22AQFQl9tc91r-rw/feedshare-shrink_800/B4DZc2GZSbH4Ak-/0/1748959337011?e=1752710400&v=beta&t=_BVcu6OZP8ufojPvm4bMPk74-WYndabfu4XHRbF1hV8"
+        "https://media.licdn.com/dms/image/v2/D4D22AQEJZFbjtHCg-w/feedshare-shrink_800/B4DZc2GZRwGYAg-/0/1748959337102?e=1753315200&v=beta&t=AhO9c1MVhxCXOSWP6betnR-vbhiKV5ReyaDUo88avBc",
+        "https://media.licdn.com/dms/image/v2/D4D22AQH9mdydVk-VSA/feedshare-shrink_800/B4DZc2GZQzGYAg-/0/1748959337048?e=1753315200&v=beta&t=FFZ56N3MylR2kC-TxtTAYeZtL7tOCxxmVbzVXEVgrEo",
+        "https://media.licdn.com/dms/image/v2/D4D22AQFQl9tc91r-rw/feedshare-shrink_800/B4DZc2GZSbH4Ak-/0/1748959337011?e=1753315200&v=beta&t=UlQEt3AhzVXuHmY28LLq2wsQSdKWCWwLFxxBBAkYu-k"
       ],
-      "date": "2025-06-06T08:20:29.116Z"
+      "date": "2025-06-06T05:01:03.161Z"
+    },
+    {
+      "captions": "Leopard continuous Balers are designed to efficiently process metal scrap with high cutting capacity and durability. Leopard increases the density of all types of scrap by compressing it and makes it ready for other processes.\n\n🔥 Leopard Highlights:\nFull automatic and continuous operation. No operator required\nFinal compaction cylinder and ram are connected by spherical joint ensuring troublefree operation with non-homogeneous scrap\nLeopard has remote diagnosis and trouble shooting system\nReplacable original Hardox wear plates with channels\nEnsures maximum efficiency with automatic lubrication, non-contact sensors to prevent downtime and remote control options\n\n🏭 Which Facilities Are Suitable For? \nLeopard can process iron, aluminium, copper, chrome-nickel scrap, sheet metal, aluminium extrusions and chips. It is the perfect solution for various industries such as automotive factories, iron and steel plants, scrap yards and foundries.\n\n➤ About Leopard: https://lnkd.in/d4rq3-B7\n➤ All Balers: https://lnkd.in/dDdHwuaC\n➤ Our Web Site: https://lnkd.in/dKSZSsw7",
+      "likes": "52",
+      "comments": "1",
+      "shares": "1",
+      "time": {
+        "raw": "1g",
+        "parsed": "19.06.2025",
+        "isoString": "2025-06-19T05:01:03.136Z"
+      },
+      "mediaType": "video",
+      "mediaContent": {
+        "src": [
+          {
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGnYXgZROh2-Q/mp4-720p-30fp-crf28/B4DZeDLDnYHkBo-/0/1750252506706?e=1751004000&v=beta&t=d1RveD8YfaKe1e4tc2FMs1JuWD5z7KSKICfoyhv_JGY",
+            "type": "video/mp4",
+            "data-bitrate": 1129922
+          },
+          {
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGnYXgZROh2-Q/mp4-640p-30fp-crf28/B4DZeDLDnYHkBk-/0/1750252506409?e=1751004000&v=beta&t=IA3_pmcmsktOFtSYJfZU_Z_JF2f0iWDIiCnYJorB0rs",
+            "type": "video/mp4",
+            "data-bitrate": 847524
+          }
+        ],
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQGnYXgZROh2-Q/videocover_350_624/B56ZeDQT1GG0AQ-/0/1750253780518?e=1751004000&v=beta&t=keQmvOW4MWCRwfzmpJqonMfQS4O8BbszywQP7PT2OUc"
+      },
+      "date": "2025-06-19T05:01:03.136Z"
     }
   ]
 }
