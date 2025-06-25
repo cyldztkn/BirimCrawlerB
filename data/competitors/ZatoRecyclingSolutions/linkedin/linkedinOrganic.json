@@ -123,6 +123,10 @@
     [
       1750395922097,
       null
+    ],
+    [
+      1750828735172,
+      null
     ]
   ],
   "data": [
@@ -823,9 +827,9 @@
       "comments": "1",
       "shares": "3",
       "time": {
-        "raw": "4h",
-        "parsed": "23.05.2025",
-        "isoString": "2025-05-23T05:05:21.772Z"
+        "raw": "1ay",
+        "parsed": "25.05.2025",
+        "isoString": "2025-05-25T05:18:54.779Z"
       },
       "mediaType": "document",
       "mediaContent": {
@@ -836,40 +840,40 @@
           {
             "type": "image",
             "config": {
-              "src": "https://media.licdn.com/dms/image/v2/D4D1FAQG1YhF4zzfwKQ/feedshare-document-cover-images_480/B4DZbnXi4HG8BI-/0/1747638435566?e=1751004000&v=beta&t=UdieX25oe4HTxptiTY9Xu_6g907DWlRw9_TMlQqlDpA"
+              "src": "https://media.licdn.com/dms/image/v2/D4D1FAQG1YhF4zzfwKQ/feedshare-document-cover-images_480/B4DZbnXi4HG8BI-/0/1747638435566?e=1751436000&v=beta&t=RbqvYHMKDi81pHp06I5YV-RBqpNmW5vAYVZKYYVljcU"
             }
           },
           {
             "type": "image",
             "config": {
-              "src": "https://media.licdn.com/dms/image/v2/D4D1FAQG1YhF4zzfwKQ/feedshare-document-cover-images_480/B4DZbnXi4HG8BI-/1/1747638435566?e=1751004000&v=beta&t=Tlx1_8Gi3bBDlRHOlkl897hk-xDenVaY_i8OQjTXC64"
+              "src": "https://media.licdn.com/dms/image/v2/D4D1FAQG1YhF4zzfwKQ/feedshare-document-cover-images_480/B4DZbnXi4HG8BI-/1/1747638435566?e=1751436000&v=beta&t=QVmLv9SO9IddhVKRIvaW_m-W-Mo2MxBZjqmD0RmUgqk"
             }
           },
           {
             "type": "image",
             "config": {
-              "src": "https://media.licdn.com/dms/image/v2/D4D1FAQG1YhF4zzfwKQ/feedshare-document-cover-images_480/B4DZbnXi4HG8BI-/2/1747638435566?e=1751004000&v=beta&t=MS_RNAeyk8WyXpdkWyNDtdLT3XMOhqgz-MHydaQRIDo"
+              "src": "https://media.licdn.com/dms/image/v2/D4D1FAQG1YhF4zzfwKQ/feedshare-document-cover-images_480/B4DZbnXi4HG8BI-/2/1747638435566?e=1751436000&v=beta&t=GeM-7U1QV1t3GtvqsrhmC_6Gkb6lL3DICscOwyScdnE"
             }
           }
         ]
       },
-      "date": "2025-05-23T05:05:21.772Z"
+      "date": "2025-05-25T05:18:54.779Z"
     },
     {
       "captions": "After a dusty start, we have just completed a happy commissioning! A step forward in recycling in korea!\n\n#blueshark #bluedevil\nAfter a dusty start, we have just completed a happy commissioning! A step forward in recycling in korea!\n\n#blueshark #bluedevil",
-      "likes": "63",
+      "likes": "66",
       "comments": "5",
       "shares": "3",
       "time": {
-        "raw": "4h",
-        "parsed": "23.05.2025",
-        "isoString": "2025-05-23T05:05:21.773Z"
+        "raw": "1ay",
+        "parsed": "25.05.2025",
+        "isoString": "2025-05-25T05:18:54.782Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQFdHv6ntC8Wqg/feedshare-shrink_800/B4DZbyWr0GIEAg-/0/1747822762222?e=1753315200&v=beta&t=MFIeZBOFUH0XAXRD7eHvtCpkKUdPkOTk-vER_FP1x5c"
+        "https://media.licdn.com/dms/image/v2/D4D22AQFdHv6ntC8Wqg/feedshare-shrink_800/B4DZbyWr0GIEAg-/0/1747822762222?e=1753920000&v=beta&t=765kMMIWJCHE_3qlX4SDu87ZJEeaR5WgC7F5gWtKJoA"
       ],
-      "date": "2025-05-23T05:05:21.773Z"
+      "date": "2025-05-25T05:18:54.782Z"
     },
     {
       "captions": "What if recycling wasn’t just about closing loops — but about opening new ones?\n\nAt Zato, we see recycling as where innovation meets responsibility: transforming end-of-life materials into new resources, and reducing environmental impact at every step. Through intelligent design, circular thinking and real-world solutions, we support industries striving for smarter, more sustainable production.\n\nOn World Recycling Day, we renew our commitment to that mission — today and every day.\n\n#ZATO #ZatoShredder #RecyclingEquipment #WorldRecyclingDay",
@@ -915,146 +919,175 @@
     },
     {
       "captions": "Processing vehicle scrap efficiently starts with proper preparation.\n\nThat’s why one of our customers in the Czech Republic chose to install a Zato pre-shredder upstream of the hammermill — a solution that boosts overall performance, reduces wear, and extends the lifespan of the downstream system.\n\nWatch the video to see it in action.\n\n#ZATO #ZatoShredder #PreShredder #Hammermill #BlueDevil #RecyclingEquipment",
-      "likes": "47",
+      "likes": "49",
       "time": {
-        "raw": "2h",
-        "parsed": "06.06.2025",
-        "isoString": "2025-06-06T05:05:21.769Z"
+        "raw": "3h",
+        "parsed": "04.06.2025",
+        "isoString": "2025-06-04T05:18:54.776Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHxSxIh53Bn2w/mp4-640p-30fp-crf28/B4DZbnbSJSHEBQ-/0/1747639431351?e=1751004000&v=beta&t=cwvlieICQzhVpHPsnnj7SrtJAw8kA6lmnbedPgdUbcU",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHxSxIh53Bn2w/mp4-640p-30fp-crf28/B4DZbnbSJSHEBQ-/0/1747639431351?e=1751436000&v=beta&t=A1ji0Lwx4jEsZIkXrm8ZQHf2NRqpql-tg_58rAnoRT0",
             "type": "video/mp4",
             "data-bitrate": 1038578
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHxSxIh53Bn2w/mp4-720p-30fp-crf28/B4DZbnbSJSHEBU-/0/1747639434259?e=1751004000&v=beta&t=8dDJc3CG7-RpJxi3d-YbMpJ9gB4jVK7eo1qbPxhtvsE",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHxSxIh53Bn2w/mp4-720p-30fp-crf28/B4DZbnbSJSHEBU-/0/1747639434259?e=1751436000&v=beta&t=rcVSeqWKkjPIH6RSHz4FuXdAcv1-_YEX93DWpWKOhwE",
             "type": "video/mp4",
             "data-bitrate": 1321812
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQHxSxIh53Bn2w/videocover-low/B4DZbnbSJSHEBs-/0/1747639428452?e=1751004000&v=beta&t=oApUIvUn8fIV1uwM-r4RN0Y5qBeZaenVOeBFGUc-_JE"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQHxSxIh53Bn2w/videocover-low/B4DZbnbSJSHEBs-/0/1747639428452?e=1751436000&v=beta&t=dLvWS56MMNg419aRXxzdOI5bcPCXFSxWsnccoE9DLP4"
       },
-      "date": "2025-06-06T05:05:21.769Z"
+      "date": "2025-06-04T05:18:54.776Z"
     },
     {
       "captions": "New city, same mission: turning metal into value. That’s why ZATO is at N-EXPO 2025 in Tokyo.\n\nWe’re bringing our expertise in ferrous and non-ferrous metal recycling to help shape the future of sustainable waste management. From complete shredding lines to fully customizable machines, our team at Booth A341 is ready to explore your needs and find the right solution.\n\nStop by and discover how our technology can power your business forward.\n\n#ZATO #ZatoShredder #RecyclingEquipment #NEXPONew city, same mission: turning metal into value. That’s why ZATO is at N-EXPO 2025 in Tokyo.\n\nWe’re bringing our expertise in ferrous and non-ferrous metal recycling to help shape the future of sustainable waste management. From complete shredding lines to fully customizable machines, our team at Booth A341 is ready to explore your needs and find the right solution.\n\nStop by and discover how our technology can power your business forward.\n\n#ZATO #ZatoShredder #RecyclingEquipment #NEXPO",
-      "likes": "25",
+      "likes": "26",
       "time": {
         "raw": "3h",
-        "parsed": "30.05.2025",
-        "isoString": "2025-05-30T05:05:21.771Z"
+        "parsed": "04.06.2025",
+        "isoString": "2025-06-04T05:18:54.777Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQFeUYpvoJL3ZQ/feedshare-shrink_800/B4DZcW3SB.IAAg-/0/1748435282050?e=1753315200&v=beta&t=TZLT5jPyQGftjN-knW4oVvA4KHEdi2UmxvGmogcM4cI",
-        "https://media.licdn.com/dms/image/v2/D4D22AQFjSiw1mm46cA/feedshare-shrink_800/B4DZcW3SBGG8Ak-/0/1748435281098?e=1753315200&v=beta&t=CuzK_lXWz8BFL8Jj7RNQ38k8-qhFWk1X1SZQc6-eTos",
-        "https://media.licdn.com/dms/image/v2/D4D22AQHkQRXWDEkXlg/feedshare-shrink_800/B4DZcW3SCLG8Ag-/0/1748435281305?e=1753315200&v=beta&t=U1FQazlRRZi8fftfeHiPHkRLyFoy05IGL2pZbDvJ59o"
+        "https://media.licdn.com/dms/image/v2/D4D22AQFeUYpvoJL3ZQ/feedshare-shrink_800/B4DZcW3SB.IAAg-/0/1748435282050?e=1753920000&v=beta&t=bQki1zt8rmBRnNPMTSoHfrlEXRZbX8WaYW5TmXDoYD8",
+        "https://media.licdn.com/dms/image/v2/D4D22AQFjSiw1mm46cA/feedshare-shrink_800/B4DZcW3SBGG8Ak-/0/1748435281098?e=1753920000&v=beta&t=fy1WI6XBGCnM1wzDEKlZSk_YPuqBNS61UaV8UZurvSE",
+        "https://media.licdn.com/dms/image/v2/D4D22AQHkQRXWDEkXlg/feedshare-shrink_800/B4DZcW3SCLG8Ag-/0/1748435281305?e=1753920000&v=beta&t=8hkKf_pJBD97ZUbY_zie9MieZJt-34OGYt5Df5TU1YE"
       ],
-      "date": "2025-05-30T05:05:21.771Z"
+      "date": "2025-06-04T05:18:54.777Z"
     },
     {
       "captions": "Frankfurt hosts the conversation on metal recycling — and ZATO is part of it.\n\nWe’re live from Metal Recycling Conference & Expo 2025, showcasing our shredders and complete plants for smarter, more sustainable processing of metal scrap.\n\nMeet us at Hall 12 – Stand D60 to discover how to boost efficiency, reduce costs, and support circular production models.\n\n#ZATO #ZatoShredder #RecyclingEquipment #MRYE2025Frankfurt hosts the conversation on metal recycling — and ZATO is part of it.\n\nWe’re live from Metal Recycling Conference & Expo 2025, showcasing our shredders and complete plants for smarter, more sustainable processing of metal scrap.\n\nMeet us at Hall 12 – Stand D60 to discover how to boost efficiency, reduce costs, and support circular production models.\n\n#ZATO #ZatoShredder #RecyclingEquipment #MRYE2025",
-      "likes": "22",
+      "likes": "24",
       "shares": "1",
       "time": {
         "raw": "1h",
-        "parsed": "13.06.2025",
-        "isoString": "2025-06-13T05:05:21.765Z"
+        "parsed": "18.06.2025",
+        "isoString": "2025-06-18T05:18:54.764Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQEpNQ2Tjh9QKQ/feedshare-shrink_800/B4DZdkE4fbHMAg-/0/1749730692525?e=1753315200&v=beta&t=6O6w6ZGvwWbsb5nu_A3TZYi-hsSwC-zCKtoUxYebZIc",
-        "https://media.licdn.com/dms/image/v2/D4D22AQEOJ-CDyVvt-g/feedshare-shrink_800/B4DZdkE4fxGkAg-/0/1749730692634?e=1753315200&v=beta&t=6hEFUKkpTet78LWy3FDkr_cK7QKVgkdoW2imJkaPRuc",
-        "https://media.licdn.com/dms/image/v2/D4D22AQEmCbNUA-UQCQ/feedshare-shrink_800/B4DZdkE4f7GYAo-/0/1749730692537?e=1753315200&v=beta&t=xXQAE9El_nSTObd2YM4TMTXQxGWlIYpTkIvxHyN3mSI"
+        "https://media.licdn.com/dms/image/v2/D4D22AQEpNQ2Tjh9QKQ/feedshare-shrink_800/B4DZdkE4fbHMAg-/0/1749730692525?e=1753920000&v=beta&t=gCgolbsiaMJmE2xpT4gG1jha5jj5611DppyiHcB-97Y",
+        "https://media.licdn.com/dms/image/v2/D4D22AQEOJ-CDyVvt-g/feedshare-shrink_800/B4DZdkE4fxGkAg-/0/1749730692634?e=1753920000&v=beta&t=rfMXmHn-ipx7I1RaH_xoQ7ZT-N_eOwZ6QAKF_EQygvo",
+        "https://media.licdn.com/dms/image/v2/D4D22AQEmCbNUA-UQCQ/feedshare-shrink_800/B4DZdkE4f7GYAo-/0/1749730692537?e=1753920000&v=beta&t=m07dfkRK8POHQF1VZLYVVHNVjDakafFVX4FYmzzYqeM"
       ],
-      "date": "2025-06-13T05:05:21.765Z"
+      "date": "2025-06-18T05:18:54.764Z"
     },
     {
       "captions": "“I don’t need a pre-shredder, that’s why I went with the bigger hammermill.”\n\nI hear this every week, every tradeshow, from all sizes of yards, and in a perfect world you’re right. \n\nHere’s my response. \n\nMeasure your downtime. \n\nIf you have 2 energy releases or heavy stops per week, 1 hour of downtime each, 104 hours per year. \n\nAt just 30 tons per hour, there’s 3,120 tons of material per year delayed or “lost”. \n\nEvery ton of material going into your hammermill is worth roughly $240 of profit, coming out, assuming 70% frag and 10% zorba. \n\nIs $748,800/year (excluding labor and repair parts) in loss prevention enough to research a pre-shredder? \nZato \n\n#scrap #recycling #shredder #zato #bluedevil #safety“I don’t need a pre-shredder, that’s why I went with the bigger hammermill.”\n\nI hear this every week, every tradeshow, from all sizes of yards, and in a perfect world you’re right. \n\nHere’s my response. \n\nMeasure your downtime. \n\nIf you have 2 energy releases or heavy stops per week, 1 hour of downtime each, 104 hours per year. \n\nAt just 30 tons per hour, there’s 3,120 tons of material per year delayed or “lost”. \n\nEvery ton of material going into your hammermill is worth roughly $240 of profit, coming out, assuming 70% frag and 10% zorba. \n\nIs $748,800/year (excluding labor and repair parts) in loss prevention enough to research a pre-shredder? \nZato \n\n#scrap #recycling #shredder #zato #bluedevil #safety",
-      "likes": "48",
+      "likes": "55",
+      "comments": "9",
       "shares": "2",
       "time": {
         "raw": "2h",
-        "parsed": "06.06.2025",
-        "isoString": "2025-06-06T05:05:21.767Z"
+        "parsed": "11.06.2025",
+        "isoString": "2025-06-11T05:18:54.766Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D5622AQEWLoKbQ-rrWg/feedshare-shrink_800/B56ZdBnwXHGoAg-/0/1749152631674?e=1753315200&v=beta&t=j9UoOOTLwYuOmcQr-McsqmNPfOPDtjF1u-sHHAu5UnY"
+        "https://media.licdn.com/dms/image/v2/D5622AQEWLoKbQ-rrWg/feedshare-shrink_800/B56ZdBnwXHGoAg-/0/1749152631674?e=1753920000&v=beta&t=Jir_5sQFq8Q_eTvRRCop1YoafmqMqa7m1-GKkL-C7UE"
       ],
-      "date": "2025-06-06T05:05:21.767Z"
+      "date": "2025-06-11T05:18:54.766Z"
     },
     {
       "captions": "Checking out Recycling Today June issue while waiting for the conference room to open at ReMA Gulf Coast Region. \n\nWhat a pretty ad 🤓\n\nAnd a nice cooler from Allied Alloys LP \n\nShould be a good couple of days here in San Antonio. \n\nStop and see me at booth 517!\nZato \n\n#recycling #recycledmaterials #scrap #zatoChecking out Recycling Today June issue while waiting for the conference room to open at ReMA Gulf Coast Region. \n\nWhat a pretty ad 🤓\n\nAnd a nice cooler from Allied Alloys LP \n\nShould be a good couple of days here in San Antonio. \n\nStop and see me at booth 517!\nZato \n\n#recycling #recycledmaterials #scrap #zato",
-      "likes": "23",
+      "likes": "25",
       "comments": "2",
       "shares": "1",
       "time": {
-        "raw": "1g",
+        "raw": "6g",
         "parsed": "19.06.2025",
-        "isoString": "2025-06-19T05:05:21.761Z"
+        "isoString": "2025-06-19T05:18:54.758Z"
       },
       "mediaType": "image",
       "mediaContent": [
-        "https://media.licdn.com/dms/image/v2/D5622AQHyvQv0LYIxPA/feedshare-shrink_800/B56ZeD0xnKG0Ag-/0/1750263341453?e=1753315200&v=beta&t=GflA9kuhacD1jRhKlwKu5pmcVXoSB_90AXFQpOaCrNc"
+        "https://media.licdn.com/dms/image/v2/D5622AQHyvQv0LYIxPA/feedshare-shrink_800/B56ZeD0xnKG0Ag-/0/1750263341453?e=1753920000&v=beta&t=4FVF53J8o3G3qsp74cYcKdJVNRFaTD0SwDUgQChDgKQ"
       ],
-      "date": "2025-06-19T05:05:21.761Z"
+      "date": "2025-06-19T05:18:54.758Z"
     },
     {
       "captions": "A new full processing line has been installed to handle mixed ferrous scrap: Blue Devil pre-shredder, Blue Shark hammermill, and Blue Sorter separation systems work together to transform complexity into value.\n\nFrom volume reduction to material sorting, every step enhances efficiency, supports cleaner steel production, and promotes a circular approach to metal recycling. Discover how smart plants deliver real impact — watch the full video.\n\n#ZATO #ZatoShredder #RecyclingEquipment #BlueDevil #Blueshark #BlueSorter",
-      "likes": "30",
+      "likes": "54",
+      "comments": "1",
       "shares": "1",
       "time": {
-        "raw": "2g",
+        "raw": "1h",
         "parsed": "18.06.2025",
-        "isoString": "2025-06-18T05:05:21.762Z"
+        "isoString": "2025-06-18T05:18:54.761Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQETy7yg2yqXIA/mp4-640p-30fp-crf28/B4EZd.anivHYBg-/0/1750172634041?e=1751004000&v=beta&t=AbwepOCzxwlN8HNJQeaS017yGqco6tDBYYQ4jCFzxeg",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQETy7yg2yqXIA/mp4-640p-30fp-crf28/B4EZd.anivHYBg-/0/1750172634041?e=1751436000&v=beta&t=XwQXWjurnHl-U8addnMh0Mdu7H7Kj3ySEzLzwYb_ot8",
             "type": "video/mp4",
             "data-bitrate": 1037134
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQETy7yg2yqXIA/mp4-720p-30fp-crf28/B4EZd.anivHYBk-/0/1750172639056?e=1751004000&v=beta&t=8grnisks6ljAlOg94nFYCMMiQp7Ge5Lc-OMltahn9tk",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQETy7yg2yqXIA/mp4-720p-30fp-crf28/B4EZd.anivHYBk-/0/1750172639056?e=1751436000&v=beta&t=KAeWJT3g6IRi2iLoaSIuN_QYTl1EzYOQVFBwwlGJPuU",
             "type": "video/mp4",
             "data-bitrate": 1318370
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQETy7yg2yqXIA/videocover-low/B4EZd.anivHYB4-/0/1750172630744?e=1751004000&v=beta&t=sMADr6rkWkrH9K3JDHC3jS4oOgpytgrJxDjPCqPhCGI"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQETy7yg2yqXIA/videocover-low/B4EZd.anivHYB4-/0/1750172630744?e=1751436000&v=beta&t=ZFt3SDJgbIH5taJzSaMrYYF6uG0Oi8-ENNtj8AeNODo"
       },
-      "date": "2025-06-18T05:05:21.762Z"
+      "date": "2025-06-18T05:18:54.761Z"
     },
     {
       "captions": "ZATO attended the Journée Partenaire ARI Recyclage on June 12th in Saint-Victor-de-Cessieu, where we presented the Blue Devil twin-shaft shredder.\n\nEngineered for heavy-duty performance, high durability, and efficient scrap recovery, it reflects our commitment to smarter, more reliable processing.\n\nThanks to everyone who joined us — together, we keep building better recycling systems.\n\n#ZATO #ZatoShredder #RecyclingEquipment #ARI",
-      "likes": "14",
+      "likes": "15",
       "time": {
-        "raw": "6g",
-        "parsed": "14.06.2025",
-        "isoString": "2025-06-14T05:05:21.763Z"
+        "raw": "1h",
+        "parsed": "18.06.2025",
+        "isoString": "2025-06-18T05:18:54.763Z"
       },
       "mediaType": "video",
       "mediaContent": {
         "src": [
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQFJhmBW4BzR_A/mp4-720p-30fp-crf28/B4DZdpv_0KHMBg-/0/1749825886724?e=1751004000&v=beta&t=IZUVu_LCkqS5i2AehQdtxZAJFWsBpqab2t733J1wuew",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQFJhmBW4BzR_A/mp4-720p-30fp-crf28/B4DZdpv_0KHMBg-/0/1749825886724?e=1751436000&v=beta&t=nRVl57uKOrEEw4Qi0WEPjQLpO6iYNfISQ7yzsVPsCzI",
             "type": "video/mp4",
             "data-bitrate": 849973
           },
           {
-            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQFJhmBW4BzR_A/mp4-640p-30fp-crf28/B4DZdpv_0KHMBc-/0/1749825887019?e=1751004000&v=beta&t=x2Vkxea4nc_wQ25jG27L9jyehU9xnoxzqQzVur2dCl8",
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQFJhmBW4BzR_A/mp4-640p-30fp-crf28/B4DZdpv_0KHMBc-/0/1749825887019?e=1751436000&v=beta&t=vVak_28_qQhV4TUAfU8ebb6sC6JSQNEvl4Kr2-FQXYo",
             "type": "video/mp4",
             "data-bitrate": 609444
           }
         ],
-        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQFJhmBW4BzR_A/videocover-high/B4DZdpv_0KHMB4-/0/1749825885972?e=1751004000&v=beta&t=zTohMd54_Ua50FiwPVloa-7Og5_copJfym4HREFU4tY"
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQFJhmBW4BzR_A/videocover-high/B4DZdpv_0KHMB4-/0/1749825885972?e=1751436000&v=beta&t=-GyAh7jaEWUJdaoTDoDtZyXBzwbFd2WQhaGcWI5G-z8"
       },
-      "date": "2025-06-14T05:05:21.763Z"
+      "date": "2025-06-18T05:18:54.763Z"
+    },
+    {
+      "captions": "Yesterday we celebrated a significant milestone:\nthe inauguration of a high-efficiency metal recycling plant in Panama, designed and built by Zato for Morgan Metal Corp.\n\nEquipped with a Blue Devil pre-shredder, Blue Shark hammer mill and advanced separation systems, the facility transforms scrap into high-grade ferrous material — reducing environmental impact and enabling cleaner steel production.\n\nThis project, made possible through the collaboration between our team, Morgan Metal and Panamanian institutions, marks one of the first installations of its kind in Panama — and a model of responsible industrial development for Latin America, and this makes us extremely proud.\n\n#ZATO #ZatoShredder #RecyclingEquipment #Blueshark #BlueDevil",
+      "likes": "23",
+      "shares": "1",
+      "time": {
+        "raw": "4g",
+        "parsed": "21.06.2025",
+        "isoString": "2025-06-21T05:18:54.753Z"
+      },
+      "mediaType": "video",
+      "mediaContent": {
+        "src": [
+          {
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQEfO1kz1zu_5w/mp4-720p-30fp-crf28/B4DZeOICqtGkBg-/0/1750436188821?e=1751436000&v=beta&t=tiu6iC3EMpiqoNKNMK_M8GvXUwD1FpUuGrRn3jSpbmA",
+            "type": "video/mp4",
+            "data-bitrate": 459962
+          },
+          {
+            "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQEfO1kz1zu_5w/mp4-640p-30fp-crf28/B4DZeOICqtGkBc-/0/1750436185199?e=1751436000&v=beta&t=Dl5FEx45Q5fQsJiX-xTkhvF7PSD-4EyHjy3jVIoRDj0",
+            "type": "video/mp4",
+            "data-bitrate": 335715
+          }
+        ],
+        "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQEfO1kz1zu_5w/videocover-high/B4DZeOICqtGkB4-/0/1750436180723?e=1751436000&v=beta&t=_PV606vE2bk2B-fmSRrpFN6s4bOeE7QFXia4q4wDERE"
+      },
+      "date": "2025-06-21T05:18:54.753Z"
     }
   ]
 }

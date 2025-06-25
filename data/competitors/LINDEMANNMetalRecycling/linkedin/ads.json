@@ -3,7 +3,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/652739113?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": null
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQEHwRPGYCo_pA/image_627_1200/B56ZXdMwk4HQAY-/0/1743172864453/B2_PS1_1200x628png?e=1751436000&v=beta&t=S9DpOweAO6RlATHNFo5Gwp4JeBJSoyUrqe_BQ1kDHbg"
     },
     "caption": "Tanıtılan Reduce energy costs while boosting shredder performance! With Lindemann’s Variable Frequency Drive (VFD) and Shredder Drive Assistant (SDA), you can achieve up to 20% energy savings while significantly increasing throughput and efficiency.\n\nTraditional shredder drives suffer from sudden load peaks and high energy consumption due to fluctuating material feeds. Our VFD technology dynamically adjusts speed and torque to match real-time demand, eliminating unnecessary power spikes and ensuring smooth operation.\n",
     "runTime": {
@@ -23,7 +23,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/590898773?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQG7uv_7gu3fGA/image-shrink_1280/B4DZT5T221HIAM-/0/1739349524505/B1_VP4_1200x6281png?e=1751004000&v=beta&t=JvkiaZNNScJYuuy_jpGd6R2z5WlIr9RUpulsN3LwYxM"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQG7uv_7gu3fGA/image-shrink_1280/B4DZT5T221HIAM-/0/1739349524505/B1_VP4_1200x6281png?e=1751436000&v=beta&t=PJ6wUS2CTzzIznXny6XThqyYG1DfCkemUNW82QfZUug"
     },
     "caption": "Tanıtılan We are always working side-by-side with integrity to build lasting relationships with our customers. Come join our journey!",
     "runTime": {
@@ -135,31 +135,31 @@
     "url": "https://www.linkedin.com/ad-library/detail/658637423?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQFyfVt6UPqwzw/image-shrink_1280/B4DZYBONhqGkAM-/0/1743777225781/B2_PS3_1200x628png?e=1751004000&v=beta&t=KZ5KjVilscnv3Qkl2VSd2OVD1cNVoOrWRoDckuC1oJI"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQFyfVt6UPqwzw/image-shrink_1280/B4DZYBONhqGkAM-/0/1743777225781/B2_PS3_1200x628png?e=1751436000&v=beta&t=yh_rHtByz6uu3ie47NQUXg8qAHMlKSebCl5NkKgdbcU"
     },
     "caption": "Tanıtılan Are rising energy costs and environmental regulations squeezing your scrap processing margins?\n\nIn-house solutions and basic equipment packages often lead to costly breakdowns and compliance risks.\n\nLindemann’s 400 bar hydraulic technology achieves higher throughputs while reducing energy consumption, with integrated monitoring ensuring optimal performance.\n\nJoin industry leaders who maximize productivity while meeting environmental standards.\n",
     "runTime": {
-      "humanize": "4 Nis 2025 - 17 Haz 2025",
+      "humanize": "4 Nis 2025 - 22 Haz 2025",
       "startTime": 1743714000,
-      "finishTime": 1750107600
+      "finishTime": 1750539600
     },
     "impression": "Bin - 5 bin",
     "countryList": [
       {
         "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 55
+        "impressionPercent": 56
       },
       {
         "country": "Brezilya",
-        "impressionPercent": 14
+        "impressionPercent": 13
+      },
+      {
+        "country": "Avustralya",
+        "impressionPercent": 7
       },
       {
         "country": "Meksika",
         "impressionPercent": 7
-      },
-      {
-        "country": "Avustralya",
-        "impressionPercent": 6
       },
       {
         "country": "Kanada",
@@ -174,11 +174,11 @@
         "impressionPercent": 2
       },
       {
-        "country": "Finlandiya",
+        "country": "Türkiye",
         "impressionPercent": 1
       },
       {
-        "country": "Türkiye",
+        "country": "Finlandiya",
         "impressionPercent": 1
       },
       {
@@ -186,7 +186,15 @@
         "impressionPercent": 1
       },
       {
+        "country": "Trinidad ve Tobago",
+        "impressionPercent": 1
+      },
+      {
         "country": "Birleşik Arap Emirlikleri",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Arjantin",
         "impressionPercent": 1
       },
       {
@@ -198,15 +206,7 @@
         "impressionPercent": 1
       },
       {
-        "country": "Arjantin",
-        "impressionPercent": 1
-      },
-      {
         "country": "Suudi Arabistan",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Trinidad ve Tobago",
         "impressionPercent": 1
       },
       {
@@ -222,11 +222,15 @@
         "impressionPercent": 1
       },
       {
+        "country": "Hindistan",
+        "impressionPercent": 1
+      },
+      {
         "country": "Mısır",
         "impressionPercent": 1
       },
       {
-        "country": "Hindistan",
+        "country": "Liberya",
         "impressionPercent": 1
       },
       {
@@ -242,19 +246,19 @@
         "impressionPercent": 1
       },
       {
-        "country": "Liberya",
-        "impressionPercent": 1
-      },
-      {
         "country": "İran",
         "impressionPercent": 1
       },
       {
-        "country": "Fransa",
+        "country": "Porto Riko",
         "impressionPercent": 1
       },
       {
-        "country": "Porto Riko",
+        "country": "Bosna-Hersek",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Fransa",
         "impressionPercent": 1
       },
       {
@@ -275,7 +279,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/658637203?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQGo9X29GlyrNQ/image-shrink_1280/B4DZYBMhE1G4AM-/0/1743776781510/B2_PS1_1200x628png?e=1751004000&v=beta&t=VTlIaTjXNxsxlOKLhLTfHJ7g6373m-Z8MRnPijiVyr8"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQGo9X29GlyrNQ/image-shrink_1280/B4DZYBMhE1G4AM-/0/1743776781510/B2_PS1_1200x628png?e=1751436000&v=beta&t=vSRlF59wZt30cLQHTejFLeAv6v6tGxji9cxSUOKNZDM"
     },
     "caption": "Tanıtılan Reduce energy costs while boosting shredder performance! With Lindemann’s Variable Frequency Drive (VFD) and Shredder Drive Assistant (SDA), you can achieve up to 20% energy savings while significantly increasing throughput and efficiency.\n\nTraditional shredder drives suffer from sudden load peaks and high energy consumption due to fluctuating material feeds. Our VFD technology dynamically adjusts speed and torque to match real-time demand, eliminating unnecessary power spikes and ensuring smooth operation.\n",
     "runTime": {
@@ -326,8 +330,8 @@
   {
     "url": "https://www.linkedin.com/ad-library/detail/685639314?trk=ad_library_ad_preview_content_image",
     "creative": {
-      "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E10AQGeUEIk9ifbJA/image-shrink_1280/B4EZc2HG9THQAM-/0/1748959523212/LIN_ANZ_NxtCut_Wing_Motiv4_1080x1080pxjpg?e=1751004000&v=beta&t=jn2NYWmKHMC5qgMePV0m5jFA3mXPUgyJDf6pcZEB_bI"
+      "type": "unknown",
+      "content": null
     },
     "caption": "Tanıtılan With innovative Presswing technology, the new NxtCut WING shapes scrap more efficiently – perfect for small to mid-sized yards facing changing material demands.\nChoose between 800 or 1,000 tons of shear force, and two bed lengths – 6.2 m (compact) or 8 m (spacious) – to match your operation.\nSmart details like a generous overstroke function ensure optimal material handling, better compaction, and reduced wear.\nA forged blade slide with hardened supports prevents deformation – for long-lasting reliability.\n\nThe NxtCut WING brings next-level performance to your yard.\n",
     "runTime": {
@@ -410,14 +414,14 @@
   {
     "url": "https://www.linkedin.com/ad-library/detail/658607143?trk=ad_library_ad_preview_content_image",
     "creative": {
-      "type": "unknown",
-      "content": null
+      "type": "img",
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQHUh98IyO-zuw/image_627_1200/B4DZYBOzBnHsAY-/0/1743777378546/B2_PS5_1200x628png?e=1751436000&v=beta&t=Sdij7tD_d3MYobp-Hv8xdlqNtn-DQZtul4uTlIJNHVk"
     },
     "caption": "Tanıtılan Is your recycling operation ready for the steel industry's sustainable future?\nBasic recycling equipment struggles to meet stricter environmental standards, risking non-compliance and lost business opportunities.\nAdvanced recycling systems enable efficient participation in the green steel cycle. Lindemann’s technology reduces CO2 emissions while maintaining superior output quality.\nJoin forward-thinking recyclers preparing for tomorrow's standards today.\n",
     "runTime": {
-      "humanize": "4 Nis 2025 - 17 Haz 2025",
+      "humanize": "4 Nis 2025 - 22 Haz 2025",
       "startTime": 1743714000,
-      "finishTime": 1750107600
+      "finishTime": 1750539600
     },
     "impression": "Bin - 5 bin",
     "countryList": [
@@ -435,7 +439,7 @@
       },
       {
         "country": "İsveç",
-        "impressionPercent": 8
+        "impressionPercent": 9
       },
       {
         "country": "Avustralya",
@@ -539,7 +543,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/658637253?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQFG9YhbOmSI5w/image-shrink_1280/B4DZYBMwXmG4AM-/0/1743776844154/B2_PS3_1200x628png?e=1751004000&v=beta&t=_oT30OQlhcgHastYfVKFU3su00K99xx5S_9bflrV2x4"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQFG9YhbOmSI5w/image-shrink_1280/B4DZYBMwXmG4AM-/0/1743776844154/B2_PS3_1200x628png?e=1751436000&v=beta&t=Uv-oU-M8IwhzB4rSPEbnD2u_vKfYXoh28w-UY2Qz-50"
     },
     "caption": "Tanıtılan Are rising energy costs and environmental regulations squeezing your scrap processing margins?\n\nIn-house solutions and basic equipment packages often lead to costly breakdowns and compliance risks.\n\nLindemann’s 400 bar hydraulic technology achieves higher throughputs while reducing energy consumption, with integrated monitoring ensuring optimal performance.\n\nJoin industry leaders who maximize productivity while meeting environmental standards.\n",
     "runTime": {
@@ -599,7 +603,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/658664833?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQG4m-JWl_RV8Q/image-shrink_1280/B4DZYBNMTkHIAQ-/0/1743776958467/B2_PS5_1200x628png?e=1751004000&v=beta&t=e2UbJo3rtgLjvv8F8NE5Ee_yN14p_RJ_ZCuyqmMd72Y"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQG4m-JWl_RV8Q/image-shrink_1280/B4DZYBNMTkHIAQ-/0/1743776958467/B2_PS5_1200x628png?e=1751436000&v=beta&t=W_RVsDlR3F5dKOI8SIS09zqMlBKBVeaRKGoOjcUGoms"
     },
     "caption": "Tanıtılan Is your recycling operation ready for the steel industry's sustainable future?\nBasic recycling equipment struggles to meet stricter environmental standards, risking non-compliance and lost business opportunities.\nAdvanced recycling systems enable efficient participation in the green steel cycle. Lindemann’s technology reduces CO2 emissions while maintaining superior output quality.\nJoin forward-thinking recyclers preparing for tomorrow's standards today.\n",
     "runTime": {
@@ -655,19 +659,19 @@
     "url": "https://www.linkedin.com/ad-library/detail/662370043?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQEbGcip5Wsq7w/image-shrink_1280/B4DZYWv2WnH4AQ-/0/1744138365222/B2_RC1_1200x628png?e=1751004000&v=beta&t=Gh1WhqDcynymrPsIisiF0GnxzZV2emB1w8UeJ9CpggY"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQEbGcip5Wsq7w/image-shrink_1280/B4DZYWv2WnH4AQ-/0/1744138365222/B2_RC1_1200x628png?e=1751436000&v=beta&t=rq4wFdyCoaJUenpJa-CToQzqiXa-5kYCP0-MxnOIW_U"
     },
     "caption": "Tanıtılan Thévenaz-Leduc, Europe's pioneering metal recycler, achieved rapid ROI by upgrading their shredder with Lindemann’s Shredder Drive Assistant.\n\nStandard shredder operations leave efficiency gains untapped and expose recyclers to costly energy peaks that inflate quarterly bills.\n\nLindemann’s SDA technology optimizes feeding for consistent throughput while eliminating expensive power spikes - even with challenging materials.\n\n“In this era of high-energy bills, we are never satisfied unless operating at maximum efficiency!\" - Blesi Roger, Managing Director Thévenaz-Leduc.",
     "runTime": {
-      "humanize": "12 Nis 2025 - 17 Haz 2025",
+      "humanize": "12 Nis 2025 - 22 Haz 2025",
       "startTime": 1744405200,
-      "finishTime": 1750107600
+      "finishTime": 1750539600
     },
     "impression": "Bin - 5 bin",
     "countryList": [
       {
         "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 58
+        "impressionPercent": 59
       },
       {
         "country": "Brezilya",
@@ -675,7 +679,7 @@
       },
       {
         "country": "Avustralya",
-        "impressionPercent": 8
+        "impressionPercent": 7
       },
       {
         "country": "Meksika",
@@ -683,7 +687,7 @@
       },
       {
         "country": "Kanada",
-        "impressionPercent": 5
+        "impressionPercent": 6
       },
       {
         "country": "İsveç",
@@ -714,11 +718,11 @@
         "impressionPercent": 1
       },
       {
-        "country": "Peru",
+        "country": "Çin",
         "impressionPercent": 1
       },
       {
-        "country": "Çin",
+        "country": "Peru",
         "impressionPercent": 1
       },
       {
@@ -742,6 +746,10 @@
         "impressionPercent": 1
       },
       {
+        "country": "Mısır",
+        "impressionPercent": 1
+      },
+      {
         "country": "Liberya",
         "impressionPercent": 1
       },
@@ -750,19 +758,15 @@
         "impressionPercent": 1
       },
       {
-        "country": "Mısır",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Uruguay",
-        "impressionPercent": 1
-      },
-      {
         "country": "Birleşik Krallık",
         "impressionPercent": 1
       },
       {
         "country": "Hindistan",
+        "impressionPercent": 1
+      },
+      {
+        "country": "Uruguay",
         "impressionPercent": 1
       },
       {
@@ -783,7 +787,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/652786963?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQEgERCaJedl4Q/image-shrink_1280/B4DZXdIIc5HwAM-/0/1743171652126/B2_PS1_1200x628png?e=1751004000&v=beta&t=FTdoCNgBNwaTVb1uHJbSmqipiRzCzRAUCBJjZGDrcRU"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQEgERCaJedl4Q/image-shrink_1280/B4DZXdIIc5HwAM-/0/1743171652126/B2_PS1_1200x628png?e=1751436000&v=beta&t=prTqDc6tUePdaGTOvKTk5WtIEx-GUgO37QFVaC4xIpE"
     },
     "caption": "Tanıtılan Is your recycling operation ready for the steel industry's sustainable future?\n\nBasic recycling equipment struggles to meet stricter environmental standards, risking non-compliance and lost business opportunities.\n\nAdvanced recycling systems enable efficient participation in the green steel cycle. Lindemann’s technology reduces CO2 emissions while maintaining superior output quality.\n\nJoin forward-thinking recyclers preparing for tomorrow's standards today.\n",
     "runTime": {
@@ -811,7 +815,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/590928923?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQHVpGeLHUDMng/image_627_1200/B56ZT5TtOIGUAc-/0/1739349480515/B1_VP3_1200x6282png?e=1751004000&v=beta&t=GzUICXpcfFDxDAQ-2KVEcz9vF308OgH3NwbSoNAQgao"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQHVpGeLHUDMng/image_627_1200/B56ZT5TtOIGUAc-/0/1739349480515/B1_VP3_1200x6282png?e=1751436000&v=beta&t=BXBofCzJ6ytHxaodtBXHvNOGRFHYibSYdJkEAFrh7K8"
     },
     "caption": "Tanıtılan We are always working side-by-side with integrity to build lasting relationships with our customers. Come join our journey!",
     "runTime": {
@@ -959,7 +963,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/658674513?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQHH6k6UC3MqZA/image_627_1200/B56ZYBNEj3GsAg-/0/1743776926092/B2_PS4_1200x628png?e=1751004000&v=beta&t=qXO7ixQ5kzy62vHkByUWVc1ljj44MaQKBo0isYPoAGM"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQHH6k6UC3MqZA/image_627_1200/B56ZYBNEj3GsAg-/0/1743776926092/B2_PS4_1200x628png?e=1751436000&v=beta&t=d0uhLDNHRjju8ooB_xAvyXpItGYN3XXz6LaolzSV3iU"
     },
     "caption": "Tanıtılan Are your machines working in isolation instead of as an integrated system?\nStand-alone solutions and disconnected monitoring lead to inefficiencies and missed optimization opportunities.\nAdvanced integrated systems deliver synchronized performance gains. Lindemann InDEx technologies optimizes your entire operation - from feed control to real-time monitoring.\nJoin industry leaders achieving peak efficiency through intelligent integration\n",
     "runTime": {
@@ -999,7 +1003,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/658646793?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQFYXxlfCIw8pQ/image_627_1200/B4DZYBNesbG4Ao-/0/1743777033104/B2_PS6_1200x628png?e=1751004000&v=beta&t=DinL54jJIc5ZixFIJUKmznfFngTVdnITKgLf1nJprB4"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQFYXxlfCIw8pQ/image_627_1200/B4DZYBNesbG4Ao-/0/1743777033104/B2_PS6_1200x628png?e=1751436000&v=beta&t=1S5XuORsygb2fmiFE487wivptpCcifXcH2Nl35aUb8Q"
     },
     "caption": "Tanıtılan Wondering why competitors process more material with less energy consumption?\nStandard hydraulic systems and basic upgrades leave efficiency gains on the table, while maintenance costs continue to rise.\nPremium 400 bar hydraulic technology delivers superior performance. Lindemann’s advanced system processes 20% more material while reducing energy costs - setting a new standard in metal recycling efficiency.\nJoin industry leaders who've upgraded to the power of 400 bar technology.\n",
     "runTime": {
@@ -1047,7 +1051,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/590951323?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQFWEzz9K8fW4Q/image_627_1200/B4DZT5TaHfHAAc-/0/1739349402272/B1_VP2_1200x6281png?e=1751004000&v=beta&t=I5BO-BMT15MjMXmT62n_MaaGGRqMhzUw1pA9BISS3M4"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQFWEzz9K8fW4Q/image_627_1200/B4DZT5TaHfHAAc-/0/1739349402272/B1_VP2_1200x6281png?e=1751436000&v=beta&t=2EqIemLWWlYKFKYjlqnSWGJDaTkNudLnANiM0Bd-3TA"
     },
     "caption": "Tanıtılan We believe in the power of collaboration. We’re not just a service provider, we’re your team, working side-by-side with you to achieve shared goals. Together, we navigate challenges and celebrate successes, ensuring a seamless partnership that propels your endeavors to new heights.",
     "runTime": {
@@ -1175,13 +1179,13 @@
     "url": "https://www.linkedin.com/ad-library/detail/658665023?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQG3RT7Nzpp7zw/image_627_1200/B56ZYBOkffHEAc-/0/1743777319019/B2_PS4_1200x628png?e=1751004000&v=beta&t=TMTmcZyXRDuX8lLU1tDlWyykkE05VQ_-vI4CqtwiWeA"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQG3RT7Nzpp7zw/image_627_1200/B56ZYBOkffHEAc-/0/1743777319019/B2_PS4_1200x628png?e=1751436000&v=beta&t=-EXEWIQOYZ8o7KtbSxUCnUZqFHLr2Ds-LzdaPTrXUTs"
     },
     "caption": "Tanıtılan Are your machines working in isolation instead of as an integrated system?\nStand-alone solutions and disconnected monitoring lead to inefficiencies and missed optimization opportunities.\nAdvanced integrated systems deliver synchronized performance gains. Lindemann InDEx technologies optimizes your entire operation - from feed control to real-time monitoring.\nJoin industry leaders achieving peak efficiency through intelligent integration\n",
     "runTime": {
-      "humanize": "4 Nis 2025 - 17 Haz 2025",
+      "humanize": "4 Nis 2025 - 22 Haz 2025",
       "startTime": 1743714000,
-      "finishTime": 1750107600
+      "finishTime": 1750539600
     },
     "impression": "5 bin - 10 bin",
     "countryList": [
@@ -1214,11 +1218,11 @@
         "impressionPercent": 2
       },
       {
-        "country": "Arjantin",
+        "country": "Türkiye",
         "impressionPercent": 1
       },
       {
-        "country": "Türkiye",
+        "country": "Arjantin",
         "impressionPercent": 1
       },
       {
@@ -1331,13 +1335,13 @@
     "url": "https://www.linkedin.com/ad-library/detail/658646893?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQG5K8wmLFyVNQ/image-shrink_1280/B4DZYBOCDDHIAM-/0/1743777178592/B2_PS1_1200x628png?e=1751004000&v=beta&t=9JYgO31yowcaMDbtmBYxtkrLHGUGWo9T7QGYcrPlcHI"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQG5K8wmLFyVNQ/image-shrink_1280/B4DZYBOCDDHIAM-/0/1743777178592/B2_PS1_1200x628png?e=1751436000&v=beta&t=SKpy5zk1mJzGKSDfPiJahlsttg_XRXs8w1p7m0JmtY8"
     },
     "caption": "Tanıtılan Reduce energy costs while boosting shredder performance! With Lindemann’s Variable Frequency Drive (VFD) and Shredder Drive Assistant (SDA), you can achieve up to 20% energy savings while significantly increasing throughput and efficiency.\n\nTraditional shredder drives suffer from sudden load peaks and high energy consumption due to fluctuating material feeds. Our VFD technology dynamically adjusts speed and torque to match real-time demand, eliminating unnecessary power spikes and ensuring smooth operation.\n",
     "runTime": {
-      "humanize": "4 Nis 2025 - 17 Haz 2025",
+      "humanize": "4 Nis 2025 - 22 Haz 2025",
       "startTime": 1743714000,
-      "finishTime": 1750107600
+      "finishTime": 1750539600
     },
     "impression": "Bin - 5 bin",
     "countryList": [
@@ -1394,6 +1398,10 @@
         "impressionPercent": 1
       },
       {
+        "country": "Kolombiya",
+        "impressionPercent": 1
+      },
+      {
         "country": "Suudi Arabistan",
         "impressionPercent": 1
       },
@@ -1402,19 +1410,15 @@
         "impressionPercent": 1
       },
       {
-        "country": "Kolombiya",
-        "impressionPercent": 1
-      },
-      {
         "country": "Birleşik Arap Emirlikleri",
         "impressionPercent": 1
       },
       {
-        "country": "Norveç",
+        "country": "Çin",
         "impressionPercent": 1
       },
       {
-        "country": "Çin",
+        "country": "Norveç",
         "impressionPercent": 1
       },
       {
@@ -1426,15 +1430,15 @@
         "impressionPercent": 1
       },
       {
+        "country": "Ekvador",
+        "impressionPercent": 1
+      },
+      {
         "country": "Mısır",
         "impressionPercent": 1
       },
       {
         "country": "Uruguay",
-        "impressionPercent": 1
-      },
-      {
-        "country": "Ekvador",
         "impressionPercent": 1
       },
       {
@@ -1479,7 +1483,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/652768173?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQEgERCaJedl4Q/image-shrink_1280/B4DZXdIIc5HwAM-/0/1743171652126/B2_PS1_1200x628png?e=1751004000&v=beta&t=FTdoCNgBNwaTVb1uHJbSmqipiRzCzRAUCBJjZGDrcRU"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQEgERCaJedl4Q/image-shrink_1280/B4DZXdIIc5HwAM-/0/1743171652126/B2_PS1_1200x628png?e=1751436000&v=beta&t=prTqDc6tUePdaGTOvKTk5WtIEx-GUgO37QFVaC4xIpE"
     },
     "caption": "Tanıtılan Is your recycling operation ready for the steel industry's sustainable future?\n\nBasic recycling equipment struggles to meet stricter environmental standards, risking non-compliance and lost business opportunities.\n\nAdvanced recycling systems enable efficient participation in the green steel cycle. Lindemann’s technology reduces CO2 emissions while maintaining superior output quality.\n\nJoin forward-thinking recyclers preparing for tomorrow's standards today.\n",
     "runTime": {
@@ -1515,23 +1519,23 @@
     "url": "https://www.linkedin.com/ad-library/detail/686006784",
     "creative": {
       "type": "video",
-      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQFeSsderaA_3A/mp4-640p-30fp-crf28/B4EZc7jCnsHIBU-/0/1749050772810/product_video_NxtCutT_FA_WING_HDmp4?e=1751004000&v=beta&t=eqhXgSzUcGCmmGs2TinNVIHOvqrbCFajyL1KElpl5uU"
+      "content": "https://dms.licdn.com/playlist/vid/v2/D4E10AQFeSsderaA_3A/mp4-640p-30fp-crf28/B4EZc7jCnsHIBU-/0/1749050772810/product_video_NxtCutT_FA_WING_HDmp4?e=1751436000&v=beta&t=5rdo-Kq0_pr2pEMWLrGrhuL4QhgrWGOw08-Chr-FHJs"
     },
     "caption": "Tanıtılan High throughput. Smart tech. Easy maintenance.\nThe new NxtCut WING is engineered for flexible operation, featuring 400-bar hydraulics, robust design, and digital control via myLindemann.\n\nIdeal for small to mid-sized yards looking for power and precision.\n💡 Selectable shear forces: 800 or 1,000 tons\n💡 Optional 6.2 or 8 m bed length\n💡 Integrated remote diagnostics \n\nUpgrade your efficiency – discover the NxtCut WING now.\n",
     "runTime": {
-      "humanize": "4 Haz 2025 - 17 Haz 2025",
+      "humanize": "4 Haz 2025 - 22 Haz 2025",
       "startTime": 1748984400,
-      "finishTime": 1750107600
+      "finishTime": 1750539600
     },
     "impression": "10 bin - 50 bin",
     "countryList": [
       {
         "country": "Türkiye",
-        "impressionPercent": 75
+        "impressionPercent": 77
       },
       {
         "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 20
+        "impressionPercent": 19
       },
       {
         "country": "Birleşik Arap Emirlikleri",
@@ -1571,7 +1575,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/685619584?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E10AQEed6i4oP-5rg/image-shrink_1280/B4EZc2GR0MHsAQ-/0/1748959305648/LIN_ANZ_NxtCut_Wing_Motiv3_1080x1080pxjpg?e=1751004000&v=beta&t=6Gi8Lkeo_UJs7Xy0Z-CDVuT8B7m6KgzASnGEyY6TRJE"
+      "content": "https://media.licdn.com/dms/image/v2/D4E10AQEed6i4oP-5rg/image-shrink_1280/B4EZc2GR0MHsAQ-/0/1748959305648/LIN_ANZ_NxtCut_Wing_Motiv3_1080x1080pxjpg?e=1751436000&v=beta&t=lOWBEVI97erneAYpwiCgMJGrOZFzkA9_H_k2JTa_O_0"
     },
     "caption": "Tanıtılan The 400 bar hydraulic system of the NxtCut WING delivers unmatched performance.\n\nThis means faster cylinder movement, optimized acceleration and deceleration, and full control at every step.\nThanks to hydraulic separation of pump flows, the system allows simultaneous cylinder actions – boosting overall productivity.\nWith the world’s smallest tank volume, 5 μm oil filtration, pipework instead of hoses, and dynamic oil level monitoring, maintenance becomes minimal – and reliability, maximum.\nPrecision-engineered. Built for uptime. Designed by LINDEMANN. The 400 bar hydraulic system of the NxtCut WING delivers unmatched performance – with performance- and flow-controlled pumps that adjust to your needs in real time. This means faster cylinder movement, optimized acceleration and deceleration, and full control at every step.",
     "runTime": {
@@ -1659,19 +1663,19 @@
     "url": "https://www.linkedin.com/ad-library/detail/658665093?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQFsWQYUo_5zqA/image_627_1200/B56ZYBO924GoAg-/0/1743777422924/B2_PS6_1200x628png?e=1751004000&v=beta&t=N7rIzWkvGZ8lStq0Y_2xSoyww0-DsdvV_bEhGcWWzQ0"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQFsWQYUo_5zqA/image_627_1200/B56ZYBO924GoAg-/0/1743777422924/B2_PS6_1200x628png?e=1751436000&v=beta&t=qTSh8hcIVgAbEfAuigzbVhBXHkb6Pj4Jau1WmDcxvgM"
     },
     "caption": "Tanıtılan Wondering why competitors process more material with less energy consumption?\nStandard hydraulic systems and basic upgrades leave efficiency gains on the table, while maintenance costs continue to rise.\nPremium 400 bar hydraulic technology delivers superior performance. Lindemann’s advanced system processes 20% more material while reducing energy costs - setting a new standard in metal recycling efficiency.\nJoin industry leaders who've upgraded to the power of 400 bar technology.\n",
     "runTime": {
-      "humanize": "4 Nis 2025 - 17 Haz 2025",
+      "humanize": "4 Nis 2025 - 22 Haz 2025",
       "startTime": 1743714000,
-      "finishTime": 1750107600
+      "finishTime": 1750539600
     },
     "impression": "Bin - 5 bin",
     "countryList": [
       {
         "country": "Amerika Birleşik Devletleri",
-        "impressionPercent": 47
+        "impressionPercent": 46
       },
       {
         "country": "Brezilya",
@@ -1695,7 +1699,7 @@
       },
       {
         "country": "Finlandiya",
-        "impressionPercent": 2
+        "impressionPercent": 3
       },
       {
         "country": "Bermuda",
@@ -1730,11 +1734,11 @@
         "impressionPercent": 1
       },
       {
-        "country": "Çin",
+        "country": "Trinidad ve Tobago",
         "impressionPercent": 1
       },
       {
-        "country": "Trinidad ve Tobago",
+        "country": "Çin",
         "impressionPercent": 1
       },
       {
@@ -1803,7 +1807,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/590879653?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQG7uv_7gu3fGA/image-shrink_1280/B4DZT5T221HIAM-/0/1739349524505/B1_VP4_1200x6281png?e=1751004000&v=beta&t=JvkiaZNNScJYuuy_jpGd6R2z5WlIr9RUpulsN3LwYxM"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQG7uv_7gu3fGA/image-shrink_1280/B4DZT5T221HIAM-/0/1739349524505/B1_VP4_1200x6281png?e=1751436000&v=beta&t=PJ6wUS2CTzzIznXny6XThqyYG1DfCkemUNW82QfZUug"
     },
     "caption": "Tanıtılan We are always working side-by-side with integrity to build lasting relationships with our customers. Come join our journey!",
     "runTime": {
@@ -1911,7 +1915,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/652739143?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQEHwRPGYCo_pA/image_627_1200/B56ZXdMwk4HQAY-/0/1743172864453/B2_PS1_1200x628png?e=1751004000&v=beta&t=M6wdwgiSlx7Tju0QnzS2F85KNAAPofc485-p9guly-U"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQEHwRPGYCo_pA/image_627_1200/B56ZXdMwk4HQAY-/0/1743172864453/B2_PS1_1200x628png?e=1751436000&v=beta&t=S9DpOweAO6RlATHNFo5Gwp4JeBJSoyUrqe_BQ1kDHbg"
     },
     "caption": "Tanıtılan Reduce energy costs while boosting shredder performance! With Lindemann’s Variable Frequency Drive (VFD) and Shredder Drive Assistant (SDA), you can achieve up to 20% energy savings while significantly increasing throughput and efficiency.\n\nTraditional shredder drives suffer from sudden load peaks and high energy consumption due to fluctuating material feeds. Our VFD technology dynamically adjusts speed and torque to match real-time demand, eliminating unnecessary power spikes and ensuring smooth operation.\n",
     "runTime": {
@@ -1935,7 +1939,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/590898863?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4D10AQG0d2GFMRmQgw/image-shrink_1280/B4DZT5S6ciGcAQ-/0/1739349277717/B1_VP1_1200x628png?e=1751004000&v=beta&t=95P3ncx9oeZqVML6wFXuFqi0-yy8MgkjWQ7CXM_ea9c"
+      "content": "https://media.licdn.com/dms/image/v2/D4D10AQG0d2GFMRmQgw/image-shrink_1280/B4DZT5S6ciGcAQ-/0/1739349277717/B1_VP1_1200x628png?e=1751436000&v=beta&t=kRXF9du96viPbSF9mhpOh6l2zgVYEbWJ9utrHTqrX6o"
     },
     "caption": "Tanıtılan Communication, reliability, and transparency: Committed to ensuring your success, providing proactive assistance, and tailoring solutions to meet your evolving needs.\n\nTrust me to be your reliable business ally, focused on your growth and satisfaction.\n",
     "runTime": {
@@ -2055,7 +2059,7 @@
     "url": "https://www.linkedin.com/ad-library/detail/685690054?trk=ad_library_ad_preview_content_image",
     "creative": {
       "type": "img",
-      "content": "https://media.licdn.com/dms/image/v2/D4E10AQH5frtZEY2vkA/image-shrink_1280/B4EZc2EzXUHYAM-/0/1748958919003/LIN_ANZ_NxtCut_Wing_Motiv2_1080x1080pxjpg?e=1751004000&v=beta&t=ZYGgUuVu4nvXPclyVAnURq6BqLOdK75QRFY9-IvNKMo"
+      "content": "https://media.licdn.com/dms/image/v2/D4E10AQH5frtZEY2vkA/image-shrink_1280/B4EZc2EzXUHYAM-/0/1748958919003/LIN_ANZ_NxtCut_Wing_Motiv2_1080x1080pxjpg?e=1751436000&v=beta&t=Yph9qy8IBO9Qo1SeeEBtQ2-FYECBWT9mdp9aFkAqYD0"
     },
     "caption": "Tanıtılan High throughput. Smart tech. Easy maintenance.\nThe new NxtCut WING is engineered for flexible operation, featuring 400-bar hydraulics, robust design, and digital control via myLindemann.\nIdeal for small to mid-sized yards looking for power and precision.\n💡 Selectable shear forces: 800 or 1,000 tons\n💡 Optional 6.2 or 8 m bed length\n💡 Integrated remote diagnostics \nUpgrade your efficiency – discover the NxtCut WING now.\n The new NxtCut WING is engineered for flexible operation, featuring 400-bar hydraulics, robust design, and digital control via myLindemann. Ideal for small to mid-sized yards looking for power and precision. Upgrade your efficiency – discover the NxtCut WING now.",
     "runTime": {

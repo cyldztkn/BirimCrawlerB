@@ -551,6 +551,26 @@
     [
       1750291200000,
       762
+    ],
+    [
+      1750377600000,
+      764
+    ],
+    [
+      1750464000000,
+      765
+    ],
+    [
+      1750550400000,
+      764
+    ],
+    [
+      1750636800000,
+      765
+    ],
+    [
+      1750723200000,
+      766
     ]
   ],
   "data": [
@@ -1013,6 +1033,26 @@
       "comment": "0",
       "rawDetails": "https://www.instagram.com/reel/DKkGSHQtx-N/?__a=1&__d=dis",
       "date": "2025-06-06T15:17:20.000Z"
+    },
+    {
+      "id": "253446",
+      "time": "19.6.2025 14:42:33",
+      "link": "https://www.instagram.com/p/DLFgxBsNl1p/",
+      "caption": "TAURUS BLACKLINE TR INCLINED SHEAR \nDuring assembling operations\nCutting force T 1200\nDiscover more: https://www.taurusweb.it/en/blackline-inclined-shears/\n.\n.\n.\nFor more info:\nInfo@taurusweb.it\nwww.taurusweb.it",
+      "like": "37",
+      "comment": "0",
+      "rawDetails": "https://www.instagram.com/p/DLFgxBsNl1p/?__a=1&__d=dis",
+      "date": "2025-06-19T14:42:33.000Z"
+    },
+    {
+      "id": "253446",
+      "time": "17.6.2025 05:30:42",
+      "link": "https://www.instagram.com/reel/DK95eTaNbpV/",
+      "caption": "TAURUS SHEAR BALER CAT\nON TRACKS\nCutting force Ton 700 \n.\n.\n.\nFor more info:\ninfo@taurusweb.it \nwww.taurusweb.it",
+      "like": "21",
+      "comment": "0",
+      "rawDetails": "https://www.instagram.com/reel/DK95eTaNbpV/?__a=1&__d=dis",
+      "date": "2025-06-17T05:30:42.000Z"
     }
   ]
 }

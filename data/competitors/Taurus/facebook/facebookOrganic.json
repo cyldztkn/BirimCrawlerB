@@ -551,6 +551,26 @@
     [
       1750291200000,
       1499
+    ],
+    [
+      1750377600000,
+      1500
+    ],
+    [
+      1750464000000,
+      1500
+    ],
+    [
+      1750550400000,
+      1500
+    ],
+    [
+      1750636800000,
+      1500
+    ],
+    [
+      1750723200000,
+      1500
     ]
   ],
   "data": [
@@ -963,6 +983,16 @@
       "comment": "0",
       "shere": "6",
       "date": "2025-06-09T15:20:24.000Z"
+    },
+    {
+      "id": "253489",
+      "time": "19.6.2025 14:42:35",
+      "link": "http://www.facebook.com/taurus.ceg/posts/1270511701744410",
+      "caption": "TAURUS BLACKLINE TR INCLINED SHEAR \nDuring assembling operations\nCutting force T 1200\nDiscover more: https://www.taurusweb.it/en/blackline-inclined-shears/\n.\n.\n.\nFor more info:\nInfo@taurusweb.it\nwww.taurusweb.it",
+      "like": "17",
+      "comment": "1",
+      "shere": "2",
+      "date": "2025-06-19T14:42:35.000Z"
     }
   ]
 }

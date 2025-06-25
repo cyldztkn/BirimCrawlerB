@@ -445,18 +445,18 @@
     "likes": "186",
     "shares": "18",
     "time": {
-      "raw": "2ay",
-      "parsed": "20.04.2025",
-      "isoString": "2025-04-20T05:02:54.103Z"
+      "raw": "3ay",
+      "parsed": "25.03.2025",
+      "isoString": "2025-03-25T05:16:38.324Z"
     },
     "mediaType": "image",
     "mediaContent": [
-      "https://media.licdn.com/dms/image/v2/D4E22AQHaYtXw0XtnWw/feedshare-shrink_800/B4EZXJqbqTG0Ag-/0/1742845104722?e=1753315200&v=beta&t=HU2KpYEo_prxvJX9ty2TGRCgk7RqQiBg__Mq9SI9360",
-      "https://media.licdn.com/dms/image/v2/D4E22AQEnHHYwMSyQsQ/feedshare-shrink_800/B4EZXJqbplGwAo-/0/1742845105330?e=1753315200&v=beta&t=RZKOOB7uDwKKSe44yzwPeNNXAqQTzUjDJP6vBMh7L54",
-      "https://media.licdn.com/dms/image/v2/D4E22AQE_FEtZHVmfmA/feedshare-shrink_800/B4EZXJqbqZH0Ag-/0/1742845108385?e=1753315200&v=beta&t=awA7oA3bH_6QhDcTZMXKFmv4Rb6LNTgc0wCRKS_zBEM",
-      "https://media.licdn.com/dms/image/v2/D4E22AQFEUBHqYqXPPQ/feedshare-shrink_800/B4EZXJqbqwHgAg-/0/1742845104793?e=1753315200&v=beta&t=qTTTZPWV5dfpejYVBf5Q3vT-BJoaxxyRv2u8HcNjNWY"
+      "https://media.licdn.com/dms/image/v2/D4E22AQHaYtXw0XtnWw/feedshare-shrink_800/B4EZXJqbqTG0Ag-/0/1742845104722?e=1753920000&v=beta&t=ehOd1aTJJkD55ogadMJxaPzbsUBdGa07ijQY9-k5_m0",
+      "https://media.licdn.com/dms/image/v2/D4E22AQEnHHYwMSyQsQ/feedshare-shrink_800/B4EZXJqbplGwAo-/0/1742845105330?e=1753920000&v=beta&t=f4MwT8GYRLLUuzngycCBAnCB6voF23j_w6BmCwD3x0M",
+      "https://media.licdn.com/dms/image/v2/D4E22AQE_FEtZHVmfmA/feedshare-shrink_800/B4EZXJqbqZH0Ag-/0/1742845108385?e=1753920000&v=beta&t=GC3iBdGWj7NlY1TFRkEqg4eYSFqmFxG4Oqryiwca8Kk",
+      "https://media.licdn.com/dms/image/v2/D4E22AQFEUBHqYqXPPQ/feedshare-shrink_800/B4EZXJqbqwHgAg-/0/1742845104793?e=1753920000&v=beta&t=HEhBrXd5KXe7wIXiaowI3Y2vb_Hp9ST7cUysLVy_MQo"
     ],
-    "date": "2025-04-20T05:02:54.103Z"
+    "date": "2025-03-25T05:16:38.324Z"
   },
   {
     "captions": "Fjords, snow, midsommar and mostly scrap!!! That's what this new Lefort 1000T konkeror scrapshear wil see the upcoming years.\n\nVery happy to announce that we installed this beast succesfully in Norway🇳🇴!!!\n\nLEFORT® Fjords, snow, midsommar and mostly scrap!!! That's what this new Lefort 1000T konkeror scrapshear wil see the upcoming years.\n\nVery happy to announce that we installed this beast succesfully in Norway🇳🇴!!!\n\nLEFORT®",
@@ -482,51 +482,51 @@
     "shares": "6",
     "time": {
       "raw": "2ay2ay",
-      "parsed": "20.06.2025",
-      "isoString": "2025-06-20T05:02:54.100Z"
+      "parsed": "25.06.2025",
+      "isoString": "2025-06-25T05:16:38.318Z"
     },
     "mediaType": "video",
     "mediaContent": {
       "src": [
         {
-          "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHAvunjsHEtig/mp4-720p-30fp-crf28/B4EZYAOm89HYBg-/0/1743760646656?e=1751004000&v=beta&t=2J9Y6jKL8rPHyq0qIk5JUdn9zD0dB-etmu_A_UGuhp8",
+          "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHAvunjsHEtig/mp4-720p-30fp-crf28/B4EZYAOm89HYBg-/0/1743760646656?e=1751436000&v=beta&t=Hxa17iy5hmzr6q45WXspfv1yu7cUSwjxzw1-4MzGCmc",
           "type": "video/mp4",
           "data-bitrate": 1017018
         },
         {
-          "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHAvunjsHEtig/mp4-640p-30fp-crf28/B4EZYAOm89HYBc-/0/1743760645849?e=1751004000&v=beta&t=gng0eDTrhrBtK6HXJDSQOxOpInIutMdonFvpfXxUHeI",
+          "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHAvunjsHEtig/mp4-640p-30fp-crf28/B4EZYAOm89HYBc-/0/1743760645849?e=1751436000&v=beta&t=2c1LSvwoRA5laTLg5Fg0vKCAQpat2ak94VAPvxJJNYA",
           "type": "video/mp4",
           "data-bitrate": 750203
         }
       ],
-      "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQHAvunjsHEtig/videocover-high/B4EZYAOm89HYBs-/0/1743760629805?e=1751004000&v=beta&t=YnnkCmw7p2SGsKgHtRFg0539N_dYBulJYZU80uRyR-w"
+      "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQHAvunjsHEtig/videocover-high/B4EZYAOm89HYBs-/0/1743760629805?e=1751436000&v=beta&t=Icl94TS7pkZOqMDe0WdH9BmshBxXxs4fJS_UrA5UEOY"
     },
-    "date": "2025-06-20T05:02:54.100Z"
+    "date": "2025-06-25T05:16:38.318Z"
   },
   {
     "captions": "Fabriquer de l’acier en recyclant et en polluant BEAUCOUP moins, c’est possible ! \n\nJe vous fais découvrir de l’intérieur l’usine Ascoval de Valenciennes, où ils fabriquent de l’acier en refondant de la ferraille avec un four électrique. Pour la même quantité d’acier, ce processus émet 10 fois moins de CO2 qu’un haut fourneau classique. \n\nDans un haut fourneau, on utilise essentiellement du minerai de fer et du charbon pour fabriquer de l’acier. \n\nLes seuls hauts fourneaux d’ArcelorMittal (à Fos-sur-Mer et à Dunkerque) représentent à eux seuls 25% des émissions de CO2 industrielles de toute la France ! \n\nPour découvrir notre enquête complète sur l’acier, rendez-vous le lundi 14 avril à 21h sur France 5 dans mon #SurLeFront 🫡",
     "time": {
       "raw": "2ay",
-      "parsed": "20.04.2025",
-      "isoString": "2025-04-20T05:02:54.101Z"
+      "parsed": "25.04.2025",
+      "isoString": "2025-04-25T05:16:38.319Z"
     },
     "mediaType": "video",
     "mediaContent": {
       "src": [
         {
-          "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHAvunjsHEtig/mp4-720p-30fp-crf28/B4EZYAOm89HYBg-/0/1743760646656?e=1751004000&v=beta&t=2J9Y6jKL8rPHyq0qIk5JUdn9zD0dB-etmu_A_UGuhp8",
+          "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHAvunjsHEtig/mp4-720p-30fp-crf28/B4EZYAOm89HYBg-/0/1743760646656?e=1751436000&v=beta&t=Hxa17iy5hmzr6q45WXspfv1yu7cUSwjxzw1-4MzGCmc",
           "type": "video/mp4",
           "data-bitrate": 1017018
         },
         {
-          "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHAvunjsHEtig/mp4-640p-30fp-crf28/B4EZYAOm89HYBc-/0/1743760645849?e=1751004000&v=beta&t=gng0eDTrhrBtK6HXJDSQOxOpInIutMdonFvpfXxUHeI",
+          "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHAvunjsHEtig/mp4-640p-30fp-crf28/B4EZYAOm89HYBc-/0/1743760645849?e=1751436000&v=beta&t=2c1LSvwoRA5laTLg5Fg0vKCAQpat2ak94VAPvxJJNYA",
           "type": "video/mp4",
           "data-bitrate": 750203
         }
       ],
-      "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQHAvunjsHEtig/videocover-high/B4EZYAOm89HYBs-/0/1743760629805?e=1751004000&v=beta&t=YnnkCmw7p2SGsKgHtRFg0539N_dYBulJYZU80uRyR-w"
+      "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQHAvunjsHEtig/videocover-high/B4EZYAOm89HYBs-/0/1743760629805?e=1751436000&v=beta&t=Icl94TS7pkZOqMDe0WdH9BmshBxXxs4fJS_UrA5UEOY"
     },
-    "date": "2025-04-20T05:02:54.101Z"
+    "date": "2025-04-25T05:16:38.319Z"
   },
   {
     "captions": "Félicitations à la société Vincent Recyclage pour sa nouvelle acquisition, une superbe presse/cisaille TRAX 700T aux couleurs inédites ! Félicitations à la société Vincent Recyclage pour sa nouvelle acquisition, une superbe presse/cisaille TRAX 700T aux couleurs inédites !",
@@ -535,16 +535,16 @@
     "shares": "4",
     "time": {
       "raw": "2ay",
-      "parsed": "20.04.2025",
-      "isoString": "2025-04-20T05:02:54.101Z"
+      "parsed": "25.04.2025",
+      "isoString": "2025-04-25T05:16:38.320Z"
     },
     "mediaType": "image",
     "mediaContent": [
-      "https://media.licdn.com/dms/image/v2/D4E22AQHlYKk5HWId1w/feedshare-shrink_800/B4EZXxkmjNG0Ag-/0/1743514660212?e=1753315200&v=beta&t=YFx8ZN9J-hHIB2die_5hJp2ADfg--oC2OASseUxG56U",
-      "https://media.licdn.com/dms/image/v2/D4E22AQEccCNGfoeelQ/feedshare-shrink_800/B4EZXxkmi4G0Ak-/0/1743514659934?e=1753315200&v=beta&t=UBwrcQoLMhiQkAzxcvyONvazydhwGBxodJ5vEZQtld4",
-      "https://media.licdn.com/dms/image/v2/D4E22AQFTA-4Y_QmRww/feedshare-shrink_800/B4EZXxkmjLHMAg-/0/1743514661018?e=1753315200&v=beta&t=lXUekIMedNKK8Kifcu1M8hF7aC14Cp9W_g4q67HnxqM"
+      "https://media.licdn.com/dms/image/v2/D4E22AQHlYKk5HWId1w/feedshare-shrink_800/B4EZXxkmjNG0Ag-/0/1743514660212?e=1753920000&v=beta&t=puKMj_Y3oif2WKh_hsEXdS3LjsUOcjskmd5xEI_uCBA",
+      "https://media.licdn.com/dms/image/v2/D4E22AQEccCNGfoeelQ/feedshare-shrink_800/B4EZXxkmi4G0Ak-/0/1743514659934?e=1753920000&v=beta&t=_cRxzOoOaZTK_M20d_Wl6RzPSG7c0y1X7VHtkBYSHEg",
+      "https://media.licdn.com/dms/image/v2/D4E22AQFTA-4Y_QmRww/feedshare-shrink_800/B4EZXxkmjLHMAg-/0/1743514661018?e=1753920000&v=beta&t=dBBw3cwb4jf_juN_hJRVD2WbbaGDeugLg0g2tvDhIRU"
     ],
-    "date": "2025-04-20T05:02:54.101Z"
+    "date": "2025-04-25T05:16:38.320Z"
   },
   {
     "captions": "It was bound to happen ... The LEFORT #AIStarterPack is out !\n\n(And no, we do not manufacture cereal cutting machines 😂)It was bound to happen ... The LEFORT #AIStarterPack is out !\n\n(And no, we do not manufacture cereal cutting machines 😂)",
@@ -552,14 +552,14 @@
     "shares": "7",
     "time": {
       "raw": "2ay",
-      "parsed": "20.04.2025",
-      "isoString": "2025-04-20T05:02:54.099Z"
+      "parsed": "25.04.2025",
+      "isoString": "2025-04-25T05:16:38.317Z"
     },
     "mediaType": "image",
     "mediaContent": [
-      "https://media.licdn.com/dms/image/v2/D4E22AQFgQ0lxUjIL1A/feedshare-shrink_800/B4EZYk8Z2mHgAk-/0/1744376542062?e=1753315200&v=beta&t=0r7_42duBoDOxGrE6YWwrtVyIcuqrSHK7-xKc6pr5qk"
+      "https://media.licdn.com/dms/image/v2/D4E22AQFgQ0lxUjIL1A/feedshare-shrink_800/B4EZYk8Z2mHgAk-/0/1744376542062?e=1753920000&v=beta&t=a0qpcgAZIMVDn83bi3BHb78u_g5huAsCTdiC6QbuBkY"
     ],
-    "date": "2025-04-20T05:02:54.099Z"
+    "date": "2025-04-25T05:16:38.317Z"
   },
   {
     "captions": "Giorno di consegna in Italia 🇮🇹🤩\n\nFabio Esposito  🙌Giorno di consegna in Italia 🇮🇹🤩\n\nFabio Esposito  🙌",
@@ -568,30 +568,30 @@
     "shares": "2",
     "time": {
       "raw": "2ay",
-      "parsed": "20.04.2025",
-      "isoString": "2025-04-20T05:02:54.097Z"
+      "parsed": "25.04.2025",
+      "isoString": "2025-04-25T05:16:38.314Z"
     },
     "mediaType": "image",
     "mediaContent": [
-      "https://media.licdn.com/dms/image/v2/D4E22AQGd_MoaZcdMXA/feedshare-shrink_800/B4EZZENOSGHcAg-/0/1744901040224?e=1753315200&v=beta&t=q_lqYr18LF281MRCmdQ8qWnOCKdOmo5POcNsisnoUQk",
-      "https://media.licdn.com/dms/image/v2/D4E22AQH3Pkq7WHYDbw/feedshare-shrink_800/B4EZZENOTPHEAg-/0/1744901041271?e=1753315200&v=beta&t=CqSpizEKo3XZk9K0ofE2GSdY1NOstQsyC6395paiYJw"
+      "https://media.licdn.com/dms/image/v2/D4E22AQGd_MoaZcdMXA/feedshare-shrink_800/B4EZZENOSGHcAg-/0/1744901040224?e=1753920000&v=beta&t=sGIhR6k71zrL4YRk0o7PX5T9LBNHYKLCUXiMpx7njMw",
+      "https://media.licdn.com/dms/image/v2/D4E22AQH3Pkq7WHYDbw/feedshare-shrink_800/B4EZZENOTPHEAg-/0/1744901041271?e=1753920000&v=beta&t=AvUIZ6ekXCjrY61AGXgPxDgKGhVvIhO8jaWibSPoQc4"
     ],
-    "date": "2025-04-20T05:02:54.097Z"
+    "date": "2025-04-25T05:16:38.314Z"
   },
   {
     "captions": "𝐋𝐞𝐟𝐨𝐫𝐭 𝐮𝐧𝐯𝐞𝐢𝐥𝐬 𝐢𝐭𝐬 𝐍𝐞𝐰 𝐓𝐫𝐚𝐱 𝟏𝟐𝟓𝟎 𝐰𝐢𝐭𝐡 𝐢𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐞𝐝 𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐭𝐚𝐛𝐥𝐞. 𝐓𝐡𝐞 𝐟𝐢𝐫𝐬𝐭 𝐨𝐧𝐞 𝐰𝐢𝐥𝐥 𝐛𝐞 𝐝𝐞𝐥𝐢𝐯𝐞𝐫𝐞𝐝 𝐭𝐨 𝐭𝐡𝐞 𝐔𝐧𝐢𝐭𝐞𝐝 𝐒𝐭𝐚𝐭𝐞𝐬 𝐢𝐧 𝐭𝐡𝐞 𝐜𝐨𝐦𝐢𝐧𝐠 𝐰𝐞𝐞𝐤𝐬. 🇺🇸\n\nEquipped with a high-performance 550 hp engine and a 7m box, the Trax 1250 delivers an impressive cutting force of 1,250 tons (1,375 us tons). Thanks to its crawler tracks, the machine moves effortlessly across sites, offering unmatched flexibility for both on-site operations and recycling facilities.\n \nBut the true game-changer lies in its integrated loading table/hopper. This innovative configuration significantly boosts productivity by allowing continuous feeding of the shear and reducing material handling. During the compression/shearing cycle, the operator can already prepare the next batch by loading the hopper – eliminating idle time.\n\nRead more : https://lnkd.in/eHadwe6A𝐋𝐞𝐟𝐨𝐫𝐭 𝐮𝐧𝐯𝐞𝐢𝐥𝐬 𝐢𝐭𝐬 𝐍𝐞𝐰 𝐓𝐫𝐚𝐱 𝟏𝟐𝟓𝟎 𝐰𝐢𝐭𝐡 𝐢𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐞𝐝 𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐭𝐚𝐛𝐥𝐞. 𝐓𝐡𝐞 𝐟𝐢𝐫𝐬𝐭 𝐨𝐧𝐞 𝐰𝐢𝐥𝐥 𝐛𝐞 𝐝𝐞𝐥𝐢𝐯𝐞𝐫𝐞𝐝 𝐭𝐨 𝐭𝐡𝐞 𝐔𝐧𝐢𝐭𝐞𝐝 𝐒𝐭𝐚𝐭𝐞𝐬 𝐢𝐧 𝐭𝐡𝐞 𝐜𝐨𝐦𝐢𝐧𝐠 𝐰𝐞𝐞𝐤𝐬. 🇺🇸\n\nEquipped with a high-performance 550 hp engine and a 7m box, the Trax 1250 delivers an impressive cutting force of 1,250 tons (1,375 us tons). Thanks to its crawler tracks, the machine moves effortlessly across sites, offering unmatched flexibility for both on-site operations and recycling facilities.\n \nBut the true game-changer lies in its integrated loading table/hopper. This innovative configuration significantly boosts productivity by allowing continuous feeding of the shear and reducing material handling. During the compression/shearing cycle, the operator can already prepare the next batch by loading the hopper – eliminating idle time.\n\nRead more : https://lnkd.in/eHadwe6A",
     "likes": "141",
     "shares": "17",
     "time": {
-      "raw": "1ay",
-      "parsed": "20.05.2025",
-      "isoString": "2025-05-20T05:02:54.095Z"
+      "raw": "2ay",
+      "parsed": "25.04.2025",
+      "isoString": "2025-04-25T05:16:38.311Z"
     },
     "mediaType": "image",
     "mediaContent": [
-      "https://media.licdn.com/dms/image/v2/D4E22AQEDFj5fJAn3HQ/feedshare-shrink_800/B4EZZiBv_hHMAk-/0/1745401350969?e=1753315200&v=beta&t=_XWiWoPpiwayV2zgM0ymiJpZacNUqp5wJMHWm25zgYg"
+      "https://media.licdn.com/dms/image/v2/D4E22AQEDFj5fJAn3HQ/feedshare-shrink_800/B4EZZiBv_hHMAk-/0/1745401350969?e=1753920000&v=beta&t=VKPyh6r67E73ZDOWGAXvH5dz7yQSXL1SwPgVfCzkuOg"
     ],
-    "date": "2025-05-20T05:02:54.095Z"
+    "date": "2025-04-25T05:16:38.311Z"
   },
   {
     "captions": "Discover the new Lefort TRAX 1250 with loading hopper, in action ! \n\nWith this configuration, the TRAX 1250 ensures full on-site autonomy and superior productivity — helping you work faster, smarter, and more effectively.\n\n🎬 Watch the video",
@@ -600,26 +600,26 @@
     "shares": "20",
     "time": {
       "raw": "1ay",
-      "parsed": "20.05.2025",
-      "isoString": "2025-05-20T05:02:54.094Z"
+      "parsed": "25.05.2025",
+      "isoString": "2025-05-25T05:16:38.309Z"
     },
     "mediaType": "video",
     "mediaContent": {
       "src": [
         {
-          "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQG7BSO1st-A2Q/mp4-720p-30fp-crf28/B4EZZ7IObLHcBU-/0/1745822505032?e=1751004000&v=beta&t=VxxbP5NeUd3dvvKkssWprOb8g7SxPWmK05BymHglrOc",
+          "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQG7BSO1st-A2Q/mp4-720p-30fp-crf28/B4EZZ7IObLHcBU-/0/1745822505032?e=1751436000&v=beta&t=YlSzJ21cdYTHySDed0L8jN-bp87X1H56SdWGT4iJv9o",
           "type": "video/mp4",
           "data-bitrate": 929275
         },
         {
-          "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQG7BSO1st-A2Q/mp4-640p-30fp-crf28/B4EZZ7IObLHcBQ-/0/1745822503635?e=1751004000&v=beta&t=FftrQe5pB27wPUVOhcLxs25sL4h95KyyZ_SMEOJKBA8",
+          "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQG7BSO1st-A2Q/mp4-640p-30fp-crf28/B4EZZ7IObLHcBQ-/0/1745822503635?e=1751436000&v=beta&t=8tJpAdfOLvO7xyxV_iOupOP9zo--ia0-hnoJInNYb1M",
           "type": "video/mp4",
           "data-bitrate": 658025
         }
       ],
-      "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQG7BSO1st-A2Q/videocover-low/B4EZZ7IObLHcCE-/0/1745822495773?e=1751004000&v=beta&t=lUrgJM23359vY0GAw30gZVz97c5a3NKrmv4dCP-tivA"
+      "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQG7BSO1st-A2Q/videocover-low/B4EZZ7IObLHcCE-/0/1745822495773?e=1751436000&v=beta&t=ki55I4F7-f-3tRw0dKUxJs648e-itAKkwr353ZTX0Yo"
     },
-    "date": "2025-05-20T05:02:54.094Z"
+    "date": "2025-05-25T05:16:38.309Z"
   },
   {
     "captions": "Only one week left before the 2025 ReMa Convention & Exposition in San Diego 🇺🇸🤩\n\nThis will be a great opportunity to connect with our team and discover our latest innovations/products engineered to boost your productivity, efficiency and reliability. \n\n👋🏼 Feel free to stop by and say hello! We look forward to seeing you there!\n\n#rema2025 #LefortAmerica\n\nRecycled Materials Association (ReMA)Only one week left before the 2025 ReMa Convention & Exposition in San Diego 🇺🇸🤩\n\nThis will be a great opportunity to connect with our team and discover our latest innovations/products engineered to boost your productivity, efficiency and reliability. \n\n👋🏼 Feel free to stop by and say hello! We look forward to seeing you there!\n\n#rema2025 #LefortAmerica\n\nRecycled Materials Association (ReMA)",
@@ -627,14 +627,14 @@
     "shares": "8",
     "time": {
       "raw": "1ay",
-      "parsed": "20.05.2025",
-      "isoString": "2025-05-20T05:02:54.089Z"
+      "parsed": "25.05.2025",
+      "isoString": "2025-05-25T05:16:38.305Z"
     },
     "mediaType": "image",
     "mediaContent": [
-      "https://media.licdn.com/dms/image/v2/D4E22AQEFdsofHKjhKg/feedshare-shrink_800/B4EZah6upAHMAg-/0/1746473251797?e=1753315200&v=beta&t=ekH03xiJJheT2J9tWje2fkKt1gAMx1gOBFBqFRsWpas"
+      "https://media.licdn.com/dms/image/v2/D4E22AQEFdsofHKjhKg/feedshare-shrink_800/B4EZah6upAHMAg-/0/1746473251797?e=1753920000&v=beta&t=JPZlrrVIbfJDGei-_-GBDUzRRzrnuQX7GvqZIUl02eI"
     ],
-    "date": "2025-05-20T05:02:54.089Z"
+    "date": "2025-05-25T05:16:38.305Z"
   },
   {
     "captions": "If you’re in the music city this week for the AIST - Association for Iron & Steel Technology show please come by LEFORT®  booth #201 to talk with us about heavy steel processing! \n\nJonathan Miller \nMichael SchultzIf you’re in the music city this week for the AIST - Association for Iron & Steel Technology show please come by LEFORT®  booth #201 to talk with us about heavy steel processing! \n\nJonathan Miller \nMichael Schultz",
@@ -642,14 +642,14 @@
     "shares": "2",
     "time": {
       "raw": "1ay",
-      "parsed": "20.05.2025",
-      "isoString": "2025-05-20T05:02:54.092Z"
+      "parsed": "25.05.2025",
+      "isoString": "2025-05-25T05:16:38.306Z"
     },
     "mediaType": "image",
     "mediaContent": [
-      "https://media.licdn.com/dms/image/v2/D4E22AQEVu3evy0V75g/feedshare-shrink_800/B4EZagfDX4HMAg-/0/1746449218404?e=1753315200&v=beta&t=1SWejxGAlhecq818jUWj1-uaxvbdZNmCw16FBZmMEMA"
+      "https://media.licdn.com/dms/image/v2/D4E22AQEVu3evy0V75g/feedshare-shrink_800/B4EZagfDX4HMAg-/0/1746449218404?e=1753920000&v=beta&t=Nw8LRgFuDGHn7QCr4NOqeIZXDudv270exlllaZUftqY"
     ],
-    "date": "2025-05-20T05:02:54.092Z"
+    "date": "2025-05-25T05:16:38.306Z"
   },
   {
     "captions": "🔧 #ExhibitorSpotlight – LEFORT® | #BIRValencia2025\n Founded in 1947, LEFORT® is a global leader in the design and manufacturing of shears, balers, and shredders for the #recycledmetal industry.♻️ 🇧🇪\nWith decades of engineering expertise, LEFORT continues to set industry standards in #recyclingmachinery across 5 continents. 🌍\n\n📍Meet LEFORT at the #BIR World Recycling Convention & Exhibition in Valencia! 👉 Learn more about our exhibitors 👉 https://lnkd.in/eeWdvnh2\n\n#LEFORT #MetalRecycling #RecyclingMachinery #CircularEconomy #GlobalRecycling #RecyclingTechnology🔧 #ExhibitorSpotlight – LEFORT® | #BIRValencia2025\n Founded in 1947, LEFORT® is a global leader in the design and manufacturing of shears, balers, and shredders for the #recycledmetal industry.♻️ 🇧🇪\nWith decades of engineering expertise, LEFORT continues to set industry standards in #recyclingmachinery across 5 continents. 🌍\n\n📍Meet LEFORT at the #BIR World Recycling Convention & Exhibition in Valencia! 👉 Learn more about our exhibitors 👉 https://lnkd.in/eeWdvnh2\n\n#LEFORT #MetalRecycling #RecyclingMachinery #CircularEconomy #GlobalRecycling #RecyclingTechnology",
@@ -657,14 +657,14 @@
     "shares": "2",
     "time": {
       "raw": "1ay",
-      "parsed": "20.05.2025",
-      "isoString": "2025-05-20T05:02:54.093Z"
+      "parsed": "25.05.2025",
+      "isoString": "2025-05-25T05:16:38.307Z"
     },
     "mediaType": "image",
     "mediaContent": [
-      "https://media.licdn.com/dms/image/v2/D4E22AQFPz2Tr8Unp_g/feedshare-shrink_800/B4EZaQ6DjgHkAg-/0/1746187861179?e=1753315200&v=beta&t=qyJctGP4nQu7CnYfZD9yDAVHGqfO32y1xuOs_AJ15U8"
+      "https://media.licdn.com/dms/image/v2/D4E22AQFPz2Tr8Unp_g/feedshare-shrink_800/B4EZaQ6DjgHkAg-/0/1746187861179?e=1753920000&v=beta&t=DmEI3HFs_Pj2CXSnd2D-gRvUck3W37yJSa4vDV35hYc"
     ],
-    "date": "2025-05-20T05:02:54.093Z"
+    "date": "2025-05-25T05:16:38.307Z"
   },
   {
     "captions": "Something different, shearing lead for a valued customer.Something different, shearing lead for a valued customer.",
@@ -673,17 +673,17 @@
     "shares": "3",
     "time": {
       "raw": "1ay",
-      "parsed": "20.05.2025",
-      "isoString": "2025-05-20T05:02:54.086Z"
+      "parsed": "25.05.2025",
+      "isoString": "2025-05-25T05:16:38.302Z"
     },
     "mediaType": "image",
     "mediaContent": [
-      "https://media.licdn.com/dms/image/v2/D4E22AQF7TqH5F0tZvg/feedshare-shrink_800/B4EZbZvXIQHAAk-/0/1747409803201?e=1753315200&v=beta&t=9GVP5S311mqdXud5Tajeb2D7XdjhdlSBaPaNvWNRleY",
-      "https://media.licdn.com/dms/image/v2/D4E22AQFWV--HCuewyg/feedshare-shrink_800/B4EZbZvXHZGkAk-/0/1747409803153?e=1753315200&v=beta&t=ndYT5fG_KLXyE18a3_03Kuk6nGgyuhT9kI1_qE8eEDc",
-      "https://media.licdn.com/dms/image/v2/D4E22AQEfdn4yLpZ34A/feedshare-shrink_800/B4EZbZvXHfGQAg-/0/1747409802366?e=1753315200&v=beta&t=E0xVPAfiDjJWGis_GvGtJY6UXUdEh0a9XnAr6L_monQ",
-      "https://media.licdn.com/dms/image/v2/D4E22AQHaHz8hlYr3qQ/feedshare-shrink_800/B4EZbZvXH9GcAg-/0/1747409800019?e=1753315200&v=beta&t=NmqKDmOllNwruY2oxTJSEiRmwwdpHB-elm6wnereYFc"
+      "https://media.licdn.com/dms/image/v2/D4E22AQF7TqH5F0tZvg/feedshare-shrink_800/B4EZbZvXIQHAAk-/0/1747409803201?e=1753920000&v=beta&t=zS1mZaVenZGN96bMB00qJAKU6d1p929XbDFsiqmpnNg",
+      "https://media.licdn.com/dms/image/v2/D4E22AQFWV--HCuewyg/feedshare-shrink_800/B4EZbZvXHZGkAk-/0/1747409803153?e=1753920000&v=beta&t=ezPGyhIykcACqVYGitZCvo-Pt3OUgZ-c0qVfXlkUSGg",
+      "https://media.licdn.com/dms/image/v2/D4E22AQEfdn4yLpZ34A/feedshare-shrink_800/B4EZbZvXHfGQAg-/0/1747409802366?e=1753920000&v=beta&t=UR9mD-bJydzDIDkAEP5lADF9otSqg3BtMLrFGVsqcQY",
+      "https://media.licdn.com/dms/image/v2/D4E22AQHaHz8hlYr3qQ/feedshare-shrink_800/B4EZbZvXH9GcAg-/0/1747409800019?e=1753920000&v=beta&t=DbhuGk7nm6YqMw2yhbg37oQq7HHVyhLbpjiEBKbwFvw"
     ],
-    "date": "2025-05-20T05:02:54.086Z"
+    "date": "2025-05-25T05:16:38.302Z"
   },
   {
     "captions": "The LEFORT® team looks forward to welcoming you at the Recycled Materials Association (ReMA) trade show in San Diego 🏄🏽♂️🇺🇸\n\nA great opportunity to connect and discover our latest innovations/products engineered to boost your productivity, efficiency and reliability. \n\n👋🏼 Feel free to stop by and say hello! We look forward to seeing you!\n\n#LefortAmerica #rema2025The LEFORT® team looks forward to welcoming you at the Recycled Materials Association (ReMA) trade show in San Diego 🏄🏽♂️🇺🇸\n\nA great opportunity to connect and discover our latest innovations/products engineered to boost your productivity, efficiency and reliability. \n\n👋🏼 Feel free to stop by and say hello! We look forward to seeing you!\n\n#LefortAmerica #rema2025",
@@ -692,46 +692,46 @@
     "shares": "9",
     "time": {
       "raw": "1ay",
-      "parsed": "20.05.2025",
-      "isoString": "2025-05-20T05:02:54.088Z"
+      "parsed": "25.05.2025",
+      "isoString": "2025-05-25T05:16:38.303Z"
     },
     "mediaType": "image",
     "mediaContent": [
-      "https://media.licdn.com/dms/image/v2/D4E22AQHAL25_YNLtng/feedshare-shrink_800/B4EZbQA9XeHkAo-/0/1747246640207?e=1753315200&v=beta&t=y4nOC6mJ_oA_Rt_q-pb9vaLrjgaeadJ7XY6KH48ti3Y",
-      "https://media.licdn.com/dms/image/v2/D4E22AQE5hoH7aJThLA/feedshare-shrink_800/B4EZbQA9XuGcAg-/0/1747246642264?e=1753315200&v=beta&t=pWh1vgvFbs3U14KZmhgMYQ0G_NKxvn3ysegz2qual90",
-      "https://media.licdn.com/dms/image/v2/D4E22AQHzdahOVexRQA/feedshare-shrink_800/B4EZbQA9WqGcAo-/0/1747246642925?e=1753315200&v=beta&t=4AXt_vkbHYJc75cgVnbpH19P7b1lEKp98nPLQsfgCqg",
-      "https://media.licdn.com/dms/image/v2/D4E22AQHUIF5kqDx7UQ/feedshare-shrink_800/B4EZbQA9WmGcAk-/0/1747246643400?e=1753315200&v=beta&t=juAWUPgwFumNMTAMHjmspG89lV00C_p6D7INSc9IIEk"
+      "https://media.licdn.com/dms/image/v2/D4E22AQHAL25_YNLtng/feedshare-shrink_800/B4EZbQA9XeHkAo-/0/1747246640207?e=1753920000&v=beta&t=rUpKQB6mx0I7xH0gRSwxc3j4mEk4hMHCzgoUNZHGuOI",
+      "https://media.licdn.com/dms/image/v2/D4E22AQE5hoH7aJThLA/feedshare-shrink_800/B4EZbQA9XuGcAg-/0/1747246642264?e=1753920000&v=beta&t=HyBg0e54bvyjXhU_yGM2nuHJK5MHvcVou8qRlzLjG20",
+      "https://media.licdn.com/dms/image/v2/D4E22AQHzdahOVexRQA/feedshare-shrink_800/B4EZbQA9WqGcAo-/0/1747246642925?e=1753920000&v=beta&t=s3WUATOq810Cbghjg5yfQ8SWHeWaOART_GBjiFie1qM",
+      "https://media.licdn.com/dms/image/v2/D4E22AQHUIF5kqDx7UQ/feedshare-shrink_800/B4EZbQA9WmGcAk-/0/1747246643400?e=1753920000&v=beta&t=NVzstwm_OWG7f6vhXVFty8U9KtLc0TyWhvKC33SVjW8"
     ],
-    "date": "2025-05-20T05:02:54.088Z"
+    "date": "2025-05-25T05:16:38.303Z"
   },
   {
     "captions": "Excited to announce we have a new Lefort Family member and a new color scheme on our Trax Machines. New trax720 completed and ready to ship out to its new home in IA.\n#Lefort\t#Recycling #ReMA #ISRI #NDA #shears #balers #scrap #ferrous #steel #demolition #heavymachinesExcited to announce we have a new Lefort Family member and a new color scheme on our Trax Machines. New trax720 completed and ready to ship out to its new home in IA.\n#Lefort\t#Recycling #ReMA #ISRI #NDA #shears #balers #scrap #ferrous #steel #demolition #heavymachines",
     "likes": "94",
     "comments": "2",
-    "shares": "6",
+    "shares": "8",
     "time": {
-      "raw": "3h",
-      "parsed": "30.05.2025",
-      "isoString": "2025-05-30T05:02:54.085Z"
+      "raw": "1ay",
+      "parsed": "25.05.2025",
+      "isoString": "2025-05-25T05:16:38.300Z"
     },
     "mediaType": "image",
     "mediaContent": [
-      "https://media.licdn.com/dms/image/v2/D4E22AQGLli4P7Z6FNg/feedshare-shrink_800/B4EZb9LwiwHQAg-/0/1748004447515?e=1753315200&v=beta&t=sT3lDqbrVkzClMouNOTfcp2a_UB5G_un3szfQDph-yk",
-      "https://media.licdn.com/dms/image/v2/D4E22AQHJYOiGAXGpgA/feedshare-shrink_800/B4EZb9LwjAGQAk-/0/1748004447192?e=1753315200&v=beta&t=9WUGHC3dcGzM06jO4_M4B0Z6TSlDRiBTX19W6fMvLXc",
-      "https://media.licdn.com/dms/image/v2/D4E22AQG3wiq3-Mnjdg/feedshare-shrink_800/B4EZb9LwjEHQAk-/0/1748004447428?e=1753315200&v=beta&t=4KJQ4EYk5yXk6UAro2x_Y8hraHUukfk4Z7OQ013ihoo",
-      "https://media.licdn.com/dms/image/v2/D4E22AQE-cMz0FYDxEQ/feedshare-shrink_800/B4EZb9LwjKHYAg-/0/1748004447001?e=1753315200&v=beta&t=LWpriiu1ETGuNPCvq1wTvCIgG-bygzm_HWdzdnHAoMY"
+      "https://media.licdn.com/dms/image/v2/D4E22AQGLli4P7Z6FNg/feedshare-shrink_800/B4EZb9LwiwHQAg-/0/1748004447515?e=1753920000&v=beta&t=v7btPM_o0M2LOt64s6BHmfl7CAlMo6iBE1AlU_tNzNM",
+      "https://media.licdn.com/dms/image/v2/D4E22AQHJYOiGAXGpgA/feedshare-shrink_800/B4EZb9LwjAGQAk-/0/1748004447192?e=1753920000&v=beta&t=jHgqlYambH4RW97asmYEmjyfrGpAX9XvfQRzqRStzR0",
+      "https://media.licdn.com/dms/image/v2/D4E22AQG3wiq3-Mnjdg/feedshare-shrink_800/B4EZb9LwjEHQAk-/0/1748004447428?e=1753920000&v=beta&t=FWry4099sgIsoDLyPjlQmJTKX7B2wUIQgyVBVC0xh7w",
+      "https://media.licdn.com/dms/image/v2/D4E22AQE-cMz0FYDxEQ/feedshare-shrink_800/B4EZb9LwjKHYAg-/0/1748004447001?e=1753920000&v=beta&t=YRGqqs3wQWa1nGF_WaXCbVELKHhUDWtDPiIfUiXR0es"
     ],
-    "date": "2025-05-30T05:02:54.085Z"
+    "date": "2025-05-25T05:16:38.300Z"
   },
   {
     "captions": "In Our Site In Béziers, We Are Giving Recycling A New Boost\n\nSince joining Riwald Recycling in 2023, we have been actively strengthening our role in the circular economy by offering waste recovery and logistics solutions for individuals, professionals, and local authorities.\nBased in Béziers, France, we now play a strategic role within the Recycling division. Thanks to continuous investment, we are continuing to grow and constantly optimising our operational performance.\n\nWe have recently installed a new KONKEROR700 electric shear press with a capacity of 1,000 tons. This equipment enables us to cut all types of scrap metal, compact it to increase load density, and ensure direct shipment to foundries.\n\nWe also provide skips of various sizes for the collection of non-hazardous industrial waste (NIW), such as cardboard, wood, and miscellaneous waste. Our weighbridges allow us to weigh quantities in real time, offering our customers a responsive service and exemplary traceability.\nEvery day, we take concrete action to promote more efficient, sustainable, and forward-looking recycling.\n\n👉 Feel free to contact our sales representative PATRICE DELCOURT to learn more about our services or get a personalized quote.",
-    "likes": "57",
+    "likes": "60",
     "comments": "2",
     "shares": "10",
     "time": {
-      "raw": "3h",
-      "parsed": "30.05.2025",
-      "isoString": "2025-05-30T05:02:54.081Z"
+      "raw": "4h",
+      "parsed": "28.05.2025",
+      "isoString": "2025-05-28T05:16:38.298Z"
     },
     "mediaType": "document",
     "mediaContent": {
@@ -742,122 +742,149 @@
         {
           "type": "image",
           "config": {
-            "src": "https://media.licdn.com/dms/image/v2/D561FAQEKn6zTASnQCg/feedshare-document-cover-images_480/B56ZcRtOJEHUBc-/0/1748348759735?e=1751004000&v=beta&t=NfycQz-ZtLqe8J8trjrLyqq6BqU7JnCjAhJyCZCFsWU"
+            "src": "https://media.licdn.com/dms/image/v2/D561FAQEKn6zTASnQCg/feedshare-document-cover-images_480/B56ZcRtOJEHUBc-/0/1748348759735?e=1751436000&v=beta&t=xPilqhxkEycJx8xTuJg-r7q8JU-XZhZU8Df59v2S32o"
           }
         },
         {
           "type": "image",
           "config": {
-            "src": "https://media.licdn.com/dms/image/v2/D561FAQEKn6zTASnQCg/feedshare-document-cover-images_480/B56ZcRtOJEHUBc-/1/1748348759735?e=1751004000&v=beta&t=DfvjJ125TZ2qCL49haUjm-6yNnAkRz_2lBWIBii0sR4"
+            "src": "https://media.licdn.com/dms/image/v2/D561FAQEKn6zTASnQCg/feedshare-document-cover-images_480/B56ZcRtOJEHUBc-/1/1748348759735?e=1751436000&v=beta&t=QP8YmGjgOT5iQ2qlKbnJLBzn32V4mlOTOb9Z0ZKKWVA"
           }
         }
       ]
     },
-    "date": "2025-05-30T05:02:54.081Z"
+    "date": "2025-05-28T05:16:38.298Z"
   },
   {
     "captions": "Congratulations to HJHansen Recycling Group with a new Konkeror 1000 stationary shear from LEFORT®.\n\nAt Viggo Bendz A/S we are able to provide scrap shears from Lefort, that includes mobile as well as stationary shears, with cutting force from 600 tons to 2000 tons. And with the highest and unsurpassed productivity levels.\n\nLefort - the only scrap shear that could give the Hulk an inferiority complex. 💪\nWith up to 2,000 tons of cutting force – this shear doesn't bend to steel… it eats it for breakfast.\n#Recyclemetals",
-    "likes": "52",
+    "likes": "54",
     "shares": "5",
     "time": {
-      "raw": "3h",
-      "parsed": "30.05.2025",
-      "isoString": "2025-05-30T05:02:54.083Z"
+      "raw": "4h",
+      "parsed": "28.05.2025",
+      "isoString": "2025-05-28T05:16:38.299Z"
     },
     "mediaType": "video",
     "mediaContent": {
       "src": [
         {
-          "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQEaJzxnhHld-Q/mp4-640p-30fp-crf28/B4DZcQ8QRjIEBI-/0/1748335970949?e=1751004000&v=beta&t=PULbzPmLnOOZOAuM2j-I2ocPbw-bADErTX8MObGH3mI",
+          "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQEaJzxnhHld-Q/mp4-640p-30fp-crf28/B4DZcQ8QRjIEBI-/0/1748335970949?e=1751436000&v=beta&t=75ru5tVYmCe-tNqAf4eJkT9AU3psu-D9CQKjpmmA2nQ",
           "type": "video/mp4",
           "data-bitrate": 1018730
         },
         {
-          "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQEaJzxnhHld-Q/mp4-720p-30fp-crf28/B4DZcQ8QRjIEBM-/0/1748335969069?e=1751004000&v=beta&t=aXX7CJrDipJGuqEJVwjShyE_o2LLXuc9Vdjgrx_-Z_Q",
+          "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQEaJzxnhHld-Q/mp4-720p-30fp-crf28/B4DZcQ8QRjIEBM-/0/1748335969069?e=1751436000&v=beta&t=qFn6ivZw1bK9HKHPTf6h3IQKsSMOigekyRzUtW-LjMA",
           "type": "video/mp4",
           "data-bitrate": 1336188
         }
       ],
-      "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQEaJzxnhHld-Q/videocover-low/B4DZcQ8QRjIEBk-/0/1748335965385?e=1751004000&v=beta&t=ibzITWe2bFEL7S2j4xnbh_CxQ990ca76AGP1tq66-T4"
+      "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQEaJzxnhHld-Q/videocover-low/B4DZcQ8QRjIEBk-/0/1748335965385?e=1751436000&v=beta&t=JnBqe2sDU4SOTKsd5SoPlb9joeP5BSqT6lW6zR1hkRs"
     },
-    "date": "2025-05-30T05:02:54.083Z"
+    "date": "2025-05-28T05:16:38.299Z"
   },
   {
     "captions": "🇳🇱🚀 Another LEFORT® TRAX 1250T has just been commissioned in the Netherlands. \n\nThis shear/baler is the largest and most powerful model in our crawler-mounted range. The ideal machine for processing large volumes of diversified scrap while maintaining full on-site mobility.\n\nWe truly appreciate our client’s trust and confidence.🇳🇱🚀 Another LEFORT® TRAX 1250T has just been commissioned in the Netherlands. \n\nThis shear/baler is the largest and most powerful model in our crawler-mounted range. The ideal machine for processing large volumes of diversified scrap while maintaining full on-site mobility.\n\nWe truly appreciate our client’s trust and confidence.",
-    "likes": "75",
+    "likes": "82",
     "comments": "1",
-    "shares": "4",
+    "shares": "5",
     "time": {
       "raw": "1h",
-      "parsed": "13.06.2025",
-      "isoString": "2025-06-13T05:02:54.073Z"
+      "parsed": "18.06.2025",
+      "isoString": "2025-06-18T05:16:38.292Z"
     },
     "mediaType": "image",
     "mediaContent": [
-      "https://media.licdn.com/dms/image/v2/D4E22AQFNImx7hBNVBw/feedshare-shrink_800/B4EZdjmLNRHsAk-/0/1749722642066?e=1753315200&v=beta&t=12qxTbfGx0j-68U9Cg7Ie1UOIAKYBJF_t-qRxWozWQw",
-      "https://media.licdn.com/dms/image/v2/D4E22AQEagqw6oJQMyw/feedshare-shrink_800/B4EZdjmLNAGcAg-/0/1749722642308?e=1753315200&v=beta&t=kz2dH80rItLbgSdBeoxz4Lnp76K0bVRMoC5hnR70A_4",
-      "https://media.licdn.com/dms/image/v2/D4E22AQEuaZDZvuhVMA/feedshare-shrink_800/B4EZdjmLMsHcAk-/0/1749722642080?e=1753315200&v=beta&t=AxC12eZMad5M0nC-RwJ2knn5a04EsIDpVAbmN7Cei7U"
+      "https://media.licdn.com/dms/image/v2/D4E22AQFNImx7hBNVBw/feedshare-shrink_800/B4EZdjmLNRHsAk-/0/1749722642066?e=1753920000&v=beta&t=EISl4CicxqJvCLdBBQUKMGO_4p5GlrN7zrplcrwvfiQ",
+      "https://media.licdn.com/dms/image/v2/D4E22AQEagqw6oJQMyw/feedshare-shrink_800/B4EZdjmLNAGcAg-/0/1749722642308?e=1753920000&v=beta&t=mv_GWu9QdinqXwQhxfymUHV4ytcyWA13WR8NLxZ9I2U",
+      "https://media.licdn.com/dms/image/v2/D4E22AQEuaZDZvuhVMA/feedshare-shrink_800/B4EZdjmLMsHcAk-/0/1749722642080?e=1753920000&v=beta&t=fsZEAnsZQqbMudMlZnrY1mooxTYgZh9nfVFaR1oZ1eo"
     ],
-    "date": "2025-06-13T05:02:54.073Z"
+    "date": "2025-06-18T05:16:38.292Z"
   },
   {
     "captions": "🇫🇷🚀 𝐍𝐎𝐔𝐕𝐄𝐋𝐋𝐄 𝐋𝐄𝐅𝐎𝐑𝐓 𝐋𝐈𝐃𝐄𝐗 𝐂𝐇𝐄𝐙 𝐂𝐌𝐒 !\n\nNous sommes ravis d’annoncer que la société Comminges Métaux Services (CMS) vient de réceptionner en usine sa nouvelle cisaille hydraulique Lidex 1000T - 3x 110 kW ! 💥\n\nCette presse/cisaille à très haute performance viendra renforcer les capacités de production de leur site de Montrejeau tout en améliorant encore la qualité de leurs prestations.\n\n📦 🏗️👷🏼♂️Prochaine étape : installation sur site, avec une mise en service prévue très prochainement.\n\nUn grand merci à nos équipes et notre fidèle client, pour leur engagement sur ce projet 💪🇫🇷🚀 𝐍𝐎𝐔𝐕𝐄𝐋𝐋𝐄 𝐋𝐄𝐅𝐎𝐑𝐓 𝐋𝐈𝐃𝐄𝐗 𝐂𝐇𝐄𝐙 𝐂𝐌𝐒 !\n\nNous sommes ravis d’annoncer que la société Comminges Métaux Services (CMS) vient de réceptionner en usine sa nouvelle cisaille hydraulique Lidex 1000T - 3x 110 kW ! 💥\n\nCette presse/cisaille à très haute performance viendra renforcer les capacités de production de leur site de Montrejeau tout en améliorant encore la qualité de leurs prestations.\n\n📦 🏗️👷🏼♂️Prochaine étape : installation sur site, avec une mise en service prévue très prochainement.\n\nUn grand merci à nos équipes et notre fidèle client, pour leur engagement sur ce projet 💪",
-    "likes": "184",
+    "likes": "198",
     "comments": "4",
     "shares": "14",
     "time": {
-      "raw": "1h",
-      "parsed": "13.06.2025",
-      "isoString": "2025-06-13T05:02:54.075Z"
+      "raw": "2h",
+      "parsed": "11.06.2025",
+      "isoString": "2025-06-11T05:16:38.294Z"
     },
     "mediaType": "image",
     "mediaContent": [
-      "https://media.licdn.com/dms/image/v2/D4E22AQGb3dYyQfeMCw/feedshare-shrink_800/B4EZdVbXY3HYAk-/0/1749484930927?e=1753315200&v=beta&t=-mfBo2nFaNOqImKrxRKh4ejOqWaKCSJ41Jy2UAsqwlY"
+      "https://media.licdn.com/dms/image/v2/D4E22AQGb3dYyQfeMCw/feedshare-shrink_800/B4EZdVbXY3HYAk-/0/1749484930927?e=1753920000&v=beta&t=ooMaInC10ov1ftU-jXSO58_I40ECh_TBycszu3a8B0g"
     ],
-    "date": "2025-06-13T05:02:54.075Z"
+    "date": "2025-06-11T05:16:38.294Z"
   },
   {
     "captions": "Another LEFORT® Konkeror 1000 heading for Australia! 🚢\nWe're excited to announce that a LEFORT® KONKEROR 1000 is on its way to Australia!\n\nThis fully electric shear baler is built for serious performance delivering power, precision, and efficiency with reduced emissions and lower operating costs. A perfect fit for modern scrap operations looking to future-proof their production.\n✅1000T cutting force\n⚡Fully electric drive\n🔧Designed for high-throughput scrap processing\n\nStay tuned as we welcome another beast to our shores.\n\n#LEFORT #Metquip #ShearBaler #ScrapMetalRecycling #Electric #Australia #HeavyMachinery #RecyclingEquipment #KONKEROR1000Another LEFORT® Konkeror 1000 heading for Australia! 🚢\nWe're excited to announce that a LEFORT® KONKEROR 1000 is on its way to Australia!\n\nThis fully electric shear baler is built for serious performance delivering power, precision, and efficiency with reduced emissions and lower operating costs. A perfect fit for modern scrap operations looking to future-proof their production.\n✅1000T cutting force\n⚡Fully electric drive\n🔧Designed for high-throughput scrap processing\n\nStay tuned as we welcome another beast to our shores.\n\n#LEFORT #Metquip #ShearBaler #ScrapMetalRecycling #Electric #Australia #HeavyMachinery #RecyclingEquipment #KONKEROR1000",
-    "likes": "25",
+    "likes": "30",
     "comments": "1",
     "shares": "3",
     "time": {
-      "raw": "2h",
-      "parsed": "06.06.2025",
-      "isoString": "2025-06-06T05:02:54.078Z"
+      "raw": "3h",
+      "parsed": "04.06.2025",
+      "isoString": "2025-06-04T05:16:38.296Z"
     },
     "mediaType": "image",
     "mediaContent": [
-      "https://media.licdn.com/dms/image/v2/D4D22AQHTN1CevXeo7g/feedshare-shrink_800/B4DZc4OV9CGgAk-/0/1748994974408?e=1753315200&v=beta&t=eOsJe5HZ7esWNcv8BxhUydViIFcoWSiznwwBNlbd_54",
-      "https://media.licdn.com/dms/image/v2/D4D22AQE4rGiT6-IAAQ/feedshare-shrink_800/B4DZc4OV94GkAo-/0/1748994974515?e=1753315200&v=beta&t=foRL8ftMuMJBrvpeoHDZzspwlnF24pevYsHxZeQw-F0"
+      "https://media.licdn.com/dms/image/v2/D4D22AQHTN1CevXeo7g/feedshare-shrink_800/B4DZc4OV9CGgAk-/0/1748994974408?e=1753920000&v=beta&t=Irum0lDB28eUM7LlPvVhdDN8cpSSs8bkA2cpeJ1itM4",
+      "https://media.licdn.com/dms/image/v2/D4D22AQE4rGiT6-IAAQ/feedshare-shrink_800/B4DZc4OV94GkAo-/0/1748994974515?e=1753920000&v=beta&t=wrbhuqEmBvohEFuF0pRLYb8-7ndfexdc41vtJ-1I4fw"
     ],
-    "date": "2025-06-06T05:02:54.078Z"
+    "date": "2025-06-04T05:16:38.296Z"
   },
   {
     "captions": "LEFORT® : Powering the Scrap Metal Processing Industry with Trusted Equipment and Expertise",
-    "likes": "33",
-    "shares": "8",
+    "likes": "78",
+    "shares": "15",
     "time": {
-      "raw": "19s",
-      "parsed": "19.06.2025",
-      "isoString": "2025-06-19T10:02:54.067Z"
+      "raw": "5g",
+      "parsed": "20.06.2025",
+      "isoString": "2025-06-20T05:16:38.291Z"
     },
     "mediaType": "video",
     "mediaContent": {
       "src": [
         {
-          "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQE6MUpCRTlDGA/mp4-640p-30fp-crf28/B4DZeHnmimGsBc-/0/1750327113533?e=1751004000&v=beta&t=5is1NZ4P-98M6Hp1mWZbZeguyEIyreXeasx_tTK408Y",
+          "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQE6MUpCRTlDGA/mp4-640p-30fp-crf28/B4DZeHnmimGsBc-/0/1750327113533?e=1751436000&v=beta&t=xwrLphhFVnIUj-WJSV0QxJ5NbbIkDdFxpGCrqBkXvW8",
           "type": "video/mp4",
           "data-bitrate": 618746
         },
         {
-          "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQE6MUpCRTlDGA/mp4-720p-30fp-crf28/B4DZeHnmimGsBg-/0/1750327102260?e=1751004000&v=beta&t=7p7hI5nU3ZqnmTAQXJ3aFpP-KDdG-tZ6bqpJI0ugtmU",
+          "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQE6MUpCRTlDGA/mp4-720p-30fp-crf28/B4DZeHnmimGsBg-/0/1750327102260?e=1751436000&v=beta&t=MIPBY1r0XiGjiY_A711j21An0-FZvF3vnRRSvJkRgYQ",
           "type": "video/mp4",
           "data-bitrate": 805466
         }
       ],
-      "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQE6MUpCRTlDGA/videocover-high/B4DZeHnmimGsB4-/0/1750327093316?e=1751004000&v=beta&t=BUhaLsvUZn4cuIZtDfOEa82hNcpRkXyK92SrhMM3GTg"
+      "posterUrl": "https://media.licdn.com/dms/image/v2/D4D05AQE6MUpCRTlDGA/videocover-high/B4DZeHnmimGsB4-/0/1750327093316?e=1751436000&v=beta&t=PIpn3MVwPY3fzON_AC7GogICOPKSPDfS6f7dUH_OlOs"
     },
-    "date": "2025-06-19T10:02:54.067Z"
+    "date": "2025-06-20T05:16:38.291Z"
+  },
+  {
+    "captions": "⚙️📦 Spare Parts: A Critical Link in Industrial Efficiency 🔄\n\nIn today’s industrial landscape, performance doesn’t rely solely on the machines themselves—it depends on their ability to keep running without interruption.\n\nThat’s where spare parts come in.\n\n➡️ Minimizing production downtime\n➡️ Extending equipment lifespan\n➡️ Optimizing maintenance costs\n➡️ Reducing repair lead times\n\nAt LEFORT® we understand how vital this is.\nThat’s why we maintain a comprehensive stock of spare parts and are ready to support you—anytime, anywhere.\n\n✅ Whether it’s urgent repair or planned maintenance, we’re here to keep your operations running smoothly !",
+    "likes": "26",
+    "shares": "6",
+    "time": {
+      "raw": "12s",
+      "parsed": "24.06.2025",
+      "isoString": "2025-06-24T17:16:38.289Z"
+    },
+    "mediaType": "video",
+    "mediaContent": {
+      "src": [
+        {
+          "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHE0BjtrI-RwA/mp4-640p-30fp-crf28/B4EZeiyMP3HwBk-/0/1750782768773?e=1751436000&v=beta&t=C6_SWUUTgNaKUzEZc1QIB5cDxnTIy6adHLdzKuVp1bM",
+          "type": "video/mp4",
+          "data-bitrate": 866680
+        },
+        {
+          "src": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHE0BjtrI-RwA/mp4-720p-30fp-crf28/B4EZeiyMP3HwBo-/0/1750782768796?e=1751436000&v=beta&t=Q9fZPyEErdJWD0uTLO2Gc2RX-quQpdoTKM3L4fiXzkM",
+          "type": "video/mp4",
+          "data-bitrate": 1166183
+        }
+      ],
+      "posterUrl": "https://media.licdn.com/dms/image/v2/D4E05AQHE0BjtrI-RwA/videocover-low/B4EZeiyMP3HwB8-/0/1750782765207?e=1751436000&v=beta&t=PkqhZgtCqqw6-A2Lxl3HpLfzej-AExY0PrlzBwh3EmE"
+    },
+    "date": "2025-06-24T17:16:38.289Z"
   }
 ]
