@@ -571,6 +571,54 @@
     [
       1750723200000,
       1500
+    ],
+    [
+      1750809600000,
+      1501
+    ],
+    [
+      1750896000000,
+      1501
+    ],
+    [
+      1750982400000,
+      1502
+    ],
+    [
+      1751068800000,
+      1502
+    ],
+    [
+      1751155200000,
+      1503
+    ],
+    [
+      1751241600000,
+      1503
+    ],
+    [
+      1751328000000,
+      1503
+    ],
+    [
+      1751414400000,
+      1503
+    ],
+    [
+      1751500800000,
+      1503
+    ],
+    [
+      1751587200000,
+      1503
+    ],
+    [
+      1751673600000,
+      1503
+    ],
+    [
+      1751760000000,
+      1503
     ]
   ],
   "data": [
@@ -993,6 +1041,26 @@
       "comment": "1",
       "shere": "2",
       "date": "2025-06-19T14:42:35.000Z"
+    },
+    {
+      "id": "253489",
+      "time": "29.6.2025 17:06:49",
+      "link": "http://www.facebook.com/taurus.ceg/posts/1279094137552833",
+      "caption": "TAURUS SHEAR BALER CAT12\n1200 Tons cutting force\nhttps://www.taurusweb.it/en/bluline-shears-balers/cat/\n.\n.\n.\nFor more info:\nInfo@taurusweb.it \nWww. Taurusweb.it",
+      "like": "17",
+      "comment": "1",
+      "shere": "1",
+      "date": "2025-06-29T17:06:49.000Z"
+    },
+    {
+      "id": "253489",
+      "time": "24.6.2025 15:33:06",
+      "link": "http://www.facebook.com/taurus.ceg/posts/1274668121328768",
+      "caption": "TAURUS SHEAR BALER CAT \nIf the scrap doesn’t go to the shear…\nThe shear goes to the scrap…\nhttps://www.taurusweb.it/en/bluline-shears-balers/cat/\n.\n.\n.\nFor more info:\nInfo@taurusweb.it \nWww.taurusweb.it",
+      "like": "13",
+      "comment": "1",
+      "shere": "1",
+      "date": "2025-06-24T15:33:06.000Z"
     }
   ]
 }
