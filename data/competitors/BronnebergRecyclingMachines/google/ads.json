@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "advertiserId": "AR17803636183570317313",
+    "adsId": "CR16455190725219319809",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/9559395738966137991",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Bronneberg BV",
+    "website": null,
+    "startDate": "2023-10-04T07:00:00.000Z",
+    "lastView": "2025-07-27T11:22:03.000Z",
+    "countries": [
+      {
+        "country": "United Kingdom",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR17803636183570317313",
+    "adsId": "CR01111460209613602817",
+    "img": null,
+    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=2021103041&creativeId=659851789918&uiFeatures=12,54&adGroupId=153418650190&itemIds=262482389797&assets=%3DH4sIAAAAAAAAAONS5OLkODHr7s_dTAKMQOYtBPM9hMksxcbxZua8x8FAunEWiGbnuPDq04vdTEDGZRjjGoyx-9uVnxCRRavXPgcxbhzquXEAxFi7efHNA0wAs2iMi3IAAAA&allowedVariations=36&sig=ACiVB_znXMlu28AeXa1dGJPcgeCsY7sRQA&htmlParentId=fletch-render-15108612900968639858&responseCallback=fletchCallback15108612900968639858",
+    "type": 1,
+    "advertiserName": "Bronneberg BV",
+    "website": null,
+    "startDate": "2023-06-01T07:00:56.000Z",
+    "lastView": "2025-07-21T21:03:29.000Z",
+    "countries": [
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  }
+]

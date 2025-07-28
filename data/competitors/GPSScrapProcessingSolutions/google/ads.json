@@ -11,12 +11,28 @@
     "lastView": "2024-08-09T08:54:29.000Z",
     "countries": [
       {
-        "country": "Italy",
-        "averageClicks": "450000"
-      },
-      {
         "country": "Switzerland",
         "averageClicks": 0
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
       },
       {
         "country": "Lithuania",
@@ -27,39 +43,11 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
         "country": "Greece",
         "averageClicks": "1000"
       },
       {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Spain",
+        "country": "Romania",
         "averageClicks": "1000"
       },
       {
@@ -67,15 +55,15 @@
         "averageClicks": "1000"
       },
       {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Italy",
+        "averageClicks": "450000"
+      },
+      {
         "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Austria",
         "averageClicks": "1000"
       },
       {
@@ -87,7 +75,19 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Romania",
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Hungary",
         "averageClicks": "1000"
       }
     ],
