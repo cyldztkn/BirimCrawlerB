@@ -11,11 +11,7 @@
     "lastView": "2024-08-09T08:54:29.000Z",
     "countries": [
       {
-        "country": "Switzerland",
-        "averageClicks": 0
-      },
-      {
-        "country": "Bulgaria",
+        "country": "Romania",
         "averageClicks": "1000"
       },
       {
@@ -23,7 +19,15 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Poland",
+        "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
         "averageClicks": "1000"
       },
       {
@@ -31,11 +35,15 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Belgium",
+        "country": "Austria",
         "averageClicks": "1000"
       },
       {
-        "country": "Lithuania",
+        "country": "Czechia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
         "averageClicks": "1000"
       },
       {
@@ -47,15 +55,7 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Spain",
+        "country": "Portugal",
         "averageClicks": "1000"
       },
       {
@@ -63,7 +63,19 @@
         "averageClicks": "450000"
       },
       {
-        "country": "Slovenia",
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Switzerland",
+        "averageClicks": 0
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Hungary",
         "averageClicks": "1000"
       },
       {
@@ -71,23 +83,11 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Austria",
+        "country": "Poland",
         "averageClicks": "1000"
       },
       {
         "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Hungary",
         "averageClicks": "1000"
       }
     ],

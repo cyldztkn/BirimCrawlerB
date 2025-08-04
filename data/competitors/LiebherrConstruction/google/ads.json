@@ -1,551 +1,55 @@
 [
   {
     "advertiserId": "AR05698634488905465857",
-    "adsId": "CR07166800700343582721",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/1518387237463850125",
+    "adsId": "CR02876320013080330241",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/16686017475909404456",
     "videoCode": null,
     "type": 1,
     "advertiserName": "Liebherr-International Deutschland GmbH",
     "website": "liebherr.com",
-    "startDate": "2022-07-29T06:38:04.000Z",
-    "lastView": "2025-07-28T06:21:36.000Z",
+    "startDate": "2023-01-18T10:53:29.000Z",
+    "lastView": "2025-08-04T06:29:53.000Z",
     "countries": [
       {
         "country": "Germany",
-        "averageClicks": "2000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR01519223665961467905",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/13005889520597515672",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-07-28T05:57:03.000Z",
-    "countries": [
-      {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Australia",
-        "averageClicks": 0
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR04085741537588150273",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/14989236523147999701",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2023-06-01T11:20:20.000Z",
-    "lastView": "2025-07-28T05:53:10.000Z",
-    "countries": [
-      {
-        "country": "Germany",
-        "averageClicks": "90000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR10980306062292287489",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/16336793360340488135",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2023-01-18T14:39:32.000Z",
-    "lastView": "2025-07-28T05:51:26.000Z",
-    "countries": [
-      {
-        "country": "Australia",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR14913634466269233153",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/7294084206215033166",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2023-06-16T12:57:01.000Z",
-    "lastView": "2025-07-28T05:49:50.000Z",
-    "countries": [
-      {
-        "country": "Germany",
-        "averageClicks": "90000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR03034721396254048257",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/4396291710509566506",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2023-04-20T14:23:00.000Z",
-    "lastView": "2025-07-28T05:48:17.000Z",
-    "countries": [
-      {
-        "country": "Austria",
-        "averageClicks": "5000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR14812697649571954689",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/14693833004593837522",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2023-07-04T10:36:17.000Z",
-    "lastView": "2025-07-28T05:46:56.000Z",
-    "countries": [
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "125000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR15693757671486259201",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/17356987967641671039",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2025-02-03T04:05:40.000Z",
-    "lastView": "2025-07-28T05:45:59.000Z",
-    "countries": [
-      {
-        "country": "United States",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR05252584628929167361",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/5559939394595756861",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2025-02-21T14:27:58.000Z",
-    "lastView": "2025-07-28T05:45:16.000Z",
-    "countries": [
-      {
-        "country": "Germany",
-        "averageClicks": "4000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR00269712916712783873",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/2515375254502262631",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2024-07-18T20:24:31.000Z",
-    "lastView": "2025-07-28T05:45:01.000Z",
-    "countries": [
-      {
-        "country": "France",
-        "averageClicks": "15000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR06169872974863138817",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/4456982033886540875",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2023-09-27T13:57:36.000Z",
-    "lastView": "2025-07-28T05:44:07.000Z",
-    "countries": [
-      {
-        "country": "Austria",
-        "averageClicks": "125000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR16930724041034039297",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/10416086488673980655",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2022-05-16T10:49:16.000Z",
-    "lastView": "2025-07-28T05:40:58.000Z",
-    "countries": [
-      {
-        "country": "Czechia",
-        "averageClicks": "45000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR04972580747236868097",
-    "img": null,
-    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=5496193904&creativeId=699558473266&uiFeatures=12,54&adGroupId=163816956473&itemIds=4259302328538807730&overlay=%3DH4sIAAAAAAAAALMSMxLhEuLctLdn9TMRGWtBxVNP-ksiTvN4yXAJJBcXu2QWF-QkVgaXFGXmpQtxcLG55-en56R6KXNJFGfkFxQARR1T_NPSUouci1ITSzLLUg2E2K1YOR4wa3B4qeBUZCjEYcXG8ZBZiJHVSxGnKiMhVitmjnXceAwyBhvUzCbEyAYAJld3ucoAAAA&sig=ACiVB_wAg8ni-T86yb51Q6DsZK9zZYWkag&htmlParentId=fletch-render-4752760142927326582&responseCallback=fletchCallback4752760142927326582",
-    "type": 2,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2024-05-16T08:51:57.000Z",
-    "lastView": "2025-07-28T05:38:51.000Z",
-    "countries": [
-      {
-        "country": "Germany",
-        "averageClicks": "1500000"
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR10557607235129704449",
-    "img": null,
-    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=5496193904&creativeId=699527256939&uiFeatures=12,54&adGroupId=165394991667&itemIds=18058358693672655598&overlay=%3DH4sIAAAAAAAAALMSMxLhEuJ8J_XpV6_unF-COVHHck9z9st7yXAJJBcXu2QWF-QkVgaXFGXmpQtxcLG55-en56R6KXNJFGfkFxQARR1T_NPSUouci1ITSzLLUg2E2K1YOR4wa7B6qeBUZCjEYcXG8ZBZiJHVSxGnKiMhVitmjnXceAwyBhv0i0mIkRGPKhOwqmY2IUY2AIuSwXzwAAAA&sig=ACiVB_ycQNqrobE48OKKI9bKuvSNtWb1bA&htmlParentId=fletch-render-16120903338864145821&responseCallback=fletchCallback16120903338864145821",
-    "type": 2,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2024-05-16T08:52:30.000Z",
-    "lastView": "2025-07-28T05:38:00.000Z",
-    "countries": [
-      {
-        "country": "Germany",
-        "averageClicks": "1500000"
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR15543715858038652929",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/10687669563727396075",
-    "videoCode": null,
-    "type": 2,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2024-06-11T00:00:03.000Z",
-    "lastView": "2025-07-28T05:36:21.000Z",
-    "countries": [
-      {
-        "country": "India",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR06225901682232918017",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/9209740148062704625",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2024-03-03T23:54:01.000Z",
-    "lastView": "2025-07-28T05:35:23.000Z",
-    "countries": [
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Ireland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
         "averageClicks": "1000"
       },
       {
         "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR02479172152520081409",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/9855297996047669595",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2023-05-26T07:42:27.000Z",
-    "lastView": "2025-07-28T05:35:00.000Z",
-    "countries": [
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
+        "averageClicks": "2000"
       },
       {
         "country": "Slovakia",
-        "averageClicks": "45000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR05178405406946361345",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/17849097063330441279",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2023-06-16T14:26:28.000Z",
-    "lastView": "2025-07-28T05:33:34.000Z",
-    "countries": [
-      {
-        "country": "Germany",
-        "averageClicks": "45000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR16109338346269966337",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/8314663193541893954",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-07-28T05:31:12.000Z",
-    "countries": [
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "45000"
-      },
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR14560747927321444353",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/1464381663974897968",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2024-03-03T23:07:47.000Z",
-    "lastView": "2025-07-28T05:30:10.000Z",
-    "countries": [
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Lithuania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Cyprus",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "France",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "Ireland",
         "averageClicks": "3000"
       },
       {
-        "country": "Sweden",
-        "averageClicks": "1000"
+        "country": "Hungary",
+        "averageClicks": "600000"
       },
       {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR12644030020277239809",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/14879934834801631646",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2022-11-09T17:59:54.000Z",
-    "lastView": "2025-07-28T05:29:39.000Z",
-    "countries": [
-      {
-        "country": "Liechtenstein",
+        "country": "Croatia",
         "averageClicks": "1000"
       },
       {
         "country": "Slovenia",
         "averageClicks": "1000"
-      },
-      {
-        "country": "Austria",
-        "averageClicks": "175000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
       }
     ],
     "typeLabel": "Metin"
   },
   {
     "advertiserId": "AR05698634488905465857",
-    "adsId": "CR15392094012022194177",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/10316986661642027962",
+    "adsId": "CR00214518343531495425",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/6771237523873353009",
     "videoCode": null,
     "type": 1,
     "advertiserName": "Liebherr-International Deutschland GmbH",
     "website": "liebherr.com",
-    "startDate": "2025-03-05T12:56:34.000Z",
-    "lastView": "2025-07-28T05:28:00.000Z",
+    "startDate": "2025-06-04T22:05:02.000Z",
+    "lastView": "2025-08-04T06:28:44.000Z",
     "countries": [
       {
-        "country": "Liechtenstein",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Switzerland",
+        "country": "Italy",
         "averageClicks": 0
       }
     ],
@@ -553,17 +57,65 @@
   },
   {
     "advertiserId": "AR05698634488905465857",
-    "adsId": "CR17199030184158691329",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/8749714699275015553",
+    "adsId": "CR10412963422479056897",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/4270800620592626100",
     "videoCode": null,
     "type": 1,
     "advertiserName": "Liebherr-International Deutschland GmbH",
     "website": "liebherr.com",
-    "startDate": "2025-03-04T07:32:01.000Z",
-    "lastView": "2025-07-28T05:25:59.000Z",
+    "startDate": "2022-08-01T07:00:00.000Z",
+    "lastView": "2025-08-04T06:27:55.000Z",
     "countries": [
       {
+        "country": "Australia",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR01303110291835322369",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/1021975437570077983",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2024-02-01T12:05:46.000Z",
+    "lastView": "2025-08-04T06:27:20.000Z",
+    "countries": [
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
         "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "80000"
+      },
+      {
+        "country": "Portugal",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR08216892939763187713",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/13549098329917968650",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2022-05-13T18:15:14.000Z",
+    "lastView": "2025-08-04T06:23:36.000Z",
+    "countries": [
+      {
+        "country": "Czechia",
         "averageClicks": "5000"
       }
     ],
@@ -571,75 +123,15 @@
   },
   {
     "advertiserId": "AR05698634488905465857",
-    "adsId": "CR03182061348854956033",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/10470404810703470809",
+    "adsId": "CR09044561175248896001",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/10554255236533640677",
     "videoCode": null,
     "type": 1,
     "advertiserName": "Liebherr-International Deutschland GmbH",
     "website": "liebherr.com",
-    "startDate": "2022-12-02T06:16:23.000Z",
-    "lastView": "2025-07-28T05:24:39.000Z",
+    "startDate": "2024-06-06T13:14:23.000Z",
+    "lastView": "2025-08-04T06:22:29.000Z",
     "countries": [
-      {
-        "country": "India",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR14044400327566819329",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/6333797090830804988",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2023-04-05T08:42:04.000Z",
-    "lastView": "2025-07-28T05:24:15.000Z",
-    "countries": [
-      {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Austria",
-        "averageClicks": "200000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR14150183001245351937",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/10889917701791386162",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2024-06-06T13:27:20.000Z",
-    "lastView": "2025-07-28T05:22:44.000Z",
-    "countries": [
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": "1000"
-      },
       {
         "country": "Germany",
         "averageClicks": "1000"
@@ -650,15 +142,7 @@
       },
       {
         "country": "France",
-        "averageClicks": "200000"
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bilinmeyen",
-        "averageClicks": "1000"
+        "averageClicks": "40000"
       },
       {
         "country": "Belgium",
@@ -669,121 +153,89 @@
   },
   {
     "advertiserId": "AR05698634488905465857",
-    "adsId": "CR12096060672266207233",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/16563498870393571507",
+    "adsId": "CR05489533765581537281",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/7354524857109525434",
     "videoCode": null,
-    "type": 1,
+    "type": 2,
     "advertiserName": "Liebherr-International Deutschland GmbH",
     "website": "liebherr.com",
-    "startDate": "2024-03-01T07:35:20.000Z",
-    "lastView": "2025-07-28T05:22:04.000Z",
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-08-04T06:20:25.000Z",
     "countries": [
       {
-        "country": "Norway",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Canada",
+        "country": "Kuwait",
         "averageClicks": 0
       },
       {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Finland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Slovenia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Portugal",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Romania",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Bulgaria",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Mexico",
+        "country": "Qatar",
         "averageClicks": 0
-      },
-      {
-        "country": "Czechia",
-        "averageClicks": "1000"
       },
       {
         "country": "India",
         "averageClicks": 0
       },
       {
-        "country": "Denmark",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Estonia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Sweden",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Turkey",
-        "averageClicks": "2000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "United States",
+        "country": "United Arab Emirates",
         "averageClicks": 0
       },
       {
-        "country": "Spain",
-        "averageClicks": "1000"
+        "country": "Saudi Arabia",
+        "averageClicks": 0
       },
       {
-        "country": "Poland",
-        "averageClicks": "1000"
+        "country": "Oman",
+        "averageClicks": 0
       },
       {
-        "country": "Ireland",
+        "country": "Netherlands",
         "averageClicks": "1000"
-      },
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR11198157231726002177",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/12907559894636493746",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2025-06-01T21:02:47.000Z",
+    "lastView": "2025-08-04T06:19:34.000Z",
+    "countries": [
       {
-        "country": "Italy",
-        "averageClicks": "1000"
-      },
+        "country": "Turkey",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR03401128629688598529",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/17469104157001852487",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2024-06-06T15:53:46.000Z",
+    "lastView": "2025-08-04T06:18:23.000Z",
+    "countries": [
       {
         "country": "Germany",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Luxembourg",
         "averageClicks": "1000"
       },
       {
         "country": "France",
-        "averageClicks": "2000"
+        "averageClicks": "250000"
       },
       {
-        "country": "Slovakia",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Lithuania",
+        "country": "Belgium",
         "averageClicks": "1000"
       }
     ],
@@ -791,196 +243,32 @@
   },
   {
     "advertiserId": "AR05698634488905465857",
-    "adsId": "CR11018476364364775425",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/1387233185261795272",
+    "adsId": "CR08003686433862713345",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/4415021688790013646",
     "videoCode": null,
     "type": 1,
     "advertiserName": "Liebherr-International Deutschland GmbH",
     "website": "liebherr.com",
-    "startDate": "2022-03-07T12:47:33.000Z",
-    "lastView": "2025-07-28T05:20:54.000Z",
-    "countries": [
-      {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "175000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR14235323649782448129",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/11541711656402015953",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2022-05-18T11:21:53.000Z",
-    "lastView": "2025-07-28T05:20:04.000Z",
-    "countries": [
-      {
-        "country": "Finland",
-        "averageClicks": "3000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR09944815972944707585",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/5276599872694739183",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2023-05-09T09:55:23.000Z",
-    "lastView": "2025-07-28T05:19:29.000Z",
-    "countries": [
-      {
-        "country": "Slovenia",
-        "averageClicks": "125000"
-      },
-      {
-        "country": "Croatia",
-        "averageClicks": "1000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR13451667988583284737",
-    "img": null,
-    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=1015691884&creativeId=716241382705&uiFeatures=12,54&adGroupId=172181928841&itemIds=1759525037232736767&overlay=%3DH4sIAAAAAAAAALMSMxLhEuL8f3Llx01i2RKCc2sfpHo_qJLxkuESSC4udsksLshJrAwuKcrMSxfi4GJzz89Pz0kFADtMG6Q2AAAA&sig=ACiVB_yrZDuhDg1TXjCiPBPXcYYs-E98UA&htmlParentId=fletch-render-4557655910419970360&responseCallback=fletchCallback4557655910419970360",
-    "type": 2,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2024-10-14T12:24:49.000Z",
-    "lastView": "2025-07-28T05:15:57.000Z",
-    "countries": [
-      {
-        "country": "Austria",
-        "averageClicks": "7000"
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR02200926166582296577",
-    "img": null,
-    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=1015691884&creativeId=636935140018&uiFeatures=12,54&adGroupId=144064241739&itemIds=17420120686105784915&overlay=%3DH4sIAAAAAAAAALMSMxLhEuIM_nTkfvnmAx8Fk6anvY2fKH3TS4ZLILm42CWzuCAnsTK4pCgzL12Ig4vNPT8_PSfVS4VLojgjv6AAKOqY4p-WllrkXJSaWJJZlmogxGHFxvGdSYiR1UsZpypDIXYrVo4HzBqsXoo4FRkJsVoxc6zjxmObMdi2ZjYhRjYA4jEvscoAAAA&sig=ACiVB_wvMlEUQvgJIPKo_cUK_y2eMkPuKg&htmlParentId=fletch-render-5201050418009744312&responseCallback=fletchCallback5201050418009744312",
-    "type": 2,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2022-11-23T09:51:41.000Z",
-    "lastView": "2025-07-28T05:13:08.000Z",
-    "countries": [
-      {
-        "country": "Austria",
-        "averageClicks": "1000000"
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR03501227137489174529",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/11197679850251366392",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2023-07-26T13:41:40.000Z",
-    "lastView": "2025-07-28T05:12:37.000Z",
+    "startDate": "2023-10-27T07:00:00.000Z",
+    "lastView": "2025-08-04T06:12:22.000Z",
     "countries": [
       {
         "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Chile",
-        "averageClicks": 0
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
+        "averageClicks": "70000"
       }
     ],
     "typeLabel": "Metin"
   },
   {
     "advertiserId": "AR05698634488905465857",
-    "adsId": "CR03744029593011486721",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/7518978945089174849",
+    "adsId": "CR10559312852542291969",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/11591325671029122079",
     "videoCode": null,
     "type": 1,
     "advertiserName": "Liebherr-International Deutschland GmbH",
     "website": "liebherr.com",
-    "startDate": "2025-02-03T11:58:29.000Z",
-    "lastView": "2025-07-28T05:12:09.000Z",
-    "countries": [
-      {
-        "country": "Ireland",
-        "averageClicks": "2000"
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR01821142480842653697",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/12997147131717534687",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2023-05-03T14:04:51.000Z",
-    "lastView": "2025-07-28T05:07:45.000Z",
-    "countries": [
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Switzerland",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR09726114056389001217",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/6845951436252052402",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2025-02-03T00:27:22.000Z",
-    "lastView": "2025-07-28T05:04:18.000Z",
-    "countries": [
-      {
-        "country": "United States",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR05698634488905465857",
-    "adsId": "CR15639239950791081985",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/13567096558394205382",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "Liebherr-International Deutschland GmbH",
-    "website": "liebherr.com",
-    "startDate": "2021-10-25T07:00:00.000Z",
-    "lastView": "2025-07-28T05:00:06.000Z",
+    "startDate": "2021-10-27T07:00:00.000Z",
+    "lastView": "2025-08-04T06:11:10.000Z",
     "countries": [
       {
         "country": "Romania",
@@ -990,94 +278,74 @@
     "typeLabel": "Metin"
   },
   {
-    "advertiserId": "AR15684668163478257665",
-    "adsId": "CR14422730029437812737",
-    "img": "https://s0.2mdn.net/simgad/17999905563917891621",
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR18304383723371495425",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/4719306175552060454",
     "videoCode": null,
-    "type": 2,
-    "advertiserName": "Havas Programmatic Hub Limited",
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
     "website": "liebherr.com",
-    "startDate": "2025-05-09T08:00:00.000Z",
-    "lastView": "2025-07-28T05:00:00.000Z",
+    "startDate": "2024-09-04T08:39:52.000Z",
+    "lastView": "2025-08-04T06:07:45.000Z",
     "countries": [
-      {
-        "country": "Germany",
-        "averageClicks": 0
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": 0
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR15684668163478257665",
-    "adsId": "CR01143609792170819585",
-    "img": "https://s0.2mdn.net/simgad/14179942355659199374",
-    "videoCode": null,
-    "type": 2,
-    "advertiserName": "Havas Programmatic Hub Limited",
-    "website": "liebherr.com",
-    "startDate": "2025-05-05T09:00:00.000Z",
-    "lastView": "2025-07-28T05:00:00.000Z",
-    "countries": [
-      {
-        "country": "Germany",
-        "averageClicks": 0
-      },
-      {
-        "country": "France",
-        "averageClicks": 0
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": 0
-      },
       {
         "country": "Bulgaria",
-        "averageClicks": 0
-      },
-      {
-        "country": "Hungary",
-        "averageClicks": 0
+        "averageClicks": "1000"
       },
       {
         "country": "Greece",
-        "averageClicks": 0
+        "averageClicks": "40000"
       },
       {
-        "country": "Austria",
+        "country": "Cyprus",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR10406552170177495041",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/13785681709343416004",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-08-04T06:04:06.000Z",
+    "countries": [
+      {
+        "country": "Switzerland",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR15684668163478257665",
+    "adsId": "CR14348423899761344513",
+    "img": "https://s0.2mdn.net/simgad/15486628841080108047",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Havas Programmatic Hub Limited",
+    "website": "liebherr.com",
+    "startDate": "2024-08-31T22:00:00.000Z",
+    "lastView": "2025-08-04T06:00:00.000Z",
+    "countries": [
+      {
+        "country": "New Zealand",
         "averageClicks": 0
       },
       {
         "country": "Turkey",
-        "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Resim"
-  },
-  {
-    "advertiserId": "AR15684668163478257665",
-    "adsId": "CR11097200486380470273",
-    "img": "https://s0.2mdn.net/simgad/5474357015214888671",
-    "videoCode": null,
-    "type": 2,
-    "advertiserName": "Havas Programmatic Hub Limited",
-    "website": "liebherr.com",
-    "startDate": "2025-05-02T13:30:00.000Z",
-    "lastView": "2025-07-28T05:00:00.000Z",
-    "countries": [
-      {
-        "country": "Monaco",
-        "averageClicks": 0
+        "averageClicks": "2000"
       },
       {
-        "country": "Italy",
+        "country": "United Kingdom",
         "averageClicks": 0
       },
       {
@@ -1085,7 +353,333 @@
         "averageClicks": 0
       },
       {
+        "country": "Australia",
+        "averageClicks": 0
+      },
+      {
         "country": "Germany",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR15684668163478257665",
+    "adsId": "CR13075389030516916225",
+    "img": "https://s0.2mdn.net/simgad/3064745114401490286",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Havas Programmatic Hub Limited",
+    "website": "liebherr.com",
+    "startDate": "2025-05-01T19:30:00.000Z",
+    "lastView": "2025-08-04T06:00:00.000Z",
+    "countries": [
+      {
+        "country": "Denmark",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Finland",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Sweden",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR15684668163478257665",
+    "adsId": "CR02190514186604249089",
+    "img": "https://s0.2mdn.net/simgad/1263019536397737105",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Havas Programmatic Hub Limited",
+    "website": "liebherr.com",
+    "startDate": "2025-05-01T19:30:00.000Z",
+    "lastView": "2025-08-04T06:00:00.000Z",
+    "countries": [
+      {
+        "country": "Estonia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Finland",
+        "averageClicks": "35000"
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Sweden",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Lithuania",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR15684668163478257665",
+    "adsId": "CR00834367748812308481",
+    "img": "https://s0.2mdn.net/simgad/345187771541759961",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Havas Programmatic Hub Limited",
+    "website": "liebherr.com",
+    "startDate": "2025-05-01T19:30:00.000Z",
+    "lastView": "2025-08-04T06:00:00.000Z",
+    "countries": [
+      {
+        "country": "Denmark",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Finland",
+        "averageClicks": "9000"
+      },
+      {
+        "country": "Sweden",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR10303952135984775169",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/10855822300127767844",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2021-10-26T07:00:00.000Z",
+    "lastView": "2025-08-04T05:58:58.000Z",
+    "countries": [
+      {
+        "country": "Norway",
+        "averageClicks": "2000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR15490832269320388609",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/12697273486622664234",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2022-07-04T07:00:00.000Z",
+    "lastView": "2025-08-04T05:55:20.000Z",
+    "countries": [
+      {
+        "country": "Australia",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR15587383580811067393",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/12379656729092914883",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2023-06-01T12:32:45.000Z",
+    "lastView": "2025-08-04T05:55:14.000Z",
+    "countries": [
+      {
+        "country": "Germany",
+        "averageClicks": "5000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR04841685485677969409",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/1153767917119325811",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2025-06-01T21:03:30.000Z",
+    "lastView": "2025-08-04T05:48:51.000Z",
+    "countries": [
+      {
+        "country": "Turkey",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR17236754101690171393",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/2988118132378637736",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2022-04-14T22:14:59.000Z",
+    "lastView": "2025-08-04T05:47:31.000Z",
+    "countries": [
+      {
+        "country": "Austria",
+        "averageClicks": "2000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR13825525718966075393",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/1497425269319697803",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2025-02-03T08:48:54.000Z",
+    "lastView": "2025-08-04T05:47:19.000Z",
+    "countries": [
+      {
+        "country": "Chile",
+        "averageClicks": 0
+      },
+      {
+        "country": "Argentina",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR04005581109789196289",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/5551439843310002354",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2025-06-01T22:17:46.000Z",
+    "lastView": "2025-08-04T05:45:40.000Z",
+    "countries": [
+      {
+        "country": "Mexico",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR11860586736620929025",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/14367349509001380750",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2025-06-04T22:37:15.000Z",
+    "lastView": "2025-08-04T05:44:36.000Z",
+    "countries": [
+      {
+        "country": "Italy",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR09023251488851361793",
+    "img": null,
+    "videoCode": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=1559740147&creativeId=755940999119&uiFeatures=12,54&adGroupId=181860981513&assets=%3DH4sIAAAAAAAAAJNi51izonnJLhYpdo71MMYmGOPvm09LXjADACkrkswkAAAA&allowedVariations=44&sig=ACiVB_yRZPCd_4__wyXyux6KQn8fm8MUVg&htmlParentId=fletch-render-1759504168583063867&responseCallback=fletchCallback1759504168583063867",
+    "type": 3,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2025-06-03T15:01:30.000Z",
+    "lastView": "2025-08-04T05:40:44.000Z",
+    "countries": [
+      {
+        "country": "United Kingdom",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Video"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR17853680575567626241",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/15569262989285332988",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2025-02-21T10:43:39.000Z",
+    "lastView": "2025-08-04T05:37:04.000Z",
+    "countries": [
+      {
+        "country": "Germany",
+        "averageClicks": "6000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR18251826912944979969",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/15779267669711972785",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2022-05-15T04:28:36.000Z",
+    "lastView": "2025-08-04T05:34:01.000Z",
+    "countries": [
+      {
+        "country": "Poland",
+        "averageClicks": "350000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR15684668163478257665",
+    "adsId": "CR16259733034230611969",
+    "img": "https://s0.2mdn.net/simgad/10878071147779616110",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Havas Programmatic Hub Limited",
+    "website": "liebherr.com",
+    "startDate": "2025-05-02T13:30:00.000Z",
+    "lastView": "2025-08-04T05:30:00.000Z",
+    "countries": [
+      {
+        "country": "Monaco",
+        "averageClicks": 0
+      },
+      {
+        "country": "Slovenia",
+        "averageClicks": "2000"
+      },
+      {
+        "country": "Italy",
+        "averageClicks": "100000"
+      },
+      {
+        "country": "United States",
         "averageClicks": 0
       },
       {
@@ -1093,30 +687,324 @@
         "averageClicks": 0
       },
       {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
+      },
+      {
         "country": "San Marino",
         "averageClicks": 0
       },
       {
-        "country": "Netherlands",
+        "country": "Austria",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR15684668163478257665",
+    "adsId": "CR10251931131318370305",
+    "img": "https://s0.2mdn.net/simgad/18343082912602033212",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Havas Programmatic Hub Limited",
+    "website": "liebherr.com",
+    "startDate": "2025-05-02T13:30:00.000Z",
+    "lastView": "2025-08-04T05:30:00.000Z",
+    "countries": [
+      {
+        "country": "Croatia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "United States",
         "averageClicks": 0
       },
       {
-        "country": "Croatia",
+        "country": "Italy",
+        "averageClicks": "8000"
+      },
+      {
+        "country": "Monaco",
         "averageClicks": 0
       },
       {
         "country": "France",
-        "averageClicks": 0
+        "averageClicks": "1000"
       },
       {
         "country": "Slovenia",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "San Marino",
         "averageClicks": 0
       },
       {
-        "country": "Austria",
+        "country": "Germany",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR15684668163478257665",
+    "adsId": "CR00731321519057141761",
+    "img": "https://s0.2mdn.net/simgad/6176892967751039904",
+    "videoCode": null,
+    "type": 2,
+    "advertiserName": "Havas Programmatic Hub Limited",
+    "website": "liebherr.com",
+    "startDate": "2025-05-02T13:30:00.000Z",
+    "lastView": "2025-08-04T05:30:00.000Z",
+    "countries": [
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Norway",
+        "averageClicks": "150000"
+      },
+      {
+        "country": "Sweden",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Denmark",
+        "averageClicks": 0
+      },
+      {
+        "country": "Finland",
+        "averageClicks": 0
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Italy",
         "averageClicks": 0
       }
     ],
     "typeLabel": "Resim"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR13942622607812591617",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/10038595674308310631",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2025-02-18T10:03:07.000Z",
+    "lastView": "2025-08-04T05:29:32.000Z",
+    "countries": [
+      {
+        "country": "United States",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR03798943412770570241",
+    "adsId": "CR10416523400611627009",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/15815072490514316662",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "讀賣消費廣告",
+    "website": "liebherr.com",
+    "startDate": "2024-05-01T07:00:00.000Z",
+    "lastView": "2025-08-04T05:29:15.000Z",
+    "countries": [
+      {
+        "country": "Taiwan",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR10566828272216178689",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/3969587390979636699",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2025-03-01T06:36:31.000Z",
+    "lastView": "2025-08-04T05:26:51.000Z",
+    "countries": [
+      {
+        "country": "Germany",
+        "averageClicks": "4000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR12592554802874941441",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/14844147605813741132",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2021-10-25T07:00:00.000Z",
+    "lastView": "2025-08-04T05:23:12.000Z",
+    "countries": [
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "400000"
+      },
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR14081882146381758465",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/18368934031795742914",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2025-02-03T00:02:23.000Z",
+    "lastView": "2025-08-04T05:21:31.000Z",
+    "countries": [
+      {
+        "country": "United States",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR00014625634953199617",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/14936674787054336448",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2023-05-26T07:22:44.000Z",
+    "lastView": "2025-08-04T05:16:10.000Z",
+    "countries": [
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Slovakia",
+        "averageClicks": "30000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR06722675604191182849",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/16342434288595489971",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2022-08-10T07:00:00.000Z",
+    "lastView": "2025-08-04T05:14:03.000Z",
+    "countries": [
+      {
+        "country": "India",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR03541033701842354177",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/15597434422995163450",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2022-03-02T10:43:40.000Z",
+    "lastView": "2025-08-04T05:13:37.000Z",
+    "countries": [
+      {
+        "country": "Hungary",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR05698634488905465857",
+    "adsId": "CR06267115484030697473",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/3457214261383051031",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "Liebherr-International Deutschland GmbH",
+    "website": "liebherr.com",
+    "startDate": "2021-10-27T07:00:00.000Z",
+    "lastView": "2025-08-04T05:10:45.000Z",
+    "countries": [
+      {
+        "country": "Austria",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
   }
 ]

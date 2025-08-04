@@ -1,17 +1,17 @@
 [
   {
     "advertiserId": "AR08155627980064817153",
-    "adsId": "CR16582355034587529217",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/11698534343779068144",
+    "adsId": "CR02781180904016445441",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/4559953507567084887",
     "videoCode": null,
     "type": 1,
     "advertiserName": "DEDA DIGITAL SRL",
     "website": "ingbonfiglioli.it",
-    "startDate": "2025-03-25T15:06:08.000Z",
-    "lastView": "2025-07-28T04:24:27.000Z",
+    "startDate": "2025-03-25T15:45:42.000Z",
+    "lastView": "2025-08-03T19:43:40.000Z",
     "countries": [
       {
-        "country": "Belgium",
+        "country": "Germany",
         "averageClicks": "1000"
       },
       {
@@ -19,23 +19,37 @@
         "averageClicks": "1000"
       },
       {
-        "country": "United Kingdom",
-        "averageClicks": 0
-      },
-      {
-        "country": "South Africa",
-        "averageClicks": 0
-      },
+        "country": "Belgium",
+        "averageClicks": "1000"
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR08155627980064817153",
+    "adsId": "CR00429142738395463681",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/16057925217564271095",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "DEDA DIGITAL SRL",
+    "website": "ingbonfiglioli.it",
+    "startDate": "2025-03-25T15:31:44.000Z",
+    "lastView": "2025-08-03T19:42:43.000Z",
+    "countries": [
       {
         "country": "Germany",
         "averageClicks": "1000"
       },
       {
-        "country": "Spain",
+        "country": "United Kingdom",
+        "averageClicks": 0
+      },
+      {
+        "country": "Belgium",
         "averageClicks": "1000"
       },
       {
-        "country": "France",
+        "country": "Netherlands",
         "averageClicks": "1000"
       }
     ],
@@ -50,7 +64,7 @@
     "advertiserName": "DEDA DIGITAL SRL",
     "website": "ingbonfiglioli.it",
     "startDate": "2025-03-26T00:04:40.000Z",
-    "lastView": "2025-07-27T19:20:49.000Z",
+    "lastView": "2025-08-03T18:12:39.000Z",
     "countries": [
       {
         "country": "Spain",
@@ -61,25 +75,17 @@
   },
   {
     "advertiserId": "AR08155627980064817153",
-    "adsId": "CR02781180904016445441",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/5403337525660093921",
+    "adsId": "CR04329053719829151745",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/17789799668646544864",
     "videoCode": null,
     "type": 1,
     "advertiserName": "DEDA DIGITAL SRL",
     "website": "ingbonfiglioli.it",
-    "startDate": "2025-03-25T15:45:42.000Z",
-    "lastView": "2025-07-27T17:53:22.000Z",
+    "startDate": "2025-03-26T08:04:58.000Z",
+    "lastView": "2025-08-03T17:31:10.000Z",
     "countries": [
       {
         "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Belgium",
         "averageClicks": "1000"
       }
     ],
@@ -94,37 +100,11 @@
     "advertiserName": "DEDA DIGITAL SRL",
     "website": "ingbonfiglioli.it",
     "startDate": "2025-02-05T15:42:27.000Z",
-    "lastView": "2025-07-27T13:21:02.000Z",
+    "lastView": "2025-08-03T16:26:06.000Z",
     "countries": [
       {
         "country": "United States",
         "averageClicks": 0
-      }
-    ],
-    "typeLabel": "Metin"
-  },
-  {
-    "advertiserId": "AR08155627980064817153",
-    "adsId": "CR00429142738395463681",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/14196124740680417160",
-    "videoCode": null,
-    "type": 1,
-    "advertiserName": "DEDA DIGITAL SRL",
-    "website": "ingbonfiglioli.it",
-    "startDate": "2025-03-25T15:31:44.000Z",
-    "lastView": "2025-07-27T12:37:39.000Z",
-    "countries": [
-      {
-        "country": "Netherlands",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Belgium",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
       }
     ],
     "typeLabel": "Metin"
@@ -138,10 +118,10 @@
     "advertiserName": "DEDA DIGITAL SRL",
     "website": "ingbonfiglioli.it",
     "startDate": "2025-02-05T15:20:03.000Z",
-    "lastView": "2025-07-27T10:37:00.000Z",
+    "lastView": "2025-08-03T16:05:24.000Z",
     "countries": [
       {
-        "country": "Romania",
+        "country": "Netherlands",
         "averageClicks": "1000"
       },
       {
@@ -157,11 +137,11 @@
         "averageClicks": "1000"
       },
       {
-        "country": "Netherlands",
+        "country": "Greece",
         "averageClicks": "1000"
       },
       {
-        "country": "Greece",
+        "country": "Romania",
         "averageClicks": "1000"
       }
     ],
@@ -170,25 +150,25 @@
   {
     "advertiserId": "AR08155627980064817153",
     "adsId": "CR15647236063204737025",
-    "img": "https://tpc.googlesyndication.com/archive/simgad/2695417136485053569",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/14987179848761129528",
     "videoCode": null,
     "type": 1,
     "advertiserName": "DEDA DIGITAL SRL",
     "website": "ingbonfiglioli.it",
     "startDate": "2025-03-25T15:25:13.000Z",
-    "lastView": "2025-07-27T08:49:23.000Z",
+    "lastView": "2025-08-03T15:53:03.000Z",
     "countries": [
       {
-        "country": "Germany",
-        "averageClicks": "1000"
+        "country": "South Africa",
+        "averageClicks": 0
       },
       {
         "country": "United Kingdom",
         "averageClicks": 0
       },
       {
-        "country": "South Africa",
-        "averageClicks": 0
+        "country": "Germany",
+        "averageClicks": "1000"
       }
     ],
     "typeLabel": "Metin"
@@ -202,18 +182,30 @@
     "advertiserName": "DEDA DIGITAL SRL",
     "website": "ingbonfiglioli.it",
     "startDate": "2025-02-05T15:15:22.000Z",
-    "lastView": "2025-07-27T05:47:58.000Z",
+    "lastView": "2025-08-03T12:14:16.000Z",
     "countries": [
       {
-        "country": "Romania",
-        "averageClicks": "1000"
+        "country": "India",
+        "averageClicks": 0
       },
       {
         "country": "United States",
         "averageClicks": 0
       },
       {
+        "country": "Ireland",
+        "averageClicks": "1000"
+      },
+      {
         "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Hungary",
         "averageClicks": "1000"
       },
       {
@@ -221,39 +213,15 @@
         "averageClicks": "1000"
       },
       {
+        "country": "Bulgaria",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Romania",
+        "averageClicks": "1000"
+      },
+      {
         "country": "Sweden",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Spain",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Italy",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Poland",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Canada",
-        "averageClicks": 0
-      },
-      {
-        "country": "Germany",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "Greece",
-        "averageClicks": "1000"
-      },
-      {
-        "country": "India",
-        "averageClicks": 0
-      },
-      {
-        "country": "Slovenia",
         "averageClicks": "1000"
       },
       {
@@ -261,15 +229,69 @@
         "averageClicks": 0
       },
       {
-        "country": "Bulgaria",
+        "country": "Slovenia",
         "averageClicks": "1000"
       },
       {
-        "country": "Ireland",
+        "country": "Spain",
         "averageClicks": "1000"
       },
       {
-        "country": "Hungary",
+        "country": "Poland",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Italy",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Greece",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Canada",
+        "averageClicks": 0
+      }
+    ],
+    "typeLabel": "Metin"
+  },
+  {
+    "advertiserId": "AR08155627980064817153",
+    "adsId": "CR16582355034587529217",
+    "img": "https://tpc.googlesyndication.com/archive/simgad/1296740824174275081",
+    "videoCode": null,
+    "type": 1,
+    "advertiserName": "DEDA DIGITAL SRL",
+    "website": "ingbonfiglioli.it",
+    "startDate": "2025-03-25T15:06:08.000Z",
+    "lastView": "2025-08-03T11:25:26.000Z",
+    "countries": [
+      {
+        "country": "France",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "South Africa",
+        "averageClicks": 0
+      },
+      {
+        "country": "United Kingdom",
+        "averageClicks": 0
+      },
+      {
+        "country": "Netherlands",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Germany",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Spain",
+        "averageClicks": "1000"
+      },
+      {
+        "country": "Belgium",
         "averageClicks": "1000"
       }
     ],
