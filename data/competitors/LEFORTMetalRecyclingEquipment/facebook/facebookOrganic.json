@@ -731,6 +731,42 @@
     [
       1754179200000,
       27909
+    ],
+    [
+      1754265600000,
+      28024
+    ],
+    [
+      1754352000000,
+      28120
+    ],
+    [
+      1754438400000,
+      28175
+    ],
+    [
+      1754524800000,
+      28219
+    ],
+    [
+      1754611200000,
+      28295
+    ],
+    [
+      1754697600000,
+      28366
+    ],
+    [
+      1754784000000,
+      28427
+    ],
+    [
+      1754870400000,
+      28431
+    ],
+    [
+      1754956800000,
+      28429
     ]
   ],
   "data": [
@@ -1243,6 +1279,26 @@
       "comment": "2",
       "shere": "8",
       "date": "2025-07-14T17:20:06.000Z"
+    },
+    {
+      "id": "253486",
+      "time": "6.8.2025 11:35:08",
+      "link": "http://www.facebook.com/LefortRecycling/posts/1318479960282436",
+      "caption": "Installation in progress... \n\nLEFORT® Lidex 1000T - side compression shear",
+      "like": "139",
+      "comment": "5",
+      "shere": "20",
+      "date": "2025-08-06T11:35:08.000Z"
+    },
+    {
+      "id": "253486",
+      "time": "4.8.2025 16:46:53",
+      "link": "http://www.facebook.com/LefortRecycling/posts/1316879133775852",
+      "caption": "Congratulations to all at EMS Waste on their upgrade to a brand new LEFORT® Konkeror 🍾\n\n💥 This 700T shear/baler is a big step up from their previous, very reliable, Lefort Mobile 500. The Konkeror 700 gives them scope for more production and the ability to handle larger materials. \n\nFitted with the new powerpack design, the engine is mounted lower and access to the service areas is made easier. Also, the new design includes better sound proofing making it quieter in operation, this is a big thumbs up from EMS. \n\nWe wish them well on their new purchase and many happy hours of productive shearing and baling 🙌🏼",
+      "like": "134",
+      "comment": "7",
+      "shere": "11",
+      "date": "2025-08-04T16:46:53.000Z"
     }
   ]
 }
